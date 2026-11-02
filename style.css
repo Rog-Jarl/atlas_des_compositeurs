@@ -8,3 +8,8 @@
 .works-section ul{margin:0;padding-left:20px;columns:2;column-gap:36px}
 .works-section li{font-size:14px;line-height:1.5;margin:0 0 5px;break-inside:avoid}
 @media(max-width:720px){.works-section ul{columns:1}}
+
+/* Fermeture claire de la notice active. */
+.notice-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}
+.notice-close{flex:none;width:30px;height:30px;padding:0;display:inline-flex;align-items:center;justify-content:center;background:transparent;color:var(--accent);border:1px solid var(--line);font:22px/1 Arial,sans-serif}
+.notice-close:hover{background:var(--ink);color:var(--paper)}
