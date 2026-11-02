@@ -11,17 +11,6 @@
     "works": "VIOLE DE GAMBE\n27 pièces pour viole seule — manuscrits de Drexel\nSonates pour viole et basse continue\nORCHESTRE\nSymphonies, op. 7 et op. 10\nConcertos pour flûte et violoncelle\nMUSIQUE DE CHAMBRE\nQuatuors et sonates"
   },
   {
-    "id": "adams",
-    "name": "John Adams",
-    "years": "1947–",
-    "birth": 1947,
-    "death": null,
-    "era": "Contemporain / Postminimalisme",
-    "kind": "person",
-    "description": "John Adams est une figure majeure du postminimalisme américain. Il reprend les processus répétitifs du minimalisme tout en les combinant à une écriture orchestrale ample, à des références historiques et à une dramaturgie héritée de l'opéra. Ses œuvres abordent aussi bien l'histoire politique américaine que des sujets intimes ou mythologiques. Il a contribué à renouveler l'opéra contemporain et à rendre la musique savante accessible à un large public sans renoncer à l'ambition formelle.",
-    "works": "OPÉRAS\nNixon in China\nThe Death of Klinghoffer\nDoctor Atomic\nGirls of the Golden West\nORCHESTRE\nHarmonielehre\nShort Ride in a Fast Machine\nNaive and Sentimental Music\nMUSIQUE DE CHAMBRE\nShaker Loops"
-  },
-  {
     "id": "albeniz",
     "name": "Isaac Albéniz",
     "years": "1860–1909",
@@ -187,7 +176,7 @@
     "works": "MUSIQUE VOCALE\nMass for Four Voices\nMass for Five Voices\nGradualia\nCantiones sacrae\nMUSIQUE POUR CLAVIER\nMy Ladye Nevells Booke\nThe Fitzwilliam Virginal Book — pièces attribuées\nMUSIQUE DE CONSORT\nIn Nomine — pièces pour violes"
   },
   {
-    "id": "monteverdi2",
+    "id": "francesca_caccini",
     "name": "Francesca Caccini",
     "years": "1587–1641",
     "birth": 1587,
@@ -220,7 +209,7 @@
     "works": "OPÉRAS\nMédée (Medea)\nLes deux journées ou Le porteur d'eau\nLodoïska\nFaniska\nAli-Baba\nMUSIQUE SACRÉE\nRequiem en ut mineur\nRequiem en ré mineur\nMesse solennelle en fa majeur\nMUSIQUE INSTRUMENTALE\nQuatuors à cordes nos 1 à 6"
   },
   {
-    "id": "saariaho3",
+    "id": "unsuk_chin",
     "name": "Unsuk Chin",
     "years": "1961–",
     "birth": 1961,
@@ -297,17 +286,6 @@
     "works": "FLÛTE\nConcertos pour flûte nos 1 à 14\nSonates pour flûte et basse\nBASSON\nConcertos pour basson\nSonates pour basson\nOPÉRA\nLes visitandines"
   },
   {
-    "id": "dittersdorf",
-    "name": "Carl Ditters von Dittersdorf",
-    "years": "1739–1799",
-    "birth": 1739,
-    "death": 1799,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Violoniste et compositeur autrichien, Dittersdorf mène une carrière brillante dans les cours d'Europe centrale. Il compose des opéras, des symphonies, des concertos et une importante musique de chambre. Son cycle de symphonies inspirées des Métamorphoses d'Ovide témoigne d'un goût marqué pour la narration musicale et les sujets littéraires. Il appartient à la génération qui élargit les formes classiques avant l'affirmation du romantisme.",
-    "works": "SYMPHONIES\nLes quatre symphonies d'après les Métamorphoses d'Ovide\nSymphonie en ré majeur « La prise de la Bastille »\nOPÉRAS\nDoktor und Apotheker\nHieronymus Knicker\nMUSIQUE CONCERTANTE\nConcertos pour contrebasse\nConcertos pour violon"
-  },
-  {
     "id": "dufay",
     "name": "Guillaume Dufay",
     "years": "vers 1397–1474",
@@ -341,7 +319,7 @@
     "works": "MOTETS ET PIÈCES SACRÉES\nQuam pulchra es\nVeni sancte spiritus / Veni creator\nPreco preheminencie\nMesse à trois voix — fragments attribués"
   },
   {
-    "id": "clara_schumann2",
+    "id": "louise_farrenc",
     "name": "Louise Farrenc",
     "years": "1804–1875",
     "birth": 1804,
@@ -407,7 +385,7 @@
     "works": "SYMPHONIES\nSymphonies, op. 4, op. 5 et op. 6\nSix symphonies à grand orchestre, op. 12\nMUSIQUE RÉVOLUTIONNAIRE ET CIVIQUE\nTe Deum (1790)\nLe Chant du 14 juillet\nHymne à l'Être suprême\nOPÉRAS ET BALLETS\nLe tonnelier\nThésée\nSabinus\nLa fête de village"
   },
   {
-    "id": "saariaho2",
+    "id": "goubaidoulina",
     "name": "Sofia Goubaïdoulina",
     "years": "1931–2025",
     "birth": 1931,
@@ -495,7 +473,7 @@
     "works": "MUSIQUE CONCRÈTE\nSymphonie pour un homme seul (avec Pierre Schaeffer)\nLe Voyage\nLa Messe de Liverpool\nVariations pour une porte et un soupir\nMesse pour le temps présent (avec Michel Colombier)\nL'Apocalypse de Jean"
   },
   {
-    "id": "schubert",
+    "id": "fanny_hensel",
     "name": "Fanny Hensel",
     "years": "1805–1847",
     "birth": 1805,
@@ -539,17 +517,6 @@
     "works": "MUSIQUE SACRÉE\nChoralis Constantinus\nMissa Virgo prudentissima\nMissa de Apostolis\nMOTETS\nOptime divino date munere pastor\nCHANSONS\nInnsbruck, ich muss dich lassen\nLa morra"
   },
   {
-    "id": "kreutzer",
-    "name": "Rodolphe Kreutzer",
-    "years": "1766–1831",
-    "birth": 1766,
-    "death": 1831,
-    "era": "Classicisme / Romantisme",
-    "kind": "person",
-    "description": "Violoniste, compositeur et pédagogue français, Rodolphe Kreutzer est l'une des figures fondatrices de l'école française du violon. Beethoven lui dédie sa Sonate pour violon et piano no 9, même si Kreutzer ne l'a jamais jouée. Son influence pédagogique demeure considérable grâce à ses études, toujours utilisées dans la formation des violonistes. Son œuvre comprend concertos, quatuors, opéras et musique de scène.",
-    "works": "VIOLON\n42 études ou caprices pour violon\n19 concertos pour violon\nSonates pour violon\nOPÉRAS\nLa mort d'Abel\nLodoïska\nPaul et Virginie"
-  },
-  {
     "id": "lachenmann",
     "name": "Helmut Lachenmann",
     "years": "1935–",
@@ -570,17 +537,6 @@
     "kind": "person",
     "description": "György Ligeti traverse plusieurs des grandes mutations de la musique de la seconde moitié du XXe siècle. Après avoir fui la Hongrie en 1956, il rejoint les studios de musique électronique de Cologne, puis développe une écriture instrumentale fondée sur les masses sonores, les micropolyphonies et les transformations de texture. Son langage échappe aux écoles et aux orthodoxies sérielles. Il explore également les polyrythmies, les mécanismes absurdes et les illusions perceptives.",
     "works": "ORCHESTRE\nAtmosphères\nLontano\nSan Francisco Polyphony\nConcerto pour piano\nMUSIQUE DE CHAMBRE\nDix pièces pour quintette à vent\nQuatuors à cordes nos 1 et 2\nOPÉRA\nLe Grand Macabre\nPIANO\nÉtudes pour piano"
-  },
-  {
-    "id": "locatelli",
-    "name": "Pietro Antonio Locatelli",
-    "years": "1695–1764",
-    "birth": 1695,
-    "death": 1764,
-    "era": "Baroque",
-    "kind": "person",
-    "description": "Violoniste virtuose et compositeur bergamasque, Locatelli développe une écriture instrumentale d'une difficulté technique exceptionnelle. Installé à Amsterdam, il publie des recueils qui contribuent à l'évolution du concerto et de la virtuosité violonistique. L'Arte del violino, avec ses caprices intégrés aux concertos, pousse les possibilités de l'instrument vers de nouveaux territoires. Son œuvre se situe à la charnière du baroque tardif et des nouvelles sensibilités du XVIIIe siècle.",
-    "works": "VIOLON ET ORCHESTRE\nL'Arte del violino, op. 3\n12 concertos grossos, op. 1\n6 concertos, op. 4\nSONATES\nSonates pour violon et basse continue, op. 6\nCAPRICES\n24 Capricci pour violon"
   },
   {
     "id": "lucier",
@@ -625,17 +581,6 @@
     "kind": "person",
     "description": "Étienne-Nicolas Méhul est l'une des figures majeures de l'opéra français autour de la Révolution. Son langage dramatique, parfois sombre et énergique, annonce certains aspects du romantisme. Il compose des opéras, des symphonies et de la musique civique, dont le célèbre Chant du départ. Son œuvre lyrique renouvelle l'orchestration et le traitement des passions, et exerce une influence sur la génération de Berlioz.",
     "works": "OPÉRAS\nJoseph\nEuphrosine\nStratonice\nAriodant\nUthal\nMUSIQUE SYMPHONIQUE\nSymphonies nos 1 à 4\nMUSIQUE CIVIQUE\nChant du départ"
-  },
-  {
-    "id": "miki",
-    "name": "Tōru Miki",
-    "years": "1901–1956",
-    "birth": 1901,
-    "death": 1956,
-    "era": "XXe siècle / Japon",
-    "kind": "person",
-    "description": "Tōru Miki est un compositeur japonais associé à la modernisation de la musique savante au Japon durant la première moitié du XXe siècle. Sa trajectoire s'inscrit dans une période où les musiciens japonais cherchent à construire un langage contemporain à partir des techniques occidentales et des traditions locales. Son nom est moins documenté dans les répertoires internationaux que ceux de ses contemporains, et cette notice devra être approfondie à partir de sources spécialisées avant d'enrichir le catalogue.",
-    "works": "CATALOGUE À ÉTABLIR\nŒuvres orchestrales et de chambre à documenter\nRépertoire à vérifier dans les catalogues japonais spécialisés"
   },
   {
     "id": "monteverdi",
@@ -704,18 +649,7 @@
     "works": "MESSES\nMissa prolationum\nMissa cuiusvis toni\nMissa L'homme armé\nMissa Mi-mi\nMOTETS\nIntemerata Dei mater\nAlma redemptoris mater\nCHANSONS\nFors seulement l'attente"
   },
   {
-    "id": "paisiello",
-    "name": "Giovanni Paisiello",
-    "years": "1740–1816",
-    "birth": 1740,
-    "death": 1816,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Giovanni Paisiello est l'un des principaux représentants de l'école napolitaine et de l'opéra bouffe. Il travaille à Naples, Saint-Pétersbourg et Paris, au service de souverains et de cours successives. Son Barbier de Séville, créé en 1782, connaît un succès considérable avant d'être éclipsé par celui de Rossini. Son écriture se distingue par la vivacité du théâtre, la souplesse vocale et le sens de la caractérisation.",
-    "works": "OPÉRAS\nIl barbiere di Siviglia (1782)\nNina, o sia La pazza per amore\nLa molinara\nNina\nLa serva padrona — remaniement\nMUSIQUE SACRÉE\nMesses et oratorios"
-  },
-  {
-    "id": "hummel2",
+    "id": "paradis",
     "name": "Maria Theresia von Paradis",
     "years": "1759–1824",
     "birth": 1759,
@@ -768,28 +702,6 @@
     "kind": "person",
     "description": "Pérotin, dont la biographie demeure presque entièrement inconnue, est associé au milieu musical de la cathédrale Notre-Dame de Paris autour de 1200. Son nom nous est transmis par un témoignage tardif qui le présente comme un maître ayant révisé et développé le grand livre de chant polyphonique attribué à Léonin. Il incarne l'essor de l'organum à plusieurs voix : les longues tenues du chant liturgique deviennent le support de lignes vocales mobiles, organisées selon des rapports rythmiques de plus en plus précis. Les attributions restent parfois discutées, et les œuvres sont souvent identifiées par leurs incipits latins.",
     "works": "ORGANUM ET POLYPHONIE\nViderunt omnes — quadruplum pour la fête de Noël\nSederunt principes — quadruplum pour la Saint-Étienne\nAlleluia Nativitas — organum à trois voix\nAlleluia Posui adiutorium — organum attribué au milieu de Notre-Dame\nBeata viscera — conduit à trois voix, attribution discutée"
-  },
-  {
-    "id": "piccinni",
-    "name": "Niccolò Piccinni",
-    "years": "1728–1800",
-    "birth": 1728,
-    "death": 1800,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Compositeur napolitain, Niccolò Piccinni est l'une des grandes figures de l'opéra italien du XVIIIe siècle. Sa carrière le conduit à Rome, puis à Paris où sa présence devient le centre d'une querelle esthétique avec les partisans de Gluck. Son art privilégie la fluidité mélodique, l'équilibre des ensembles et l'efficacité dramatique. Il compose plus d'une centaine d'opéras et contribue à la diffusion du goût italien dans toute l'Europe.",
-    "works": "OPÉRAS\nLa buona figliuola\nLa Cecchina\nIphigénie en Tauride\nRoland\nAtys\nDidon\nMUSIQUE SACRÉE\nMesses et oratorios"
-  },
-  {
-    "id": "pleyel",
-    "name": "Ignaz Pleyel",
-    "years": "1757–1831",
-    "birth": 1757,
-    "death": 1831,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Compositeur autrichien formé auprès de Haydn, Ignaz Pleyel connaît un immense succès européen avant de devenir éditeur et facteur de pianos à Paris. Sa musique de chambre, particulièrement ses quatuors et symphonies concertantes, est largement diffusée à la fin du XVIIIe siècle. La maison Pleyel qu'il fonde contribue ensuite à l'histoire de la facture instrumentale et de la vie musicale parisienne.",
-    "works": "MUSIQUE DE CHAMBRE\nQuatuors à cordes, notamment op. 1 et op. 2\nDuos pour violon et alto\nSYMPHONIES\nSymphonies concertantes\nSymphonies en ré majeur\nMUSIQUE VOCALE\nMesses et opéras"
   },
   {
     "id": "josquin",
@@ -878,28 +790,6 @@
     "kind": "person",
     "description": "Né à Legnago, en Vénétie, Antonio Salieri se forme à Venise avant de s'établir à Vienne, où il devient l'un des musiciens les plus influents de la cour impériale. Compositeur d'opéras, chef et pédagogue, il occupe une place institutionnelle majeure dans la vie musicale européenne. Son activité pédagogique le met en relation avec plusieurs générations de musiciens, parmi lesquels [[beethoven|Beethoven]], [[schubert|Schubert]] et Liszt. Son œuvre lyrique circule entre les traditions italienne et française. Sa postérité populaire a été déformée par le récit romanesque d'une rivalité meurtrière avec Mozart : aucun élément historique sérieux ne permet de lui attribuer l'empoisonnement de son confrère.",
     "works": "OPÉRAS\nLes Danaïdes\nTarare\nAxur, re d'Ormus\nLa grotta di Trofonio\nFalstaff, ossia Le tre burle\nLa scuola de' gelosi\nMUSIQUE SACRÉE\nRequiem en do mineur\nTe Deum\nMUSIQUE INSTRUMENTALE\n26 variations pour orchestre sur La follia di Spagna"
-  },
-  {
-    "id": "sammartini",
-    "name": "Giovanni Battista Sammartini",
-    "years": "vers 1700–1775",
-    "birth": 1700,
-    "death": 1775,
-    "era": "Préclassicisme",
-    "kind": "person",
-    "description": "Giovanni Battista Sammartini, actif à Milan, est une figure essentielle de la naissance de la symphonie moderne. Il contribue à transformer l'ouverture italienne en une forme instrumentale autonome, avec une organisation thématique et dramatique qui annonce le classicisme. Son activité de maître et son influence sur les jeunes compositeurs ont été importantes, même si son œuvre reste moins connue du grand public que celle de ses successeurs viennois.",
-    "works": "SYMPHONIES\nSymphonies en trois mouvements — nombreux opus\nSymphonie en fa majeur\nMUSIQUE DE CHAMBRE\nSonates en trio\nSonates pour violoncelle\nMUSIQUE SACRÉE\nMesses, motets et oratorios"
-  },
-  {
-    "id": "sarasate",
-    "name": "Pablo de Sarasate",
-    "years": "1844–1908",
-    "birth": 1844,
-    "death": 1908,
-    "era": "Romantisme",
-    "kind": "person",
-    "description": "Violoniste virtuose espagnol, Pablo de Sarasate mène une carrière internationale et inspire plusieurs compositeurs de son temps. Ses propres compositions exploitent les ressources techniques du violon dans des pièces brillantes, souvent nourries de danses et de thèmes ibériques. Son jeu, réputé pour sa pureté et son élégance, contribue à fixer un idéal de virtuosité sans lourdeur. Ses œuvres restent des pièces centrales du répertoire violonistique.",
-    "works": "VIOLON ET PIANO / ORCHESTRE\nZigeunerweisen, op. 20\nCarmen Fantasy, op. 25\nIntroduction et tarentelle, op. 43\nNavarra, op. 33\nAirs espagnols, op. 18"
   },
   {
     "id": "satie",
@@ -1010,17 +900,6 @@
     "kind": "person",
     "description": "Tōru Takemitsu est l'un des compositeurs japonais les plus importants du XXe siècle. Autodidacte, marqué par la musique française, Debussy, Messiaen et l'avant-garde électronique, il développe une pensée du timbre, du silence et de l'espace profondément singulière. Il cherche à faire dialoguer les traditions musicales japonaises et occidentales sans les réduire à une synthèse décorative. Son œuvre couvre l'orchestre, la musique de chambre, l'électroacoustique et le cinéma.",
     "works": "ORCHESTRE\nNovember Steps\nA Flock Descends into the Pentagonal Garden\nFrom me flows what you call Time\nMUSIQUE DE CHAMBRE\nRain Tree\nToward the Sea\nQuatrain\nÉLECTROACOUSTIQUE\nWater Music\nStanza II"
-  },
-  {
-    "id": "vanhal",
-    "name": "Johann Baptist Vanhal",
-    "years": "1739–1813",
-    "birth": 1739,
-    "death": 1813,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Né en Bohême, Johann Baptist Vanhal s'impose à Vienne comme l'un des compositeurs les plus joués de son temps. Il compose dans presque tous les genres instrumentaux et vocaux, et participe à la formation du quatuor à cordes et de la symphonie classiques. Sa musique, longtemps diffusée sous forme manuscrite, témoigne d'un classicisme vivant, moins centré sur les grandes figures canoniques que sur un réseau dense de musiciens professionnels.",
-    "works": "SYMPHONIES\nSymphonies en ré majeur et en sol mineur\nMUSIQUE DE CHAMBRE\nQuatuors à cordes\nSonates pour violon et piano\nMUSIQUE SACRÉE\nMesses\nRequiem en do mineur\nMUSIQUE CONCERTANTE\nConcertos pour contrebasse"
   },
   {
     "id": "varese",
