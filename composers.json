@@ -665,10 +665,10 @@
     "years": "1926–1987",
     "birth": 1926,
     "death": 1987,
-    "era": "Après-guerre",
+    "era": "Post-war",
     "kind": "person",
-    "description": "Morton Feldman appartient au cercle de l'école de New York, aux côtés de [[cage|John Cage]], Earle Brown et Christian Wolff. À partir des années 1950, il invente une notation graphique et des formes ouvertes qui laissent une part de décision aux interprètes. Il se tourne ensuite vers des partitions minutieusement notées, mais souvent fondées sur la répétition, les écarts subtils et les nuances faibles. Ses œuvres tardives atteignent des durées considérables : elles suspendent le sentiment de progression et invitent à une écoute de la durée, de la mémoire et de la texture. Ses liens avec les peintres de l'expressionnisme abstrait, notamment Rothko, sont essentiels à sa pensée.",
-    "works": "PIÈCES ET ENSEMBLES\nProjection 1\nIntermission 6\nPiece for Four Pianos\nDurations 1–5\nORCHESTRE ET VOIX\nRothko Chapel\nCoptic Light\nFor Samuel Beckett\nŒUVRES TARDIVES\nFor Philip Guston\nPiano and String Quartet\nString Quartet II — environ six heures selon l'interprétation"
+    "description": "Morton Feldman belonged to the New York School circle alongside [[cage|John Cage]], Earle Brown and Christian Wolff. From the 1950s onwards, he devised graphic notation and open forms that left performers a degree of choice. He later turned to meticulously notated scores, often built on repetition, subtle deviations and quiet dynamics. His late works reach extraordinary lengths, suspending any sense of forward motion and inviting attention to duration, memory and texture. His connections with Abstract Expressionist painters, especially Rothko, were central to his thinking.",
+    "works": "PIECES AND ENSEMBLES\nProjection 1\nIntermission 6\nPiece for Four Pianos\nDurations 1–5\nORCHESTRA AND VOICE\nRothko Chapel\nCoptic Light\nFor Samuel Beckett\nLATE WORKS\nFor Philip Guston\nPiano and String Quartet\nString Quartet II — around six hours depending on the performance"
   },
   {
     "id": "ferrari",
@@ -676,10 +676,10 @@
     "years": "1929–2005",
     "birth": 1929,
     "death": 2005,
-    "era": "Musique concrète / Électroacoustique",
+    "era": "Musique concrète / Electroacoustic",
     "kind": "person",
-    "description": "Ferrari traverse musique concrète, électroacoustique, musique instrumentale et documentaire sonore. Il introduit dans ses compositions sons quotidiens, récits, voix et situations captées dans le monde. Ses Presque rien renouvellent l'écoute du paysage sonore et interrogent la frontière entre composition, enregistrement et réalité.",
-    "works": "ACOUSMATIQUE\nHétérozygote\nPresque rien no 1\nPresque rien no 2\nMusic Promenade\nMUSIQUE INSTRUMENTALE\nCellule 75\nRADIO\nLes Anecdotiques"
+    "description": "Luc Ferrari moved between musique concrète, electroacoustic and instrumental music, and sound documentary. He brought everyday sounds, narratives, voices and situations recorded in the world into his compositions. His Presque rien works transformed the listening experience of the soundscape and questioned the boundary between composition, recording and reality.",
+    "works": "ACOUSMATIC MUSIC\nHétérozygote\nPresque rien No. 1\nPresque rien No. 2\nMusic Promenade\nINSTRUMENTAL MUSIC\nCellule 75\nRADIO\nLes Anecdotiques"
   },
   {
     "id": "ferreyra",
@@ -687,10 +687,10 @@
     "years": "1937–",
     "birth": 1937,
     "death": null,
-    "era": "Musique concrète / Acousmatique",
+    "era": "Musique concrète / Acousmatic",
     "kind": "person",
-    "description": "Compositrice argentine installée en France, Ferreyra travaille au GRM auprès de Pierre Schaeffer et participe aux premières recherches sur l'écoute concrète. Son œuvre se distingue par une grande liberté formelle, une sensualité du son et des transformations qui font surgir des mondes imaginaires à partir de sources méconnaissables.",
-    "works": "ACOUSMATIQUE\nDemeures aquatiques\nCanto del loco\nL'autre rive\nLes larmes de l'inconnu\nMédisances"
+    "description": "Argentine-born composer Beatriz Ferreyra, who settled in France, worked at the GRM with Pierre Schaeffer and took part in the earliest research into musique concrète listening. Her music is distinguished by formal freedom, sensuality of sound and transformations that conjure imaginary worlds from barely recognisable sources.",
+    "works": "ACOUSMATIC MUSIC\nDemeures aquatiques\nCanto del loco\nL'autre rive\nLes larmes de l'inconnu\nMédisances"
   },
   {
     "id": "finzi",
@@ -698,10 +698,10 @@
     "years": "1901–1956",
     "birth": 1901,
     "death": 1956,
-    "era": "XXe siècle / Royaume-Uni",
+    "era": "20th century / United Kingdom",
     "kind": "person",
-    "description": "Finzi développe une œuvre lyrique et mélancolique, attentive au texte et à la subtilité harmonique. Il compose principalement des œuvres vocales, cycles de mélodies et partitions orchestrales. Son langage personnel se nourrit de la poésie anglaise et d'une sensibilité à la fragilité du temps et de la mémoire.",
-    "works": "VOIX\nDies natalis\nLet us garlands bring\nEarth and Air and Rain\nIn terra pax\nORCHESTRE\nEclogue\nIntroit\nClarinet Concerto"
+    "description": "Gerald Finzi developed a lyrical, melancholic musical language attentive to words and harmonic nuance. He wrote mainly vocal works, song cycles and orchestral pieces. His distinctive style draws on English poetry and a sensitivity to the fragility of time and memory.",
+    "works": "VOICE\nDies natalis\nLet us garlands bring\nEarth and Air and Rain\nIn terra pax\nORCHESTRA\nEclogue\nIntroit\nClarinet Concerto"
   },
   {
     "id": "frescobaldi",
@@ -709,10 +709,10 @@
     "years": "1583–1643",
     "birth": 1583,
     "death": 1643,
-    "era": "Premier baroque",
+    "era": "Early Baroque",
     "kind": "person",
-    "description": "Organiste de Saint-Pierre de Rome, Frescobaldi transforme les formes instrumentales héritées de la Renaissance en espaces d'expérimentation rythmique et expressive. Ses toccatas, ricercari, capricci et partitas jouent sur les contrastes, la liberté du tempo et les transformations thématiques. Son influence s'étend jusqu'à Froberger et Bach.",
-    "works": "CLAVIER\nToccate e partite d'intavolatura di cimbalo\nFiori musicali\nIl primo libro di capricci\nRicercari et canzoni franzese\nMUSIQUE SACRÉE\nPièces liturgiques pour orgue"
+    "description": "As organist at St Peter's in Rome, Girolamo Frescobaldi transformed instrumental forms inherited from the Renaissance into spaces for rhythmic and expressive experimentation. His toccatas, ricercars, capriccios and partitas play with contrasts, freedom of tempo and thematic transformation. His influence extended to Froberger and Bach.",
+    "works": "KEYBOARD\nToccate e partite d'intavolatura di cimbalo\nFiori musicali\nIl primo libro di capricci\nRicercari et canzoni franzese\nSACRED MUSIC\nLiturgical organ works"
   },
   {
     "id": "galuppi",
@@ -720,10 +720,10 @@
     "years": "1706–1785",
     "birth": 1706,
     "death": 1785,
-    "era": "Baroque / Classicisme",
+    "era": "Baroque / Classical",
     "kind": "person",
-    "description": "Surnommé Il Buranello, Galuppi est une figure centrale de l'opéra buffa vénitien. Ses collaborations avec Goldoni donnent naissance à un théâtre musical fondé sur la vivacité des situations et la caractérisation des personnages. Il travaille également à Londres et à Saint-Pétersbourg, contribuant à la diffusion de l'opéra italien.",
-    "works": "OPÉRAS\nIl filosofo di campagna\nIl mondo della luna\nLa diavolessa\nL'inimico delle donne\nMUSIQUE SACRÉE\nMesses et motets\nCLAVECIN\nSonates"
+    "description": "Known as Il Buranello, Baldassare Galuppi was a central figure in Venetian opera buffa. His collaborations with Goldoni produced music theatre built on lively situations and sharply drawn characters. He also worked in London and St Petersburg, helping spread Italian opera.",
+    "works": "OPERAS\nIl filosofo di campagna\nIl mondo della luna\nLa diavolessa\nL'inimico delle donne\nSACRED MUSIC\nMasses and motets\nHARPSICHORD\nSonatas"
   },
   {
     "id": "gerhard",
@@ -731,10 +731,10 @@
     "years": "1896–1970",
     "birth": 1896,
     "death": 1970,
-    "era": "Modernité / Catalogne",
+    "era": "Modernism / Catalonia",
     "kind": "person",
-    "description": "Compositeur catalan, élève de Schönberg, Gerhard relie nationalisme musical, sérialisme et avant-garde électronique. Exilé au Royaume-Uni après la guerre civile espagnole, il développe une œuvre où traditions ibériques et techniques modernes se transforment mutuellement. Il compte parmi les pionniers de la musique électronique britannique.",
-    "works": "ORCHESTRE\nSymphonies nos 1 à 4\nConcerto pour orchestre\nÉLECTRONIQUE\nAudiomobiles\nMUSIQUE DE SCÈNE\nCaligula\nBALLET\nDon Quixote"
+    "description": "Catalan composer Roberto Gerhard, a pupil of Schoenberg, brought together musical nationalism, serialism and electronic avant-garde practice. Exiled to the United Kingdom after the Spanish Civil War, he developed a body of work in which Iberian traditions and modern techniques transformed one another. He was among the pioneers of British electronic music.",
+    "works": "ORCHESTRA\nSymphonies Nos. 1–4\nConcerto for Orchestra\nELECTRONIC MUSIC\nAudiomobiles\nSTAGE MUSIC\nCaligula\nBALLET\nDon Quixote"
   },
   {
     "id": "gesualdo",
@@ -742,10 +742,10 @@
     "years": "vers 1566–1613",
     "birth": 1566,
     "death": 1613,
-    "era": "Renaissance tardive / Premier baroque",
+    "era": "Late Renaissance / Early Baroque",
     "kind": "person",
-    "description": "Prince de Venosa et compositeur, Carlo Gesualdo est célèbre pour ses madrigaux d'une intensité expressive singulière. Son langage chromatique, ses ruptures harmoniques et ses contrastes abrupts semblent parfois anticiper des sensibilités bien postérieures. Cette modernité ne doit pas faire oublier son inscription dans la culture maniériste de la fin du XVIe siècle. Ses livres de madrigaux et ses répons de la Semaine sainte constituent le cœur d'une œuvre aussi radicale que profondément liée à son époque.",
-    "works": "MADRIGAUX\nMadrigali, livres I à VI\nMoro, lasso, al mio duolo\nBeltà, poi che t'assenti\nMUSIQUE SACRÉE\nTenebrae Responsoria (1611)\nSacrae Cantiones\nMesses et motets"
+    "description": "Prince of Venosa and composer, Carlo Gesualdo is famous for madrigals of extraordinary expressive intensity. His chromatic language, harmonic ruptures and abrupt contrasts can seem to anticipate much later sensibilities. Yet this modernity should not obscure his place within the Mannerist culture of the late 16th century. His books of madrigals and Tenebrae Responsories form the core of an oeuvre that is both radical and deeply rooted in its time.",
+    "works": "MADRIGALS\nMadrigali, Books I–VI\nMoro, lasso, al mio duolo\nBeltà, poi che t'assenti\nSACRED MUSIC\nTenebrae Responsoria (1611)\nSacrae Cantiones\nMasses and motets"
   },
   {
     "id": "ginastera",
@@ -753,10 +753,10 @@
     "years": "1916–1983",
     "birth": 1916,
     "death": 1983,
-    "era": "XXe siècle / Argentine",
+    "era": "20th century / Argentina",
     "kind": "person",
-    "description": "Ginastera est l'un des compositeurs argentins majeurs du XXe siècle. Son langage évolue d'un nationalisme inspiré des rythmes et paysages argentins vers une modernité plus abstraite, marquée par le sérialisme et les recherches timbriques. Son œuvre associe énergie rythmique, puissance orchestrale et références transformées aux traditions de son pays.",
-    "works": "BALLET\nEstancia\nPanambí\nOPÉRAS\nDon Rodrigo\nBomarzo\nBeatrix Cenci\nORCHESTRE\nVariaciones concertantes\nConcerto pour piano no 1\nMUSIQUE DE CHAMBRE\nQuatuors à cordes nos 1 à 3"
+    "description": "Alberto Ginastera was one of the major Argentine composers of the 20th century. His style evolved from a nationalism inspired by Argentine rhythms and landscapes towards a more abstract modernism shaped by serialism and timbral exploration. His music combines rhythmic drive, orchestral power and transformed references to the traditions of his country.",
+    "works": "BALLET\nEstancia\nPanambí\nOPERAS\nDon Rodrigo\nBomarzo\nBeatrix Cenci\nORCHESTRA\nVariaciones concertantes\nPiano Concerto No. 1\nCHAMBER MUSIC\nString Quartets Nos. 1–3"
   },
   {
     "id": "gismonti",
@@ -764,10 +764,10 @@
     "years": "1947–",
     "birth": 1947,
     "death": null,
-    "era": "Musique brésilienne / Contemporain",
+    "era": "Brazilian music / Contemporary",
     "kind": "person",
-    "description": "Compositeur, pianiste et guitariste brésilien, Gismonti mêle musique savante, traditions populaires, improvisation et recherches instrumentales. Il développe une technique personnelle de guitare à dix et douze cordes. Ses pièces font dialoguer rythmes brésiliens, harmonies modernes et formes libres.",
-    "works": "PIANO ET GUITARE\nDança das cabeças\nFrevo\nPalhaço\nCircense\nCOLLABORATIONS\nEnregistrements avec Naná Vasconcelos\nMUSIQUE D'ENSEMBLE\nŒuvres pour orchestre et ensemble"
+    "description": "Brazilian composer, pianist and guitarist Egberto Gismonti combines art music, popular traditions, improvisation and instrumental experimentation. He developed a personal technique for the ten- and twelve-string guitar. His pieces bring Brazilian rhythms into dialogue with modern harmony and free forms.",
+    "works": "PIANO AND GUITAR\nDança das cabeças\nFrevo\nPalhaço\nCircense\nCOLLABORATIONS\nRecordings with Naná Vasconcelos\nENSEMBLE MUSIC\nWorks for orchestra and ensemble"
   },
   {
     "id": "glass",
@@ -775,10 +775,10 @@
     "years": "1937–",
     "birth": 1937,
     "death": null,
-    "era": "Minimalisme",
+    "era": "Minimalism",
     "kind": "person",
-    "description": "Philip Glass est l'une des figures les plus connues du minimalisme américain. Son langage repose sur des motifs répétitifs, des progressions harmoniques cycliques et des processus d'accumulation qui créent une perception singulière du temps. Formé notamment à Paris auprès de Nadia Boulanger, il s'intéresse aussi aux musiques non occidentales et collabore avec des artistes de théâtre, de danse et de cinéma. Son œuvre comprend opéras, symphonies, musique de chambre et bandes originales.",
-    "works": "OPÉRAS\nEinstein on the Beach\nSatyagraha\nAkhnaten\nThe Voyage\nORCHESTRE\nGlassworks\nSymphonies nos 1 à 15\nMUSIQUE DE FILM\nKoyaanisqatsi\nMishima\nThe Hours"
+    "description": "Philip Glass is one of the best-known figures of American minimalism. His language is based on repetitive patterns, cyclical harmonic progressions and processes of accumulation that create a distinctive perception of time. Trained in Paris with Nadia Boulanger, he also explored non-Western music and collaborated with artists in theatre, dance and cinema. His output includes operas, symphonies, chamber music and film scores.",
+    "works": "OPERAS\nEinstein on the Beach\nSatyagraha\nAkhnaten\nThe Voyage\nORCHESTRA\nGlassworks\nSymphonies Nos. 1–15\nFILM MUSIC\nKoyaanisqatsi\nMishima\nThe Hours"
   },
   {
     "id": "gluck",
@@ -786,10 +786,10 @@
     "years": "1714–1787",
     "birth": 1714,
     "death": 1787,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Né en Bohême, formé dans l'espace germanique et italien, Christoph Willibald Gluck construit une carrière européenne qui le mène notamment à Vienne et à Paris. Il est associé à une réforme de l'opéra qui cherche à rendre plus étroite la relation entre musique, poésie et action dramatique. Contre les conventions qui favorisent la virtuosité vocale pour elle-même, il défend une dramaturgie plus continue, où l'ouverture, les chœurs, les danses et les récitatifs participent à l'unité du drame. Cette réforme est l'aboutissement de débats esthétiques du XVIIIe siècle. Ses opéras parisiens provoquent des controverses et contribuent à redéfinir durablement le théâtre lyrique européen.",
-    "works": "OPÉRAS DE LA RÉFORME\nOrfeo ed Euridice (1762)\nAlceste (1767)\nParide ed Elena (1770)\nIphigénie en Aulide (1774)\nArmide (1777)\nIphigénie en Tauride (1779)\nAUTRES ŒUVRES SCÉNIQUES\nDon Juan ou le Festin de pierre — ballet-pantomime\nLa rencontre imprévue\nSemiramis riconosciuta"
+    "description": "Born in Bohemia and trained in the German and Italian worlds, Christoph Willibald Gluck built a European career that took him notably to Vienna and Paris. He is associated with an operatic reform seeking a closer relationship between music, poetry and dramatic action. Against conventions that prized vocal virtuosity for its own sake, he advocated a more continuous dramaturgy in which overture, chorus, dance and recitative contributed to the unity of the drama. His reform grew out of the aesthetic debates of the 18th century. His Paris operas provoked controversy and helped redefine European lyric theatre for generations.",
+    "works": "REFORM OPERAS\nOrfeo ed Euridice (1762)\nAlceste (1767)\nParide ed Elena (1770)\nIphigénie en Aulide (1774)\nArmide (1777)\nIphigénie en Tauride (1779)\nOTHER STAGE WORKS\nDon Juan ou le Festin de pierre — ballet-pantomime\nLa rencontre imprévue\nSemiramis riconosciuta"
   },
   {
     "id": "gossec",
@@ -797,10 +797,10 @@
     "years": "1734–1829",
     "birth": 1734,
     "death": 1829,
-    "era": "Classicisme / Révolution",
+    "era": "Classical period / Revolution",
     "kind": "person",
-    "description": "Né dans les Pays-Bas autrichiens, François-Joseph Gossec s'installe très jeune à Paris et devient l'une des personnalités centrales de la vie musicale française pendant plus de soixante ans. Il dirige plusieurs institutions et orchestres, participe à la fondation du Conservatoire de Paris et adapte son activité aux bouleversements de la Révolution. Sa production comprend symphonies, musique de chambre, opéras et vastes œuvres cérémonielles destinées aux fêtes publiques. Il contribue à donner à l'orchestre français une puissance nouvelle et à développer une musique civique de grande ampleur.",
-    "works": "SYMPHONIES\nSymphonies, op. 4, op. 5 et op. 6\nSix symphonies à grand orchestre, op. 12\nMUSIQUE RÉVOLUTIONNAIRE ET CIVIQUE\nTe Deum (1790)\nLe Chant du 14 juillet\nHymne à l'Être suprême\nOPÉRAS ET BALLETS\nLe tonnelier\nThésée\nSabinus\nLa fête de village"
+    "description": "Born in the Austrian Netherlands, François-Joseph Gossec moved to Paris at a young age and became one of the central figures in French musical life for more than sixty years. He directed several institutions and orchestras, helped found the Paris Conservatoire and adapted his work to the upheavals of the Revolution. His output includes symphonies, chamber music, operas and large ceremonial works for public festivals. He helped give the French orchestra a new power and develop an expansive civic music.",
+    "works": "SYMPHONIES\nSymphonies, Opp. 4, 5 and 6\nSix Symphonies for Large Orchestra, Op. 12\nREVOLUTIONARY AND CIVIC MUSIC\nTe Deum (1790)\nLe Chant du 14 juillet\nHymne à l'Être suprême\nOPERAS AND BALLETS\nLe tonnelier\nThésée\nSabinus\nLa fête de village"
   },
   {
     "id": "goubaidoulina",
@@ -808,10 +808,10 @@
     "years": "1931–2025",
     "birth": 1931,
     "death": 2025,
-    "era": "Contemporain",
+    "era": "Contemporary",
     "kind": "person",
-    "description": "Sofia Goubaïdoulina est une compositrice russo-tatare dont l'œuvre explore les tensions entre matière sonore, spiritualité, symbolisme et expérimentation. Formée à Kazan puis à Moscou, elle développe un langage personnel qui mobilise des instruments rares, des dispositifs inhabituels et des structures symboliques. Son œuvre concertante, notamment pour violon, violoncelle et accordéon, se distingue par une intensité dramatique et une recherche constante de nouvelles couleurs.",
-    "works": "ORCHESTRE\nOffertorium\nIn tempus praesens\nThe Light of the End\nMUSIQUE CONCERTANTE\nConcerto pour violon Offertorium\nFachwerk\nSieben Worte\nMUSIQUE DE CHAMBRE\nDe profundis\nIn croce"
+    "description": "Sofia Gubaidulina is a Russian-Tatar composer whose work explores tensions between sound matter, spirituality, symbolism and experimentation. Trained in Kazan and Moscow, she developed a personal language involving unusual instruments, unconventional devices and symbolic structures. Her concertante works, especially those for violin, cello and accordion, are distinguished by dramatic intensity and a constant search for new colours.",
+    "works": "ORCHESTRA\nOffertorium\nIn tempus praesens\nThe Light of the End\nCONCERTANTE MUSIC\nViolin Concerto Offertorium\nFachwerk\nSieben Worte\nCHAMBER MUSIC\nDe profundis\nIn croce"
   },
   {
     "id": "granados",
@@ -819,10 +819,10 @@
     "years": "1867–1916",
     "birth": 1867,
     "death": 1916,
-    "era": "Romantisme tardif",
+    "era": "Late Romanticism",
     "kind": "person",
-    "description": "Compositeur et pianiste espagnol, Enrique Granados développe une œuvre profondément liée à la culture musicale de son pays, mais ouverte aux influences du romantisme européen. Ses Goyescas, inspirées par l'univers pictural de Goya, associent virtuosité pianistique, raffinement harmonique et évocation historique. Il compose aussi des chansons, de la musique de chambre et des ouvrages lyriques. Il meurt lors du torpillage du navire qui le ramène d'Amérique en 1916.",
-    "works": "PIANO\nGoyescas\nDanzas españolas\nEscenas románticas\nMUSIQUE VOCALE\nTonadillas en estilo antiguo\nMUSIQUE SCÉNIQUE\nGoyescas, opéra\nMaría del Carmen"
+    "description": "Spanish composer and pianist Enrique Granados developed a body of work deeply rooted in his country's musical culture yet open to the influence of European Romanticism. His Goyescas, inspired by the world of Goya's paintings, combine pianistic virtuosity, harmonic refinement and historical evocation. He also wrote songs, chamber music and stage works. He died when the ship carrying him home from America was torpedoed in 1916.",
+    "works": "PIANO\nGoyescas\nDanzas españolas\nEscenas románticas\nVOCAL MUSIC\nTonadillas en estilo antiguo\nSTAGE MUSIC\nGoyescas, opera\nMaría del Carmen"
   },
   {
     "id": "gretry",
@@ -830,10 +830,10 @@
     "years": "1741–1813",
     "birth": 1741,
     "death": 1813,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Né à Liège, André Grétry étudie à Rome avant de s'installer à Paris, où il devient l'un des compositeurs les plus populaires de l'opéra-comique. Son talent mélodique, son sens du dialogue et son aptitude à caractériser les personnages lui assurent une place centrale dans le théâtre musical français de la fin de l'Ancien Régime. Il compose pour les scènes parisiennes des ouvrages qui mêlent chant, parole et action avec une grande efficacité dramatique. Son autobiographie constitue également un témoignage précieux sur la vie musicale du XVIIIe siècle.",
-    "works": "OPÉRAS-COMIQUES\nZémire et Azor\nRichard Cœur-de-lion\nL'épreuve villageoise\nLe tableau parlant\nRaoul Barbe-Bleue\nGuillaume Tell\nÉCRITS\nMémoires ou essais sur la musique"
+    "description": "Born in Liège, André Grétry studied in Rome before settling in Paris, where he became one of the most popular composers of opéra-comique. His melodic gift, sense of dialogue and ability to characterise his figures secured him a central place in French music theatre at the end of the Ancien Régime. He wrote for Parisian stages works that combine singing, speech and action with great dramatic effectiveness. His autobiography is also a valuable testimony to 18th-century musical life.",
+    "works": "OPÉRAS-COMIQUES\nZémire et Azor\nRichard Cœur-de-lion\nL'épreuve villageoise\nLe tableau parlant\nRaoul Barbe-Bleue\nGuillaume Tell\nWRITINGS\nMémoires ou essais sur la musique"
   },
   {
     "id": "grisey",
@@ -841,9 +841,9 @@
     "years": "1946–1998",
     "birth": 1946,
     "death": 1998,
-    "era": "Musique spectrale / Contemporain",
+    "era": "Spectral music / Contemporary",
     "kind": "person",
-    "description": "Gérard Grisey est l'une des figures fondatrices de la musique spectrale. Son travail s'appuie sur l'écoute et l'analyse des phénomènes acoustiques, envisagés comme des processus vivants qui déterminent la forme musicale. Il explore les transformations du timbre, les seuils entre son et bruit, ainsi que les dilatations et contractions du temps. Les Espaces acoustiques constituent un cycle majeur qui renouvelle le rapport entre écriture, perception et phénomènes physiques.",
+    "description": "Gérard Grisey was one of the founding figures of spectral music. His work draws on the listening and analysis of acoustic phenomena, treated as living processes that determine musical form. He explored the transformation of timbre, the thresholds between sound and noise, and the dilation and contraction of time. Les Espaces acoustiques is a major cycle that renews the relationship between composition, perception and physical phenomena.",
     "works": "CYCLE\nLes Espaces acoustiques\nPartiels\nPériodes\nModulations\nTransitoires\nLe Temps et l'Écume\nTalea\nVortex temporum"
   },
   {
@@ -854,8 +854,8 @@
     "death": 1759,
     "era": "Baroque",
     "kind": "person",
-    "description": "Né à Halle, formé en Allemagne et en Italie, Georg Friedrich Händel s'établit à Londres où il devient l'une des figures majeures de la vie musicale. Il connaît d'abord le succès avec l'opéra italien, puis réoriente sa carrière vers l'oratorio en langue anglaise, genre dans lequel il trouve un public considérable. Son écriture associe sens du théâtre, puissance chorale et efficacité mélodique. Comme son contemporain [[bach|Johann Sebastian Bach]], il maîtrise le contrepoint baroque, mais son langage privilégie souvent la lisibilité dramatique et l'ampleur vocale. Il compose également une importante musique orchestrale et instrumentale.",
-    "works": "OPÉRAS\nGiulio Cesare in Egitto\nAlcina\nRinaldo\nSerse — avec l'aria Ombra mai fu\nORATORIOS\nMessiah\nIsrael in Egypt\nJudas Maccabaeus\nTheodora\nMUSIQUE ORCHESTRALE\nWater Music\nMusic for the Royal Fireworks\nConcerti grossi, op. 6"
+    "description": "Born in Halle and trained in Germany and Italy, Georg Friedrich Händel settled in London, where he became one of the leading figures in musical life. He first found success with Italian opera, then redirected his career towards English-language oratorio, a genre in which he found a vast audience. His writing combines theatrical instinct, choral power and melodic directness. Like his contemporary [[bach|Johann Sebastian Bach]], he mastered Baroque counterpoint, but his language often favours dramatic clarity and vocal grandeur. He also composed a substantial body of orchestral and instrumental music.",
+    "works": "OPERAS\nGiulio Cesare in Egitto\nAlcina\nRinaldo\nSerse — including the aria Ombra mai fu\nORATORIOS\nMessiah\nIsrael in Egypt\nJudas Maccabaeus\nTheodora\nORCHESTRAL MUSIC\nWater Music\nMusic for the Royal Fireworks\nConcerti grossi, Op. 6"
   },
   {
     "id": "harrison_j",
@@ -863,10 +863,10 @@
     "years": "1952–",
     "birth": 1952,
     "death": null,
-    "era": "Musique acousmatique",
+    "era": "Acousmatic music",
     "kind": "person",
-    "description": "Compositeur britannique de musique acousmatique, Harrison travaille sur la spatialisation, la perception des sources et les relations entre sons concrets et formes abstraites. Fondateur du Birmingham ElectroAcoustic Sound Theatre, il contribue à développer des dispositifs de concert où l'espace de diffusion devient un paramètre de composition.",
-    "works": "ACOUSMATIQUE\nUnsound Objects\nKlang\nŒuvres pour dispositifs multicanaux\nSPATIALISATION\nPièces pour acousmonium"
+    "description": "British acousmatic composer Jonty Harrison explores spatialisation, the perception of sound sources and the relationship between concrete sounds and abstract forms. Founder of the Birmingham ElectroAcoustic Sound Theatre, he helped develop concert systems in which the diffusion space itself becomes a compositional parameter.",
+    "works": "ACOUSMATIC MUSIC\nUnsound Objects\nKlang\nWorks for multichannel systems\nSPATIALISATION\nWorks for acousmonium"
   },
   {
     "id": "harvey",
@@ -874,10 +874,10 @@
     "years": "1939–2012",
     "birth": 1939,
     "death": 2012,
-    "era": "Contemporain / Électronique",
+    "era": "Contemporary / Electronic",
     "kind": "person",
-    "description": "Harvey associe spiritualité, acoustique et technologies électroniques. Collaborateur de l'Ircam, il explore les transformations du timbre, la spatialisation et les relations entre instruments et sons synthétiques. Sa musique renouvelle la musique mixte par une grande finesse de construction et une réflexion sur la perception.",
-    "works": "MUSIQUE MIXTE\nMortuos plango, vivos voco\nSpeakings\nNataraja\nORCHESTRE\nTranquil Abiding\nVOIX\nWeltethos\nCHAMBRE\nQuatuor à cordes no 4"
+    "description": "Jonathan Harvey brought together spirituality, acoustics and electronic technologies. A collaborator with IRCAM, he explored timbral transformation, spatialisation and the relationship between instruments and synthetic sounds. His music renewed mixed music through finely crafted structures and a sustained reflection on perception.",
+    "works": "MIXED MUSIC\nMortuos plango, vivos voco\nSpeakings\nNataraja\nORCHESTRA\nTranquil Abiding\nVOICE\nWeltethos\nCHAMBER MUSIC\nString Quartet No. 4"
   },
   {
     "id": "haydn",
