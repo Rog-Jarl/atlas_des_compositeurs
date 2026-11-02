@@ -2737,5 +2737,203 @@
     "kind": "Composer and conductor",
     "description": "A Czech-born composer and conductor who made his career in Russia, Nápravník served for decades at the Mariinsky Theatre in Saint Petersburg. He was a major force in Russian operatic life and also composed symphonies, concertos and chamber music.",
     "works": "Dubrovsky (opera); The Nizhny Novgorodians (opera); Symphony No. 1 in D minor; Piano Concerto in A minor"
+  },
+  {
+    "id": "alfredo_napoleao",
+    "name": "Alfredo Napoleão",
+    "years": "1852–1917",
+    "birth": "1852-01-01",
+    "death": "1917-11-23",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Portuguese pianist and composer, Napoleão was active in Portugal and Brazil and became an important figure in the musical life of Rio de Janeiro. His output includes piano concertos, chamber music and works shaped by the virtuoso traditions of the nineteenth century.",
+    "works": "Piano Concerto in E-flat major; Piano Concerto in A minor; Grande Fantaisie; Piano pieces and salon works"
+  },
+  {
+    "id": "henrique_oswald",
+    "name": "Henrique Oswald",
+    "years": "1852–1931",
+    "birth": "1852-04-14",
+    "death": "1931-06-09",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Brazilian composer and pianist of German and Italian heritage, Oswald studied in Florence and later became a leading figure in Brazil's musical institutions. His refined chamber music and piano works reflect a synthesis of French and German late-Romantic influences.",
+    "works": "Il neige!; Piano Quintet in C major; Piano Trio in D minor; Symphony in E-flat major"
+  },
+  {
+    "id": "ignacy_jan_paderewski",
+    "name": "Ignacy Jan Paderewski",
+    "years": "1860–1941",
+    "birth": "1860-11-18",
+    "death": "1941-06-29",
+    "era": "Late Romantic",
+    "kind": "Pianist, composer and statesman",
+    "description": "A Polish virtuoso pianist whose international fame extended far beyond the concert hall, Paderewski was also a composer and a leading political figure in the struggle for Polish independence. He served as Poland's prime minister in 1919 and continued to perform into his later years.",
+    "works": "Piano Concerto in A minor, Op. 17; Polish Fantasy in G-sharp minor, Op. 19; Minuet in G, Op. 14 No. 1; Manru (opera)"
+  },
+  {
+    "id": "hubert_parry",
+    "name": "Hubert Parry",
+    "years": "1848–1918",
+    "birth": "1848-02-27",
+    "death": "1918-10-07",
+    "era": "Late Romantic",
+    "kind": "Composer and teacher",
+    "description": "A leading figure in the renaissance of British music, Parry was a composer, scholar and influential director of the Royal College of Music. His large-scale choral works, symphonies and songs helped establish a new confidence in British musical culture.",
+    "works": "Jerusalem; Blest Pair of Sirens; Symphony No. 3 in C major, 'The English'; Job (oratorio)"
+  },
+  {
+    "id": "gabriel_pierne",
+    "name": "Gabriel Pierné",
+    "years": "1863–1937",
+    "birth": "1863-08-16",
+    "death": "1937-07-17",
+    "era": "Late Romantic",
+    "kind": "Composer and conductor",
+    "description": "A French composer and conductor, Pierné won the Prix de Rome and later became a prominent conductor of the Concerts Colonne. His versatile output includes ballets, operas, orchestral works, chamber music and highly polished miniatures.",
+    "works": "Cydalise et le Chèvre-pied; Ramuntcho; Piano Concerto in C minor; March of the Little Lead Soldiers"
+  },
+  {
+    "id": "paul_pierne",
+    "name": "Paul Pierné",
+    "years": "1874–1952",
+    "birth": "1874-06-01",
+    "death": "1952-03-24",
+    "era": "20th Century",
+    "kind": "Composer and organist",
+    "description": "A French composer and organist, Paul Pierné was a cousin of Gabriel Pierné and worked in the Parisian musical world as a performer and teacher. His catalogue includes orchestral, chamber, piano and organ music, much of it still little known.",
+    "works": "Symphony in D minor; Organ Sonata; Concertstück for Violin and Orchestra; Chamber and piano works"
+  },
+  {
+    "id": "sergei_rachmaninoff",
+    "name": "Sergei Rachmaninoff",
+    "years": "1873–1943",
+    "birth": "1873-04-01",
+    "death": "1943-03-28",
+    "era": "Late Romantic",
+    "kind": "Composer, pianist and conductor",
+    "description": "One of the last great Romantic virtuoso-composers, Rachmaninoff combined expansive melody, rich harmony and formidable pianistic technique. Forced into exile after the Russian Revolution, he built a second career as a celebrated pianist while continuing to compose major orchestral and piano works.",
+    "works": "Piano Concertos Nos. 2 and 3; Symphony No. 2; Rhapsody on a Theme of Paganini; Isle of the Dead; All-Night Vigil"
+  },
+  {
+    "id": "max_reger",
+    "name": "Max Reger",
+    "years": "1873–1916",
+    "birth": "1873-03-19",
+    "death": "1916-05-11",
+    "era": "Late Romantic",
+    "kind": "Composer, pianist and organist",
+    "description": "A German composer and virtuoso organist, Reger developed a dense, highly chromatic style grounded in Bachian counterpoint. His enormous output spans organ music, orchestral works, chamber music, piano pieces and choral compositions.",
+    "works": "Variations and Fugue on a Theme by Mozart, Op. 132; Introduction, Passacaglia and Fugue in E minor, Op. 127; Clarinet Quintet in A major; Organ Chorales"
+  },
+  {
+    "id": "carl_reinecke",
+    "name": "Carl Reinecke",
+    "years": "1824–1910",
+    "birth": "1824-06-23",
+    "death": "1910-03-10",
+    "era": "Romantic",
+    "kind": "Composer, pianist and conductor",
+    "description": "A German composer, pianist and conductor, Reinecke spent decades directing the Leipzig Gewandhaus Orchestra and taught many important musicians at the Leipzig Conservatory. His music is rooted in Classical forms while retaining the lyricism and colour of the Romantic era.",
+    "works": "Flute Sonata 'Undine', Op. 167; Piano Concerto in F-sharp minor, Op. 72; Harp Concerto in E minor, Op. 182; Symphony No. 3 in G minor"
+  },
+  {
+    "id": "josef_rheinberger",
+    "name": "Josef Rheinberger",
+    "years": "1839–1901",
+    "birth": "1839-03-17",
+    "death": "1901-11-25",
+    "era": "Late Romantic",
+    "kind": "Composer and organist",
+    "description": "A Liechtenstein-born composer who spent most of his career in Munich, Rheinberger was a master of counterpoint and a prolific composer of sacred and instrumental music. His twenty organ sonatas remain central to the instrument's repertoire.",
+    "works": "Organ Sonata No. 4 in A minor, Op. 98; Organ Sonata No. 8 in E minor, Op. 132; Abendlied; Piano Concerto in A-flat major"
+  },
+  {
+    "id": "nikolai_rimsky_korsakov",
+    "name": "Nikolai Rimsky-Korsakov",
+    "years": "1844–1908",
+    "birth": "1844-03-18",
+    "death": "1908-06-21",
+    "era": "Romantic",
+    "kind": "Composer and teacher",
+    "description": "A member of the Russian group known as the Mighty Handful, Rimsky-Korsakov became renowned for his orchestral colour and imaginative use of folk and fairy-tale subjects. As a teacher and theorist, he profoundly influenced Russian composition, including through his treatise on orchestration.",
+    "works": "Scheherazade; Capriccio espagnol; Russian Easter Festival Overture; The Golden Cockerel; Principles of Orchestration"
+  },
+  {
+    "id": "anton_rubinstein",
+    "name": "Anton Rubinstein",
+    "years": "1829–1894",
+    "birth": "1829-11-28",
+    "death": "1894-11-20",
+    "era": "Romantic",
+    "kind": "Pianist, composer and conductor",
+    "description": "A Russian pianist and composer of extraordinary international stature, Rubinstein toured widely and founded the Saint Petersburg Conservatory in 1862. His vast output includes operas, symphonies, concertos and chamber works, though his legacy as a virtuoso pianist remains especially prominent.",
+    "works": "Melody in F, Op. 3 No. 1; Piano Concerto No. 4 in D minor; Ocean Symphony; The Demon (opera)"
+  },
+  {
+    "id": "camille_saint_saens",
+    "name": "Camille Saint-Saëns",
+    "years": "1835–1921",
+    "birth": "1835-10-09",
+    "death": "1921-12-16",
+    "era": "Late Romantic",
+    "kind": "Composer, pianist and organist",
+    "description": "A prodigious French musician whose career spanned more than seventy years, Saint-Saëns was a composer, virtuoso pianist, organist and critic. His music combines formal clarity with dazzling orchestration and an exceptional command of genres from opera to symphony.",
+    "works": "Symphony No. 3 'Organ'; Danse macabre; Carnival of the Animals; Samson et Dalila; Piano Concertos Nos. 2 and 5"
+  },
+  {
+    "id": "emil_von_sauer",
+    "name": "Emil von Sauer",
+    "years": "1862–1942",
+    "birth": "1862-10-08",
+    "death": "1942-04-27",
+    "era": "Late Romantic",
+    "kind": "Pianist, composer and teacher",
+    "description": "A German pianist and composer, Sauer studied with Liszt and became one of the leading virtuosos of his generation. His recordings preserve a direct link to the Lisztian tradition, while his own compositions include concertos, études and salon pieces.",
+    "works": "Piano Concerto No. 1 in E minor, Op. 30; Piano Concerto No. 2 in C minor, Op. 47; Concert Études; Liszt transcriptions"
+  },
+  {
+    "id": "franz_xaver_scharwenka",
+    "name": "Franz Xaver Scharwenka",
+    "years": "1850–1924",
+    "birth": "1850-01-06",
+    "death": "1924-12-08",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Polish-German pianist and composer, Scharwenka achieved international success as a virtuoso and founded influential conservatories in Berlin and New York. His music combines brilliant pianistic writing with a strong sense of melody and Polish national colour.",
+    "works": "Piano Concerto No. 1 in B-flat minor, Op. 32; Polish National Dances, Op. 3; Piano Concerto No. 4 in F minor, Op. 82; Symphony in C minor"
+  },
+  {
+    "id": "philipp_scharwenka",
+    "name": "Philipp Scharwenka",
+    "years": "1847–1917",
+    "birth": "1847-05-16",
+    "death": "1917-07-16",
+    "era": "Late Romantic",
+    "kind": "Composer and teacher",
+    "description": "A German composer and teacher, Philipp Scharwenka was the elder brother of Franz Xaver. He taught at the Scharwenka Conservatory in Berlin and wrote orchestral, chamber and piano music distinguished by a serious late-Romantic character.",
+    "works": "Symphony in D minor; Violin Concerto in G minor; Piano Trio in F-sharp minor; Dramatic Overture"
+  },
+  {
+    "id": "ernest_schelling",
+    "name": "Ernest Schelling",
+    "years": "1876–1939",
+    "birth": "1876-07-26",
+    "death": "1939-12-08",
+    "era": "20th Century",
+    "kind": "Pianist, composer and conductor",
+    "description": "An American pianist and composer, Schelling was a child prodigy who studied in Europe and later became conductor of the Baltimore Symphony Orchestra. His works include piano concertos, orchestral pieces and music for children, often combining virtuosity with vivid orchestral colour.",
+    "works": "A Victory Ball; Impressions from an Artist's Life; Piano Concerto in C-sharp minor; Moods"
+  },
+  {
+    "id": "aloys_schmitt",
+    "name": "Aloys Schmitt",
+    "years": "1788–1866",
+    "birth": "1788-08-26",
+    "death": "1866-07-25",
+    "era": "Early Romantic",
+    "kind": "Composer and pianist",
+    "description": "A German pianist, composer and teacher, Schmitt became known for his pedagogical piano works, especially exercises designed to develop finger independence and technical fluency. He also composed chamber music, concertos and orchestral works.",
+    "works": "Preparatory Exercises, Op. 16;  Exercises for the Piano; Piano Concerto in A minor; Piano Sonatas"
   }
 ]
