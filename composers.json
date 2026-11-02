@@ -11,61 +11,6 @@
     "works": "VIOLE DE GAMBE\n27 pièces pour viole seule — manuscrits de Drexel\nSonates pour viole et basse continue\nORCHESTRE\nSymphonies, op. 7 et op. 10\nConcertos pour flûte et violoncelle\nMUSIQUE DE CHAMBRE\nQuatuors et sonates"
   },
   {
-    "id": "adams",
-    "name": "John Adams",
-    "years": "1947–",
-    "birth": 1947,
-    "death": null,
-    "era": "Contemporain / Postminimalisme",
-    "kind": "person",
-    "description": "John Adams reprend les processus répétitifs du minimalisme tout en les combinant à une écriture orchestrale ample et à une dramaturgie héritée de l'opéra. Ses œuvres abordent l'histoire politique américaine, des sujets intimes et mythologiques. Il contribue à renouveler l'opéra contemporain et la musique orchestrale américaine.",
-    "works": "OPÉRAS\nNixon in China\nThe Death of Klinghoffer\nDoctor Atomic\nORCHESTRE\nHarmonielehre\nShort Ride in a Fast Machine\nNaive and Sentimental Music\nCHAMBRE\nShaker Loops"
-  },
-  {
-    "id": "albeniz",
-    "name": "Isaac Albéniz",
-    "years": "1860–1909",
-    "birth": 1860,
-    "death": 1909,
-    "era": "Romantisme tardif",
-    "kind": "person",
-    "description": "Pianiste et compositeur catalan, Isaac Albéniz contribue à renouveler la musique espagnole en intégrant les rythmes, les modes et les couleurs de la tradition populaire à une écriture pianistique héritée de Liszt et du romantisme français. Son œuvre la plus célèbre, Iberia, transforme le piano en un espace orchestral d'une grande richesse. Il compose également des opéras et de nombreuses pièces de salon, mais son héritage repose surtout sur ses œuvres de maturité.",
-    "works": "PIANO\nIberia, quatre cahiers\nSuite española, op. 47\nCantos de España, op. 232\nNavarra\nORCHESTRE ET SCÈNE\nPepita Jiménez\nMerlin — opéra inachevé"
-  },
-  {
-    "id": "alwyn",
-    "name": "William Alwyn",
-    "years": "1905–1985",
-    "birth": 1905,
-    "death": 1985,
-    "era": "XXe siècle / Royaume-Uni",
-    "kind": "person",
-    "description": "Compositeur, flûtiste et pédagogue britannique, Alwyn compose symphonies, concertos, opéras et musiques de film. Son langage évolue du néoclassicisme vers une écriture plus libre et chromatique, marquée par une grande maîtrise orchestrale. Il est l'un des compositeurs de musique de film les plus prolifiques de son pays.",
-    "works": "ORCHESTRE\nCinq symphonies\nLyra Angelica\nConcerto grosso no 3\nOPÉRAS\nMiss Julie\nThe Magic Island\nCINÉMA\nOdd Man Out\nThe Fallen Idol"
-  },
-  {
-    "id": "andriessen",
-    "name": "Louis Andriessen",
-    "years": "1939–2021",
-    "birth": 1939,
-    "death": 2021,
-    "era": "Contemporain / Postminimalisme",
-    "kind": "person",
-    "description": "Louis Andriessen est une figure centrale de la musique néerlandaise contemporaine. Son œuvre rompt avec les traditions orchestrales romantiques et sérielles pour développer un langage énergique, répétitif, politiquement engagé et nourri de jazz, de Stravinsky et de musiques populaires. Il privilégie souvent des ensembles atypiques, amplifiés, où la pulsation et la couleur instrumentale deviennent des forces structurantes. Son influence sur les scènes européennes de création a été considérable.",
-    "works": "ENSEMBLES\nDe Staat\nHoketus\nWorkers Union\nM is for Man, Music, Mozart\nOPÉRAS ET THÉÂTRE MUSICAL\nDe Materie\nWriting to Vermeer\nLa Commedia\nMUSIQUE DE CHAMBRE\nHout"
-  },
-  {
-    "id": "bacewicz",
-    "name": "Grażyna Bacewicz",
-    "years": "1909–1969",
-    "birth": 1909,
-    "death": 1969,
-    "era": "XXe siècle",
-    "kind": "person",
-    "description": "Grażyna Bacewicz est une compositrice et violoniste polonaise dont l'œuvre occupe une place majeure dans la musique du XXe siècle en Europe centrale. Formée à Varsovie et à Paris, elle développe un langage qui associe clarté néoclassique, énergie rythmique et recherches harmoniques de plus en plus audacieuses. Sa double carrière d'interprète et de compositrice nourrit une écriture instrumentale particulièrement idiomatique, notamment dans ses concertos et sa musique de chambre.",
-    "works": "ORCHESTRE\nSymphonies nos 3 à 7\nOuverture\nMUSIQUE CONCERTANTE\n7 concertos pour violon\nConcerto pour alto\nConcerto pour piano\nMUSIQUE DE CHAMBRE\n7 quatuors à cordes\nQuintette pour instruments à vent"
-  },
-  {
     "id": "cpe_bach",
     "name": "Carl Philipp Emanuel Bach",
     "years": "1714–1788",
@@ -110,28 +55,6 @@
     "works": "GUITARE SOLO\nBallads\nAida\nIMPROVISATION COLLECTIVE\nCompany — séries d'improvisations\nThe Music Improvisation Company\nÉCRITS\nImprovisation: Its Nature and Practice in Music"
   },
   {
-    "id": "bartok",
-    "name": "Béla Bartók",
-    "years": "1881–1945",
-    "birth": 1881,
-    "death": 1945,
-    "era": "Modernité",
-    "kind": "person",
-    "description": "Béla Bartók est compositeur, pianiste et ethnomusicologue. Avec Zoltán Kodály, il collecte et étudie les musiques paysannes d'Europe centrale et orientale, dont il transforme les rythmes, les modes et les structures en un langage moderne profondément personnel. Son œuvre associe énergie rythmique, rigueur formelle, recherche timbrique et puissance expressive. Il compte parmi les compositeurs majeurs du XXe siècle, aussi bien pour ses quatuors que pour ses œuvres orchestrales et pianistiques.",
-    "works": "ORCHESTRE\nLe Mandarin merveilleux\nMusique pour cordes, percussion et célesta\nConcerto pour orchestre\nConcerto pour piano no 3\nMUSIQUE DE CHAMBRE\nSix quatuors à cordes\nSonate pour deux pianos et percussion\nPIANO\nMikrokosmos\nAllegro barbaro"
-  },
-  {
-    "id": "bayle",
-    "name": "François Bayle",
-    "years": "1932–",
-    "birth": 1932,
-    "death": null,
-    "era": "Musique acousmatique",
-    "kind": "person",
-    "description": "François Bayle est un compositeur majeur de la musique acousmatique et l'un des principaux théoriciens de l'écoute spatialisée. Né à Madagascar, il rejoint le Groupe de recherches musicales de Pierre Schaeffer et développe le concept d'acousmonium, orchestre de haut-parleurs destiné à interpréter les œuvres sur support. Sa musique explore les images sonores, les espaces imaginaires et les transformations de la perception. Il a profondément contribué à l'autonomie esthétique de la création électroacoustique.",
-    "works": "CYCLES ET ŒUVRES ACOUSMATIQUES\nL'Expérience acoustique\nErosphère\nTremblement de terre très doux\nLa Forme du temps est un cercle\nThéâtre d'ombres\nMUSIQUE SPATIALISÉE\nJeîta\nMusiques pour acousmonium"
-  },
-  {
     "id": "beethoven",
     "name": "Ludwig van Beethoven",
     "years": "1770–1827",
@@ -152,17 +75,6 @@
     "kind": "person",
     "description": "Batteur et percussionniste néerlandais, Bennink associe virtuosité, humour, énergie physique et détournement des objets. Figure essentielle de la scène improvisée européenne, il collabore avec Misha Mengelberg, Brötzmann et Bailey. Mobilier et objets trouvés deviennent aussi des sources rythmiques et théâtrales.",
     "works": "ENSEMBLES\nICP Orchestra\nBrötzmann / Bennink — duos\nA Bennink in the Hand\nCOLLABORATIONS\nEnregistrements avec Misha Mengelberg et Derek Bailey"
-  },
-  {
-    "id": "berg",
-    "name": "Alban Berg",
-    "years": "1885–1935",
-    "birth": 1885,
-    "death": 1935,
-    "era": "Seconde école de Vienne",
-    "kind": "person",
-    "description": "Alban Berg associe l'héritage romantique et la radicalité du langage atonal puis dodécaphonique. Élève de Schönberg, il conserve dans sa musique une expressivité lyrique et dramatique qui rend son œuvre particulièrement singulière au sein de la Seconde école de Vienne. Ses deux opéras, Wozzeck et Lulu, comptent parmi les grandes œuvres du théâtre musical du XXe siècle. Son Concerto à la mémoire d'un ange est devenu l'un des concertos les plus joués de la modernité.",
-    "works": "OPÉRAS\nWozzeck\nLulu\nORCHESTRE\nTrois pièces pour orchestre, op. 6\nConcerto pour violon « À la mémoire d'un ange »\nMUSIQUE DE CHAMBRE\nSuite lyrique\nQuatuor à cordes, op. 3"
   },
   {
     "id": "berio",
@@ -187,17 +99,6 @@
     "works": "VIOLON\nSonates du Rosaire\nPassacaglia en sol mineur\nSonatae tam aris quam aulis servientes\nORCHESTRE\nBattalia à 10\nMUSIQUE SACRÉE\nMissa Bruxellensis"
   },
   {
-    "id": "binchois",
-    "name": "Gilles Binchois",
-    "years": "vers 1400–1460",
-    "birth": 1400,
-    "death": 1460,
-    "era": "Renaissance",
-    "kind": "person",
-    "description": "Gilles de Bins, dit Binchois, est l'une des grandes figures de l'école bourguignonne. Chantre et compositeur au service de la cour de Bourgogne, il développe un art raffiné de la chanson courtoise, caractérisé par la clarté mélodique, l'élégance des lignes et une expressivité contenue. Son œuvre sacrée témoigne également de la maîtrise contrapuntique des musiciens de son temps. Avec Dufay, il contribue à façonner le goût musical des cours européennes du XVe siècle.",
-    "works": "CHANSONS\nDe plus en plus\nTriste plaisir et douloureuse joie\nAmours et souvenir de celle\nDueil angoisseux\nMOTETS ET MUSIQUE SACRÉE\nNove cantum melodie\nMissa de plus en plus — attribution discutée"
-  },
-  {
     "id": "hildegard",
     "name": "Hildegarde de Bingen",
     "years": "1098–1179",
@@ -220,17 +121,6 @@
     "works": "MUSIQUE DE CHAMBRE\nQuintettes à cordes, op. 11 et op. 13\nQuintette en mi majeur, op. 11 n° 5 — Menuet\nQuatuors à cordes, op. 2, op. 8 et op. 32\nSextuor à cordes, op. 23\nMUSIQUE ORCHESTRALE\nSymphonie en ré mineur, op. 12 n° 4 « La casa del diavolo »\nSymphonie en do majeur, op. 37 n° 1\nMUSIQUE VOCALE\nStabat Mater, G. 532"
   },
   {
-    "id": "boismortier",
-    "name": "Joseph Bodin de Boismortier",
-    "years": "1689–1755",
-    "birth": 1689,
-    "death": 1755,
-    "era": "Baroque",
-    "kind": "person",
-    "description": "Compositeur français prolifique, Boismortier publie une quantité considérable de musique instrumentale et vocale destinée au marché domestique. Son catalogue, particulièrement riche pour la flûte, le violoncelle et les ensembles de chambre, témoigne de l'essor de la pratique musicale amateur et du goût galant.",
-    "works": "FLÛTE ET CHAMBRE\nSonates pour flûte\nConcertos pour cinq flûtes\nSix concertos pour violoncelle, op. 26\nCANTATES\nCantates françaises\nTHÉÂTRE\nDon Quichotte chez la duchesse"
-  },
-  {
     "id": "braxton",
     "name": "Anthony Braxton",
     "years": "1945–",
@@ -240,17 +130,6 @@
     "kind": "person",
     "description": "Anthony Braxton est saxophoniste, improvisateur, pédagogue et compositeur. Formé dans les scènes expérimentales de Chicago, il participe à l'Association for the Advancement of Creative Musicians (AACM), qui défend une autonomie esthétique et institutionnelle pour les musiciens afro-américains. Son travail dépasse les catégories du jazz : il développe un système très vaste de compositions, de langages graphiques, de diagrammes et de structures improvisées. Les Ghost Trance Musics, les compositions pour orchestres et ses opéras cycliques témoignent d'une pensée à la fois systématique et ouverte, où l'improvisation, la notation et la collaboration sont étroitement articulées.",
     "works": "SAXOPHONE ET SOLO\nFor Alto (1969)\nFor Trio\nComposition 6E\nMUSIQUES COLLECTIVES\nCreative Orchestra Music 1976\nFour Compositions (GTM) 2003\n3 Compositions of New Jazz\nGHOST TRANCE MUSIC\nGhost Trance Music — séries de compositions\nDIAMOND CURTAIN WALL TRIO\nThe Complete Arista Recordings\nOpéras du cycle Trillium — notamment Trillium J"
-  },
-  {
-    "id": "britten",
-    "name": "Benjamin Britten",
-    "years": "1913–1976",
-    "birth": 1913,
-    "death": 1976,
-    "era": "XXe siècle / Royaume-Uni",
-    "kind": "person",
-    "description": "Britten renouvelle le théâtre musical par une écriture vocale précise, une orchestration transparente et une grande attention à la psychologie des personnages. Pacifiste, il aborde violence, exclusion et responsabilité morale. Il fonde le festival d'Aldeburgh, devenu un lieu essentiel de la vie musicale britannique.",
-    "works": "OPÉRAS\nPeter Grimes\nThe Turn of the Screw\nBilly Budd\nDeath in Venice\nORCHESTRE ET VOIX\nWar Requiem\nLes Illuminations\nSerenade for Tenor, Horn and Strings"
   },
   {
     "id": "broetzmann",
@@ -273,28 +152,6 @@
     "kind": "person",
     "description": "Organiste à Lübeck, Buxtehude attire des musiciens de toute l'Europe, dont le jeune Bach. Ses préludes, fugues, chorals et cantates associent liberté improvisatoire, architecture contrapuntique et expressivité rhétorique. Ses Abendmusiken contribuent à l'histoire du concert public en Allemagne du Nord.",
     "works": "ORGUE\nPréludes et fugues\nPassacaille en ré mineur\nToccatas et chorals\nMUSIQUE VOCALE\nMembra Jesu nostri\nCantates sacrées\nAbendmusiken\nMUSIQUE DE CHAMBRE\nSonates en trio"
-  },
-  {
-    "id": "byrd",
-    "name": "William Byrd",
-    "years": "vers 1540–1623",
-    "birth": 1540,
-    "death": 1623,
-    "era": "Renaissance tardive",
-    "kind": "person",
-    "description": "William Byrd est l'un des plus grands compositeurs anglais de la Renaissance. Malgré les tensions confessionnelles de l'Angleterre élisabéthaine, il compose pour les institutions anglicanes comme pour les communautés catholiques clandestines. Son œuvre embrasse la musique vocale sacrée et profane, le clavier et la musique de consort. Il associe une science contrapuntique exceptionnelle à une expressivité parfois sombre, particulièrement sensible dans ses motets latins et ses pièces pour clavier.",
-    "works": "MUSIQUE VOCALE\nMass for Four Voices\nMass for Five Voices\nGradualia\nCantiones sacrae\nMUSIQUE POUR CLAVIER\nMy Ladye Nevells Booke\nThe Fitzwilliam Virginal Book — pièces attribuées\nMUSIQUE DE CONSORT\nIn Nomine — pièces pour violes"
-  },
-  {
-    "id": "francesca_caccini",
-    "name": "Francesca Caccini",
-    "years": "1587–1641",
-    "birth": 1587,
-    "death": 1641,
-    "era": "Premier baroque",
-    "kind": "person",
-    "description": "Francesca Caccini, dite la Cecchina, est compositrice, chanteuse et instrumentiste à la cour des Médicis à Florence. Fille de Giulio Caccini, elle devient l'une des musiciennes les plus remarquables de son temps et participe activement à l'invention du théâtre musical baroque. Son opéra La liberazione di Ruggiero dall'isola d'Alcina, créé en 1625, est le plus ancien opéra connu composé par une femme. Son activité témoigne de la place réelle, quoique souvent effacée, des femmes dans les institutions musicales de cour.",
-    "works": "OPÉRA\nLa liberazione di Ruggiero dall'isola d'Alcina (1625)\nMUSIQUE VOCALE\nIl primo libro delle musiche (1618)\nMadrigaux, arias et motets\nBALLET ET MUSIQUE DE COUR\nCompositions pour les spectacles des Médicis"
   },
   {
     "id": "caccini_giulio",
@@ -341,17 +198,6 @@
     "works": "OPÉRAS\nLa Calisto\nGiasone\nErismena\nL'Ormindo\nStatira\nMUSIQUE SACRÉE\nVespro della Beata Vergine"
   },
   {
-    "id": "cesti",
-    "name": "Antonio Cesti",
-    "years": "1623–1669",
-    "birth": 1623,
-    "death": 1669,
-    "era": "Baroque",
-    "kind": "person",
-    "description": "Compositeur et chanteur actif dans les cours italiennes et à Vienne, Cesti est une grande figure de l'opéra du milieu du XVIIe siècle. Ses ouvrages associent virtuosité vocale, sens de la scène et expressivité mélodique. Ses cantates témoignent de l'évolution de la monodie baroque.",
-    "works": "OPÉRAS\nL'Orontea\nIl pomo d'oro\nLa Dori\nArgia\nMUSIQUE VOCALE\nCantates de chambre\nArias et duos"
-  },
-  {
     "id": "chavez",
     "name": "Carlos Chávez",
     "years": "1899–1978",
@@ -363,17 +209,6 @@
     "works": "ORCHESTRE\nSinfonía india\nSinfonía de Antígona\nSinfonía romántica\nSinfonía proletaria\nCONCERTOS\nConcerto pour piano\nConcerto pour violon\nBALLET\nH.P. (Horsepower)"
   },
   {
-    "id": "doncherry",
-    "name": "Don Cherry",
-    "years": "1936–1995",
-    "birth": 1936,
-    "death": 1995,
-    "era": "Free jazz / Musiques du monde",
-    "kind": "person",
-    "description": "Trompettiste américain, Cherry est un pionnier du free jazz et un explorateur des musiques du monde. Après sa collaboration avec Ornette Coleman, il développe une pratique où instruments, rythmes et traditions de plusieurs continents se rencontrent. Sa recherche de musique universelle repose sur des formes collectives et des circulations entre cultures.",
-    "works": "JAZZ ET IMPROVISATION\nComplete Communion\nSymphony for Improvisers\nWhere Is Brooklyn?\nMU — First Part\nMUSIQUE DU MONDE\nBrown Rice\nCodona"
-  },
-  {
     "id": "cherubini",
     "name": "Luigi Cherubini",
     "years": "1760–1842",
@@ -383,17 +218,6 @@
     "kind": "person",
     "description": "Né à Florence, Luigi Cherubini étudie en Italie avant de s'installer à Paris en 1788. Il y devient une figure centrale de la vie musicale, traverse la Révolution et l'Empire, puis dirige le Conservatoire de Paris de 1822 à 1842. Son style associe la tradition contrapuntique italienne à une conception dramatique héritée de [[gluck|Gluck]] et de l'opéra français. Ses opéras, notamment Médée, sont admirés pour leur tension et leur écriture vocale exigeante. Il compose également une œuvre sacrée considérable, dont les messes et les requiems sont longtemps tenus en très haute estime.",
     "works": "OPÉRAS\nMédée (Medea)\nLes deux journées ou Le porteur d'eau\nLodoïska\nFaniska\nAli-Baba\nMUSIQUE SACRÉE\nRequiem en ut mineur\nRequiem en ré mineur\nMesse solennelle en fa majeur\nMUSIQUE INSTRUMENTALE\nQuatuors à cordes nos 1 à 6"
-  },
-  {
-    "id": "unsuk_chin",
-    "name": "Unsuk Chin",
-    "years": "1961–",
-    "birth": 1961,
-    "death": null,
-    "era": "Contemporain",
-    "kind": "person",
-    "description": "Unsuk Chin est une compositrice sud-coréenne installée en Allemagne, dont l'œuvre conjugue virtuosité instrumentale, imagination timbrique et raffinement spectral. Élève de György Ligeti, elle développe un langage très personnel, marqué par la fluidité des textures, les jeux de perception et une énergie souvent jubilatoire. Ses opéras, concertos et œuvres orchestrales témoignent d'une maîtrise exceptionnelle de l'écriture contemporaine et d'un imaginaire sonore foisonnant.",
-    "works": "ORCHESTRE\nRocaná\nGraffiti\nLe Silence des sirènes\nMUSIQUE CONCERTANTE\nConcerto pour violon\nConcerto pour piano\nOPÉRA\nAlice in Wonderland\nMUSIQUE DE CHAMBRE\nFantaisie mécanique"
   },
   {
     "id": "chion",
@@ -416,17 +240,6 @@
     "kind": "person",
     "description": "Né à Żelazowa Wola près de Varsovie, Frédéric Chopin quitte la Pologne en 1830 et s'établit à Paris, où il devient une figure centrale de la vie musicale et des salons. Il compose presque exclusivement pour le piano, mais renouvelle profondément son langage : la virtuosité devient expression, la danse se transforme en forme poétique et l'harmonie s'aventure vers des couleurs nouvelles. Les mazurkas et polonaises entretiennent un lien complexe avec les rythmes et les souvenirs de son pays natal. Sa relation avec George Sand marque une longue période de création, notamment à Nohant. Sa musique a durablement redéfini la technique et la poésie pianistiques.",
     "works": "FORMES BRÈVES\nNocturnes, notamment op. 9, op. 27 et op. 48\nMazurkas, notamment op. 17 et op. 24\nPolonaises, notamment op. 44 et op. 53\nValses, notamment la Valse en do dièse mineur, op. 64 n° 2\nÉTUDES ET PRÉLUDES\nÉtudes op. 10 et op. 25\n24 Préludes, op. 28\nGRANDES FORMES\nBallades nos 1 à 4\nSonate n° 2 en si bémol mineur, op. 35\nConcerto pour piano n° 1, op. 11"
-  },
-  {
-    "id": "shostakovich",
-    "name": "Dmitri Chostakovitch",
-    "years": "1906–1975",
-    "birth": 1906,
-    "death": 1975,
-    "era": "XXe siècle",
-    "kind": "person",
-    "description": "Dmitri Chostakovitch compose dans un contexte politique où la création musicale soviétique est soumise à des injonctions idéologiques et à la censure. Son œuvre oscille entre satire, tragédie, lyrisme et violence, avec une ambiguïté expressive qui a nourri de nombreux débats. Ses quinze symphonies et ses quinze quatuors forment un vaste journal musical du siècle, tandis que ses opéras et concertos révèlent une inventivité orchestrale et instrumentale exceptionnelle.",
-    "works": "SYMPHONIES\nSymphonies nos 1 à 15\nMUSIQUE DE CHAMBRE\nQuatuors à cordes nos 1 à 15\nTrio avec piano no 2\nMUSIQUE CONCERTANTE\nConcertos pour piano, violon et violoncelle\nOPÉRAS\nLady Macbeth du district de Mtsensk\nLe Nez"
   },
   {
     "id": "ciconia",
@@ -462,17 +275,6 @@
     "works": "PIANO\nSonates pour piano, op. 2, op. 7, op. 13 et op. 40\nSonate en si bémol majeur, op. 24 n° 2\nSonate en fa dièse mineur, op. 25 n° 5\nGradus ad Parnassum, op. 44\nMUSIQUE ORCHESTRALE\nSymphonies en sol mineur et ré majeur\nConcertos pour piano"
   },
   {
-    "id": "alicecoltrane",
-    "name": "Alice Coltrane",
-    "years": "1937–2007",
-    "birth": 1937,
-    "death": 2007,
-    "era": "Jazz spirituel / Avant-garde",
-    "kind": "person",
-    "description": "Pianiste, harpiste et compositrice, Alice Coltrane développe une œuvre personnelle où harpe, piano, orgue, cordes et instruments indiens participent à une musique méditative et visionnaire. Sa recherche spirituelle transforme les formes du jazz en espaces de contemplation et d'élévation.",
-    "works": "ALBUMS ET CYCLES\nA Monastic Trio\nJourney in Satchidananda\nPtah, the El Daoud\nUniversal Consciousness\nWorld Galaxy\nTransfiguration"
-  },
-  {
     "id": "couperin",
     "name": "François Couperin",
     "years": "1668–1733",
@@ -482,17 +284,6 @@
     "kind": "person",
     "description": "Surnommé « le Grand », François Couperin est une figure majeure de la musique française du règne de Louis XIV. Organiste et claveciniste, il cherche à réunir les goûts français et italien. Ses pièces de clavecin associent raffinement ornemental, observation psychologique et liberté formelle. Son Art de toucher le clavecin demeure un document fondamental.",
     "works": "CLAVECIN\nQuatre livres de pièces de clavecin\nLes Barricades mystérieuses\nLes Bergeries\nLe Rossignol en amour\nMUSIQUE DE CHAMBRE\nConcerts royaux\nLes Nations\nMUSIQUE SACRÉE\nLeçons de ténèbres"
-  },
-  {
-    "id": "crumb",
-    "name": "George Crumb",
-    "years": "1929–2022",
-    "birth": 1929,
-    "death": 2022,
-    "era": "Contemporain / Théâtre instrumental",
-    "kind": "person",
-    "description": "Crumb explore les sonorités étendues, les symboles, les espaces scéniques et les résonances de la musique ancienne. Il transforme les instruments traditionnels par des modes de jeu inhabituels, des dispositifs de percussion et des notations visuelles. Sa musique renouvelle la relation entre son, geste et espace.",
-    "works": "MUSIQUE DE CHAMBRE\nBlack Angels\nMakrokosmos I et II\nAncient Voices of Children\nVOIX\nSongs, Drones and Refrains of Death\nApparition\nORCHESTRE\nA Haunted Landscape"
   },
   {
     "id": "debussy",
@@ -506,39 +297,6 @@
     "works": "ORCHESTRE\nPrélude à l'après-midi d'un faune\nNocturnes\nLa Mer\nImages pour orchestre\nBALLET ET OPÉRA\nPelléas et Mélisande\nJeux\nPIANO\nSuite bergamasque — dont Clair de lune\nEstampes\nImages, livres I et II\nPréludes, livres I et II\nCHAMBRE\nQuatuor à cordes en sol mineur, op. 10\nSonate pour violoncelle et piano"
   },
   {
-    "id": "delius",
-    "name": "Frederick Delius",
-    "years": "1862–1934",
-    "birth": 1862,
-    "death": 1934,
-    "era": "Romantisme tardif",
-    "kind": "person",
-    "description": "Delius développe une musique sensuelle, aux textures orchestrales fluides et à la temporalité contemplative. Après avoir vécu en Floride et en Allemagne, il s'établit en France. Sa musique, souvent liée à la nature et aux paysages, échappe aux formes dramatiques traditionnelles au profit d'une continuité sonore singulière.",
-    "works": "ORCHESTRE\nOn Hearing the First Cuckoo in Spring\nA Song of Summer\nBrigg Fair\nVOIX\nSea Drift\nA Mass of Life\nSongs of Farewell\nOPÉRA\nA Village Romeo and Juliet"
-  },
-  {
-    "id": "devienne",
-    "name": "François Devienne",
-    "years": "1759–1803",
-    "birth": 1759,
-    "death": 1803,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Flûtiste, bassoniste et compositeur français, François Devienne joue un rôle essentiel dans l'essor de l'école française des instruments à vent. Membre de la Garde nationale et professeur au Conservatoire de Paris, il compose une musique abondante pour flûte, basson et ensembles à vent. Ses concertos et sonates conjuguent virtuosité, élégance et clarté formelle, tout en documentant le répertoire instrumental de la fin du XVIIIe siècle.",
-    "works": "FLÛTE\nConcertos pour flûte nos 1 à 14\nSonates pour flûte et basse\nBASSON\nConcertos pour basson\nSonates pour basson\nOPÉRA\nLes visitandines"
-  },
-  {
-    "id": "dikshitar",
-    "name": "Muthuswami Dikshitar",
-    "years": "1775–1835",
-    "birth": 1775,
-    "death": 1835,
-    "era": "Musique carnatique",
-    "kind": "person",
-    "description": "Dikshitar est l'un des trois grands compositeurs de la tradition carnatique. Sa musique se distingue par une écriture mélodique élaborée, une grande richesse modale et des références à la mythologie et aux lieux sacrés. Ses compositions lentes et majestueuses offrent un vaste espace à l'ornementation et à l'exploration du raga.",
-    "works": "KRITIS\nVatapi Ganapatim\nSri Subrahmanyaya Namaste\nMeenakshi Memudam\nAkshaya Linga Vibho\nNAVAGRAHA KRITIS"
-  },
-  {
     "id": "dowland",
     "name": "John Dowland",
     "years": "1563–1626",
@@ -548,17 +306,6 @@
     "kind": "person",
     "description": "John Dowland est le grand maître anglais du luth et de la chanson accompagnée. Sa carrière le conduit dans plusieurs cours européennes. Ses ayres explorent mélancolie, absence et désir, tandis que ses pièces pour luth associent raffinement contrapuntique et expressivité intimiste. Flow my tears devient l'une des mélodies les plus célèbres de son temps.",
     "works": "AYRES\nFlow my tears\nCome again\nIn darkness let me dwell\nFine knacks for ladies\nLUTH\nLachrimae, or Seaven Teares\nThe King of Denmark's Galliard"
-  },
-  {
-    "id": "dufay",
-    "name": "Guillaume Dufay",
-    "years": "vers 1397–1474",
-    "birth": 1397,
-    "death": 1474,
-    "era": "Renaissance",
-    "kind": "person",
-    "description": "Guillaume Dufay est l'un des compositeurs majeurs du XVe siècle et une figure centrale de la première Renaissance musicale. Sa carrière le conduit entre Cambrai, l'Italie et les cours princières, dans un réseau européen de circulation des musiciens. Il assimile les traditions anglaises, françaises et italiennes, et contribue à renouveler la messe cyclique, le motet isorythmique et la chanson. Son langage associe architecture contrapuntique, équilibre des proportions et sens remarquable de la ligne mélodique.",
-    "works": "MESSES\nMissa Se la face ay pale\nMissa L'homme armé\nMissa Ecce ancilla Domini\nMOTETS\nNuper rosarum flores\nAve regina caelorum\nCHANSONS\nAdieu m'amour\nSe la face ay pale"
   },
   {
     "id": "dufour",
@@ -572,61 +319,6 @@
     "works": "ACOUSMATIQUE\nLa vie en prose\nLe caillou\nLes heures bleues\nMUSIQUE MIXTE\nŒuvres pour instruments et bande\nRADIO\nPièces et réalisations radiophoniques"
   },
   {
-    "id": "tan_dun",
-    "name": "Tan Dun",
-    "years": "1957–",
-    "birth": 1957,
-    "death": null,
-    "era": "Contemporain",
-    "kind": "person",
-    "description": "Tan Dun est un compositeur chinois dont l'œuvre mêle traditions musicales asiatiques, techniques occidentales, théâtre rituel et dispositifs multimédias. Formé à Pékin puis à New York, il développe une esthétique où les matériaux naturels, l'eau, le papier et la pierre deviennent des sources sonores et des éléments dramaturgiques. Ses opéras, concertos et œuvres orchestrales interrogent les échanges culturels et les formes de transmission entre traditions.",
-    "works": "ORCHESTRE ET CONCERTOS\nWater Concerto\nPaper Concerto\nEarth Concerto\nInternet Symphony\nOPÉRAS\nMarco Polo\nThe First Emperor\nTELEVISION ET CINÉMA\nCrouching Tiger, Hidden Dragon"
-  },
-  {
-    "id": "dunstable",
-    "name": "John Dunstable",
-    "years": "vers 1390–1453",
-    "birth": 1390,
-    "death": 1453,
-    "era": "Moyen Âge tardif / Renaissance",
-    "kind": "person",
-    "description": "Compositeur anglais dont l'œuvre marque un tournant dans l'histoire de la polyphonie européenne. Peu de partitions nous sont parvenues, mais son influence fut considérable sur les musiciens du continent, notamment dans les territoires bourguignons. Son écriture privilégie une consonance souple, nourrie par l'usage des tierces et des sixtes, qui contribue à l'émergence du langage sonore de la Renaissance. Il incarne les échanges musicaux entre l'Angleterre et le continent au début du XVe siècle.",
-    "works": "MOTETS ET PIÈCES SACRÉES\nQuam pulchra es\nVeni sancte spiritus / Veni creator\nPreco preheminencie\nMesse à trois voix — fragments attribués"
-  },
-  {
-    "id": "dvorak",
-    "name": "Antonín Dvořák",
-    "years": "1841–1904",
-    "birth": 1841,
-    "death": 1904,
-    "era": "Romantisme",
-    "kind": "person",
-    "description": "Dvořák transforme les rythmes et idiomes populaires de Bohême en un langage orchestral riche, sans se limiter au folklore. Sa carrière le conduit à New York, où il dirige le Conservatoire national et compose sa Symphonie du Nouveau Monde. Son œuvre comprend symphonies, concertos, opéras et musique de chambre.",
-    "works": "SYMPHONIES\nSymphonie no 9 « Du Nouveau Monde »\nSymphonie no 7\nSymphonie no 8\nCHAMBRE\nQuatuor « Américain »\nDumky Trio\nOPÉRA\nRusalka\nSACRÉ\nStabat Mater\nRequiem"
-  },
-  {
-    "id": "elgar",
-    "name": "Edward Elgar",
-    "years": "1857–1934",
-    "birth": 1857,
-    "death": 1934,
-    "era": "Romantisme tardif",
-    "kind": "person",
-    "description": "Elgar est l'un des compositeurs britanniques majeurs du tournant des XIXe et XXe siècles. Issu d'un milieu provincial et largement autodidacte, il impose une musique orchestrale d'une grande maîtrise, marquée par noblesse mélodique et sophistication contrapuntique. Ses Variations Enigma et ses concertos sont devenus des piliers du répertoire.",
-    "works": "ORCHESTRE\nVariations Enigma\nSymphonie no 1\nSymphonie no 2\nCockaigne\nCONCERTOS\nConcerto pour violoncelle\nConcerto pour violon\nORATORIO\nThe Dream of Gerontius"
-  },
-  {
-    "id": "ellington",
-    "name": "Duke Ellington",
-    "years": "1899–1974",
-    "birth": 1899,
-    "death": 1974,
-    "era": "Jazz / Composition",
-    "kind": "person",
-    "description": "Ellington est l'un des plus grands compositeurs et chefs d'orchestre du XXe siècle. Son écriture s'appuie sur les personnalités sonores de ses musiciens et transforme le big band en laboratoire de composition. Il mêle blues, formes classiques, musique de danse et suites ambitieuses dans un catalogue immense.",
-    "works": "SUITES\nBlack, Brown and Beige\nSuch Sweet Thunder\nThe Far East Suite\nThe Afro-Eurasian Eclipse\nCOMPOSITIONS\nMood Indigo\nSophisticated Lady\nIn a Sentimental Mood\nCaravan"
-  },
-  {
     "id": "eloy",
     "name": "Jean-Claude Éloy",
     "years": "1938–",
@@ -636,28 +328,6 @@
     "kind": "person",
     "description": "Formé auprès de Messiaen et de Boulez, Éloy explore les grandes durées, les espaces sonores et les traditions vocales extra-européennes. Il développe une musique associant orchestre, électronique, voix et dispositifs spatialisés, où rituel, perception et temporalité sont étroitement liés.",
     "works": "ÉLECTRONIQUE\nShânti\nGaku-no-Michi\nYo-In\nAnâhata\nORCHESTRE\nFaisceaux-Diffractions"
-  },
-  {
-    "id": "louise_farrenc",
-    "name": "Louise Farrenc",
-    "years": "1804–1875",
-    "birth": 1804,
-    "death": 1875,
-    "era": "Romantisme",
-    "kind": "person",
-    "description": "Louise Farrenc est une compositrice, pianiste et pédagogue française dont la carrière se déploie dans un milieu musical largement dominé par les hommes. Professeure de piano au Conservatoire de Paris pendant près de trente ans, elle obtient finalement l'égalité de rémunération avec ses collègues masculins. Ses symphonies, ouvertures et œuvres de chambre témoignent d'une maîtrise remarquable des formes classiques et d'une personnalité romantique affirmée. Sa musique de chambre a été particulièrement redécouverte depuis la fin du XXe siècle.",
-    "works": "ORCHESTRE\nSymphonies nos 1, 2 et 3\nOuvertures nos 1 à 3\nMUSIQUE DE CHAMBRE\nNonette en mi bémol majeur, op. 38\nTrio pour clarinette, violoncelle et piano, op. 44\nQuintettes avec piano, op. 30 et 31\nPIANO\nÉtudes, op. 26"
-  },
-  {
-    "id": "fasch",
-    "name": "Johann Friedrich Fasch",
-    "years": "1688–1758",
-    "birth": 1688,
-    "death": 1758,
-    "era": "Baroque tardif",
-    "kind": "person",
-    "description": "Fasch est un compositeur allemand apprécié de ses contemporains pour ses œuvres orchestrales et sacrées. Maître de chapelle à Zerbst, il compose ouvertures, concertos et cantates dans un style de transition entre baroque tardif et sensibilités galantes. Ses partitions circulent largement et sont connues de Bach.",
-    "works": "ORCHESTRE\nOuvertures et suites orchestrales\nConcertos pour hautbois, trompette et cordes\nMUSIQUE SACRÉE\nCantates et passions\nMUSIQUE DE CHAMBRE\nSonates en trio"
   },
   {
     "id": "feldman",
@@ -693,17 +363,6 @@
     "works": "ACOUSMATIQUE\nDemeures aquatiques\nCanto del loco\nL'autre rive\nLes larmes de l'inconnu\nMédisances"
   },
   {
-    "id": "finzi",
-    "name": "Gerald Finzi",
-    "years": "1901–1956",
-    "birth": 1901,
-    "death": 1956,
-    "era": "XXe siècle / Royaume-Uni",
-    "kind": "person",
-    "description": "Finzi développe une œuvre lyrique et mélancolique, attentive au texte et à la subtilité harmonique. Il compose principalement des œuvres vocales, cycles de mélodies et partitions orchestrales. Son langage personnel se nourrit de la poésie anglaise et d'une sensibilité à la fragilité du temps et de la mémoire.",
-    "works": "VOIX\nDies natalis\nLet us garlands bring\nEarth and Air and Rain\nIn terra pax\nORCHESTRE\nEclogue\nIntroit\nClarinet Concerto"
-  },
-  {
     "id": "frescobaldi",
     "name": "Girolamo Frescobaldi",
     "years": "1583–1643",
@@ -713,39 +372,6 @@
     "kind": "person",
     "description": "Organiste de Saint-Pierre de Rome, Frescobaldi transforme les formes instrumentales héritées de la Renaissance en espaces d'expérimentation rythmique et expressive. Ses toccatas, ricercari, capricci et partitas jouent sur les contrastes, la liberté du tempo et les transformations thématiques. Son influence s'étend jusqu'à Froberger et Bach.",
     "works": "CLAVIER\nToccate e partite d'intavolatura di cimbalo\nFiori musicali\nIl primo libro di capricci\nRicercari et canzoni franzese\nMUSIQUE SACRÉE\nPièces liturgiques pour orgue"
-  },
-  {
-    "id": "galuppi",
-    "name": "Baldassare Galuppi",
-    "years": "1706–1785",
-    "birth": 1706,
-    "death": 1785,
-    "era": "Baroque / Classicisme",
-    "kind": "person",
-    "description": "Surnommé Il Buranello, Galuppi est une figure centrale de l'opéra buffa vénitien. Ses collaborations avec Goldoni donnent naissance à un théâtre musical fondé sur la vivacité des situations et la caractérisation des personnages. Il travaille également à Londres et à Saint-Pétersbourg, contribuant à la diffusion de l'opéra italien.",
-    "works": "OPÉRAS\nIl filosofo di campagna\nIl mondo della luna\nLa diavolessa\nL'inimico delle donne\nMUSIQUE SACRÉE\nMesses et motets\nCLAVECIN\nSonates"
-  },
-  {
-    "id": "gerhard",
-    "name": "Roberto Gerhard",
-    "years": "1896–1970",
-    "birth": 1896,
-    "death": 1970,
-    "era": "Modernité / Catalogne",
-    "kind": "person",
-    "description": "Compositeur catalan, élève de Schönberg, Gerhard relie nationalisme musical, sérialisme et avant-garde électronique. Exilé au Royaume-Uni après la guerre civile espagnole, il développe une œuvre où traditions ibériques et techniques modernes se transforment mutuellement. Il compte parmi les pionniers de la musique électronique britannique.",
-    "works": "ORCHESTRE\nSymphonies nos 1 à 4\nConcerto pour orchestre\nÉLECTRONIQUE\nAudiomobiles\nMUSIQUE DE SCÈNE\nCaligula\nBALLET\nDon Quixote"
-  },
-  {
-    "id": "gesualdo",
-    "name": "Carlo Gesualdo",
-    "years": "vers 1566–1613",
-    "birth": 1566,
-    "death": 1613,
-    "era": "Renaissance tardive / Premier baroque",
-    "kind": "person",
-    "description": "Prince de Venosa et compositeur, Carlo Gesualdo est célèbre pour ses madrigaux d'une intensité expressive singulière. Son langage chromatique, ses ruptures harmoniques et ses contrastes abrupts semblent parfois anticiper des sensibilités bien postérieures. Cette modernité ne doit pas faire oublier son inscription dans la culture maniériste de la fin du XVIe siècle. Ses livres de madrigaux et ses répons de la Semaine sainte constituent le cœur d'une œuvre aussi radicale que profondément liée à son époque.",
-    "works": "MADRIGAUX\nMadrigali, livres I à VI\nMoro, lasso, al mio duolo\nBeltà, poi che t'assenti\nMUSIQUE SACRÉE\nTenebrae Responsoria (1611)\nSacrae Cantiones\nMesses et motets"
   },
   {
     "id": "ginastera",
@@ -770,17 +396,6 @@
     "works": "PIANO ET GUITARE\nDança das cabeças\nFrevo\nPalhaço\nCircense\nCOLLABORATIONS\nEnregistrements avec Naná Vasconcelos\nMUSIQUE D'ENSEMBLE\nŒuvres pour orchestre et ensemble"
   },
   {
-    "id": "glass",
-    "name": "Philip Glass",
-    "years": "1937–",
-    "birth": 1937,
-    "death": null,
-    "era": "Minimalisme",
-    "kind": "person",
-    "description": "Philip Glass est l'une des figures les plus connues du minimalisme américain. Son langage repose sur des motifs répétitifs, des progressions harmoniques cycliques et des processus d'accumulation qui créent une perception singulière du temps. Formé notamment à Paris auprès de Nadia Boulanger, il s'intéresse aussi aux musiques non occidentales et collabore avec des artistes de théâtre, de danse et de cinéma. Son œuvre comprend opéras, symphonies, musique de chambre et bandes originales.",
-    "works": "OPÉRAS\nEinstein on the Beach\nSatyagraha\nAkhnaten\nThe Voyage\nORCHESTRE\nGlassworks\nSymphonies nos 1 à 15\nMUSIQUE DE FILM\nKoyaanisqatsi\nMishima\nThe Hours"
-  },
-  {
     "id": "gluck",
     "name": "Christoph Willibald Gluck",
     "years": "1714–1787",
@@ -803,28 +418,6 @@
     "works": "SYMPHONIES\nSymphonies, op. 4, op. 5 et op. 6\nSix symphonies à grand orchestre, op. 12\nMUSIQUE RÉVOLUTIONNAIRE ET CIVIQUE\nTe Deum (1790)\nLe Chant du 14 juillet\nHymne à l'Être suprême\nOPÉRAS ET BALLETS\nLe tonnelier\nThésée\nSabinus\nLa fête de village"
   },
   {
-    "id": "goubaidoulina",
-    "name": "Sofia Goubaïdoulina",
-    "years": "1931–2025",
-    "birth": 1931,
-    "death": 2025,
-    "era": "Contemporain",
-    "kind": "person",
-    "description": "Sofia Goubaïdoulina est une compositrice russo-tatare dont l'œuvre explore les tensions entre matière sonore, spiritualité, symbolisme et expérimentation. Formée à Kazan puis à Moscou, elle développe un langage personnel qui mobilise des instruments rares, des dispositifs inhabituels et des structures symboliques. Son œuvre concertante, notamment pour violon, violoncelle et accordéon, se distingue par une intensité dramatique et une recherche constante de nouvelles couleurs.",
-    "works": "ORCHESTRE\nOffertorium\nIn tempus praesens\nThe Light of the End\nMUSIQUE CONCERTANTE\nConcerto pour violon Offertorium\nFachwerk\nSieben Worte\nMUSIQUE DE CHAMBRE\nDe profundis\nIn croce"
-  },
-  {
-    "id": "granados",
-    "name": "Enrique Granados",
-    "years": "1867–1916",
-    "birth": 1867,
-    "death": 1916,
-    "era": "Romantisme tardif",
-    "kind": "person",
-    "description": "Compositeur et pianiste espagnol, Enrique Granados développe une œuvre profondément liée à la culture musicale de son pays, mais ouverte aux influences du romantisme européen. Ses Goyescas, inspirées par l'univers pictural de Goya, associent virtuosité pianistique, raffinement harmonique et évocation historique. Il compose aussi des chansons, de la musique de chambre et des ouvrages lyriques. Il meurt lors du torpillage du navire qui le ramène d'Amérique en 1916.",
-    "works": "PIANO\nGoyescas\nDanzas españolas\nEscenas románticas\nMUSIQUE VOCALE\nTonadillas en estilo antiguo\nMUSIQUE SCÉNIQUE\nGoyescas, opéra\nMaría del Carmen"
-  },
-  {
     "id": "gretry",
     "name": "André Grétry",
     "years": "1741–1813",
@@ -836,17 +429,6 @@
     "works": "OPÉRAS-COMIQUES\nZémire et Azor\nRichard Cœur-de-lion\nL'épreuve villageoise\nLe tableau parlant\nRaoul Barbe-Bleue\nGuillaume Tell\nÉCRITS\nMémoires ou essais sur la musique"
   },
   {
-    "id": "grisey",
-    "name": "Gérard Grisey",
-    "years": "1946–1998",
-    "birth": 1946,
-    "death": 1998,
-    "era": "Musique spectrale / Contemporain",
-    "kind": "person",
-    "description": "Gérard Grisey est l'une des figures fondatrices de la musique spectrale. Son travail s'appuie sur l'écoute et l'analyse des phénomènes acoustiques, envisagés comme des processus vivants qui déterminent la forme musicale. Il explore les transformations du timbre, les seuils entre son et bruit, ainsi que les dilatations et contractions du temps. Les Espaces acoustiques constituent un cycle majeur qui renouvelle le rapport entre écriture, perception et phénomènes physiques.",
-    "works": "CYCLE\nLes Espaces acoustiques\nPartiels\nPériodes\nModulations\nTransitoires\nLe Temps et l'Écume\nTalea\nVortex temporum"
-  },
-  {
     "id": "handel",
     "name": "Georg Friedrich Händel",
     "years": "1685–1759",
@@ -856,28 +438,6 @@
     "kind": "person",
     "description": "Né à Halle, formé en Allemagne et en Italie, Georg Friedrich Händel s'établit à Londres où il devient l'une des figures majeures de la vie musicale. Il connaît d'abord le succès avec l'opéra italien, puis réoriente sa carrière vers l'oratorio en langue anglaise, genre dans lequel il trouve un public considérable. Son écriture associe sens du théâtre, puissance chorale et efficacité mélodique. Comme son contemporain [[bach|Johann Sebastian Bach]], il maîtrise le contrepoint baroque, mais son langage privilégie souvent la lisibilité dramatique et l'ampleur vocale. Il compose également une importante musique orchestrale et instrumentale.",
     "works": "OPÉRAS\nGiulio Cesare in Egitto\nAlcina\nRinaldo\nSerse — avec l'aria Ombra mai fu\nORATORIOS\nMessiah\nIsrael in Egypt\nJudas Maccabaeus\nTheodora\nMUSIQUE ORCHESTRALE\nWater Music\nMusic for the Royal Fireworks\nConcerti grossi, op. 6"
-  },
-  {
-    "id": "harrison_j",
-    "name": "Jonty Harrison",
-    "years": "1952–",
-    "birth": 1952,
-    "death": null,
-    "era": "Musique acousmatique",
-    "kind": "person",
-    "description": "Compositeur britannique de musique acousmatique, Harrison travaille sur la spatialisation, la perception des sources et les relations entre sons concrets et formes abstraites. Fondateur du Birmingham ElectroAcoustic Sound Theatre, il contribue à développer des dispositifs de concert où l'espace de diffusion devient un paramètre de composition.",
-    "works": "ACOUSMATIQUE\nUnsound Objects\nKlang\nŒuvres pour dispositifs multicanaux\nSPATIALISATION\nPièces pour acousmonium"
-  },
-  {
-    "id": "harvey",
-    "name": "Jonathan Harvey",
-    "years": "1939–2012",
-    "birth": 1939,
-    "death": 2012,
-    "era": "Contemporain / Électronique",
-    "kind": "person",
-    "description": "Harvey associe spiritualité, acoustique et technologies électroniques. Collaborateur de l'Ircam, il explore les transformations du timbre, la spatialisation et les relations entre instruments et sons synthétiques. Sa musique renouvelle la musique mixte par une grande finesse de construction et une réflexion sur la perception.",
-    "works": "MUSIQUE MIXTE\nMortuos plango, vivos voco\nSpeakings\nNataraja\nORCHESTRE\nTranquil Abiding\nVOIX\nWeltethos\nCHAMBRE\nQuatuor à cordes no 4"
   },
   {
     "id": "haydn",
@@ -902,50 +462,6 @@
     "works": "MUSIQUE SACRÉE\nRequiem en do mineur, MH 155\nMissa Hispanica, MH 150\nVesperae pro festis Sancti Ruperti\nLaudate pueri, MH 319\nSYMPHONIES ET CONCERTOS\nSymphonie n° 25 en sol majeur, MH 334\nSymphonie n° 28 en do majeur, MH 384\nConcerto pour alto en do majeur\nMUSIQUE DE CHAMBRE\nQuintettes à cordes\nDivertimenti et sérénades"
   },
   {
-    "id": "henry",
-    "name": "Pierre Henry",
-    "years": "1927–2017",
-    "birth": 1927,
-    "death": 2017,
-    "era": "Musique concrète / Électroacoustique",
-    "kind": "person",
-    "description": "Pierre Henry est l'un des pionniers et des grands inventeurs de la musique concrète. Collaborateur de Pierre Schaeffer au Studio d'essai puis au Groupe de recherches musicales, il s'émancipe rapidement de la radio et développe une œuvre autonome, souvent spectaculaire, qui mêle sons transformés, rythmes, dramaturgie et références populaires. Sa musique a contribué à faire sortir l'électroacoustique des studios pour la porter sur scène et dans la culture contemporaine.",
-    "works": "MUSIQUE CONCRÈTE\nSymphonie pour un homme seul (avec Pierre Schaeffer)\nLe Voyage\nLa Messe de Liverpool\nVariations pour une porte et un soupir\nMesse pour le temps présent (avec Michel Colombier)\nL'Apocalypse de Jean"
-  },
-  {
-    "id": "fanny_hensel",
-    "name": "Fanny Hensel",
-    "years": "1805–1847",
-    "birth": 1805,
-    "death": 1847,
-    "era": "Romantisme",
-    "kind": "person",
-    "description": "Fanny Hensel, née Mendelssohn, est une compositrice et pianiste majeure du romantisme allemand. Longtemps cantonnée aux concerts privés du salon familial, elle développe pourtant un catalogue considérable, comprenant plus de quatre cents œuvres. Ses cycles pour piano, ses lieder et son écriture chorale révèlent une personnalité musicale autonome, d'une grande finesse harmonique et formelle. Son œuvre ne commence à être pleinement publiée et reconnue qu'à la fin du XXe siècle.",
-    "works": "PIANO\nDas Jahr, cycle de douze pièces\nOstersonate\nLieder ohne Worte — pièces pour piano\nMUSIQUE VOCALE\nGartenlieder, op. 3\nLieder et duos\nMUSIQUE DE CHAMBRE\nQuatuor à cordes en mi bémol majeur\nTrio avec piano en ré mineur"
-  },
-  {
-    "id": "holst",
-    "name": "Gustav Holst",
-    "years": "1874–1934",
-    "birth": 1874,
-    "death": 1934,
-    "era": "XXe siècle / Royaume-Uni",
-    "kind": "person",
-    "description": "Holst associe étude des traditions anciennes, intérêt pour les musiques extra-européennes et écriture orchestrale personnelle. Son intérêt pour l'astrologie et les textes sanskrits nourrit plusieurs partitions. The Planets lui assure une célébrité durable, mais son catalogue comprend aussi musique chorale, opéras et œuvres pour orchestre à vent.",
-    "works": "ORCHESTRE\nThe Planets\nEgdon Heath\nA Somerset Rhapsody\nVOIX\nChoral Hymns from the Rig Veda\nThe Hymn of Jesus\nOPÉRAS\nSavitri\nThe Perfect Fool"
-  },
-  {
-    "id": "hosokawa",
-    "name": "Toshio Hosokawa",
-    "years": "1955–",
-    "birth": 1955,
-    "death": null,
-    "era": "Contemporain",
-    "kind": "person",
-    "description": "Toshio Hosokawa est un compositeur japonais dont l'œuvre articule les techniques de la musique contemporaine occidentale et une pensée du son nourrie par les traditions japonaises, notamment le gagaku et le théâtre nô. Il conçoit souvent la musique comme un processus organique, comparable à la calligraphie ou à la croissance d'une plante. Le souffle, le silence, la fragilité et la transformation du timbre occupent une place centrale dans ses concertos, opéras et œuvres orchestrales.",
-    "works": "ORCHESTRE\nCirculating Ocean\nVoyage IV\nUzu\nMUSIQUE CONCERTANTE\nVoyage X — pour violoncelle et orchestre\nConcerto pour flûte\nOPÉRAS\nVision of Lear\nMatsukaze\nMUSIQUE DE CHAMBRE\nSakura"
-  },
-  {
     "id": "hummel",
     "name": "Johann Nepomuk Hummel",
     "years": "1778–1837",
@@ -957,50 +473,6 @@
     "works": "PIANO ET CONCERTOS\nConcerto pour piano n° 2 en la mineur, op. 85\nConcerto pour piano n° 3 en si mineur, op. 89\nSonate pour piano en fa dièse mineur, op. 81\nFantaisie en mi bémol majeur, op. 18\nMUSIQUE DE CHAMBRE\nSeptuor en ré mineur, op. 74\nQuintette avec piano en mi bémol majeur, op. 87\nMUSIQUE VOCALE ET ORCHESTRALE\nMesses et symphonies"
   },
   {
-    "id": "isaac",
-    "name": "Heinrich Isaac",
-    "years": "vers 1450–1517",
-    "birth": 1450,
-    "death": 1517,
-    "era": "Renaissance",
-    "kind": "person",
-    "description": "Compositeur d'origine flamande, Heinrich Isaac mène une carrière européenne au service des Médicis à Florence puis de l'empereur Maximilien Ier. Son œuvre témoigne de la circulation des styles entre les régions germaniques, l'Italie et les Pays-Bas. Il compose des messes, motets, chansons et pièces profanes, avec une attention particulière à l'intelligibilité des lignes et à la diversité des textures. Le vaste cycle chorale Choralis Constantinus constitue l'un des monuments de la musique liturgique de la Renaissance.",
-    "works": "MUSIQUE SACRÉE\nChoralis Constantinus\nMissa Virgo prudentissima\nMissa de Apostolis\nMOTETS\nOptime divino date munere pastor\nCHANSONS\nInnsbruck, ich muss dich lassen\nLa morra"
-  },
-  {
-    "id": "ishii",
-    "name": "Maki Ishii",
-    "years": "1936–2003",
-    "birth": 1936,
-    "death": 2003,
-    "era": "Contemporain / Japon",
-    "kind": "person",
-    "description": "Ishii met en relation instruments traditionnels japonais et formations occidentales. Il s'intéresse aux percussions, au gagaku et au dialogue entre traditions instrumentales. Sa musique se caractérise par une forte énergie rythmique, des contrastes de timbres et une recherche sur les modes de jeu.",
-    "works": "ORCHESTRE ET PERCUSSIONS\nMono-Prism\nThirteen Drums\nSō-Gū\nCHAMBRE\nCompositions pour shakuhachi et instruments occidentaux"
-  },
-  {
-    "id": "ives",
-    "name": "Charles Ives",
-    "years": "1874–1954",
-    "birth": 1874,
-    "death": 1954,
-    "era": "Modernité / États-Unis",
-    "kind": "person",
-    "description": "Composant en marge des institutions musicales tout en menant une carrière dans les assurances, Ives développe un langage fondé sur polytonalité, citations, fanfares superposées et discontinuités formelles. Son œuvre anticipe plusieurs pratiques de l'avant-garde et transforme les souvenirs sonores de la vie américaine en constructions complexes.",
-    "works": "ORCHESTRE\nThe Unanswered Question\nThree Places in New England\nCentral Park in the Dark\nSymphony no. 4\nPIANO\nConcord Sonata"
-  },
-  {
-    "id": "janacek",
-    "name": "Leoš Janáček",
-    "years": "1854–1928",
-    "birth": 1854,
-    "death": 1928,
-    "era": "Modernité / Tchéquie",
-    "kind": "person",
-    "description": "Janáček développe un langage singulier à partir des inflexions de la parole, des chants populaires moraves et des rythmes du langage quotidien. Son théâtre lyrique renouvelle l'opéra du XXe siècle par son intensité psychologique. Ses œuvres tardives associent énergie rythmique, motifs récurrents et orchestration incisive.",
-    "works": "OPÉRAS\nJenůfa\nKáťa Kabanová\nLa Petite Renarde rusée\nL'Affaire Makropoulos\nDe la maison des morts\nORCHESTRE\nSinfonietta\nTaras Bulba\nCHAMBRE\nQuatuors nos 1 et 2"
-  },
-  {
     "id": "jobim",
     "name": "Antônio Carlos Jobim",
     "years": "1927–1994",
@@ -1010,39 +482,6 @@
     "kind": "person",
     "description": "Tom Jobim est un compositeur, pianiste et arrangeur brésilien, figure fondatrice de la bossa nova. Son écriture associe harmonie raffinée, mélodie fluide et rythmes issus de la samba. Il compose aussi pour orchestre et développe une œuvre où nature, paysages et poésie brésilienne occupent une place importante.",
     "works": "CHANSONS\nChega de saudade\nDesafinado\nGarota de Ipanema\nÁguas de Março\nORCHESTRE\nSinfonia da Alvorada\nMatita Perê"
-  },
-  {
-    "id": "aliakbar",
-    "name": "Ali Akbar Khan",
-    "years": "1922–2009",
-    "birth": 1922,
-    "death": 2009,
-    "era": "Musique classique hindoustanie",
-    "kind": "person",
-    "description": "Maître indien du sarod, compositeur et pédagogue, Ali Akbar Khan est le fils et disciple d'Allauddin Khan. Il contribue à faire connaître la musique hindoustanie dans le monde entier. Son jeu se distingue par le développement mélodique des ragas et une grande maîtrise de l'improvisation. Il fonde l'Ali Akbar College of Music en Californie.",
-    "works": "SAROD ET RAGA\nRaga Chandranandan\nRaga Jog\nRaga Lalit\nMUSIQUE DE FILM\nA Householder"
-  },
-  {
-    "id": "kondo",
-    "name": "Toshinori Kondo",
-    "years": "1948–2020",
-    "birth": 1948,
-    "death": 2020,
-    "era": "Improvisation / Électronique",
-    "kind": "person",
-    "description": "Trompettiste japonais, Kondo développe une pratique à la frontière du free jazz, de l'improvisation et de l'électronique. Des traitements en direct transforment le timbre de la trompette en textures proches de la synthèse. Ses collaborations avec Brötzmann, Bill Laswell et d'autres musiciens relient scènes expérimentales japonaises, européennes et américaines.",
-    "works": "TROMPETTE ET ÉLECTRONIQUE\nCharged\nIma\nDie Like a Dog\nCOLLABORATIONS\nLast Exit\nEnregistrements avec Bill Laswell"
-  },
-  {
-    "id": "kuhnau",
-    "name": "Johann Kuhnau",
-    "years": "1660–1722",
-    "birth": 1660,
-    "death": 1722,
-    "era": "Baroque",
-    "kind": "person",
-    "description": "Compositeur, organiste et écrivain, Kuhnau précède Bach au poste de cantor de Leipzig. Ses Musicalische Vorstellung einiger biblischer Historien, dites Sonates bibliques, sont un remarquable exemple de musique narrative pour clavier, traduisant des épisodes de l'Ancien Testament en scènes sonores.",
-    "works": "CLAVIER\nMusicalische Vorstellung einiger biblischer Historien\nFrische Clavier-Früchte\nMUSIQUE SACRÉE\nCantates\nMesses\nPassions"
   },
   {
     "id": "lachenmann",
@@ -1078,17 +517,6 @@
     "works": "MOTETS\nProphetiae Sibyllarum\nTristis est anima mea\nTimor et tremor\nMUSIQUE SACRÉE\nLagrime di San Pietro\nMADRIGAUX ET CHANSONS\nMatona mia cara\nBonjour mon cœur"
   },
   {
-    "id": "ligeti",
-    "name": "György Ligeti",
-    "years": "1923–2006",
-    "birth": 1923,
-    "death": 2006,
-    "era": "Contemporain",
-    "kind": "person",
-    "description": "György Ligeti traverse plusieurs des grandes mutations de la musique de la seconde moitié du XXe siècle. Après avoir fui la Hongrie en 1956, il rejoint les studios de musique électronique de Cologne, puis développe une écriture instrumentale fondée sur les masses sonores, les micropolyphonies et les transformations de texture. Son langage échappe aux écoles et aux orthodoxies sérielles. Il explore également les polyrythmies, les mécanismes absurdes et les illusions perceptives.",
-    "works": "ORCHESTRE\nAtmosphères\nLontano\nSan Francisco Polyphony\nConcerto pour piano\nMUSIQUE DE CHAMBRE\nDix pièces pour quintette à vent\nQuatuors à cordes nos 1 et 2\nOPÉRA\nLe Grand Macabre\nPIANO\nÉtudes pour piano"
-  },
-  {
     "id": "lucier",
     "name": "Alvin Lucier",
     "years": "1931–2021",
@@ -1098,17 +526,6 @@
     "kind": "person",
     "description": "Alvin Lucier est un compositeur américain dont le travail explore les phénomènes acoustiques, la résonance, les ondes cérébrales et les propriétés physiques des espaces. Son œuvre se situe à la frontière de la musique expérimentale, de l'installation et de l'art sonore. Plutôt que de composer des objets musicaux traditionnels, il met en place des situations où le son révèle des phénomènes normalement imperceptibles. I am sitting in a room est devenu un jalon de l'art sonore conceptuel.",
     "works": "ŒUVRES EXPÉRIMENTALES\nI am sitting in a room\nMusic for Solo Performer\nVespers\nChambers\nNothing Is Real\nMUSIQUE ET PHÉNOMÈNES ACOUSTIQUES\nStill and moving lines of silence in families of hyperbolas"
-  },
-  {
-    "id": "lutoslawski",
-    "name": "Witold Lutosławski",
-    "years": "1913–1994",
-    "birth": 1913,
-    "death": 1994,
-    "era": "Contemporain",
-    "kind": "person",
-    "description": "Witold Lutosławski est l'un des compositeurs polonais majeurs du XXe siècle. Son langage évolue du néoclassicisme vers une écriture personnelle fondée sur l'aléatoire contrôlé, les textures mobiles et une maîtrise orchestrale exceptionnelle. Il invente des dispositifs où les interprètes disposent d'une liberté rythmique encadrée par une structure rigoureuse. Ses œuvres orchestrales et concertantes comptent parmi les grandes réussites de la musique contemporaine d'après-guerre.",
-    "works": "ORCHESTRE\nConcerto pour orchestre\nJeux vénitiens\nLivre pour orchestre\nMi-parti\nSymphonie no 3\nMUSIQUE CONCERTANTE\nConcerto pour violoncelle\nConcerto pour piano\nMUSIQUE DE CHAMBRE\nQuatuor à cordes"
   },
   {
     "id": "machaut",
@@ -1133,28 +550,6 @@
     "works": "ÉLECTROACOUSTIQUE\nKorwar\nRituel d'oubli\nMUSIQUE ORCHESTRALE\nKassandra\nCHAMBRE\nTrombe\nSopiana"
   },
   {
-    "id": "maconchy",
-    "name": "Elizabeth Maconchy",
-    "years": "1907–1994",
-    "birth": 1907,
-    "death": 1994,
-    "era": "XXe siècle / Royaume-Uni",
-    "kind": "person",
-    "description": "Compositrice britannique d'origine irlandaise, Maconchy est reconnue pour ses quatuors à cordes et son écriture contrapuntique incisive. Elle développe un langage moderne, tendu et personnel. Son cycle de treize quatuors est l'un des ensembles les plus importants du genre dans la musique britannique du XXe siècle.",
-    "works": "CHAMBRE\nTreize quatuors à cordes\nQuintette avec piano\nORCHESTRE\nConcertino pour hautbois\nSymphonies\nOPÉRA\nThe Sofa\nThe Departure"
-  },
-  {
-    "id": "maderna",
-    "name": "Bruno Maderna",
-    "years": "1920–1973",
-    "birth": 1920,
-    "death": 1973,
-    "era": "Avant-garde / Électronique",
-    "kind": "person",
-    "description": "Compositeur et chef d'orchestre italien, Maderna est une figure centrale de l'avant-garde européenne. Cofondateur du Studio di Fonologia de la RAI à Milan avec Berio, il explore sérialisme, musique électronique et formes ouvertes. Sa pratique de chef nourrit une connaissance profonde de l'orchestre et une conception souple de l'interprétation.",
-    "works": "ORCHESTRE\nAura\nQuadrivium\nGrande Aulodia\nÉLECTRONIQUE\nMusica su due dimensioni\nContinuo\nCHAMBRE\nSerenata per un satellite"
-  },
-  {
     "id": "malec",
     "name": "Ivo Malec",
     "years": "1925–2019",
@@ -1177,28 +572,6 @@
     "works": "VIOLE DE GAMBE\nCinq livres de pièces de viole\nLes Folies d'Espagne\nSonnerie de Sainte-Geneviève du Mont-de-Paris\nOPÉRA\nAlcyone"
   },
   {
-    "id": "martinu",
-    "name": "Bohuslav Martinů",
-    "years": "1890–1959",
-    "birth": 1890,
-    "death": 1959,
-    "era": "XXe siècle / Tchéquie",
-    "kind": "person",
-    "description": "Martinů mène une carrière internationale à Paris, aux États-Unis et en Suisse. Son langage associe néoclassicisme, rythmes populaires, contrepoint baroque et invention mélodique. Son catalogue considérable couvre symphonie, opéra, concerto et musique de chambre, dans une modernité mobile et lumineuse.",
-    "works": "ORCHESTRE\nSix symphonies\nMemorial to Lidice\nCONCERTOS\nConcerto pour violoncelle no 1\nConcerto pour double orchestre à cordes, piano et timbales\nOPÉRAS\nJuliette\nLa Passion grecque\nCHAMBRE\nSept quatuors à cordes"
-  },
-  {
-    "id": "mehul",
-    "name": "Étienne-Nicolas Méhul",
-    "years": "1763–1817",
-    "birth": 1763,
-    "death": 1817,
-    "era": "Classicisme / Préromantisme",
-    "kind": "person",
-    "description": "Étienne-Nicolas Méhul est l'une des figures majeures de l'opéra français autour de la Révolution. Son langage dramatique, parfois sombre et énergique, annonce certains aspects du romantisme. Il compose des opéras, des symphonies et de la musique civique, dont le célèbre Chant du départ. Son œuvre lyrique renouvelle l'orchestration et le traitement des passions, et exerce une influence sur la génération de Berlioz.",
-    "works": "OPÉRAS\nJoseph\nEuphrosine\nStratonice\nAriodant\nUthal\nMUSIQUE SYMPHONIQUE\nSymphonies nos 1 à 4\nMUSIQUE CIVIQUE\nChant du départ"
-  },
-  {
     "id": "mengelberg",
     "name": "Misha Mengelberg",
     "years": "1935–2017",
@@ -1210,28 +583,6 @@
     "works": "PIANO ET ENSEMBLES\nICP Orchestra — compositions et arrangements\nRolo 1 & 2\nWho's Bridge\nIMPROVISATION\nInstant Composers Pool\nDuos avec Han Bennink"
   },
   {
-    "id": "mingus",
-    "name": "Charles Mingus",
-    "years": "1922–1979",
-    "birth": 1922,
-    "death": 1979,
-    "era": "Jazz moderne / Composition",
-    "kind": "person",
-    "description": "Contrebassiste, pianiste et compositeur américain, Mingus conjugue jazz, blues, gospel, musique classique et improvisation collective. Ses compositions sont des organismes souples où les musiciens transforment la forme en temps réel. Son engagement politique et son tempérament exigeant nourrissent une musique traversée par la mémoire afro-américaine, la satire et une grande intensité.",
-    "works": "GRANDS ENSEMBLES\nPithecanthropus Erectus\nThe Black Saint and the Sinner Lady\nMingus Ah Um\nLet My Children Hear Music\nFables of Faubus"
-  },
-  {
-    "id": "mompou",
-    "name": "Federico Mompou",
-    "years": "1893–1987",
-    "birth": 1893,
-    "death": 1987,
-    "era": "XXe siècle / Catalogne",
-    "kind": "person",
-    "description": "Compositeur catalan, Mompou développe une œuvre pour piano caractérisée par l'économie de moyens, la poésie de l'instant et l'attention au silence. Il privilégie miniatures, résonances et lignes mélodiques épurées. Son langage, influencé par la musique française et les traditions catalanes, possède une singularité immédiatement reconnaissable.",
-    "works": "PIANO\nMúsica callada\nCançons i danses\nImpressions íntimes\nPaisajes\nVOIX\nCombat del somni\nCHAMBRE\nCharmes"
-  },
-  {
     "id": "monteverdi",
     "name": "Claudio Monteverdi",
     "years": "1567–1643",
@@ -1241,28 +592,6 @@
     "kind": "person",
     "description": "Claudio Monteverdi se forme à Crémone avant d'entrer au service de la cour de Mantoue, puis de devenir maître de chapelle à Saint-Marc de Venise. Son parcours accompagne une transformation majeure de la musique européenne : le passage de la polyphonie renaissante à la seconda pratica, dans laquelle le texte et les passions peuvent commander les audaces harmoniques. Il compose madrigaux, opéras, musique sacrée et ballets. L'Orfeo (1607) compte parmi les premiers grands opéras conservés. Dans les livres de madrigaux tardifs, la voix, l'instrument et la basse continue deviennent les acteurs d'un théâtre miniature d'une intensité nouvelle.",
     "works": "OPÉRAS ET SCÈNES\nL'Orfeo (1607)\nL'Arianna — opéra dont seul le célèbre Lamento d'Arianna est conservé\nIl ritorno d'Ulisse in patria\nL'incoronazione di Poppea\nMADRIGAUX\nLamento della Ninfa — livre VIII\nZefiro torna e di soavi accenti — livre IX\nCombattimento di Tancredi e Clorinda — livre VIII\nCruda Amarilli — livre V\nMUSIQUE SACRÉE\nVespro della Beata Vergine (1610)\nMessa a quattro voci et salmi"
-  },
-  {
-    "id": "montsalvatge",
-    "name": "Xavier Montsalvatge",
-    "years": "1912–2002",
-    "birth": 1912,
-    "death": 2002,
-    "era": "XXe siècle / Catalogne",
-    "kind": "person",
-    "description": "Compositeur catalan, Montsalvatge traverse néoclassicisme, influences antillaises et modernisme. Son œuvre est marquée par une grande diversité de styles et une curiosité pour les musiques extra-européennes, notamment dans les Cinco canciones negras. Il compose opéras, musique orchestrale, chambre et mélodies.",
-    "works": "VOIX\nCinco canciones negras\nORCHESTRE\nDesintegración morfológica de la Chacona de Bach\nCHAMBRE\nQuintette à vent\nOPÉRA\nEl gato con botas"
-  },
-  {
-    "id": "morales",
-    "name": "Cristóbal de Morales",
-    "years": "vers 1500–1553",
-    "birth": 1500,
-    "death": 1553,
-    "era": "Renaissance",
-    "kind": "person",
-    "description": "Cristóbal de Morales est l'un des principaux représentants de la polyphonie espagnole du XVIe siècle. Après une carrière à Séville et à Rome, où il chante dans la chapelle pontificale, il revient dans la péninsule Ibérique. Son écriture sacrée, dense et expressive, associe maîtrise contrapuntique et intensité spirituelle. Ses messes et motets circulent largement en Europe et dans les territoires espagnols d'Amérique, témoignant du rayonnement international de la musique ibérique.",
-    "works": "MESSES\nMissa Mille regretz\nMissa L'homme armé\nMissa Si bona suscepimus\nMOTETS\nParce mihi Domine\nLamentabatur Jacob\nEmendemus in melius\nOFFICE DES TÉNÈBRES\nLamentations de Jérémie"
   },
   {
     "id": "morris",
@@ -1287,28 +616,6 @@
     "works": "OPÉRAS\nLes Noces de Figaro, K. 492\nDon Giovanni, K. 527\nCosì fan tutte, K. 588\nLa Flûte enchantée, K. 620\nL'Enlèvement au sérail, K. 384\nCONCERTOS ET SYMPHONIES\nConcerto pour piano n° 20, K. 466\nConcerto pour piano n° 24, K. 491\nSymphonie n° 40, K. 550\nSymphonie n° 41 « Jupiter », K. 551\nCHAMBRE ET SACRÉ\nQuintette à cordes en sol mineur, K. 516\nRequiem, K. 626"
   },
   {
-    "id": "muraill",
-    "name": "Tristan Murail",
-    "years": "1947–",
-    "birth": 1947,
-    "death": null,
-    "era": "Musique spectrale / Contemporain",
-    "kind": "person",
-    "description": "Tristan Murail est l'un des principaux représentants de la musique spectrale française. Avec Gérard Grisey et d'autres compositeurs, il place au centre de la composition l'analyse acoustique du son, ses partiels, ses évolutions et ses seuils perceptifs. Son écriture transforme les phénomènes sonores en formes musicales et renouvelle profondément l'orchestration. Il a également joué un rôle important dans la transmission de ces idées, notamment à l'Ircam et dans les institutions américaines.",
-    "works": "ORCHESTRE\nGondwana\nDésintégrations\nSerendib\nL'Esprit des dunes\nMUSIQUE DE CHAMBRE\nTreize couleurs du soleil couchant\nLa Barque mystique\nMUSIQUE ÉLECTRONIQUE\nVampyr!"
-  },
-  {
-    "id": "nancarrow",
-    "name": "Conlon Nancarrow",
-    "years": "1912–1997",
-    "birth": 1912,
-    "death": 1997,
-    "era": "Modernité / Musique mécanique",
-    "kind": "person",
-    "description": "Installé au Mexique, Nancarrow est célèbre pour ses études pour piano mécanique. Fasciné par les possibilités rythmiques dépassant les capacités d'un interprète humain, il compose des canons à tempi différents et des structures polyrythmiques d'une complexité vertigineuse. Son œuvre a influencé les compositeurs intéressés par les processus, les machines et les temporalités non humaines.",
-    "works": "PIANO MÉCANIQUE\nStudies for Player Piano nos 1 à 51\nPIANO\nSonatina"
-  },
-  {
     "id": "nono",
     "name": "Luigi Nono",
     "years": "1924–1990",
@@ -1318,50 +625,6 @@
     "kind": "person",
     "description": "Nono associe recherche sérielle, engagement politique, poésie et exploration de l'espace sonore. À partir des années 1960, il développe des dispositifs électroniques et des formes de diffusion spatialisée qui transforment la relation entre scène et public. Ses dernières œuvres explorent une écoute fragile, silencieuse et intérieure.",
     "works": "ORCHESTRE ET VOIX\nIl canto sospeso\nComo una ola de fuerza y luz\nAl gran sole carico d'amore\nÉLECTRONIQUE\nLa fabbrica illuminata\n...sofferte onde serene...\nPrometeo"
-  },
-  {
-    "id": "obrecht",
-    "name": "Jacob Obrecht",
-    "years": "vers 1457–1505",
-    "birth": 1457,
-    "death": 1505,
-    "era": "Renaissance",
-    "kind": "person",
-    "description": "Jacob Obrecht est un compositeur majeur de la génération qui suit Ockeghem. Formé dans les milieux musicaux des Pays-Bas, il exerce dans plusieurs villes des territoires bourguignons et italiens. Son œuvre, abondante, se caractérise par une invention mélodique généreuse, une maîtrise du contrepoint et une manière très personnelle de transformer les matériaux préexistants. Il développe notamment la messe-parodie et la messe fondée sur un cantus firmus, dans des architectures d'une grande ampleur.",
-    "works": "MESSES\nMissa Maria zart\nMissa Fortuna desperata\nMissa L'homme armé\nMOTETS\nSalve crux arbor vitae\nLaudate pueri\nCHANSONS\nFors seulement"
-  },
-  {
-    "id": "ockeghem",
-    "name": "Johannes Ockeghem",
-    "years": "vers 1420–1497",
-    "birth": 1420,
-    "death": 1497,
-    "era": "Renaissance",
-    "kind": "person",
-    "description": "Johannes Ockeghem, actif notamment à la cour de France, est l'un des grands maîtres de la polyphonie franco-flamande. Sa musique se distingue par la profondeur de ses basses, la continuité des lignes et une écriture contrapuntique d'une grande liberté. Il explore des constructions savantes, parfois fondées sur des canons complexes, sans sacrifier la fluidité de l'ensemble. Sa Missa prolationum demeure un sommet de l'art canonique de la Renaissance.",
-    "works": "MESSES\nMissa prolationum\nMissa cuiusvis toni\nMissa L'homme armé\nMissa Mi-mi\nMOTETS\nIntemerata Dei mater\nAlma redemptoris mater\nCHANSONS\nFors seulement l'attente"
-  },
-  {
-    "id": "oliveros",
-    "name": "Pauline Oliveros",
-    "years": "1932–2016",
-    "birth": 1932,
-    "death": 2016,
-    "era": "Musique expérimentale / Écoute profonde",
-    "kind": "person",
-    "description": "Compositrice, accordéoniste et théoricienne américaine, Oliveros transforme la conception même de l'écoute. Pionnière de l'électronique en temps réel et de l'improvisation collective, elle développe le Deep Listening, pratique attentive aux sons environnants, aux résonances et aux dimensions sociales de l'écoute.",
-    "works": "ÉLECTRONIQUE\nBye Bye Butterfly\nI of IV\nÉCOUTE ET IMPROVISATION\nDeep Listening\nSonic Meditations\nThe Roots of the Moment\nACCORDEON\nThe Well and the Gentle"
-  },
-  {
-    "id": "oxley",
-    "name": "Tony Oxley",
-    "years": "1938–2023",
-    "birth": 1938,
-    "death": 2023,
-    "era": "Improvisation / Percussion expérimentale",
-    "kind": "person",
-    "description": "Percussionniste britannique, Oxley transforme la batterie en dispositif sonore expérimental. Il associe percussion traditionnelle, objets métalliques, électronique et textures bruitistes. Cofondateur d'Incus et partenaire de Derek Bailey, il joue un rôle essentiel dans la structuration de l'improvisation libre.",
-    "works": "IMPROVISATION\nThe Baptised Traveller\nDuos avec Derek Bailey\nEnregistrements avec Cecil Taylor\nENSEMBLES\nJoseph Holbrooke\nÉLECTRONIQUE\nSystèmes de percussion amplifiée"
   },
   {
     "id": "palestrina",
@@ -1375,17 +638,6 @@
     "works": "MESSES\nMissa Papae Marcelli\nMissa brevis\nMissa L'homme armé\nMOTETS\nSicut cervus\nSuper flumina Babylonis\nStabat Mater"
   },
   {
-    "id": "paradis",
-    "name": "Maria Theresia von Paradis",
-    "years": "1759–1824",
-    "birth": 1759,
-    "death": 1824,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Pianiste, chanteuse, compositrice et pédagogue viennoise, Maria Theresia von Paradis perd la vue durant l'enfance mais mène une carrière internationale remarquable. Elle se produit dans les grandes capitales européennes et fonde à Vienne une école destinée aux jeunes filles. Sa production comprend des concertos, des œuvres pour clavier, de la musique vocale et des ouvrages lyriques. Son histoire rappelle la place des femmes musiciennes dans les réseaux professionnels du XVIIIe siècle.",
-    "works": "PIANO ET ORCHESTRE\nConcerto pour piano en do majeur\nConcerto pour piano en si bémol majeur\nMUSIQUE DE CHAMBRE\nSicilienne en mi bémol majeur — attribution discutée\nMUSIQUE VOCALE ET SCÉNIQUE\nDer Schulkandidat\nRinaldo und Alcina"
-  },
-  {
     "id": "parker",
     "name": "Evan Parker",
     "years": "1944–",
@@ -1395,39 +647,6 @@
     "kind": "person",
     "description": "Saxophoniste britannique central dans l'histoire de l'improvisation libre européenne, Parker développe une technique étendue fondée sur la respiration circulaire, les multiphoniques et les flux de notes rapides. Membre de groupes fondateurs comme le Spontaneous Music Ensemble, il construit une œuvre de recherche sur la continuité, la densité et l'écoute.",
     "works": "SAXOPHONE SOLO\nMonoceros\nThe Topography of the Lungs\nENSEMBLES\nMusic Improvisation Company\nLondon Jazz Composers Orchestra\nDUOS\nEnregistrements avec Keith Rowe et Barry Guy"
-  },
-  {
-    "id": "parmegiani",
-    "name": "Bernard Parmegiani",
-    "years": "1927–2013",
-    "birth": 1927,
-    "death": 2013,
-    "era": "Musique concrète / Acousmatique",
-    "kind": "person",
-    "description": "Bernard Parmegiani est l'une des figures majeures de la musique concrète et acousmatique française. Membre du Groupe de recherches musicales, il développe une œuvre fondée sur la transformation du son enregistré, la spatialisation et l'exploration des matières acoustiques. Son catalogue traverse les formes narratives, les architectures abstraites et les recherches sur la perception. De De natura sonorum à ses œuvres tardives, il élargit considérablement les possibilités de l'écoute acousmatique.",
-    "works": "MUSIQUE CONCRÈTE / ACOUSMATIQUE\nDe natura sonorum\nLa Création du monde\nPour en finir avec le pouvoir d'Orphée\nLa Roue ferris\nL'Œil écoute\nMUSIQUE POUR L'IMAGE\nL'Écran transparent"
-  },
-  {
-    "id": "penderecki",
-    "name": "Krzysztof Penderecki",
-    "years": "1933–2020",
-    "birth": 1933,
-    "death": 2020,
-    "era": "Avant-garde / Contemporain",
-    "kind": "person",
-    "description": "Krzysztof Penderecki s'impose dans les années 1960 comme l'une des figures les plus radicales de l'avant-garde polonaise. Ses premières œuvres exploitent les clusters, les masses de cordes, les textures bruitistes et les modes de jeu étendus. Il évolue ensuite vers un langage plus néoromantique, sans abandonner la puissance dramatique de son écriture. Son œuvre sacrée, orchestrale et lyrique est considérable, et son parcours témoigne des tensions entre expérimentation et tradition.",
-    "works": "AVANT-GARDE\nAnaklasis\nThrenody to the Victims of Hiroshima\nPolymorphia\nFluorescences\nORCHESTRE ET SACRÉ\nSymphonies nos 1 à 8\nPassion selon saint Luc\nRequiem polonais\nOPÉRAS\nLes Diables de Loudun\nDie schwarze Maske"
-  },
-  {
-    "id": "pergolesi",
-    "name": "Giovanni Battista Pergolesi",
-    "years": "1710–1736",
-    "birth": 1710,
-    "death": 1736,
-    "era": "Baroque tardif",
-    "kind": "person",
-    "description": "Mort à vingt-six ans, Pergolesi laisse une œuvre brève mais décisive dans l'histoire de la musique italienne. Son opéra La serva padrona devient l'un des emblèmes de l'opéra bouffe et déclenche en France la célèbre Querelle des Bouffons. Son écriture vocale, d'une grande souplesse mélodique, contribue à l'évolution du style galant. Le Stabat Mater, composé peu avant sa mort, connaît une diffusion européenne exceptionnelle et devient l'une des œuvres sacrées les plus jouées du XVIIIe siècle.",
-    "works": "MUSIQUE SACRÉE\nStabat Mater\nSalve Regina en la mineur\nOPÉRAS\nLa serva padrona\nL'Olimpiade\nAdriano in Siria\nMUSIQUE INSTRUMENTALE\nSinfonia en fa majeur\nConcertos et sonates"
   },
   {
     "id": "perotin",
@@ -1463,39 +682,6 @@
     "works": "MESSES\nMissa Pange lingua — paraphrase d'un hymne grégorien\nMissa La sol fa re mi\nMissa Hercules Dux Ferrariae — messe fondée sur un soggetto cavato\nMissa L'homme armé super voces musicales\nMOTETS\nAve Maria… Virgo serena\nNymphes des bois — déploration sur la mort d'Ockeghem\nMiserere mei, Deus\nStabat Mater\nCHANSONS\nMille regretz\nEl grillo"
   },
   {
-    "id": "prevost",
-    "name": "Eddie Prévost",
-    "years": "1942–",
-    "birth": 1942,
-    "death": null,
-    "era": "Improvisation libre",
-    "kind": "person",
-    "description": "Percussionniste britannique et membre fondateur d'AMM, Prévost développe une pratique privilégiant l'écoute, l'interaction et la transformation des gestes instrumentaux. Théoricien de l'improvisation libre, il écrit sur ses dimensions sociales, politiques et esthétiques. Son activité éditoriale et pédagogique contribue à transmettre une pensée exigeante de la musique collective.",
-    "works": "IMPROVISATION\nAMM — corpus d'enregistrements\nFrom a Strange Place\nCombines + Laminates\nÉCRITS\nNo Sound Is Innocent\nThe First Concert"
-  },
-  {
-    "id": "prokofiev",
-    "name": "Sergueï Prokofiev",
-    "years": "1891–1953",
-    "birth": 1891,
-    "death": 1953,
-    "era": "Modernité",
-    "kind": "person",
-    "description": "Sergueï Prokofiev développe un langage immédiatement reconnaissable, fondé sur l'énergie rythmique, les contrastes de caractère, une ironie mordante et une invention mélodique abondante. Après ses années de formation en Russie, il séjourne en Europe et aux États-Unis avant de rentrer en Union soviétique. Son œuvre couvre l'opéra, le ballet, la symphonie, le concerto et la musique de chambre. Il sait concilier modernité harmonique et efficacité narrative.",
-    "works": "BALLET\nRoméo et Juliette\nCendrillon\nL'Amour des trois oranges — opéra\nOPÉRAS\nL'Ange de feu\nGuerre et Paix\nORCHESTRE\nSymphonies nos 1 à 7\nConcerto pour piano no 3\nPierre et le Loup"
-  },
-  {
-    "id": "sunra",
-    "name": "Sun Ra",
-    "years": "1914–1993",
-    "birth": 1914,
-    "death": 1993,
-    "era": "Jazz d'avant-garde / Afrofuturisme",
-    "kind": "person",
-    "description": "Sun Ra, né Herman Poole Blount, est un compositeur, pianiste et chef d'orchestre afro-américain dont l'œuvre constitue un univers esthétique à part entière. À la tête de l'Arkestra, il mêle big band, free jazz, électronique, spirituals et visions cosmiques. Sa mythologie afrofuturiste transforme la scène en espace rituel et politique.",
-    "works": "ARKESTRA\nThe Heliocentric Worlds of Sun Ra\nAtlantis\nSpace Is the Place\nLanquidity\nBIG BAND\nJazz in Silhouette\nThe Magic City"
-  },
-  {
     "id": "radigue",
     "name": "Éliane Radigue",
     "years": "1932–2023",
@@ -1505,17 +691,6 @@
     "kind": "person",
     "description": "Radigue est une compositrice française majeure de la musique électronique expérimentale. Après avoir travaillé avec Schaeffer et Henry, elle développe une œuvre fondée sur les longues durées, les transformations microscopiques et les battements de fréquences. Ses pièces pour synthétiseur analogique puis pour instruments acoustiques invitent à une écoute contemplative de la matière sonore.",
     "works": "ÉLECTRONIQUE\nAdnos I–III\nTrilogie de la Mort\nJetsun Mila\nKailasha\nMUSIQUE INSTRUMENTALE\nOccam Ocean — cycle\nNaldjorlak"
-  },
-  {
-    "id": "radulescu",
-    "name": "Horațiu Rădulescu",
-    "years": "1942–2008",
-    "birth": 1942,
-    "death": 2008,
-    "era": "Spectralisme / Contemporain",
-    "kind": "person",
-    "description": "Compositeur roumain naturalisé français, Rădulescu est un pionnier du spectralisme et inventeur de techniques instrumentales originales. Il développe le concept de spectres sonores et conçoit des instruments et modes de jeu faisant émerger des harmoniques complexes. Sa musique explore résonance, transformation et perception.",
-    "works": "ORCHESTRE ET ENSEMBLE\nIubiri\nClepsydra\nMUSIQUE DE CHAMBRE\nQuatuors à cordes nos 4 à 6\nPIANO\nThirteen Dreams"
   },
   {
     "id": "rameau",
@@ -1529,17 +704,6 @@
     "works": "OPÉRAS\nHippolyte et Aricie\nLes Indes galantes\nCastor et Pollux\nDardanus\nLes Boréades\nCLAVECIN\nPièces de clavecin\nMUSIQUE SACRÉE\nIn convertendo"
   },
   {
-    "id": "reich",
-    "name": "Steve Reich",
-    "years": "1936–",
-    "birth": 1936,
-    "death": null,
-    "era": "Minimalisme",
-    "kind": "person",
-    "description": "Steve Reich développe une musique fondée sur la répétition, le déphasage et l'écoute des processus. Ses premières expériences sur bande magnétique conduisent à des œuvres instrumentales où les motifs se décalent progressivement, révélant des structures perceptives complexes. Il intègre ensuite des influences de la musique africaine, balinaise et hébraïque. Son œuvre a profondément marqué la musique contemporaine, la danse et les arts audiovisuels.",
-    "works": "ŒUVRES POUR BANDE ET ENSEMBLE\nIt's Gonna Rain\nCome Out\nDrumming\nMusic for 18 Musicians\nTehillim\nDifferent Trains\nThe Cave\nMUSIQUE DE CHAMBRE\nViolin Phase\nClapping Music"
-  },
-  {
     "id": "revueltas",
     "name": "Silvestre Revueltas",
     "years": "1899–1940",
@@ -1549,17 +713,6 @@
     "kind": "person",
     "description": "Violoniste et compositeur mexicain, Revueltas mêle rythmes populaires, fanfares, dissonances et superpositions de plans dans une écriture orchestrale d'une grande vitalité. Sa carrière brève est interrompue à quarante ans. Sa musique pour le cinéma et ses poèmes symphoniques témoignent d'une modernité profondément ancrée dans la vie urbaine mexicaine.",
     "works": "ORCHESTRE\nSensemayá\nLa noche de los mayas\nJanitzio\nRedes\nHomenaje a Federico García Lorca\nMUSIQUE DE CHAMBRE\nQuatuors à cordes nos 1 à 4"
-  },
-  {
-    "id": "riley",
-    "name": "Terry Riley",
-    "years": "1935–",
-    "birth": 1935,
-    "death": null,
-    "era": "Minimalisme",
-    "kind": "person",
-    "description": "Terry Riley est l'un des fondateurs du minimalisme américain. Son travail sur la répétition, les cycles, les boucles de bande et l'improvisation transforme radicalement les conceptions de la forme musicale dans les années 1960. In C, partition ouverte pour ensemble, devient une œuvre emblématique de cette esthétique. Riley est également marqué par la musique classique indienne, notamment par son étude du chant avec Pandit Pran Nath, qui infléchit profondément son rapport au temps et à la modalité.",
-    "works": "ŒUVRES MINIMALISTES\nIn C\nA Rainbow in Curved Air\nPoppy Nogood and the Phantom Band\nPersian Surgery Dervishes\nCHANT ET MUSIQUE INDIENNE\nShri Camel\nSalome Dances for Peace"
   },
   {
     "id": "risset",
@@ -1584,17 +737,6 @@
     "works": "ORCHESTRE\nRítmicas V et VI\nLa rebambaramba\nMotivos de son\nMUSIQUE DE CHAMBRE\nObertura sobre temas cubanos"
   },
   {
-    "id": "rowe",
-    "name": "Keith Rowe",
-    "years": "1940–",
-    "birth": 1940,
-    "death": null,
-    "era": "Improvisation / Électronique",
-    "kind": "person",
-    "description": "Guitariste britannique, membre fondateur d'AMM, Rowe transforme la guitare en surface de résonance et de bruit. Posée à plat, préparée et reliée à des dispositifs électroniques, elle explore feedbacks, textures et écoute collective. Son influence sur l'improvisation et l'électronique expérimentale est considérable.",
-    "works": "ENSEMBLES\nAMM — enregistrements historiques\nThe Crypt\nFrom a Strange Place\nCOLLECTIFS\nEnregistrements avec Evan Parker et John Tilbury\nSOLO\nA Dimension of Perfectly Ordinary Reality"
-  },
-  {
     "id": "larue",
     "name": "Pierre de La Rue",
     "years": "vers 1452–1518",
@@ -1604,17 +746,6 @@
     "kind": "person",
     "description": "Pierre de La Rue est l'un des grands représentants de la génération franco-flamande qui succède à Josquin. Actif à la cour des Habsbourg, il développe une polyphonie dense et souvent sombre, où les voix graves structurent l'ensemble. Ses messes, motets et chansons comptent parmi les réalisations majeures de la Renaissance septentrionale.",
     "works": "MESSES\nMissa L'homme armé\nMissa pro fidelibus defunctis\nMissa de Sancta Cruce\nMOTETS\nAbsalon fili mi\nO salutaris hostia\nCHANSONS\nFors seulement contre ce qu'ay promis"
-  },
-  {
-    "id": "rzewski",
-    "name": "Frederic Rzewski",
-    "years": "1938–2021",
-    "birth": 1938,
-    "death": 2021,
-    "era": "Contemporain / Musique engagée",
-    "kind": "person",
-    "description": "Frederic Rzewski est un pianiste et compositeur américain dont l'œuvre associe virtuosité, improvisation, engagement politique et mémoire des luttes sociales. Cofondateur de l'ensemble Musica Elettronica Viva, il explore les formes ouvertes et l'improvisation collective avant de développer un vaste catalogue pour piano et ensemble. The People United Will Never Be Defeated! est l'un des grands cycles de variations du répertoire pianistique contemporain.",
-    "works": "PIANO\nThe People United Will Never Be Defeated!\nNorth American Ballads\nFour North American Ballads\nMUSIQUE COLLECTIVE\nComing Together\nAttica\nLes Moutons de Panurge\nMUSIQUE CONCERTANTE\nConcerto pour piano"
   },
   {
     "id": "saariaho",
@@ -1650,39 +781,6 @@
     "works": "OPÉRAS\nLes Danaïdes\nTarare\nAxur, re d'Ormus\nLa grotta di Trofonio\nFalstaff, ossia Le tre burle\nLa scuola de' gelosi\nMUSIQUE SACRÉE\nRequiem en do mineur\nTe Deum\nMUSIQUE INSTRUMENTALE\n26 variations pour orchestre sur La follia di Spagna"
   },
   {
-    "id": "syama_sastri",
-    "name": "Syama Sastri",
-    "years": "1762–1827",
-    "birth": 1762,
-    "death": 1827,
-    "era": "Musique carnatique",
-    "kind": "person",
-    "description": "Troisième membre de la trinité carnatique, Syama Sastri laisse une œuvre moins abondante mais d'une grande densité musicale. Ses compositions sont réputées pour leurs talas complexes. Ses kritis adressés à la déesse Kamakshi associent intensité dévotionnelle, virtuosité rythmique et profondeur mélodique.",
-    "works": "KRITIS\nKamakshi Anudinamu\nDevi Brova Samayamide\nHimadri Suthe\nSankari Samkuru\nSWARAJATIS\nBhairavi, Yadukulakambhoji et Todi"
-  },
-  {
-    "id": "satie",
-    "name": "Erik Satie",
-    "years": "1866–1925",
-    "birth": 1866,
-    "death": 1925,
-    "era": "Modernité",
-    "kind": "person",
-    "description": "Erik Satie occupe une place singulière dans la modernité musicale française. Refusant les conventions du romantisme tardif et les ambitions monumentales, il développe une esthétique de l'économie, de l'ironie et de la répétition, qui influencera aussi bien les avant-gardes que la musique minimaliste. Ses partitions, souvent accompagnées d'indications textuelles insolites, mettent en crise les habitudes d'écoute et la frontière entre musique savante, cabaret et geste conceptuel.",
-    "works": "PIANO\nTrois Gymnopédies\nSix Gnossiennes\nSocrate\nVexations\nPièces froides\nMUSIQUE DE SCÈNE ET BALLET\nParade\nRelâche\nEntr'acte\nÉCRITURES ET CYCLES\nSports et divertissements"
-  },
-  {
-    "id": "scarlatti",
-    "name": "Domenico Scarlatti",
-    "years": "1685–1757",
-    "birth": 1685,
-    "death": 1757,
-    "era": "Baroque",
-    "kind": "person",
-    "description": "Installé au service des cours portugaise puis espagnole, Scarlatti compose 555 sonates pour clavier qui constituent un corpus exceptionnel. Nourries de rythmes ibériques, de croisements de mains et de dissonances, ces pièces brèves élargissent les possibilités du clavier et annoncent certains traits du langage classique.",
-    "works": "CLAVIER\n555 sonates (catalogue Kirkpatrick)\nEssercizi per gravicembalo (1738)\nMUSIQUE VOCALE\nStabat Mater à dix voix\nSalve Regina"
-  },
-  {
     "id": "scelsi",
     "name": "Giacinto Scelsi",
     "years": "1905–1988",
@@ -1692,28 +790,6 @@
     "kind": "person",
     "description": "Giacinto Scelsi traverse une longue crise personnelle et artistique avant de développer, à partir des années 1950, un langage radicalement singulier. Plutôt que de construire la musique par thèmes et développements, il concentre l'écoute sur la matière interne d'un son : battements, micro-intervalles, harmoniques, souffle et transformations imperceptibles. Il travaille avec des interprètes capables de réaliser ses intuitions, notamment en improvisant au piano puis en faisant transcrire et élaborer ces improvisations. Son œuvre, longtemps marginale, est aujourd'hui reconnue comme une contribution majeure à l'exploration du timbre et de la perception.",
     "works": "ORCHESTRE ET ENSEMBLES\nQuattro pezzi su una nota sola\nUaxuctum\nKonx-Om-Pax\nHymnos\nMUSIQUE DE CHAMBRE\nAnahit — pour violon et orchestre de chambre\nKhoom — sept pièces pour alto\nTre canti popolari\nMUSIQUE POUR INSTRUMENT SOLO\nSuite n° 8 Bot-Ba pour piano\nManto pour alto\nTrilogia — trois œuvres pour violoncelle"
-  },
-  {
-    "id": "schaffer",
-    "name": "Pierre Schaeffer",
-    "years": "1910–1995",
-    "birth": 1910,
-    "death": 1995,
-    "era": "Musique concrète",
-    "kind": "person",
-    "description": "Ingénieur, chercheur, écrivain et compositeur, Pierre Schaeffer est le fondateur de la musique concrète. À partir de 1948, il expérimente l'enregistrement, le montage, la boucle et la transformation des sons fixés, rompant avec l'idée que la musique doit nécessairement être produite par des instruments traditionnels. Sa réflexion sur l'objet sonore, l'écoute réduite et la morphologie du son constitue un socle théorique essentiel pour les musiques électroacoustiques.",
-    "works": "ŒUVRES ET EXPÉRIMENTATIONS\nCinq études de bruits\nÉtude aux chemins de fer\nÉtude pathétique\nSymphonie pour un homme seul (avec Pierre Henry)\nOrphée 53\nÉCRITS\nTraité des objets musicaux\nÀ la recherche d'une musique concrète"
-  },
-  {
-    "id": "schmelzer",
-    "name": "Johann Heinrich Schmelzer",
-    "years": "vers 1620–1680",
-    "birth": 1620,
-    "death": 1680,
-    "era": "Baroque",
-    "kind": "person",
-    "description": "Violoniste et compositeur important de la cour des Habsbourg, Schmelzer contribue à l'affirmation du violon soliste et à l'émergence d'un style instrumental autrichien. Ses sonates et ballets associent virtuosité, danses et contrastes expressifs. Il figure parmi les premiers grands compositeurs de musique instrumentale de l'espace germanique.",
-    "works": "SONATES\nSonatae unarum fidium\nSonates pour violon et basse continue\nORCHESTRE\nBallets et suites de cour\nLamento sopra la morte Ferdinandi III"
   },
   {
     "id": "schoenberg",
@@ -1738,39 +814,6 @@
     "works": "PIANO\nQuatre Polonaises, op. 1\nCaprices en forme de valse, op. 2\nSoirées musicales, op. 6\nVariations sur un thème de Robert Schumann, op. 20\nLieder\nSechs Lieder, op. 13\nMUSIQUE CONCERTANTE ET DE CHAMBRE\nConcerto pour piano en la mineur, op. 7\nTrio avec piano en sol mineur, op. 17\nTrois Romances pour violon et piano, op. 22"
   },
   {
-    "id": "sciarrino",
-    "name": "Salvatore Sciarrino",
-    "years": "1947–",
-    "birth": 1947,
-    "death": null,
-    "era": "Contemporain / Recherche timbrale",
-    "kind": "person",
-    "description": "Sciarrino concentre son œuvre sur les phénomènes fragiles du son, les seuils de perception, le souffle et les micro-événements. Son écriture explore sons harmoniques, bruits de clés et frottements. Son théâtre musical déconstruit les formes lyriques au profit d'une dramaturgie du silence, de l'écoute et de l'apparition.",
-    "works": "OPÉRAS\nLuci mie traditrici\nLa porta della legge\nMacbeth\nMUSIQUE DE CHAMBRE\nSei quartetti brevi\nSei capricci pour violon\nORCHESTRE\nAutoritratto nella notte"
-  },
-  {
-    "id": "crawford",
-    "name": "Ruth Crawford Seeger",
-    "years": "1901–1953",
-    "birth": 1901,
-    "death": 1953,
-    "era": "Modernité / États-Unis",
-    "kind": "person",
-    "description": "Compositrice américaine majeure de l'entre-deux-guerres, Crawford Seeger est associée à la mouvance ultramoderne de Chicago et à la dissonance contrapuntique. Son Quatuor à cordes de 1931 est l'une des œuvres les plus radicales de la musique américaine de son temps. Elle se consacre ensuite à la collecte et à l'édition de chants populaires.",
-    "works": "MUSIQUE DE CHAMBRE\nQuatuor à cordes (1931)\nPIANO\nPiano Study in Mixed Accents\nCHANTS\nArrangements et collectes de folk songs"
-  },
-  {
-    "id": "shankar",
-    "name": "Ravi Shankar",
-    "years": "1920–2012",
-    "birth": 1920,
-    "death": 2012,
-    "era": "Musique classique indienne",
-    "kind": "person",
-    "description": "Ravi Shankar est l'un des grands maîtres du sitar et une figure essentielle de la diffusion internationale de la musique classique de l'Inde du Nord. Formé auprès d'Allauddin Khan, il développe une carrière de concertiste, de pédagogue et de compositeur. Ses collaborations avec Yehudi Menuhin et George Harrison contribuent à faire connaître le raga au-delà de son contexte traditionnel. Il compose également pour le cinéma et pour des formations mêlant instruments indiens et orchestre occidental.",
-    "works": "RAGAS ET CONCERTS\nRaga Jog\nRaga Khamaj\nRaga Mishra Piloo\nCONCERTOS\nConcerto pour sitar et orchestre no 1\nConcerto pour sitar et orchestre no 2\nMUSIQUE DE FILM\nPather Panchali — musique de film\nApu Trilogy"
-  },
-  {
     "id": "smalley",
     "name": "Denis Smalley",
     "years": "1946–2020",
@@ -1780,17 +823,6 @@
     "kind": "person",
     "description": "Compositeur néo-zélandais puis britannique, Smalley est une figure importante de la musique acousmatique. Son concept de spectromorphologie décrit les formes et transformations du son dans le temps et fournit un vocabulaire d'analyse de l'écoute électroacoustique. Ses compositions explorent trajectoires énergétiques, espaces imaginaires et transformations de sources sonores.",
     "works": "ACOUSMATIQUE\nPentes\nWind Chimes\nBase Metals\nVortex\nÉCRITS\nSpectromorphology: Explaining Sound-Shapes"
-  },
-  {
-    "id": "smetana",
-    "name": "Bedřich Smetana",
-    "years": "1824–1884",
-    "birth": 1824,
-    "death": 1884,
-    "era": "Romantisme / Tchéquie",
-    "kind": "person",
-    "description": "Smetana est considéré comme l'un des fondateurs de la musique nationale tchèque. Son cycle Má vlast évoque l'histoire, les paysages et les légendes de Bohême. Ses opéras contribuent à créer un théâtre musical en langue tchèque, tandis que sa musique de chambre révèle une dimension intime et autobiographique.",
-    "works": "ORCHESTRE\nMá vlast — six poèmes symphoniques\nRichard III\nOPÉRAS\nLa Fiancée vendue\nDalibor\nLibuše\nCHAMBRE\nQuatuor no 1 « De ma vie »"
   },
   {
     "id": "wadada",
@@ -1813,28 +845,6 @@
     "kind": "person",
     "description": "Moine hiéronymite, organiste et compositeur catalan, Antonio Soler est formé à Montserrat avant de devenir maître de chapelle et organiste au monastère de l'Escurial. Il travaille dans l'entourage de la cour espagnole et enseigne le clavier au prince Gabriel, fils de Charles III. Son œuvre pour instruments à clavier est particulièrement remarquable : sonates, pièces de caractère et concertos pour deux orgues témoignent d'une synthèse entre traditions ibériques, style galant et formes européennes nouvelles. Ses sonates, longtemps rapprochées de celles de Domenico Scarlatti, possèdent pourtant une personnalité propre.",
     "works": "CLAVIER\nSonates pour clavecin — environ 120 sonates conservées\nFandango en ré mineur\nRondo en do majeur\nCONCERTOS ET MUSIQUE INSTRUMENTALE\nSix concertos pour deux orgues\nConcertos pour clavecin et cordes\nMUSIQUE SACRÉE\nMiserere\nVillancicos"
-  },
-  {
-    "id": "sor",
-    "name": "Fernando Sor",
-    "years": "1778–1839",
-    "birth": 1778,
-    "death": 1839,
-    "era": "Classicisme / Romantisme",
-    "kind": "person",
-    "description": "Guitariste et compositeur espagnol, Sor contribue à faire de la guitare un instrument de concert et de composition savante au XIXe siècle. Sa carrière le conduit à Paris, Londres et Moscou. Ses études, sonates et variations associent clarté formelle, élégance classique et idiomatisme instrumental. Sa méthode reste une référence de l'histoire de la guitare.",
-    "works": "GUITARE\nÉtudes, op. 6 et op. 29\nVariations sur un thème de Mozart, op. 9\nFantaisie élégiaque, op. 59\nSonates pour guitare\nTHÉÂTRE\nLa festa del villaggio"
-  },
-  {
-    "id": "sorabji",
-    "name": "Kaikhosru Shapurji Sorabji",
-    "years": "1892–1988",
-    "birth": 1892,
-    "death": 1988,
-    "era": "Modernité / Virtuosité radicale",
-    "kind": "person",
-    "description": "Compositeur britannique d'origine parsie, Sorabji développe des formes gigantesques, une polyphonie foisonnante et une virtuosité extrême. Refusant les courants dominants, il invente un langage nourri de Busoni et de l'impressionnisme. Son œuvre longtemps inaccessible a été redécouverte à partir de la fin du XXe siècle.",
-    "works": "PIANO\nOpus clavicembalisticum\nSequentia cyclica super Dies irae\nLe jardin parfumé\nToccata seconda\nORCHESTRE\nSymphonie no 1"
   },
   {
     "id": "stamitz",
@@ -1870,28 +880,6 @@
     "works": "CANTATES ET ARIETTES\nLagrime mie — cantate pour soprano et basse continue\nChe si può fare — aria\nAmor dormiglione — cantate\nTradimento — cantate\nBerenice, che fai? — cantate\nMoralità amorosa — cantate\nL'Eraclito amoroso — cantate\nRECUEILS\nIl primo libro de' madrigali (1644)\nCantate, ariette e duetti (1651)\nArie (1654)\nArie a voce sola (1655)"
   },
   {
-    "id": "takemitsu",
-    "name": "Tōru Takemitsu",
-    "years": "1930–1996",
-    "birth": 1930,
-    "death": 1996,
-    "era": "Contemporain",
-    "kind": "person",
-    "description": "Tōru Takemitsu est l'un des compositeurs japonais les plus importants du XXe siècle. Autodidacte, marqué par la musique française, Debussy, Messiaen et l'avant-garde électronique, il développe une pensée du timbre, du silence et de l'espace profondément singulière. Il cherche à faire dialoguer les traditions musicales japonaises et occidentales sans les réduire à une synthèse décorative. Son œuvre couvre l'orchestre, la musique de chambre, l'électroacoustique et le cinéma.",
-    "works": "ORCHESTRE\nNovember Steps\nA Flock Descends into the Pentagonal Garden\nFrom me flows what you call Time\nMUSIQUE DE CHAMBRE\nRain Tree\nToward the Sea\nQuatrain\nÉLECTROACOUSTIQUE\nWater Music\nStanza II"
-  },
-  {
-    "id": "tarrega",
-    "name": "Francisco Tárrega",
-    "years": "1852–1909",
-    "birth": 1852,
-    "death": 1909,
-    "era": "Romantisme tardif",
-    "kind": "person",
-    "description": "Guitariste et compositeur espagnol, Tárrega contribue à établir la technique moderne de la guitare classique. Il adapte au répertoire de l'instrument des procédés pianistiques et violonistiques, tout en composant des miniatures devenues emblématiques. Ses transcriptions participent à l'élargissement du répertoire guitaristique.",
-    "works": "GUITARE\nRecuerdos de la Alhambra\nCapricho árabe\nLágrima\nAdelita\nMaría\nTRANSCRIPTIONS\nPièces de Chopin, Beethoven et Schumann adaptées à la guitare"
-  },
-  {
     "id": "taylor",
     "name": "Cecil Taylor",
     "years": "1929–2018",
@@ -1903,39 +891,6 @@
     "works": "PIANO ET ENSEMBLES\nUnit Structures\nConquistador!\nSilent Tongues\nFor Olim\nSpring of Two Blue-J's\nMUSIQUE COLLECTIVE\nThe Willisau Concert"
   },
   {
-    "id": "tenney",
-    "name": "James Tenney",
-    "years": "1934–2006",
-    "birth": 1934,
-    "death": 2006,
-    "era": "Musique expérimentale / Acoustique",
-    "kind": "person",
-    "description": "Compositeur, théoricien et pionnier de l'informatique musicale, Tenney explore phénomènes acoustiques, perceptions de consonance, processus graduels et transformations de textures. Il participe aux premières recherches sur la synthèse numérique et développe une pensée analytique de l'écoute. Ses œuvres révèlent des phénomènes complexes à partir de processus parfois simples.",
-    "works": "MUSIQUE EXPÉRIMENTALE\nFor Ann (rising)\nKoan: Having Never Written a Note for Percussion\nClang\nCritical Band\nÉLECTRONIQUE\nCollage No. 1 (Blue Suede)\nSwell"
-  },
-  {
-    "id": "teruggi",
-    "name": "Daniel Teruggi",
-    "years": "1952–",
-    "birth": 1952,
-    "death": null,
-    "era": "Musique électroacoustique",
-    "kind": "person",
-    "description": "Compositeur et chercheur argentin installé en France, Teruggi est associé à l'INA-GRM, qu'il a dirigé pendant de nombreuses années. Son travail explore son, mémoire, espace et perception. Il contribue aussi à la conservation et à la valorisation des archives électroacoustiques et à la transmission de leur histoire technique et esthétique.",
-    "works": "MUSIQUE ÉLECTROACOUSTIQUE\nŒuvres acousmatiques et mixtes\nPièces pour dispositifs multicanaux\nRECHERCHE\nTravaux sur le patrimoine du GRM"
-  },
-  {
-    "id": "tilbury",
-    "name": "John Tilbury",
-    "years": "1936–",
-    "birth": 1936,
-    "death": null,
-    "era": "Improvisation / Musique expérimentale",
-    "kind": "person",
-    "description": "Pianiste britannique, Tilbury est un interprète majeur de Morton Feldman et Cornelius Cardew, et membre d'AMM. Son approche du piano privilégie silence, fragilité du geste et durée. Il participe à une conception de l'improvisation fondée sur l'écoute profonde plutôt que sur la virtuosité démonstrative.",
-    "works": "INTERPRÉTATION\nFeldman — For Bunita Marcus\nFeldman — Triadic Memories\nCardew — œuvres pour piano\nIMPROVISATION\nAMM\nSOLO\nOctopus"
-  },
-  {
     "id": "tinctoris",
     "name": "Johannes Tinctoris",
     "years": "vers 1435–1511",
@@ -1945,61 +900,6 @@
     "kind": "person",
     "description": "Théoricien, chantre et compositeur au service de la cour aragonaise de Naples, Tinctoris est une source capitale pour l'histoire de la polyphonie du XVe siècle. Ses traités décrivent avec précision les pratiques de son temps. Ses œuvres conservées témoignent de la circulation des styles franco-flamands en Italie.",
     "works": "MESSES\nMissa L'homme armé\nMissa sine nomine\nMOTETS\nO virgo miserere\nCHANSONS\nLe souvenir de vous me tue\nÉCRITS\nLiber de arte contrapuncti"
-  },
-  {
-    "id": "tippett",
-    "name": "Michael Tippett",
-    "years": "1905–1998",
-    "birth": 1905,
-    "death": 1998,
-    "era": "XXe siècle / Royaume-Uni",
-    "kind": "person",
-    "description": "Tippett associe pensée humaniste, liberté contrapuntique et inventivité rythmique. Marqué par Purcell, le madrigal anglais et les traditions populaires, il développe un langage personnel. Ses opéras fondés sur des sujets mythiques ou politiques interrogent violence, rédemption et contradictions de la société moderne.",
-    "works": "OPÉRAS\nThe Midsummer Marriage\nKing Priam\nThe Knot Garden\nThe Ice Break\nORCHESTRE\nConcerto pour double orchestre à cordes\nFantasia Concertante on a Theme of Corelli\nA Child of Our Time"
-  },
-  {
-    "id": "tyagaraja",
-    "name": "Tyagaraja",
-    "years": "1767–1847",
-    "birth": 1767,
-    "death": 1847,
-    "era": "Musique carnatique",
-    "kind": "person",
-    "description": "L'un des trois grands compositeurs de la tradition carnatique du sud de l'Inde, Tyagaraja laisse des milliers de compositions en télougou consacrées à Rāma. Son œuvre associe profondeur dévotionnelle, invention mélodique et raffinement rythmique, et demeure au cœur du répertoire vocal et instrumental contemporain.",
-    "works": "KRITIS\nEndaro Mahanubhavulu\nJagadanandakaraka\nNagumomu Ganaleni\nRama Ni Samanamevaru\nPancharatna Kritis"
-  },
-  {
-    "id": "varese",
-    "name": "Edgard Varèse",
-    "years": "1883–1965",
-    "birth": 1883,
-    "death": 1965,
-    "era": "Modernité / Musique expérimentale",
-    "kind": "person",
-    "description": "Né à Paris et installé aux États-Unis, Edgard Varèse repense radicalement la matière sonore et l'organisation du temps musical. Il conçoit la musique comme une architecture de masses, de densités et de trajectoires plutôt que comme un développement mélodique traditionnel. Son intérêt pour les nouvelles technologies et les sons non instrumentaux en fait une figure fondatrice de la musique électroacoustique. Des œuvres comme Ionisation et Déserts bouleversent les frontières entre bruit, timbre et composition.",
-    "works": "ORCHESTRE ET ENSEMBLE\nAmériques\nArcana\nIonisation\nIntégrales\nDéserts\nÉLECTROACOUSTIQUE\nPoème électronique\nÉtude pour espace"
-  },
-  {
-    "id": "vasconcelos",
-    "name": "Naná Vasconcelos",
-    "years": "1944–2016",
-    "birth": 1944,
-    "death": 2016,
-    "era": "Improvisation / Percussions du monde",
-    "kind": "person",
-    "description": "Percussionniste et berimbauiste brésilien, Vasconcelos relie traditions afro-brésiliennes, jazz et improvisation libre. Il élargit les possibilités du berimbau par des techniques étendues, la voix et l'électronique. Ses collaborations internationales renouvellent les dialogues entre traditions rythmiques et création contemporaine.",
-    "works": "COLLECTIFS\nCodona\nSaudades\nRain Dance\nPERCUSSIONS\nPièces pour berimbau et percussions\nCOLLABORATIONS\nEnregistrements avec Pat Metheny et Jan Garbarek"
-  },
-  {
-    "id": "victoria",
-    "name": "Tomás Luis de Victoria",
-    "years": "vers 1548–1611",
-    "birth": 1548,
-    "death": 1611,
-    "era": "Renaissance tardive",
-    "kind": "person",
-    "description": "Tomás Luis de Victoria est le plus célèbre compositeur espagnol de la Renaissance tardive. Prêtre, il étudie et travaille longtemps à Rome avant de revenir à Madrid. Sa musique exclusivement sacrée se distingue par une intensité contemplative, une écriture vocale limpide et une grande maîtrise des contrastes. Le Officium Defunctorum, publié en 1605, est l'un des chefs-d'œuvre de la musique funèbre de la Renaissance et l'aboutissement de son art.",
-    "works": "MUSIQUE SACRÉE\nOfficium Defunctorum (1605)\nMissa pro Victoria\nMissa Ave maris stella\nMOTETS\nO magnum mysterium\nO vos omnes\nAve Maria\nTAÏEB ET TÉNÈBRES\nTenebrae Responsories"
   },
   {
     "id": "villa_lobos",
@@ -2035,17 +935,6 @@
     "works": "OPÉRAS ET DRAMES MUSICAUX\nDer fliegende Holländer (Le Vaisseau fantôme)\nTannhäuser\nLohengrin\nTristan und Isolde\nDie Meistersinger von Nürnberg\nL'Anneau du Nibelung : Das Rheingold, Die Walküre, Siegfried, Götterdämmerung\nParsifal"
   },
   {
-    "id": "walcott",
-    "name": "Collin Walcott",
-    "years": "1945–1984",
-    "birth": 1945,
-    "death": 1984,
-    "era": "Jazz / Musiques du monde",
-    "kind": "person",
-    "description": "Percussionniste et compositeur américain, Walcott est un pionnier du dialogue entre jazz et traditions indiennes. Il maîtrise tabla et sitar et les intègre à des contextes d'improvisation occidentaux. Membre de Codona avec Don Cherry et Naná Vasconcelos, il participe à l'invention d'une musique de chambre interculturelle.",
-    "works": "CODONA\nCodona\nCodona 2\nCodona 3\nCOLLABORATIONS\nEnregistrements avec Oregon\nPièces pour tabla et sitar"
-  },
-  {
     "id": "weber",
     "name": "Carl Maria von Weber",
     "years": "1786–1826",
@@ -2055,17 +944,6 @@
     "kind": "person",
     "description": "Carl Maria von Weber est l'une des figures fondatrices de l'opéra romantique allemand. Issu d'une famille liée au théâtre itinérant, il grandit dans un environnement où la musique et la scène sont étroitement mêlées. Chef d'orchestre, pianiste et compositeur, il dirige notamment les théâtres de Prague puis de Dresde, où il défend un répertoire allemand. Der Freischütz, créé en 1821, connaît un succès considérable grâce à son univers fantastique, à ses couleurs orchestrales et à son ancrage dans les légendes populaires. Weber renouvelle l'orchestration et le traitement du surnaturel au théâtre, ouvrant une voie qui influencera Wagner.",
     "works": "OPÉRAS\nDer Freischütz\nEuryanthe\nOberon\nSilvana\nPIANO ET ORCHESTRE\nKonzertstück en fa mineur, op. 79\nDeux concertos pour piano\nInvitation à la valse, op. 65\nMUSIQUE DE CHAMBRE\nGrand Duo concertant pour clarinette et piano, op. 48\nConcertino pour clarinette, op. 26"
-  },
-  {
-    "id": "webern",
-    "name": "Anton Webern",
-    "years": "1883–1945",
-    "birth": 1883,
-    "death": 1945,
-    "era": "Seconde école de Vienne",
-    "kind": "person",
-    "description": "Anton Webern est l'un des membres essentiels de la Seconde école de Vienne, aux côtés de Schönberg et Berg. Après des œuvres de jeunesse encore marquées par le postromantisme, il adopte l'atonalité puis la technique dodécaphonique. Son langage se caractérise par une extrême concentration, une économie de moyens et une attention minutieuse au timbre, à la durée et au silence. Son influence sur le sérialisme d'après-guerre est considérable.",
-    "works": "ORCHESTRE\nPassacaille, op. 1\nCinq pièces pour orchestre, op. 10\nSix pièces pour orchestre, op. 6\nMUSIQUE DE CHAMBRE\nCinq mouvements pour quatuor à cordes, op. 5\nSymphonie, op. 21\nVariations pour piano, op. 27\nCANTATES\nCantates, op. 29 et 31"
   },
   {
     "id": "willaert",
@@ -2079,28 +957,6 @@
     "works": "MOTETS\nVerbum bonum et suave\nAve Maria, gratia plena\nMUSIQUE SACRÉE\nPsaumes à plusieurs chœurs\nMADRIGAUX\nMusica nova (1559)\nMadrigaux sur des textes de Pétrarque"
   },
   {
-    "id": "marylou",
-    "name": "Mary Lou Williams",
-    "years": "1910–1981",
-    "birth": 1910,
-    "death": 1981,
-    "era": "Jazz / Composition",
-    "kind": "person",
-    "description": "Pianiste, arrangeuse et compositrice américaine, Williams traverse plusieurs générations du jazz. Figure essentielle du swing, elle écrit pour les orchestres de Kansas City avant d'explorer bebop, jazz moderne et formes spirituelles. Pédagogue et mentor, elle joue un rôle majeur dans la transmission du jazz.",
-    "works": "PIANO ET JAZZ\nZodiac Suite\nIn the Land of Oo-Bla-Dee\nMUSIQUE SACRÉE\nBlack Christ of the Andes\nMary Lou's Mass\nARRANGEMENTS\nCompositions pour Andy Kirk et Benny Goodman"
-  },
-  {
-    "id": "vaughan",
-    "name": "Ralph Vaughan Williams",
-    "years": "1872–1958",
-    "birth": 1872,
-    "death": 1958,
-    "era": "XXe siècle / Royaume-Uni",
-    "kind": "person",
-    "description": "Vaughan Williams est une figure centrale du renouveau musical britannique. Collecteur de chants populaires, éditeur de musique ancienne et compositeur, il transforme les modes anciens et les traditions chorales anglaises en un langage symphonique personnel. Son œuvre contribue à redéfinir une identité musicale britannique moderne.",
-    "works": "ORCHESTRE\nFantasia on a Theme by Thomas Tallis\nThe Lark Ascending\nSymphonies nos 1 à 9\nVOIX\nA Sea Symphony\nDona nobis pacem\nFive Mystical Songs\nOPÉRA\nThe Pilgrim's Progress"
-  },
-  {
     "id": "wishart",
     "name": "Trevor Wishart",
     "years": "1946–",
@@ -2112,28 +968,6 @@
     "works": "ÉLECTROACOUSTIQUE\nRed Bird\nVox 5\nTongues of Fire\nGlobalalia\nVOIX\nEncounters in the Republic of Heaven\nÉCRITS\nOn Sonic Art"
   },
   {
-    "id": "xenakis",
-    "name": "Iannis Xenakis",
-    "years": "1922–2001",
-    "birth": 1922,
-    "death": 2001,
-    "era": "Contemporain / Musique expérimentale",
-    "kind": "person",
-    "description": "Architecte, ingénieur et compositeur d'origine grecque, Iannis Xenakis développe une musique fondée sur des modèles mathématiques, probabilistes et géométriques. Son expérience auprès de Le Corbusier nourrit une pensée de l'espace sonore et des masses, tandis que ses recherches mobilisent théorie des ensembles, stochastique et informatique. Il conçoit également des dispositifs de diffusion spatialisée et des spectacles multimédias. Son œuvre transforme profondément les rapports entre composition, science et architecture.",
-    "works": "ORCHESTRE\nMetastaseis\nPithoprakta\nJonchaies\nPléïades\nMUSIQUE ÉLECTRONIQUE ET SPATIALISÉE\nBohor\nLa Légende d'Eer\nPersepolis\nMUSIQUE DE CHAMBRE\nTetras\nEonta"
-  },
-  {
-    "id": "chenyi",
-    "name": "Chen Yi",
-    "years": "1953–",
-    "birth": 1953,
-    "death": null,
-    "era": "Contemporain / Chine",
-    "kind": "person",
-    "description": "Compositrice sino-américaine, Chen Yi associe techniques contemporaines occidentales et traditions musicales chinoises. Formée au Conservatoire central de Pékin puis aux États-Unis, elle développe un langage rythmiquement énergique, attentif aux timbres et aux gestes instrumentaux. Son catalogue couvre orchestre, musique de chambre et répertoire soliste.",
-    "works": "ORCHESTRE\nSi Ji\nMomentum\nConcerto pour violon\nCHAMBRE\nChinese Ancient Dances\nBa Ban\nVOIX\nThe West Lake"
-  },
-  {
     "id": "yoshihide",
     "name": "Otomo Yoshihide",
     "years": "1959–",
@@ -2143,17 +977,6 @@
     "kind": "person",
     "description": "Guitariste, turntablist et compositeur japonais, Yoshihide relie improvisation libre, noise, électronique, jazz et composition orchestrale. Il explore le disque vinyle comme instrument, les feedbacks et les textures saturées. Fondateur de Ground Zero, il mène des projets collectifs et interroge la mémoire des musiques populaires et expérimentales.",
     "works": "ENSEMBLES\nGround Zero\nONJQ — Otomo Yoshihide's New Jazz Quintet\nTURNTABLES\nSolo works for turntables\nIMPROVISATION\nEnregistrements avec Sachiko M et Toshimaru Nakamura"
-  },
-  {
-    "id": "zipoli",
-    "name": "Domenico Zipoli",
-    "years": "1688–1726",
-    "birth": 1688,
-    "death": 1726,
-    "era": "Baroque / Amérique du Sud",
-    "kind": "person",
-    "description": "Organiste italien devenu jésuite, Zipoli s'établit dans les missions d'Amérique du Sud. Son œuvre pour clavier, publiée à Rome avant son départ, circule dans les réductions jésuites. Il incarne un épisode important des transferts culturels entre l'Europe baroque et les sociétés sud-américaines.",
-    "works": "CLAVIER\nSonate d'intavolatura per organo e cimbalo\nPièces pour orgue\nMUSIQUE SACRÉE\nMesses et vêpres conservées dans les archives des missions jésuites\nHymnes et motets"
   },
   {
     "id": "zorn",
