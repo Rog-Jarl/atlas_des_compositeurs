@@ -3276,5 +3276,170 @@
     "kind": "Composer and conductor",
     "description": "André Campra was a French composer who helped renew French opera between Lully and Rameau. As maître de musique at Notre-Dame and later a leading figure at the Académie royale de musique, he brought Italianate melodic energy into French sacred and theatrical forms.",
     "works": "OPERA AND BALLET\nL'Europe galante\nTancrède\nLes fêtes vénitiennes\nSACRED MUSIC\nRequiem"
+  },
+  {
+    "id": "michel_richard_de_lalande",
+    "name": "Michel-Richard de Lalande",
+    "years": "1657–1726",
+    "birth": 1657,
+    "death": 1726,
+    "era": "Baroque",
+    "kind": "Composer and organist",
+    "description": "Michel-Richard de Lalande was a leading composer at the court of Louis XIV and Louis XV. He wrote grands motets for the royal chapel, combining the scale of the French court style with expressive vocal writing and richly coloured orchestration.",
+    "works": "SACRED MUSIC\nDe profundis\nDies irae\nConfitebor tibi Domine\nSymphonies pour les Soupers du Roi"
+  },
+  {
+    "id": "louis_nicolas_clerambault",
+    "name": "Louis-Nicolas Clérambault",
+    "years": "1676–1749",
+    "birth": 1676,
+    "death": 1749,
+    "era": "Baroque",
+    "kind": "Composer and organist",
+    "description": "Louis-Nicolas Clérambault was a French composer and organist whose music bridges the grand siècle and the late Baroque. He is particularly admired for his French cantatas, which combine dramatic declamation, refined ornament and expressive instrumental writing.",
+    "works": "CANTATAS\nMédée\nOrphée\nL'Europe\nORGAN MUSIC\nDeux livres d'orgue"
+  },
+  {
+    "id": "antoine_forqueray",
+    "name": "Antoine Forqueray",
+    "years": "1672–1745",
+    "birth": 1672,
+    "death": 1745,
+    "era": "Baroque",
+    "kind": "Composer and viol player",
+    "description": "Antoine Forqueray was a celebrated French viol virtuoso whose formidable technique earned him a reputation for intensity and brilliance. His son, Jean-Baptiste-Antoine, published a collection of his father's music, preserving a distinctive and demanding style for the viola da gamba.",
+    "works": "VIOL MUSIC\nPièces de viole (published 1747)\nLa Couperin\nLa Régente\nLa Jupiter\nLa Portugaise"
+  },
+  {
+    "id": "jean_fery_rebel",
+    "name": "Jean-Féry Rebel",
+    "years": "1666–1747",
+    "birth": 1666,
+    "death": 1747,
+    "era": "Baroque",
+    "kind": "Composer and violinist",
+    "description": "Jean-Féry Rebel was a French violinist and composer associated with the Paris Opéra and the royal court. His ballet suites and instrumental works show an adventurous approach to rhythm and orchestral colour, most famously in the startling opening dissonance of Les Élémens.",
+    "works": "ORCHESTRAL MUSIC\nLes Élémens\nLes Caractères de la danse\nUlysse\nINSTRUMENTAL MUSIC\nSonates pour le violon"
+  },
+  {
+    "id": "heinrich_schutz",
+    "name": "Heinrich Schütz",
+    "years": "1585–1672",
+    "birth": 1585,
+    "death": 1672,
+    "era": "Early Baroque",
+    "kind": "Composer and conductor",
+    "description": "Heinrich Schütz is widely regarded as the foremost German composer before Bach. Trained in Venice with Giovanni Gabrieli, he adapted Italian concerted and dramatic techniques to the German language and Lutheran worship, producing music of striking rhetorical power.",
+    "works": "SACRED MUSIC\nPsalmen Davids\nSymphoniae sacrae\nMusikalische Exequien\nChristmas Story\nPassion settings"
+  },
+  {
+    "id": "ferdinand_ries",
+    "name": "Ferdinand Ries",
+    "years": "1784–1838",
+    "birth": 1784,
+    "death": 1838,
+    "era": "Classical / Early Romantic",
+    "kind": "Composer and pianist",
+    "description": "Ferdinand Ries was a German pianist and composer who studied with Beethoven in Vienna and became one of his close associates. His extensive output includes concertos, symphonies and chamber music, combining Classical formal clarity with the expanding expressive language of the early Romantic era.",
+    "works": "ORCHESTRAL MUSIC\nEight symphonies\nPiano Concertos\nCHAMBER MUSIC\nCello Sonatas\nString Quartets"
+  },
+  {
+    "id": "john_field",
+    "name": "John Field",
+    "years": "1782–1837",
+    "birth": 1782,
+    "death": 1837,
+    "era": "Classical / Early Romantic",
+    "kind": "Composer and pianist",
+    "description": "John Field was an Irish pianist and composer whose nocturnes helped establish a lyrical genre later developed by Chopin. After training in London, he spent much of his career in Russia, where his elegant, singing keyboard style influenced generations of pianists.",
+    "works": "PIANO MUSIC\n18 Nocturnes\nPiano Concertos Nos. 1–7\nPiano Sonatas"
+  },
+  {
+    "id": "carl_czerny",
+    "name": "Carl Czerny",
+    "years": "1791–1857",
+    "birth": 1791,
+    "death": 1857,
+    "era": "Classical / Early Romantic",
+    "kind": "Composer and piano pedagogue",
+    "description": "Carl Czerny was an Austrian pianist, composer and teacher who studied with Beethoven and taught Liszt. His enormous output includes études and technical exercises that remain central to piano training, alongside concert works, chamber music and sacred compositions.",
+    "works": "PIANO PEDAGOGY\nThe School of Velocity, Op. 299\nThe Art of Finger Dexterity, Op. 740\nThe Practical Method for Beginners, Op. 599\nORCHESTRAL AND CHAMBER MUSIC\nSymphonies and chamber works"
+  },
+  {
+    "id": "jan_ladislav_dussek",
+    "name": "Jan Ladislav Dussek",
+    "years": "1760–1812",
+    "birth": 1760,
+    "death": 1812,
+    "era": "Classical / Early Romantic",
+    "kind": "Composer and pianist",
+    "description": "Jan Ladislav Dussek was a Bohemian pianist and composer whose international career took him through central Europe, London and Paris. His expansive keyboard writing, bold harmonies and expressive virtuosity helped anticipate the Romantic piano style.",
+    "works": "PIANO MUSIC\nPiano Sonatas\nPiano Concertos\nThe Sufferings of the Queen of France\nCHAMBER MUSIC\nSonatas for piano and strings"
+  },
+  {
+    "id": "maria_szymanowska",
+    "name": "Maria Szymanowska",
+    "years": "1789–1831",
+    "birth": 1789,
+    "death": 1831,
+    "era": "Early Romantic",
+    "kind": "Composer and pianist",
+    "description": "Maria Szymanowska was a Polish pianist and composer who toured widely across Europe and settled in St Petersburg, where she served as court pianist. A celebrated virtuoso before Chopin, she wrote elegant piano miniatures, dances and songs that helped shape the emerging Romantic keyboard style.",
+    "works": "PIANO MUSIC\nVingt exercices et préludes\nNocturne in B-flat major\nMazurkas and polonaises\nSongs"
+  },
+  {
+    "id": "mikhail_glinka",
+    "name": "Mikhail Glinka",
+    "years": "1804–1857",
+    "birth": 1804,
+    "death": 1857,
+    "era": "Romantic",
+    "kind": "Composer",
+    "description": "Mikhail Glinka is often regarded as the founder of the Russian national school of classical music. His operas draw on Russian history, language and folk material while engaging with Italian and French traditions, influencing generations of Russian composers.",
+    "works": "OPERA\nA Life for the Tsar\nRuslan and Lyudmila\nORCHESTRAL MUSIC\nKamarinskaya\nSpanish Overtures"
+  },
+  {
+    "id": "hector_berlioz",
+    "name": "Hector Berlioz",
+    "years": "1803–1869",
+    "birth": 1803,
+    "death": 1869,
+    "era": "Romantic",
+    "kind": "Composer and writer",
+    "description": "Hector Berlioz transformed nineteenth-century orchestral music through his imaginative orchestration, dramatic structures and literary inspirations. A major critic and conductor as well as a composer, he developed the idée fixe in the Symphonie fantastique and expanded the expressive possibilities of the orchestra.",
+    "works": "ORCHESTRAL MUSIC\nSymphonie fantastique\nHarold en Italie\nRoméo et Juliette\nGrande messe des morts\nOPERA\nLes Troyens"
+  },
+  {
+    "id": "cesar_franck",
+    "name": "César Franck",
+    "years": "1822–1890",
+    "birth": 1822,
+    "death": 1890,
+    "era": "Romantic",
+    "kind": "Composer and organist",
+    "description": "César Franck was a Belgian-born composer, organist and teacher who became a central figure in French musical life. His late works are known for cyclic forms, chromatic harmony and a spiritual intensity that influenced a generation of French composers.",
+    "works": "ORCHESTRAL MUSIC\nSymphony in D minor\nLes Éolides\nLe Chasseur maudit\nCHAMBER MUSIC\nViolin Sonata in A major\nPiano Quintet in F minor"
+  },
+  {
+    "id": "gabriel_faure",
+    "name": "Gabriel Fauré",
+    "years": "1845–1924",
+    "birth": 1845,
+    "death": 1924,
+    "era": "Late Romantic / Early Modern",
+    "kind": "Composer",
+    "description": "Gabriel Fauré was a French composer whose refined harmonic language and understated lyricism helped lead French music from Romanticism toward modernism. He served as director of the Paris Conservatoire and wrote songs, chamber music, piano works and the celebrated Requiem.",
+    "works": "SACRED MUSIC\nRequiem, Op. 48\nMesse basse\nCHAMBER MUSIC\nPiano Quartets Nos. 1 and 2\nPiano Quintets Nos. 1 and 2\nSONGS\nLa bonne chanson"
+  },
+  {
+    "id": "louise_bertin",
+    "name": "Louise Bertin",
+    "years": "1805–1877",
+    "birth": 1805,
+    "death": 1877,
+    "era": "Romantic",
+    "kind": "Composer",
+    "description": "Louise Bertin was a French composer who wrote operas, symphonies, chamber music and piano works despite the barriers faced by women in nineteenth-century musical institutions. Victor Hugo collaborated with her on the libretto of La Esmeralda, an opera based on Notre-Dame de Paris.",
+    "works": "OPERA\nLa Esmeralda\nLe Loup-garou\nFausto\nCHAMBER MUSIC\nString Quartets\nPiano works"
   }
 ]
