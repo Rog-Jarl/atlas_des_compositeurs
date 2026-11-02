@@ -445,10 +445,10 @@
     "years": "1749–1801",
     "birth": 1749,
     "death": 1801,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Né à Aversa, près de Naples, Domenico Cimarosa est l'un des grands représentants de l'opéra italien de la seconde moitié du XVIIIe siècle. Formé au conservatoire de Santa Maria di Loreto, il connaît rapidement le succès à Naples avant de travailler dans plusieurs villes européennes, notamment Saint-Pétersbourg et Vienne. Son théâtre musical se distingue par la vivacité des ensembles, l'énergie comique et la finesse avec laquelle il caractérise les personnages. Il compose également des opéras sérieux et de la musique instrumentale. Il matrimonio segreto, créé à Vienne en 1792, demeure l'un des chefs-d'œuvre de l'opera buffa.",
-    "works": "OPÉRAS\nIl matrimonio segreto\nL'italiana in Londra\nLe astuzie femminili\nGli Orazi e i Curiazi\nMUSIQUE INSTRUMENTALE\nSonates pour clavier\nConcertos pour clavecin et orchestre"
+    "description": "Born in Aversa near Naples, Domenico Cimarosa was one of the leading Italian opera composers of the second half of the 18th century. Trained at the Conservatorio di Santa Maria di Loreto, he quickly found success in Naples before working in several European cities, notably St Petersburg and Vienna. His music theatre is distinguished by lively ensembles, comic energy and subtle characterisation. He also wrote serious operas and instrumental music. Il matrimonio segreto, premiered in Vienna in 1792, remains a masterpiece of opera buffa.",
+    "works": "OPERAS\nIl matrimonio segreto\nL'italiana in Londra\nLe astuzie femminili\nGli Orazi e i Curiazi\nINSTRUMENTAL MUSIC\nKeyboard sonatas\nConcertos for harpsichord and orchestra"
   },
   {
     "id": "clementi",
@@ -456,10 +456,10 @@
     "years": "1752–1832",
     "birth": 1752,
     "death": 1832,
-    "era": "Classicisme / romantisme",
+    "era": "Classical period / Romanticism",
     "kind": "person",
-    "description": "Né à Rome, Muzio Clementi est envoyé très jeune en Angleterre, où il développe une carrière de pianiste, compositeur, pédagogue et éditeur. Sa virtuosité contribue à faire du piano un instrument central de la vie musicale moderne. Il compose des sonates qui explorent l'étendue, la puissance et les possibilités techniques du nouvel instrument, et dont [[beethoven|Beethoven]] admire l'inventivité. Son activité d'éditeur et de facteur de pianos participe à l'évolution de la facture instrumentale et du marché musical. Le Gradus ad Parnassum devient un ouvrage fondamental de la pédagogie pianistique.",
-    "works": "PIANO\nSonates pour piano, op. 2, op. 7, op. 13 et op. 40\nSonate en si bémol majeur, op. 24 n° 2\nSonate en fa dièse mineur, op. 25 n° 5\nGradus ad Parnassum, op. 44\nMUSIQUE ORCHESTRALE\nSymphonies en sol mineur et ré majeur\nConcertos pour piano"
+    "description": "Born in Rome, Muzio Clementi was sent to England at a young age, where he built a career as a pianist, composer, teacher and publisher. His virtuosity helped establish the piano as a central instrument of modern musical life. His sonatas explore the range, power and technical possibilities of the new instrument, and their inventiveness was admired by [[beethoven|Beethoven]]. His work as a publisher and piano maker contributed to the development of instrument building and the music market. Gradus ad Parnassum became a cornerstone of piano pedagogy.",
+    "works": "PIANO\nPiano Sonatas, Opp. 2, 7, 13 and 40\nSonata in B-flat major, Op. 24 No. 2\nSonata in F-sharp minor, Op. 25 No. 5\nGradus ad Parnassum, Op. 44\nORCHESTRAL MUSIC\nSymphonies in G minor and D major\nPiano concertos"
   },
   {
     "id": "alicecoltrane",
@@ -467,10 +467,10 @@
     "years": "1937–2007",
     "birth": 1937,
     "death": 2007,
-    "era": "Jazz spirituel / Avant-garde",
+    "era": "Spiritual jazz / Avant-garde",
     "kind": "person",
-    "description": "Pianiste, harpiste et compositrice, Alice Coltrane développe une œuvre personnelle où harpe, piano, orgue, cordes et instruments indiens participent à une musique méditative et visionnaire. Sa recherche spirituelle transforme les formes du jazz en espaces de contemplation et d'élévation.",
-    "works": "ALBUMS ET CYCLES\nA Monastic Trio\nJourney in Satchidananda\nPtah, the El Daoud\nUniversal Consciousness\nWorld Galaxy\nTransfiguration"
+    "description": "Pianist, harpist and composer Alice Coltrane developed a distinctive body of work in which harp, piano, organ, strings and Indian instruments contribute to a meditative, visionary music. Her spiritual quest transformed the forms of jazz into spaces for contemplation and transcendence.",
+    "works": "ALBUMS AND CYCLES\nA Monastic Trio\nJourney in Satchidananda\nPtah, the El Daoud\nUniversal Consciousness\nWorld Galaxy\nTransfiguration"
   },
   {
     "id": "couperin",
@@ -480,8 +480,8 @@
     "death": 1733,
     "era": "Baroque",
     "kind": "person",
-    "description": "Surnommé « le Grand », François Couperin est une figure majeure de la musique française du règne de Louis XIV. Organiste et claveciniste, il cherche à réunir les goûts français et italien. Ses pièces de clavecin associent raffinement ornemental, observation psychologique et liberté formelle. Son Art de toucher le clavecin demeure un document fondamental.",
-    "works": "CLAVECIN\nQuatre livres de pièces de clavecin\nLes Barricades mystérieuses\nLes Bergeries\nLe Rossignol en amour\nMUSIQUE DE CHAMBRE\nConcerts royaux\nLes Nations\nMUSIQUE SACRÉE\nLeçons de ténèbres"
+    "description": "Known as “the Great”, François Couperin was a major figure in French music under Louis XIV. An organist and harpsichordist, he sought to unite the French and Italian styles. His harpsichord pieces combine ornamental refinement, psychological insight and formal freedom. His treatise L'Art de toucher le clavecin remains an essential document.",
+    "works": "HARPSICHORD\nFour Books of Harpsichord Pieces\nLes Barricades mystérieuses\nLes Bergeries\nLe Rossignol en amour\nCHAMBER MUSIC\nConcerts royaux\nLes Nations\nSACRED MUSIC\nLeçons de ténèbres"
   },
   {
     "id": "crumb",
@@ -489,10 +489,10 @@
     "years": "1929–2022",
     "birth": 1929,
     "death": 2022,
-    "era": "Contemporain / Théâtre instrumental",
+    "era": "Contemporary / Instrumental theatre",
     "kind": "person",
-    "description": "Crumb explore les sonorités étendues, les symboles, les espaces scéniques et les résonances de la musique ancienne. Il transforme les instruments traditionnels par des modes de jeu inhabituels, des dispositifs de percussion et des notations visuelles. Sa musique renouvelle la relation entre son, geste et espace.",
-    "works": "MUSIQUE DE CHAMBRE\nBlack Angels\nMakrokosmos I et II\nAncient Voices of Children\nVOIX\nSongs, Drones and Refrains of Death\nApparition\nORCHESTRE\nA Haunted Landscape"
+    "description": "George Crumb explored extended sonorities, symbolism, theatrical space and the resonances of early music. He transformed traditional instruments through unusual playing techniques, percussion devices and graphic notation. His music renews the relationship between sound, gesture and space.",
+    "works": "CHAMBER MUSIC\nBlack Angels\nMakrokosmos I and II\nAncient Voices of Children\nVOICE\nSongs, Drones and Refrains of Death\nApparition\nORCHESTRA\nA Haunted Landscape"
   },
   {
     "id": "debussy",
@@ -500,10 +500,10 @@
     "years": "1862–1918",
     "birth": 1862,
     "death": 1918,
-    "era": "Modernité",
+    "era": "Modernism",
     "kind": "person",
-    "description": "Claude Debussy étudie au Conservatoire de Paris, séjourne à Rome après avoir obtenu le prix de Rome, puis s'affranchit progressivement des modèles académiques. Il fréquente les milieux symbolistes et découvre des musiques extra-européennes, notamment au cours de l'Exposition universelle de 1889. Son langage renouvelle l'harmonie, la forme et l'orchestration par les modes, les accords non fonctionnels, les timbres et les résonances. Bien qu'on l'associe souvent à l'impressionnisme, il récuse cette étiquette. Son œuvre ouvre un espace nouveau à la modernité, dont se réclameront des compositeurs aussi différents que Ravel, Messiaen ou Boulez.",
-    "works": "ORCHESTRE\nPrélude à l'après-midi d'un faune\nNocturnes\nLa Mer\nImages pour orchestre\nBALLET ET OPÉRA\nPelléas et Mélisande\nJeux\nPIANO\nSuite bergamasque — dont Clair de lune\nEstampes\nImages, livres I et II\nPréludes, livres I et II\nCHAMBRE\nQuatuor à cordes en sol mineur, op. 10\nSonate pour violoncelle et piano"
+    "description": "Claude Debussy studied at the Paris Conservatoire and spent time in Rome after winning the Prix de Rome, before gradually freeing himself from academic models. He moved in Symbolist circles and encountered non-European music, notably at the 1889 Exposition Universelle. His language transformed harmony, form and orchestration through modes, non-functional chords, timbre and resonance. Though often associated with Impressionism, he rejected the label. His music opened a new space for modernism, inspiring very different composers, from Ravel and Messiaen to Boulez.",
+    "works": "ORCHESTRA\nPrélude à l'après-midi d'un faune\nNocturnes\nLa Mer\nImages pour orchestre\nBALLET AND OPERA\nPelléas et Mélisande\nJeux\nPIANO\nSuite bergamasque — including Clair de lune\nEstampes\nImages, Books I and II\nPréludes, Books I and II\nCHAMBER MUSIC\nString Quartet in G minor, Op. 10\nSonata for Cello and Piano"
   },
   {
     "id": "delius",
@@ -511,10 +511,10 @@
     "years": "1862–1934",
     "birth": 1862,
     "death": 1934,
-    "era": "Romantisme tardif",
+    "era": "Late Romanticism",
     "kind": "person",
-    "description": "Delius développe une musique sensuelle, aux textures orchestrales fluides et à la temporalité contemplative. Après avoir vécu en Floride et en Allemagne, il s'établit en France. Sa musique, souvent liée à la nature et aux paysages, échappe aux formes dramatiques traditionnelles au profit d'une continuité sonore singulière.",
-    "works": "ORCHESTRE\nOn Hearing the First Cuckoo in Spring\nA Song of Summer\nBrigg Fair\nVOIX\nSea Drift\nA Mass of Life\nSongs of Farewell\nOPÉRA\nA Village Romeo and Juliet"
+    "description": "Frederick Delius developed a sensuous musical language, with fluid orchestral textures and a contemplative sense of time. After living in Florida and Germany, he settled in France. His music, often connected with nature and landscape, tends to avoid traditional dramatic forms in favour of a distinctive continuity of sound.",
+    "works": "ORCHESTRA\nOn Hearing the First Cuckoo in Spring\nA Song of Summer\nBrigg Fair\nVOICE\nSea Drift\nA Mass of Life\nSongs of Farewell\nOPERA\nA Village Romeo and Juliet"
   },
   {
     "id": "devienne",
@@ -522,10 +522,10 @@
     "years": "1759–1803",
     "birth": 1759,
     "death": 1803,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Flûtiste, bassoniste et compositeur français, François Devienne joue un rôle essentiel dans l'essor de l'école française des instruments à vent. Membre de la Garde nationale et professeur au Conservatoire de Paris, il compose une musique abondante pour flûte, basson et ensembles à vent. Ses concertos et sonates conjuguent virtuosité, élégance et clarté formelle, tout en documentant le répertoire instrumental de la fin du XVIIIe siècle.",
-    "works": "FLÛTE\nConcertos pour flûte nos 1 à 14\nSonates pour flûte et basse\nBASSON\nConcertos pour basson\nSonates pour basson\nOPÉRA\nLes visitandines"
+    "description": "French flautist, bassoonist and composer François Devienne played an essential role in the development of the French school of wind playing. A member of the National Guard and a professor at the Paris Conservatoire, he wrote extensively for flute, bassoon and wind ensembles. His concertos and sonatas combine virtuosity, elegance and formal clarity, while documenting the instrumental repertoire of the late 18th century.",
+    "works": "FLUTE\nFlute Concertos Nos. 1–14\nSonatas for flute and bass\nBASSOON\nBassoon concertos\nBassoon sonatas\nOPERA\nLes visitandines"
   },
   {
     "id": "dikshitar",
@@ -533,9 +533,9 @@
     "years": "1775–1835",
     "birth": 1775,
     "death": 1835,
-    "era": "Musique carnatique",
+    "era": "Carnatic music",
     "kind": "person",
-    "description": "Dikshitar est l'un des trois grands compositeurs de la tradition carnatique. Sa musique se distingue par une écriture mélodique élaborée, une grande richesse modale et des références à la mythologie et aux lieux sacrés. Ses compositions lentes et majestueuses offrent un vaste espace à l'ornementation et à l'exploration du raga.",
+    "description": "Muthuswami Dikshitar was one of the three great composers of the Carnatic tradition. His music is distinguished by elaborate melodic writing, modal richness and references to mythology and sacred places. His slow, majestic compositions offer expansive scope for ornamentation and exploration of the raga.",
     "works": "KRITIS\nVatapi Ganapatim\nSri Subrahmanyaya Namaste\nMeenakshi Memudam\nAkshaya Linga Vibho\nNAVAGRAHA KRITIS"
   },
   {
@@ -544,10 +544,10 @@
     "years": "1563–1626",
     "birth": 1563,
     "death": 1626,
-    "era": "Renaissance tardive",
+    "era": "Late Renaissance",
     "kind": "person",
-    "description": "John Dowland est le grand maître anglais du luth et de la chanson accompagnée. Sa carrière le conduit dans plusieurs cours européennes. Ses ayres explorent mélancolie, absence et désir, tandis que ses pièces pour luth associent raffinement contrapuntique et expressivité intimiste. Flow my tears devient l'une des mélodies les plus célèbres de son temps.",
-    "works": "AYRES\nFlow my tears\nCome again\nIn darkness let me dwell\nFine knacks for ladies\nLUTH\nLachrimae, or Seaven Teares\nThe King of Denmark's Galliard"
+    "description": "John Dowland was the great English master of the lute and accompanied song. His career took him to several European courts. His ayres explore melancholy, absence and desire, while his lute pieces combine contrapuntal refinement with intimate expressiveness. Flow my tears became one of the most famous melodies of its age.",
+    "works": "AYRES\nFlow my tears\nCome again\nIn darkness let me dwell\nFine knacks for ladies\nLUTE\nLachrimae, or Seaven Teares\nThe King of Denmark's Galliard"
   },
   {
     "id": "dufay",
@@ -557,8 +557,8 @@
     "death": 1474,
     "era": "Renaissance",
     "kind": "person",
-    "description": "Guillaume Dufay est l'un des compositeurs majeurs du XVe siècle et une figure centrale de la première Renaissance musicale. Sa carrière le conduit entre Cambrai, l'Italie et les cours princières, dans un réseau européen de circulation des musiciens. Il assimile les traditions anglaises, françaises et italiennes, et contribue à renouveler la messe cyclique, le motet isorythmique et la chanson. Son langage associe architecture contrapuntique, équilibre des proportions et sens remarquable de la ligne mélodique.",
-    "works": "MESSES\nMissa Se la face ay pale\nMissa L'homme armé\nMissa Ecce ancilla Domini\nMOTETS\nNuper rosarum flores\nAve regina caelorum\nCHANSONS\nAdieu m'amour\nSe la face ay pale"
+    "description": "Guillaume Dufay was one of the major composers of the 15th century and a central figure in the early musical Renaissance. His career took him between Cambrai, Italy and princely courts, within a European network of travelling musicians. He absorbed English, French and Italian traditions and helped renew the cyclic mass, the isorhythmic motet and the chanson. His language combines contrapuntal architecture, balanced proportions and a remarkable sense of melodic line.",
+    "works": "MASSES\nMissa Se la face ay pale\nMissa L'homme armé\nMissa Ecce ancilla Domini\nMOTETS\nNuper rosarum flores\nAve regina caelorum\nCHansons\nAdieu m'amour\nSe la face ay pale"
   },
   {
     "id": "dufour",
@@ -566,10 +566,10 @@
     "years": "1953–",
     "birth": 1953,
     "death": null,
-    "era": "Musique acousmatique",
+    "era": "Acousmatic music",
     "kind": "person",
-    "description": "Compositeur français, Dufour est une figure importante de la musique acousmatique et de la pédagogie électroacoustique. Il travaille à partir de sons enregistrés, de transformations et de constructions narratives ou abstraites, en accordant une attention particulière à la dramaturgie de l'écoute. Son catalogue couvre musique acousmatique, mixte et radiophonique.",
-    "works": "ACOUSMATIQUE\nLa vie en prose\nLe caillou\nLes heures bleues\nMUSIQUE MIXTE\nŒuvres pour instruments et bande\nRADIO\nPièces et réalisations radiophoniques"
+    "description": "French composer Denis Dufour is an important figure in acousmatic music and electroacoustic education. Working with recorded sounds, transformations and narrative or abstract constructions, he pays particular attention to the dramaturgy of listening. His catalogue spans acousmatic, mixed and radio works.",
+    "works": "ACOUSMATIC MUSIC\nLa vie en prose\nLe caillou\nLes heures bleues\nMIXED MUSIC\nWorks for instruments and tape\nRADIO\nRadio pieces and productions"
   },
   {
     "id": "tan_dun",
@@ -577,10 +577,10 @@
     "years": "1957–",
     "birth": 1957,
     "death": null,
-    "era": "Contemporain",
+    "era": "Contemporary",
     "kind": "person",
-    "description": "Tan Dun est un compositeur chinois dont l'œuvre mêle traditions musicales asiatiques, techniques occidentales, théâtre rituel et dispositifs multimédias. Formé à Pékin puis à New York, il développe une esthétique où les matériaux naturels, l'eau, le papier et la pierre deviennent des sources sonores et des éléments dramaturgiques. Ses opéras, concertos et œuvres orchestrales interrogent les échanges culturels et les formes de transmission entre traditions.",
-    "works": "ORCHESTRE ET CONCERTOS\nWater Concerto\nPaper Concerto\nEarth Concerto\nInternet Symphony\nOPÉRAS\nMarco Polo\nThe First Emperor\nTELEVISION ET CINÉMA\nCrouching Tiger, Hidden Dragon"
+    "description": "Chinese composer Tan Dun combines Asian musical traditions, Western techniques, ritual theatre and multimedia devices. Trained in Beijing and later in New York, he developed an aesthetic in which natural materials such as water, paper and stone become both sound sources and dramatic elements. His operas, concertos and orchestral works explore cultural exchange and the transmission of traditions.",
+    "works": "ORCHESTRA AND CONCERTOS\nWater Concerto\nPaper Concerto\nEarth Concerto\nInternet Symphony\nOPERAS\nMarco Polo\nThe First Emperor\nFILM AND TELEVISION\nCrouching Tiger, Hidden Dragon"
   },
   {
     "id": "dunstable",
@@ -588,10 +588,10 @@
     "years": "vers 1390–1453",
     "birth": 1390,
     "death": 1453,
-    "era": "Moyen Âge tardif / Renaissance",
+    "era": "Late Middle Ages / Renaissance",
     "kind": "person",
-    "description": "Compositeur anglais dont l'œuvre marque un tournant dans l'histoire de la polyphonie européenne. Peu de partitions nous sont parvenues, mais son influence fut considérable sur les musiciens du continent, notamment dans les territoires bourguignons. Son écriture privilégie une consonance souple, nourrie par l'usage des tierces et des sixtes, qui contribue à l'émergence du langage sonore de la Renaissance. Il incarne les échanges musicaux entre l'Angleterre et le continent au début du XVe siècle.",
-    "works": "MOTETS ET PIÈCES SACRÉES\nQuam pulchra es\nVeni sancte spiritus / Veni creator\nPreco preheminencie\nMesse à trois voix — fragments attribués"
+    "description": "English composer John Dunstable marked a turning point in the history of European polyphony. Few of his scores survive, but his influence on musicians on the continent was considerable, especially in Burgundian territories. His writing favours supple consonance, enriched by the use of thirds and sixths, helping shape the emerging sound world of the Renaissance. He embodies the musical exchanges between England and continental Europe in the early 15th century.",
+    "works": "MOTETS AND SACRED WORKS\nQuam pulchra es\nVeni sancte spiritus / Veni creator\nPreco preheminencie\nMass for three voices — attributed fragments"
   },
   {
     "id": "dvorak",
@@ -599,10 +599,10 @@
     "years": "1841–1904",
     "birth": 1841,
     "death": 1904,
-    "era": "Romantisme",
+    "era": "Romanticism",
     "kind": "person",
-    "description": "Dvořák transforme les rythmes et idiomes populaires de Bohême en un langage orchestral riche, sans se limiter au folklore. Sa carrière le conduit à New York, où il dirige le Conservatoire national et compose sa Symphonie du Nouveau Monde. Son œuvre comprend symphonies, concertos, opéras et musique de chambre.",
-    "works": "SYMPHONIES\nSymphonie no 9 « Du Nouveau Monde »\nSymphonie no 7\nSymphonie no 8\nCHAMBRE\nQuatuor « Américain »\nDumky Trio\nOPÉRA\nRusalka\nSACRÉ\nStabat Mater\nRequiem"
+    "description": "Antonín Dvořák transformed Bohemian rhythms and idioms into a richly individual orchestral language without simply reproducing folklore. His career took him to New York, where he directed the National Conservatory and composed his “New World” Symphony. His output includes symphonies, concertos, operas and chamber music.",
+    "works": "SYMPHONIES\nSymphony No. 9 “From the New World”\nSymphony No. 7\nSymphony No. 8\nCHAMBER MUSIC\n“American” String Quartet\nDumky Trio\nOPERA\nRusalka\nSACRED MUSIC\nStabat Mater\nRequiem"
   },
   {
     "id": "elgar",
@@ -610,10 +610,10 @@
     "years": "1857–1934",
     "birth": 1857,
     "death": 1934,
-    "era": "Romantisme tardif",
+    "era": "Late Romanticism",
     "kind": "person",
-    "description": "Elgar est l'un des compositeurs britanniques majeurs du tournant des XIXe et XXe siècles. Issu d'un milieu provincial et largement autodidacte, il impose une musique orchestrale d'une grande maîtrise, marquée par noblesse mélodique et sophistication contrapuntique. Ses Variations Enigma et ses concertos sont devenus des piliers du répertoire.",
-    "works": "ORCHESTRE\nVariations Enigma\nSymphonie no 1\nSymphonie no 2\nCockaigne\nCONCERTOS\nConcerto pour violoncelle\nConcerto pour violon\nORATORIO\nThe Dream of Gerontius"
+    "description": "Edward Elgar was one of the leading British composers at the turn of the 19th and 20th centuries. From a provincial background and largely self-taught, he established himself through orchestral music of great craftsmanship, marked by melodic nobility and contrapuntal sophistication. His Enigma Variations and concertos have become pillars of the repertoire.",
+    "works": "ORCHESTRA\nEnigma Variations\nSymphony No. 1\nSymphony No. 2\nCockaigne\nCONCERTOS\nCello Concerto\nViolin Concerto\nORATORIO\nThe Dream of Gerontius"
   },
   {
     "id": "ellington",
@@ -623,7 +623,7 @@
     "death": 1974,
     "era": "Jazz / Composition",
     "kind": "person",
-    "description": "Ellington est l'un des plus grands compositeurs et chefs d'orchestre du XXe siècle. Son écriture s'appuie sur les personnalités sonores de ses musiciens et transforme le big band en laboratoire de composition. Il mêle blues, formes classiques, musique de danse et suites ambitieuses dans un catalogue immense.",
+    "description": "Duke Ellington was one of the greatest composers and bandleaders of the 20th century. His writing drew on the distinctive sound and personality of his musicians, turning the big band into a compositional laboratory. He combined blues, classical forms, dance music and ambitious suites in an immense catalogue.",
     "works": "SUITES\nBlack, Brown and Beige\nSuch Sweet Thunder\nThe Far East Suite\nThe Afro-Eurasian Eclipse\nCOMPOSITIONS\nMood Indigo\nSophisticated Lady\nIn a Sentimental Mood\nCaravan"
   },
   {
@@ -632,10 +632,10 @@
     "years": "1938–",
     "birth": 1938,
     "death": null,
-    "era": "Contemporain / Électronique",
+    "era": "Contemporary / Electronic",
     "kind": "person",
-    "description": "Formé auprès de Messiaen et de Boulez, Éloy explore les grandes durées, les espaces sonores et les traditions vocales extra-européennes. Il développe une musique associant orchestre, électronique, voix et dispositifs spatialisés, où rituel, perception et temporalité sont étroitement liés.",
-    "works": "ÉLECTRONIQUE\nShânti\nGaku-no-Michi\nYo-In\nAnâhata\nORCHESTRE\nFaisceaux-Diffractions"
+    "description": "Trained by Messiaen and Boulez, Jean-Claude Éloy explored extended durations, sonic spaces and vocal traditions from beyond Europe. He developed a music combining orchestra, electronics, voices and spatialised systems, in which ritual, perception and temporality are closely intertwined.",
+    "works": "ELECTRONIC MUSIC\nShânti\nGaku-no-Michi\nYo-In\nAnâhata\nORCHESTRA\nFaisceaux-Diffractions"
   },
   {
     "id": "louise_farrenc",
@@ -643,10 +643,10 @@
     "years": "1804–1875",
     "birth": 1804,
     "death": 1875,
-    "era": "Romantisme",
+    "era": "Romanticism",
     "kind": "person",
-    "description": "Louise Farrenc est une compositrice, pianiste et pédagogue française dont la carrière se déploie dans un milieu musical largement dominé par les hommes. Professeure de piano au Conservatoire de Paris pendant près de trente ans, elle obtient finalement l'égalité de rémunération avec ses collègues masculins. Ses symphonies, ouvertures et œuvres de chambre témoignent d'une maîtrise remarquable des formes classiques et d'une personnalité romantique affirmée. Sa musique de chambre a été particulièrement redécouverte depuis la fin du XXe siècle.",
-    "works": "ORCHESTRE\nSymphonies nos 1, 2 et 3\nOuvertures nos 1 à 3\nMUSIQUE DE CHAMBRE\nNonette en mi bémol majeur, op. 38\nTrio pour clarinette, violoncelle et piano, op. 44\nQuintettes avec piano, op. 30 et 31\nPIANO\nÉtudes, op. 26"
+    "description": "Louise Farrenc was a French composer, pianist and teacher whose career unfolded in a musical world largely dominated by men. A piano professor at the Paris Conservatoire for nearly thirty years, she eventually secured equal pay with her male colleagues. Her symphonies, overtures and chamber works reveal remarkable command of Classical forms and a distinctive Romantic personality. Her chamber music has been especially rediscovered since the late 20th century.",
+    "works": "ORCHESTRA\nSymphonies Nos. 1, 2 and 3\nOvertures Nos. 1–3\nCHAMBER MUSIC\nNonet in E-flat major, Op. 38\nTrio for Clarinet, Cello and Piano, Op. 44\nPiano Quintets, Opp. 30 and 31\nPIANO\nÉtudes, Op. 26"
   },
   {
     "id": "fasch",
@@ -654,10 +654,10 @@
     "years": "1688–1758",
     "birth": 1688,
     "death": 1758,
-    "era": "Baroque tardif",
+    "era": "Late Baroque",
     "kind": "person",
-    "description": "Fasch est un compositeur allemand apprécié de ses contemporains pour ses œuvres orchestrales et sacrées. Maître de chapelle à Zerbst, il compose ouvertures, concertos et cantates dans un style de transition entre baroque tardif et sensibilités galantes. Ses partitions circulent largement et sont connues de Bach.",
-    "works": "ORCHESTRE\nOuvertures et suites orchestrales\nConcertos pour hautbois, trompette et cordes\nMUSIQUE SACRÉE\nCantates et passions\nMUSIQUE DE CHAMBRE\nSonates en trio"
+    "description": "Johann Friedrich Fasch was a German composer admired by his contemporaries for his orchestral and sacred works. As Kapellmeister in Zerbst, he wrote overtures, concertos and cantatas in a transitional style between the late Baroque and galant sensibilities. His scores circulated widely and were known to Bach.",
+    "works": "ORCHESTRA\nOrchestral overtures and suites\nConcertos for oboe, trumpet and strings\nSACRED MUSIC\nCantatas and Passions\nCHAMBER MUSIC\nTrio sonatas"
   },
   {
     "id": "feldman",
