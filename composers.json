@@ -2363,5 +2363,192 @@
     "kind": "person",
     "description": "Bohemian pianist and composer Alexander Dreyschock was renowned throughout Europe for his extraordinary technical command, particularly his ability to play rapid octaves and left-hand passagework. A student of Václav Tomášek, he toured widely and held musical posts in St Petersburg, where he became director of the Imperial School of Music. His compositions belong to the virtuoso piano tradition of the 19th century, combining brilliant display with lyricism.",
     "works": "PIANO\nPiano Concerto in D minor, Op. 137\nÉtudes and concert études\nVariations and fantasies on operatic themes\nConcert pieces for piano"
+  },
+  {
+    "id": "theodore_dubois",
+    "name": "Théodore Dubois",
+    "years": "1837–1924",
+    "birth": "1837-08-24",
+    "death": "1924-06-11",
+    "era": "Late Romantic",
+    "kind": "Composer, organist and teacher",
+    "description": "A French composer, organist and influential pedagogue, Dubois served as director of the Paris Conservatoire from 1896 to 1905. His output ranged from sacred music and operas to chamber and orchestral works, while his teaching manuals remained widely used.",
+    "works": "The Paradise Lost (oratorio); The Abduction of Proserpine (opera); Organ Works; Traité d'harmonie"
+  },
+  {
+    "id": "robert_fuchs",
+    "name": "Robert Fuchs",
+    "years": "1847–1927",
+    "birth": "1847-02-15",
+    "death": "1927-02-19",
+    "era": "Late Romantic",
+    "kind": "Composer and teacher",
+    "description": "An Austrian composer and professor at the Vienna Conservatory, Fuchs was admired by Brahms and became a respected teacher of composers including Mahler, Sibelius and Wolf. His graceful chamber music earned him the affectionate nickname 'Serenaden-Fuchs'.",
+    "works": "Five Serenades for String Orchestra; Piano Quintet in C minor; Symphony No. 1 in C major; Clarinet Quintet in E-flat major"
+  },
+  {
+    "id": "alexandre_glazounov",
+    "name": "Alexander Glazunov",
+    "years": "1865–1936",
+    "birth": "1865-08-10",
+    "death": "1936-03-21",
+    "era": "Late Romantic",
+    "kind": "Composer and conductor",
+    "description": "A leading Russian composer of the generation after the Mighty Handful, Glazunov combined national colour with polished symphonic craftsmanship. He directed the Saint Petersburg Conservatory and helped preserve its musical life through the upheavals following the Revolution.",
+    "works": "The Seasons (ballet); Violin Concerto in A minor; Symphony No. 5; Saxophone Concerto"
+  },
+  {
+    "id": "benjamin_godard",
+    "name": "Benjamin Godard",
+    "years": "1849–1895",
+    "birth": "1849-08-18",
+    "death": "1895-01-10",
+    "era": "Late Romantic",
+    "kind": "Composer and violinist",
+    "description": "A prolific French composer, Godard wrote operas, symphonies, concertos, chamber music and songs. His melodic gifts brought him considerable popularity in his lifetime, although much of his large catalogue later fell from the repertoire.",
+    "works": "Jocelyn (opera); Berceuse from Jocelyn; Symphonie légendaire; Violin Concerto No. 2"
+  },
+  {
+    "id": "alexander_goedicke",
+    "name": "Alexander Goedicke",
+    "years": "1877–1957",
+    "birth": "1877-03-04",
+    "death": "1957-07-09",
+    "era": "20th Century",
+    "kind": "Composer, organist and pianist",
+    "description": "A Russian composer and organist, Goedicke taught at the Moscow Conservatory for decades and became especially known for his brass repertoire. His trumpet works remain standard pieces for students and performers.",
+    "works": "Concert Étude for Trumpet; Trumpet Concerto in B-flat minor; Organ Symphony; Piano Concerto"
+  },
+  {
+    "id": "hermann_goetz",
+    "name": "Hermann Goetz",
+    "years": "1840–1876",
+    "birth": "1840-12-07",
+    "death": "1876-12-03",
+    "era": "Romantic",
+    "kind": "Composer and pianist",
+    "description": "A German-Swiss composer and pianist, Goetz spent much of his career in Basel. Despite a short life, he produced carefully crafted operas, symphonies and chamber works admired by contemporaries including Brahms.",
+    "works": "The Taming of the Shrew (opera); Symphony in F major; Piano Concerto in B-flat major; Piano Trio in G minor"
+  },
+  {
+    "id": "charles_gounod",
+    "name": "Charles Gounod",
+    "years": "1818–1893",
+    "birth": "1818-06-17",
+    "death": "1893-10-18",
+    "era": "Romantic",
+    "kind": "Composer",
+    "description": "A central figure in nineteenth-century French opera, Gounod joined lyrical elegance to a refined dramatic sensibility. His operas Faust and Roméo et Juliette became enduring repertory works, while his sacred music includes the celebrated setting of Ave Maria based on Bach.",
+    "works": "Faust; Roméo et Juliette; Mireille; Messe solennelle de Sainte-Cécile"
+  },
+  {
+    "id": "edvard_grieg",
+    "name": "Edvard Grieg",
+    "years": "1843–1907",
+    "birth": "1843-06-15",
+    "death": "1907-09-04",
+    "era": "Romantic",
+    "kind": "Composer and pianist",
+    "description": "Norway's best-known Romantic composer, Grieg developed a distinctive musical language shaped by Norwegian folk music and landscape. His lyrical piano miniatures, songs and orchestral works helped establish a recognisably Norwegian voice in European art music.",
+    "works": "Piano Concerto in A minor; Peer Gynt Suites; Holberg Suite; Lyric Pieces"
+  },
+  {
+    "id": "reynaldo_hahn",
+    "name": "Reynaldo Hahn",
+    "years": "1874–1947",
+    "birth": "1874-08-09",
+    "death": "1947-01-28",
+    "era": "Late Romantic",
+    "kind": "Composer, conductor and critic",
+    "description": "Born in Caracas and active chiefly in France, Hahn became celebrated for his mélodies, operettas and elegant theatrical music. A close associate of Marcel Proust, he was also a conductor, critic and influential figure in Parisian cultural life.",
+    "works": "Si mes vers avaient des ailes; L'Heure espagnole; Ciboulette; Le Bal de Béatrice d'Este"
+  },
+  {
+    "id": "adolf_von_henselt",
+    "name": "Adolf von Henselt",
+    "years": "1814–1889",
+    "birth": "1814-05-12",
+    "death": "1889-10-10",
+    "era": "Romantic",
+    "kind": "Pianist and composer",
+    "description": "A German pianist and composer who settled in Russia, Henselt was famed for his expansive legato, wide stretches and richly voiced piano writing. His études influenced later generations of virtuosi, and he became an important musical educator in Saint Petersburg.",
+    "works": "Piano Concerto in F minor, Op. 16; Études de salon, Op. 5; Poème d'amour, Op. 3; 12 Études caractéristiques, Op. 2"
+  },
+  {
+    "id": "henri_herz",
+    "name": "Henri Herz",
+    "years": "1803–1888",
+    "birth": "1803-01-06",
+    "death": "1888-01-05",
+    "era": "Romantic",
+    "kind": "Pianist, composer and piano manufacturer",
+    "description": "An Austrian-born pianist and composer who made his career in Paris, Herz was one of the most successful virtuosos of his era. He toured widely, composed a vast quantity of salon and concert music, and later founded a piano-manufacturing business.",
+    "works": "Piano Concerto No. 6 in B minor; Variations on popular operatic themes; Grande Fantaisie militaire; Piano studies and salon pieces"
+  },
+  {
+    "id": "ferdinand_hiller",
+    "name": "Ferdinand Hiller",
+    "years": "1811–1885",
+    "birth": "1811-10-24",
+    "death": "1885-05-11",
+    "era": "Romantic",
+    "kind": "Composer, pianist and conductor",
+    "description": "A German composer, pianist and conductor, Hiller studied with Hummel and became a prominent musical organiser in Cologne, where he directed the conservatory. His career connected the worlds of Mendelssohn, Schumann, Chopin and Liszt.",
+    "works": "Piano Concerto in F-sharp minor, Op. 5; Die Zerstörung Jerusalems (oratorio); Piano Trio in E minor; Konzertstück for Piano and Orchestra"
+  },
+  {
+    "id": "alfred_hill",
+    "name": "Alfred Hill",
+    "years": "1870–1960",
+    "birth": "1870-12-16",
+    "death": "1960-10-30",
+    "era": "20th Century",
+    "kind": "Composer and conductor",
+    "description": "Born in Melbourne and trained in Leipzig, Hill became a major figure in the musical life of Australia and New Zealand. His extensive output includes symphonies, operas, chamber music and works drawing on Māori themes and materials.",
+    "works": "String Quartet No. 1 in G minor; Symphony No. 1 in B-flat major; The Māori (opera); Descriptive Overture: The Sacred Mountain"
+  },
+  {
+    "id": "joseph_holbrooke",
+    "name": "Joseph Holbrooke",
+    "years": "1878–1958",
+    "birth": "1878-07-05",
+    "death": "1958-08-05",
+    "era": "20th Century",
+    "kind": "Composer and conductor",
+    "description": "A British composer and conductor associated with the so-called 'Celtic Symphony', Holbrooke cultivated a highly dramatic late-Romantic style. His large output includes symphonic poems, operas, chamber music and works inspired by literary subjects.",
+    "works": "The Birds of Rhiannon; The Song of Gwyn ap Nudd; The Children of Don; Apollo and the Seaman"
+  },
+  {
+    "id": "henry_holden_huss",
+    "name": "Henry Holden Huss",
+    "years": "1862–1953",
+    "birth": "1862-06-21",
+    "death": "1953-09-17",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "An American composer and pianist, Huss studied in Munich and became known for concert works that combined European Romantic technique with an emerging American musical identity. He wrote symphonies, concertos, chamber music and songs.",
+    "works": "Piano Concerto in D minor; Symphony in F minor; Piano Quintet in D minor; Violin Sonata"
+  },
+  {
+    "id": "john_ireland",
+    "name": "John Ireland",
+    "years": "1879–1962",
+    "birth": "1879-08-13",
+    "death": "1962-06-12",
+    "era": "20th Century",
+    "kind": "Composer and pianist",
+    "description": "An English composer whose music often evokes landscape and psychological atmosphere, Ireland developed a personal idiom rooted in late Romantic harmony but open to modern influences. His piano works, songs and chamber music remain central to the British repertoire.",
+    "works": "The Forgotten Rite; Piano Sonata in E minor; Sea Fever; A Downland Suite"
+  },
+  {
+    "id": "salomon_jadassohn",
+    "name": "Salomon Jadassohn",
+    "years": "1831–1902",
+    "birth": "1831-08-13",
+    "death": "1902-02-01",
+    "era": "Romantic",
+    "kind": "Composer and teacher",
+    "description": "A German composer and influential Leipzig teacher, Jadassohn studied with Liszt and later taught generations of musicians at the Leipzig Conservatory. His theoretical writings and systematic approach to composition were widely respected.",
+    "works": "Symphony No. 1 in C major; Piano Trio No. 1 in F major; Serenade for Orchestra; Treatises on counterpoint and harmony"
   }
 ]
