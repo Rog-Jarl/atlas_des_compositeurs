@@ -6,7 +6,7 @@ let people=[];
 try{const r=await fetch('composers.json?v=1.3');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Impossible de charger les données des compositeurs. Vérifiez que composers.json est présent et ouvrez le site via un serveur web.</p>';count.textContent='Erreur de chargement';return}
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const byId=Object.fromEntries(people.map(p=>[p.id,p]));
-const surnameKey=name=>String(name||'').trim().split(/\\s+/).filter(Boolean).at(-1)||String(name||'');
+const surnameKey=name=>String(name||'').trim().split(/\s+/).filter(Boolean).at(-1)||String(name||'');
 const alphabetical=(a,b)=>surnameKey(a.name).localeCompare(surnameKey(b.name),'fr',{sensitivity:'base'})||a.name.localeCompare(b.name,'fr',{sensitivity:'base'});
 const start=Math.floor((Math.min(...people.map(p=>p.birth||1100))-10)/10)*10;
 const end=Math.ceil((Math.max(...people.map(p=>p.death||new Date().getFullYear()))+10)/10)*10;
