@@ -3,7 +3,7 @@
 const $=id=>document.getElementById(id);
 const search=$('search'),group=$('group'),reset=$('reset'),details=$('details-content'),timeline=$('timeline'),content=$('timeline-content'),bottom=$('timeline-bottom-scroll'),bottomInner=$('timeline-bottom-scroll-inner'),compareSelect=$('compare-select'),compareClear=$('compare-clear'),count=$('count');
 let people=[];
-try{const r=await fetch('composers.json?v=2.6');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Unable to load the composer data. Make sure composers.json is present and open the site through a web server.</p>';count.textContent='Loading error';return}
+try{const r=await fetch('composers.json?v=2.7');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Unable to load the composer data. Make sure composers.json is present and open the site through a web server.</p>';count.textContent='Loading error';return}
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const byId=Object.fromEntries(people.map(p=>[p.id,p]));
 const surnameKey=name=>String(name||'').trim().split(/\s+/).filter(Boolean).at(-1)||String(name||'');
