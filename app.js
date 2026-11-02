@@ -3,7 +3,7 @@
 const $=id=>document.getElementById(id);
 const search=$('search'),group=$('group'),reset=$('reset'),details=$('details-content'),timeline=$('timeline'),content=$('timeline-content'),bottom=$('timeline-bottom-scroll'),bottomInner=$('timeline-bottom-scroll-inner'),compareSelect=$('compare-select'),compareClear=$('compare-clear'),count=$('count');
 let people=[];
-try{const r=await fetch('composers.json?v=1.1');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Impossible de charger les données des compositeurs. Vérifiez que composers.json est présent et ouvrez le site via un serveur web.</p>';count.textContent='Erreur de chargement';return}
+try{const r=await fetch('composers.json?v=1.2');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Impossible de charger les données des compositeurs. Vérifiez que composers.json est présent et ouvrez le site via un serveur web.</p>';count.textContent='Erreur de chargement';return}
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const byId=Object.fromEntries(people.map(p=>[p.id,p]));
 const start=Math.floor((Math.min(...people.map(p=>p.birth||1100))-10)/10)*10;
@@ -30,9 +30,30 @@ function render(){
  content.querySelectorAll('.person-row').forEach(row=>{const open=()=>showDetails(row.dataset.id);row.addEventListener('click',open);row.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();open()}})});
  bottomInner.style.width=Math.max(timeline.scrollWidth,timeline.clientWidth)+'px';
 }
+function richText(value){
+ return String(value||'').split(/(\\[\\[[a-z0-9_-]+\\|[^\\]]+\\]\\])/g).map(part=>{
+  const m=part.match(/^\\[\\[([a-z0-9_-]+)\\|([^\\]]+)\\]\\]$/);
+  if(!m)return esc(part);
+  const id=m[1],name=m[2];
+  if(!byId[id])return esc(name);
+  return '<a class="composer-link" href="#" data-add-compare="'+esc(id)+'" title="Ajouter '+esc(name)+' au comparateur">'+esc(name)+'</a>';
+ }).join('');
+}
+function renderWorks(value){
+ const lines=String(value||'').split('\\n').map(s=>s.trim()).filter(Boolean);
+ let html='',items=[];
+ const flush=()=>{if(items.length){html+='<ul>'+items.map(item=>'<li>'+esc(item)+'</li>').join('')+'</ul>';items=[]}};
+ for(const line of lines){
+  if(!line.includes(' — ')&&!line.includes(' – ')&&!line.includes('(') && line===line.toLocaleUpperCase('fr')){
+   flush();html+='<h4>'+esc(line)+'</h4>';
+  }else items.push(line);
+ }
+ flush();return html;
+}
 function showDetails(id){
  const p=byId[id];if(!p)return;selected=id;render();
- details.innerHTML='<div class="eyebrow">NOTICE BIOGRAPHIQUE</div><div class="meta">'+esc(p.era)+' · '+esc(dateText(p))+'</div><h2>'+esc(p.name)+'</h2><p>'+esc(p.description)+'</p><div class="detail-columns"><div><h3>ŒUVRES ET REPÈRES</h3><p>'+esc(p.works)+'</p></div><div><h3>SOURCES DE DÉPART</h3><p>'+esc(p.sources)+'</p><p>Les références précises et liens bibliographiques seront vérifiés et développés au fil de l’enrichissement des notices.</p></div></div>';
+ details.innerHTML='<div class="eyebrow">NOTICE BIOGRAPHIQUE</div><div class="meta">'+esc(p.era)+' · '+esc(dateText(p))+'</div><h2>'+esc(p.name)+'</h2><p>'+richText(p.description)+'</p><section class="works-section"><h3>ŒUVRES PRINCIPALES</h3>'+renderWorks(p.works)+'</section>';
+ details.querySelectorAll('[data-add-compare]').forEach(link=>link.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();const id=link.dataset.addCompare;if(!compared.includes(id)){compared.push(id);renderComparison()}}));
 }
 function renderComparison(){
  const old=document.getElementById('comparison-visual');if(old)old.remove();
