@@ -31,8 +31,8 @@ function render(){
  bottomInner.style.width=Math.max(timeline.scrollWidth,timeline.clientWidth)+'px';
 }
 function richText(value){
- return String(value||'').split(/(\\[\\[[a-z0-9_-]+\\|[^\\]]+\\]\\])/g).map(part=>{
-  const m=part.match(/^\\[\\[([a-z0-9_-]+)\\|([^\\]]+)\\]\\]$/);
+ return String(value||'').split(/(\[\[[a-z0-9_-]+\|[^\]]+\]\])/g).map(part=>{
+  const m=part.match(/^\[\[([a-z0-9_-]+)\|([^\]]+)\]\]$/);
   if(!m)return esc(part);
   const id=m[1],name=m[2];
   if(!byId[id])return esc(name);
@@ -40,7 +40,7 @@ function richText(value){
  }).join('');
 }
 function renderWorks(value){
- const lines=String(value||'').split('\\n').map(s=>s.trim()).filter(Boolean);
+ const lines=String(value||'').split('\n').map(s=>s.trim()).filter(Boolean);
  let html='',items=[];
  const flush=()=>{if(items.length){html+='<ul>'+items.map(item=>'<li>'+esc(item)+'</li>').join('')+'</ul>';items=[]}};
  for(const line of lines){
