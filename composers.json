@@ -1327,8 +1327,8 @@
     "death": 1505,
     "era": "Renaissance",
     "kind": "person",
-    "description": "Jacob Obrecht est un compositeur majeur de la génération qui suit Ockeghem. Formé dans les milieux musicaux des Pays-Bas, il exerce dans plusieurs villes des territoires bourguignons et italiens. Son œuvre, abondante, se caractérise par une invention mélodique généreuse, une maîtrise du contrepoint et une manière très personnelle de transformer les matériaux préexistants. Il développe notamment la messe-parodie et la messe fondée sur un cantus firmus, dans des architectures d'une grande ampleur.",
-    "works": "MESSES\nMissa Maria zart\nMissa Fortuna desperata\nMissa L'homme armé\nMOTETS\nSalve crux arbor vitae\nLaudate pueri\nCHANSONS\nFors seulement"
+    "description": "Jacob Obrecht was a major composer of the generation after Ockeghem. Trained in the musical centres of the Low Countries, he worked in several cities in the Burgundian territories and Italy. His abundant output is characterised by generous melodic invention, contrapuntal mastery and a highly personal transformation of pre-existing material. He developed both the parody mass and the cantus-firmus mass in large-scale architectures.",
+    "works": "MASSES\nMissa Maria zart\nMissa Fortuna desperata\nMissa L'homme armé\nMOTETS\nSalve crux arbor vitae\nLaudate pueri\nSONGS\nFors seulement"
   },
   {
     "id": "ockeghem",
@@ -1338,8 +1338,8 @@
     "death": 1497,
     "era": "Renaissance",
     "kind": "person",
-    "description": "Johannes Ockeghem, actif notamment à la cour de France, est l'un des grands maîtres de la polyphonie franco-flamande. Sa musique se distingue par la profondeur de ses basses, la continuité des lignes et une écriture contrapuntique d'une grande liberté. Il explore des constructions savantes, parfois fondées sur des canons complexes, sans sacrifier la fluidité de l'ensemble. Sa Missa prolationum demeure un sommet de l'art canonique de la Renaissance.",
-    "works": "MESSES\nMissa prolationum\nMissa cuiusvis toni\nMissa L'homme armé\nMissa Mi-mi\nMOTETS\nIntemerata Dei mater\nAlma redemptoris mater\nCHANSONS\nFors seulement l'attente"
+    "description": "Johannes Ockeghem, active notably at the French court, was one of the great masters of Franco-Flemish polyphony. His music is distinguished by the depth of its bass lines, the continuity of its parts and a remarkably free contrapuntal style. He explored learned constructions, sometimes based on complex canons, without sacrificing the flow of the whole. His Missa prolationum remains a summit of Renaissance canonic art.",
+    "works": "MASSES\nMissa prolationum\nMissa cuiusvis toni\nMissa L'homme armé\nMissa Mi-mi\nMOTETS\nIntemerata Dei mater\nAlma redemptoris mater\nSONGS\nFors seulement l'attente"
   },
   {
     "id": "oliveros",
@@ -1347,10 +1347,10 @@
     "years": "1932–2016",
     "birth": 1932,
     "death": 2016,
-    "era": "Musique expérimentale / Écoute profonde",
+    "era": "Experimental music / Deep Listening",
     "kind": "person",
-    "description": "Compositrice, accordéoniste et théoricienne américaine, Oliveros transforme la conception même de l'écoute. Pionnière de l'électronique en temps réel et de l'improvisation collective, elle développe le Deep Listening, pratique attentive aux sons environnants, aux résonances et aux dimensions sociales de l'écoute.",
-    "works": "ÉLECTRONIQUE\nBye Bye Butterfly\nI of IV\nÉCOUTE ET IMPROVISATION\nDeep Listening\nSonic Meditations\nThe Roots of the Moment\nACCORDEON\nThe Well and the Gentle"
+    "description": "American composer, accordionist and theorist Pauline Oliveros transformed the very conception of listening. A pioneer of real-time electronic music and collective improvisation, she developed Deep Listening, a practice attentive to surrounding sounds, resonances and the social dimensions of listening.",
+    "works": "ELECTRONIC MUSIC\nBye Bye Butterfly\nI of IV\nLISTENING AND IMPROVISATION\nDeep Listening\nSonic Meditations\nThe Roots of the Moment\nACCORDION\nThe Well and the Gentle"
   },
   {
     "id": "oxley",
@@ -1358,10 +1358,10 @@
     "years": "1938–2023",
     "birth": 1938,
     "death": 2023,
-    "era": "Improvisation / Percussion expérimentale",
+    "era": "Improvisation / Experimental percussion",
     "kind": "person",
-    "description": "Percussionniste britannique, Oxley transforme la batterie en dispositif sonore expérimental. Il associe percussion traditionnelle, objets métalliques, électronique et textures bruitistes. Cofondateur d'Incus et partenaire de Derek Bailey, il joue un rôle essentiel dans la structuration de l'improvisation libre.",
-    "works": "IMPROVISATION\nThe Baptised Traveller\nDuos avec Derek Bailey\nEnregistrements avec Cecil Taylor\nENSEMBLES\nJoseph Holbrooke\nÉLECTRONIQUE\nSystèmes de percussion amplifiée"
+    "description": "British percussionist Tony Oxley transformed the drum kit into an experimental sound system. He combined traditional percussion, metal objects, electronics and noisy textures. Co-founder of Incus and a partner of Derek Bailey, he played an essential role in shaping free improvisation.",
+    "works": "IMPROVISATION\nThe Baptised Traveller\nDuos with Derek Bailey\nRecordings with Cecil Taylor\nENSEMBLES\nJoseph Holbrooke\nELECTRONICS\nAmplified percussion systems"
   },
   {
     "id": "palestrina",
@@ -1371,8 +1371,8 @@
     "death": 1594,
     "era": "Renaissance",
     "kind": "person",
-    "description": "Palestrina est devenu l'incarnation de la polyphonie sacrée de la Renaissance. Actif à Rome, notamment à la chapelle pontificale, il compose une œuvre immense où clarté du texte, équilibre des voix et maîtrise contrapuntique répondent aux débats de la Contre-Réforme. Son style a longtemps servi de modèle pédagogique pour l'enseignement du contrepoint.",
-    "works": "MESSES\nMissa Papae Marcelli\nMissa brevis\nMissa L'homme armé\nMOTETS\nSicut cervus\nSuper flumina Babylonis\nStabat Mater"
+    "description": "Giovanni Pierluigi da Palestrina became the embodiment of Renaissance sacred polyphony. Active in Rome, notably at the papal chapel, he composed an immense body of music in which textual clarity, balanced voices and contrapuntal mastery respond to the debates of the Counter-Reformation. His style long served as a pedagogical model for the teaching of counterpoint.",
+    "works": "MASSES\nMissa Papae Marcelli\nMissa brevis\nMissa L'homme armé\nMOTETS\nSicut cervus\nSuper flumina Babylonis\nStabat Mater"
   },
   {
     "id": "paradis",
@@ -1380,10 +1380,10 @@
     "years": "1759–1824",
     "birth": 1759,
     "death": 1824,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Pianiste, chanteuse, compositrice et pédagogue viennoise, Maria Theresia von Paradis perd la vue durant l'enfance mais mène une carrière internationale remarquable. Elle se produit dans les grandes capitales européennes et fonde à Vienne une école destinée aux jeunes filles. Sa production comprend des concertos, des œuvres pour clavier, de la musique vocale et des ouvrages lyriques. Son histoire rappelle la place des femmes musiciennes dans les réseaux professionnels du XVIIIe siècle.",
-    "works": "PIANO ET ORCHESTRE\nConcerto pour piano en do majeur\nConcerto pour piano en si bémol majeur\nMUSIQUE DE CHAMBRE\nSicilienne en mi bémol majeur — attribution discutée\nMUSIQUE VOCALE ET SCÉNIQUE\nDer Schulkandidat\nRinaldo und Alcina"
+    "description": "Viennese pianist, singer, composer and teacher Maria Theresia von Paradis lost her sight in childhood but went on to pursue a remarkable international career. She performed in major European capitals and founded a school for young women in Vienna. Her output includes concertos, keyboard works, vocal music and stage works. Her story recalls the place of women musicians in the professional networks of the 18th century.",
+    "works": "PIANO AND ORCHESTRA\nPiano Concerto in C major\nPiano Concerto in B-flat major\nCHAMBER MUSIC\nSicilienne in E-flat major — disputed attribution\nVOCAL AND STAGE MUSIC\nDer Schulkandidat\nRinaldo und Alcina"
   },
   {
     "id": "parker",
@@ -1391,10 +1391,10 @@
     "years": "1944–",
     "birth": 1944,
     "death": null,
-    "era": "Improvisation libre",
+    "era": "Free improvisation",
     "kind": "person",
-    "description": "Saxophoniste britannique central dans l'histoire de l'improvisation libre européenne, Parker développe une technique étendue fondée sur la respiration circulaire, les multiphoniques et les flux de notes rapides. Membre de groupes fondateurs comme le Spontaneous Music Ensemble, il construit une œuvre de recherche sur la continuité, la densité et l'écoute.",
-    "works": "SAXOPHONE SOLO\nMonoceros\nThe Topography of the Lungs\nENSEMBLES\nMusic Improvisation Company\nLondon Jazz Composers Orchestra\nDUOS\nEnregistrements avec Keith Rowe et Barry Guy"
+    "description": "British saxophonist Evan Parker is a central figure in the history of European free improvisation. He developed an extended technique based on circular breathing, multiphonics and rapid streams of notes. A member of pioneering groups such as the Spontaneous Music Ensemble, he has built a body of work exploring continuity, density and listening.",
+    "works": "SOLO SAXOPHONE\nMonoceros\nThe Topography of the Lungs\nENSEMBLES\nMusic Improvisation Company\nLondon Jazz Composers Orchestra\nDUOS\nRecordings with Keith Rowe and Barry Guy"
   },
   {
     "id": "parmegiani",
@@ -1402,10 +1402,10 @@
     "years": "1927–2013",
     "birth": 1927,
     "death": 2013,
-    "era": "Musique concrète / Acousmatique",
+    "era": "Musique concrète / Acousmatic",
     "kind": "person",
-    "description": "Bernard Parmegiani est l'une des figures majeures de la musique concrète et acousmatique française. Membre du Groupe de recherches musicales, il développe une œuvre fondée sur la transformation du son enregistré, la spatialisation et l'exploration des matières acoustiques. Son catalogue traverse les formes narratives, les architectures abstraites et les recherches sur la perception. De De natura sonorum à ses œuvres tardives, il élargit considérablement les possibilités de l'écoute acousmatique.",
-    "works": "MUSIQUE CONCRÈTE / ACOUSMATIQUE\nDe natura sonorum\nLa Création du monde\nPour en finir avec le pouvoir d'Orphée\nLa Roue ferris\nL'Œil écoute\nMUSIQUE POUR L'IMAGE\nL'Écran transparent"
+    "description": "Bernard Parmegiani was one of the major figures of French musique concrète and acousmatic music. A member of the Groupe de recherches musicales, he developed a body of work based on the transformation of recorded sound, spatialisation and the exploration of acoustic matter. His catalogue moves between narrative forms, abstract architectures and research into perception. From De natura sonorum to his late works, he greatly expanded the possibilities of acousmatic listening.",
+    "works": "MUSIQUE CONCRÈTE / ACOUSMATIC MUSIC\nDe natura sonorum\nLa Création du monde\nPour en finir avec le pouvoir d'Orphée\nLa Roue ferris\nL'Œil écoute\nMUSIC FOR THE IMAGE\nL'Écran transparent"
   },
   {
     "id": "penderecki",
@@ -1413,10 +1413,10 @@
     "years": "1933–2020",
     "birth": 1933,
     "death": 2020,
-    "era": "Avant-garde / Contemporain",
+    "era": "Avant-garde / Contemporary",
     "kind": "person",
-    "description": "Krzysztof Penderecki s'impose dans les années 1960 comme l'une des figures les plus radicales de l'avant-garde polonaise. Ses premières œuvres exploitent les clusters, les masses de cordes, les textures bruitistes et les modes de jeu étendus. Il évolue ensuite vers un langage plus néoromantique, sans abandonner la puissance dramatique de son écriture. Son œuvre sacrée, orchestrale et lyrique est considérable, et son parcours témoigne des tensions entre expérimentation et tradition.",
-    "works": "AVANT-GARDE\nAnaklasis\nThrenody to the Victims of Hiroshima\nPolymorphia\nFluorescences\nORCHESTRE ET SACRÉ\nSymphonies nos 1 à 8\nPassion selon saint Luc\nRequiem polonais\nOPÉRAS\nLes Diables de Loudun\nDie schwarze Maske"
+    "description": "Krzysztof Penderecki emerged in the 1960s as one of the most radical figures in the Polish avant-garde. His early works exploited clusters, string masses, noisy textures and extended techniques. He later moved towards a more neo-Romantic language without abandoning the dramatic power of his writing. His sacred, orchestral and stage output is immense, and his career reflects the tensions between experimentation and tradition.",
+    "works": "AVANT-GARDE\nAnaklasis\nThrenody to the Victims of Hiroshima\nPolymorphia\nFluorescences\nORCHESTRA AND SACRED MUSIC\nSymphonies Nos. 1–8\nSt Luke Passion\nPolish Requiem\nOPERAS\nThe Devils of Loudun\nDie schwarze Maske"
   },
   {
     "id": "pergolesi",
@@ -1424,10 +1424,10 @@
     "years": "1710–1736",
     "birth": 1710,
     "death": 1736,
-    "era": "Baroque tardif",
+    "era": "Late Baroque",
     "kind": "person",
-    "description": "Mort à vingt-six ans, Pergolesi laisse une œuvre brève mais décisive dans l'histoire de la musique italienne. Son opéra La serva padrona devient l'un des emblèmes de l'opéra bouffe et déclenche en France la célèbre Querelle des Bouffons. Son écriture vocale, d'une grande souplesse mélodique, contribue à l'évolution du style galant. Le Stabat Mater, composé peu avant sa mort, connaît une diffusion européenne exceptionnelle et devient l'une des œuvres sacrées les plus jouées du XVIIIe siècle.",
-    "works": "MUSIQUE SACRÉE\nStabat Mater\nSalve Regina en la mineur\nOPÉRAS\nLa serva padrona\nL'Olimpiade\nAdriano in Siria\nMUSIQUE INSTRUMENTALE\nSinfonia en fa majeur\nConcertos et sonates"
+    "description": "Although he died at the age of 26, Giovanni Battista Pergolesi left a brief but decisive body of work in the history of Italian music. His opera La serva padrona became an emblem of comic opera and triggered the famous Querelle des Bouffons in France. His vocal writing, with its remarkable melodic flexibility, contributed to the evolution of the galant style. The Stabat Mater, composed shortly before his death, achieved extraordinary circulation across Europe and became one of the most frequently performed sacred works of the 18th century.",
+    "works": "SACRED MUSIC\nStabat Mater\nSalve Regina in A minor\nOPERAS\nLa serva padrona\nL'Olimpiade\nAdriano in Siria\nINSTRUMENTAL MUSIC\nSinfonia in F major\nConcertos and sonatas"
   },
   {
     "id": "perotin",
@@ -1435,10 +1435,10 @@
     "years": "actif vers 1200",
     "birth": 1160,
     "death": 1230,
-    "era": "Moyen Âge",
+    "era": "Middle Ages",
     "kind": "person",
-    "description": "Pérotin, dont la biographie demeure presque entièrement inconnue, est associé au milieu musical de la cathédrale Notre-Dame de Paris autour de 1200. Son nom nous est transmis par un témoignage tardif qui le présente comme un maître ayant révisé et développé le grand livre de chant polyphonique attribué à Léonin. Il incarne l'essor de l'organum à plusieurs voix : les longues tenues du chant liturgique deviennent le support de lignes vocales mobiles, organisées selon des rapports rythmiques de plus en plus précis. Les attributions restent parfois discutées, et les œuvres sont souvent identifiées par leurs incipits latins.",
-    "works": "ORGANUM ET POLYPHONIE\nViderunt omnes — quadruplum pour la fête de Noël\nSederunt principes — quadruplum pour la Saint-Étienne\nAlleluia Nativitas — organum à trois voix\nAlleluia Posui adiutorium — organum attribué au milieu de Notre-Dame\nBeata viscera — conduit à trois voix, attribution discutée"
+    "description": "Pérotin, whose biography remains almost entirely unknown, is associated with the musical world of Notre-Dame Cathedral in Paris around 1200. His name survives in a later account that describes him as a master who revised and expanded the great book of polyphonic chant attributed to Léonin. He embodies the rise of multi-voice organum: the long-held notes of liturgical chant became the foundation for mobile vocal lines organised through increasingly precise rhythmic relationships. Attributions remain debated, and works are often identified by their Latin incipits.",
+    "works": "ORGANUM AND POLYPHONY\nViderunt omnes — quadruplum for Christmas\nSederunt principes — quadruplum for St Stephen's Day\nAlleluia Nativitas — three-part organum\nAlleluia Posui adiutorium — organum attributed to the Notre-Dame circle\nBeata viscera — three-part conductus, disputed attribution"
   },
   {
     "id": "ponce",
@@ -1446,10 +1446,10 @@
     "years": "1882–1948",
     "birth": 1882,
     "death": 1948,
-    "era": "XXe siècle / Mexique",
+    "era": "20th century / Mexico",
     "kind": "person",
-    "description": "Compositeur mexicain, Ponce contribue à la construction d'un répertoire national tout en restant ouvert aux courants européens. Pianiste et pédagogue, il compose chansons, œuvres pour piano, musique orchestrale et un important corpus pour guitare, notamment grâce à sa collaboration avec Andrés Segovia. Estrellita devient l'une des mélodies mexicaines les plus connues à l'étranger.",
-    "works": "GUITARE\nConcierto del sur\nSonatina meridional\nVariations sur Folia de España\nPIANO\nBalada mexicana\nMUSIQUE VOCALE\nEstrellita\nORCHESTRE\nChapultepec"
+    "description": "Mexican composer Manuel Ponce helped build a national repertoire while remaining open to European currents. A pianist and teacher, he wrote songs, piano works, orchestral music and an important body of guitar music, notably through his collaboration with Andrés Segovia. Estrellita became one of the best-known Mexican melodies abroad.",
+    "works": "GUITAR\nConcierto del sur\nSonatina meridional\nVariations on Folia de España\nPIANO\nBalada mexicana\nVOCAL MUSIC\nEstrellita\nORCHESTRA\nChapultepec"
   },
   {
     "id": "josquin",
@@ -1459,8 +1459,8 @@
     "death": 1521,
     "era": "Renaissance",
     "kind": "person",
-    "description": "Josquin des Prés traverse les grands centres musicaux de la Renaissance : les cours et chapelles d'Italie, la France et les anciens Pays-Bas. Les étapes précises de sa carrière et certains épisodes de sa vie restent discutés, tout comme l'attribution de plusieurs œuvres publiées sous son nom après sa mort. Sa réputation fut immense : l'imprimerie musicale contribua à diffuser ses messes, motets et chansons dans toute l'Europe. Son écriture se distingue par l'équilibre entre imitation contrapuntique, clarté des lignes et attention au sens des mots. Il sait construire de vastes architectures tout en donnant à chaque phrase une souplesse presque parlée.",
-    "works": "MESSES\nMissa Pange lingua — paraphrase d'un hymne grégorien\nMissa La sol fa re mi\nMissa Hercules Dux Ferrariae — messe fondée sur un soggetto cavato\nMissa L'homme armé super voces musicales\nMOTETS\nAve Maria… Virgo serena\nNymphes des bois — déploration sur la mort d'Ockeghem\nMiserere mei, Deus\nStabat Mater\nCHANSONS\nMille regretz\nEl grillo"
+    "description": "Josquin des Prés moved through the major musical centres of the Renaissance: the courts and chapels of Italy, France and the Low Countries. The precise stages of his career and some episodes of his life remain debated, as does the attribution of several works published under his name after his death. His reputation was immense: music printing helped spread his masses, motets and chansons throughout Europe. His writing is distinguished by the balance between contrapuntal imitation, clarity of line and attention to the meaning of words. He could build vast architectures while giving each phrase an almost speech-like suppleness.",
+    "works": "MASSES\nMissa Pange lingua — paraphrase of a Gregorian hymn\nMissa La sol fa re mi\nMissa Hercules Dux Ferrariae — mass based on a soggetto cavato\nMissa L'homme armé super voces musicales\nMOTETS\nAve Maria… Virgo serena\nNymphes des bois — lament on the death of Ockeghem\nMiserere mei, Deus\nStabat Mater\nSONGS\nMille regretz\nEl grillo"
   },
   {
     "id": "prevost",
@@ -1468,10 +1468,10 @@
     "years": "1942–",
     "birth": 1942,
     "death": null,
-    "era": "Improvisation libre",
+    "era": "Free improvisation",
     "kind": "person",
-    "description": "Percussionniste britannique et membre fondateur d'AMM, Prévost développe une pratique privilégiant l'écoute, l'interaction et la transformation des gestes instrumentaux. Théoricien de l'improvisation libre, il écrit sur ses dimensions sociales, politiques et esthétiques. Son activité éditoriale et pédagogique contribue à transmettre une pensée exigeante de la musique collective.",
-    "works": "IMPROVISATION\nAMM — corpus d'enregistrements\nFrom a Strange Place\nCombines + Laminates\nÉCRITS\nNo Sound Is Innocent\nThe First Concert"
+    "description": "British percussionist Eddie Prévost, a founding member of AMM, developed a practice centred on listening, interaction and the transformation of instrumental gestures. A theorist of free improvisation, he wrote about its social, political and aesthetic dimensions. His editorial and teaching work helped transmit a demanding philosophy of collective music-making.",
+    "works": "IMPROVISATION\nAMM — body of recordings\nFrom a Strange Place\nCombines + Laminates\nWRITINGS\nNo Sound Is Innocent\nThe First Concert"
   },
   {
     "id": "prokofiev",
@@ -1479,10 +1479,10 @@
     "years": "1891–1953",
     "birth": 1891,
     "death": 1953,
-    "era": "Modernité",
+    "era": "Modernism",
     "kind": "person",
-    "description": "Sergueï Prokofiev développe un langage immédiatement reconnaissable, fondé sur l'énergie rythmique, les contrastes de caractère, une ironie mordante et une invention mélodique abondante. Après ses années de formation en Russie, il séjourne en Europe et aux États-Unis avant de rentrer en Union soviétique. Son œuvre couvre l'opéra, le ballet, la symphonie, le concerto et la musique de chambre. Il sait concilier modernité harmonique et efficacité narrative.",
-    "works": "BALLET\nRoméo et Juliette\nCendrillon\nL'Amour des trois oranges — opéra\nOPÉRAS\nL'Ange de feu\nGuerre et Paix\nORCHESTRE\nSymphonies nos 1 à 7\nConcerto pour piano no 3\nPierre et le Loup"
+    "description": "Sergei Prokofiev developed an immediately recognisable language based on rhythmic energy, sharp contrasts of character, biting irony and abundant melodic invention. After his training in Russia, he spent time in Europe and the United States before returning to the Soviet Union. His output spans opera, ballet, symphony, concerto and chamber music. He could reconcile harmonic modernity with narrative effectiveness.",
+    "works": "BALLET\nRomeo and Juliet\nCinderella\nThe Love for Three Oranges — opera\nOPERAS\nThe Fiery Angel\nWar and Peace\nORCHESTRA\nSymphonies Nos. 1–7\nPiano Concerto No. 3\nPeter and the Wolf"
   },
   {
     "id": "sunra",
@@ -1490,9 +1490,9 @@
     "years": "1914–1993",
     "birth": 1914,
     "death": 1993,
-    "era": "Jazz d'avant-garde / Afrofuturisme",
+    "era": "Avant-garde jazz / Afrofuturism",
     "kind": "person",
-    "description": "Sun Ra, né Herman Poole Blount, est un compositeur, pianiste et chef d'orchestre afro-américain dont l'œuvre constitue un univers esthétique à part entière. À la tête de l'Arkestra, il mêle big band, free jazz, électronique, spirituals et visions cosmiques. Sa mythologie afrofuturiste transforme la scène en espace rituel et politique.",
+    "description": "Sun Ra, born Herman Poole Blount, was an African American composer, pianist and bandleader whose work constitutes an aesthetic universe of its own. At the head of the Arkestra, he combined big-band jazz, free jazz, electronics, spirituals and cosmic visions. His Afrofuturist mythology transformed the stage into a ritual and political space.",
     "works": "ARKESTRA\nThe Heliocentric Worlds of Sun Ra\nAtlantis\nSpace Is the Place\nLanquidity\nBIG BAND\nJazz in Silhouette\nThe Magic City"
   },
   {
@@ -1501,10 +1501,10 @@
     "years": "1932–2023",
     "birth": 1932,
     "death": 2023,
-    "era": "Musique électronique / Drone / Acousmatique",
+    "era": "Electronic music / Drone / Acousmatic",
     "kind": "person",
-    "description": "Radigue est une compositrice française majeure de la musique électronique expérimentale. Après avoir travaillé avec Schaeffer et Henry, elle développe une œuvre fondée sur les longues durées, les transformations microscopiques et les battements de fréquences. Ses pièces pour synthétiseur analogique puis pour instruments acoustiques invitent à une écoute contemplative de la matière sonore.",
-    "works": "ÉLECTRONIQUE\nAdnos I–III\nTrilogie de la Mort\nJetsun Mila\nKailasha\nMUSIQUE INSTRUMENTALE\nOccam Ocean — cycle\nNaldjorlak"
+    "description": "Éliane Radigue was a major French composer of experimental electronic music. After working with Schaeffer and Henry, she developed a body of work based on extended durations, microscopic transformations and frequency beats. Her pieces for analogue synthesiser, and later for acoustic instruments, invite a contemplative listening to the substance of sound.",
+    "works": "ELECTRONIC MUSIC\nAdnos I–III\nTrilogie de la Mort\nJetsun Mila\nKailasha\nINSTRUMENTAL MUSIC\nOccam Ocean — cycle\nNaldjorlak"
   },
   {
     "id": "radulescu",
@@ -1512,10 +1512,10 @@
     "years": "1942–2008",
     "birth": 1942,
     "death": 2008,
-    "era": "Spectralisme / Contemporain",
+    "era": "Spectralism / Contemporary",
     "kind": "person",
-    "description": "Compositeur roumain naturalisé français, Rădulescu est un pionnier du spectralisme et inventeur de techniques instrumentales originales. Il développe le concept de spectres sonores et conçoit des instruments et modes de jeu faisant émerger des harmoniques complexes. Sa musique explore résonance, transformation et perception.",
-    "works": "ORCHESTRE ET ENSEMBLE\nIubiri\nClepsydra\nMUSIQUE DE CHAMBRE\nQuatuors à cordes nos 4 à 6\nPIANO\nThirteen Dreams"
+    "description": "Romanian-born composer Horațiu Rădulescu, who became a French citizen, was a pioneer of spectralism and an inventor of original instrumental techniques. He developed the concept of sound spectra and devised instruments and playing methods that bring out complex harmonics. His music explores resonance, transformation and perception.",
+    "works": "ORCHESTRA AND ENSEMBLE\nIubiri\nClepsydra\nCHAMBER MUSIC\nString Quartets Nos. 4–6\nPIANO\nThirteen Dreams"
   },
   {
     "id": "rameau",
@@ -1523,10 +1523,10 @@
     "years": "1683–1764",
     "birth": 1683,
     "death": 1764,
-    "era": "Baroque / Classicisme",
+    "era": "Baroque / Classical",
     "kind": "person",
-    "description": "Compositeur majeur de l'opéra français et théoricien influent, Rameau renouvelle le théâtre musical par ses tragédies en musique et ses opéras-ballets. Son Traité de l'harmonie (1722) systématise une pensée de la basse fondamentale qui marque durablement la théorie musicale occidentale.",
-    "works": "OPÉRAS\nHippolyte et Aricie\nLes Indes galantes\nCastor et Pollux\nDardanus\nLes Boréades\nCLAVECIN\nPièces de clavecin\nMUSIQUE SACRÉE\nIn convertendo"
+    "description": "Jean-Philippe Rameau was a major composer of French opera and an influential theorist. He renewed music theatre through his tragédies en musique and opéras-ballets. His Traité de l'harmonie (1722) systematised a theory of the fundamental bass that had a lasting impact on Western music theory.",
+    "works": "OPERAS\nHippolyte et Aricie\nLes Indes galantes\nCastor et Pollux\nDardanus\nLes Boréades\nHARPSICHORD\nHarpsichord Pieces\nSACRED MUSIC\nIn convertendo"
   },
   {
     "id": "reich",
@@ -1534,10 +1534,10 @@
     "years": "1936–",
     "birth": 1936,
     "death": null,
-    "era": "Minimalisme",
+    "era": "Minimalism",
     "kind": "person",
-    "description": "Steve Reich développe une musique fondée sur la répétition, le déphasage et l'écoute des processus. Ses premières expériences sur bande magnétique conduisent à des œuvres instrumentales où les motifs se décalent progressivement, révélant des structures perceptives complexes. Il intègre ensuite des influences de la musique africaine, balinaise et hébraïque. Son œuvre a profondément marqué la musique contemporaine, la danse et les arts audiovisuels.",
-    "works": "ŒUVRES POUR BANDE ET ENSEMBLE\nIt's Gonna Rain\nCome Out\nDrumming\nMusic for 18 Musicians\nTehillim\nDifferent Trains\nThe Cave\nMUSIQUE DE CHAMBRE\nViolin Phase\nClapping Music"
+    "description": "Steve Reich developed a music based on repetition, phasing and the attentive listening to processes. His early experiments with magnetic tape led to instrumental works in which patterns gradually shift, revealing complex perceptual structures. He later integrated influences from African, Balinese and Hebrew music. His work profoundly influenced contemporary music, dance and audiovisual art.",
+    "works": "WORKS FOR TAPE AND ENSEMBLE\nIt's Gonna Rain\nCome Out\nDrumming\nMusic for 18 Musicians\nTehillim\nDifferent Trains\nThe Cave\nCHAMBER MUSIC\nViolin Phase\nClapping Music"
   },
   {
     "id": "revueltas",
