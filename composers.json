@@ -227,8 +227,8 @@
     "death": 1755,
     "era": "Baroque",
     "kind": "person",
-    "description": "Compositeur français prolifique, Boismortier publie une quantité considérable de musique instrumentale et vocale destinée au marché domestique. Son catalogue, particulièrement riche pour la flûte, le violoncelle et les ensembles de chambre, témoigne de l'essor de la pratique musicale amateur et du goût galant.",
-    "works": "FLÛTE ET CHAMBRE\nSonates pour flûte\nConcertos pour cinq flûtes\nSix concertos pour violoncelle, op. 26\nCANTATES\nCantates françaises\nTHÉÂTRE\nDon Quichotte chez la duchesse"
+    "description": "The prolific French composer Joseph Bodin de Boismortier published a remarkable quantity of instrumental and vocal music for the domestic market. His catalogue, especially rich in works for flute, cello and chamber ensembles, reflects the growth of amateur music-making and the popularity of the galant style.",
+    "works": "FLUTE AND CHAMBER MUSIC\nSonatas for flute\nConcertos for five flutes\nSix Cello Concertos, Op. 26\nCANTATAS\nFrench cantatas\nMUSIC THEATRE\nDon Quichotte chez la duchesse"
   },
   {
     "id": "braxton",
@@ -236,10 +236,10 @@
     "years": "1945–",
     "birth": 1945,
     "death": null,
-    "era": "Contemporain",
+    "era": "Contemporary",
     "kind": "person",
-    "description": "Anthony Braxton est saxophoniste, improvisateur, pédagogue et compositeur. Formé dans les scènes expérimentales de Chicago, il participe à l'Association for the Advancement of Creative Musicians (AACM), qui défend une autonomie esthétique et institutionnelle pour les musiciens afro-américains. Son travail dépasse les catégories du jazz : il développe un système très vaste de compositions, de langages graphiques, de diagrammes et de structures improvisées. Les Ghost Trance Musics, les compositions pour orchestres et ses opéras cycliques témoignent d'une pensée à la fois systématique et ouverte, où l'improvisation, la notation et la collaboration sont étroitement articulées.",
-    "works": "SAXOPHONE ET SOLO\nFor Alto (1969)\nFor Trio\nComposition 6E\nMUSIQUES COLLECTIVES\nCreative Orchestra Music 1976\nFour Compositions (GTM) 2003\n3 Compositions of New Jazz\nGHOST TRANCE MUSIC\nGhost Trance Music — séries de compositions\nDIAMOND CURTAIN WALL TRIO\nThe Complete Arista Recordings\nOpéras du cycle Trillium — notamment Trillium J"
+    "description": "Anthony Braxton is a saxophonist, improviser, educator and composer. Emerging from Chicago's experimental scene, he became involved with the Association for the Advancement of Creative Musicians (AACM), which championed aesthetic and institutional autonomy for African American musicians. His work reaches far beyond the categories of jazz: he has developed an immense system of compositions, graphic languages, diagrams and improvised structures. The Ghost Trance Music series, his orchestral compositions and his operatic cycles embody a mode of thought that is both systematic and open, closely interweaving improvisation, notation and collaboration.",
+    "works": "SAXOPHONE AND SOLO\nFor Alto (1969)\nFor Trio\nComposition 6E\nCOLLECTIVE MUSIC\nCreative Orchestra Music 1976\nFour Compositions (GTM) 2003\n3 Compositions of New Jazz\nGHOST TRANCE MUSIC\nGhost Trance Music — series of compositions\nDIAMOND CURTAIN WALL TRIO\nThe Complete Arista Recordings\nOperas from the Trillium cycle — including Trillium J"
   },
   {
     "id": "britten",
@@ -247,10 +247,10 @@
     "years": "1913–1976",
     "birth": 1913,
     "death": 1976,
-    "era": "XXe siècle / Royaume-Uni",
+    "era": "20th century / United Kingdom",
     "kind": "person",
-    "description": "Britten renouvelle le théâtre musical par une écriture vocale précise, une orchestration transparente et une grande attention à la psychologie des personnages. Pacifiste, il aborde violence, exclusion et responsabilité morale. Il fonde le festival d'Aldeburgh, devenu un lieu essentiel de la vie musicale britannique.",
-    "works": "OPÉRAS\nPeter Grimes\nThe Turn of the Screw\nBilly Budd\nDeath in Venice\nORCHESTRE ET VOIX\nWar Requiem\nLes Illuminations\nSerenade for Tenor, Horn and Strings"
+    "description": "Benjamin Britten renewed music theatre through precise vocal writing, transparent orchestration and acute psychological insight into his characters. A committed pacifist, he explored violence, exclusion and moral responsibility. He founded the Aldeburgh Festival, which became a vital centre of British musical life.",
+    "works": "OPERAS\nPeter Grimes\nThe Turn of the Screw\nBilly Budd\nDeath in Venice\nORCHESTRA AND VOICE\nWar Requiem\nLes Illuminations\nSerenade for Tenor, Horn and Strings"
   },
   {
     "id": "broetzmann",
@@ -260,8 +260,8 @@
     "death": 2023,
     "era": "Free jazz / Improvisation",
     "kind": "person",
-    "description": "Saxophoniste et clarinettiste allemand, Brötzmann est une figure majeure du free jazz européen. Son jeu frontal, saturé et d'une intensité physique extrême participe à l'émergence d'une scène improvisée indépendante. Machine Gun devient un manifeste sonore et politique. Il travaille ensuite du trio au grand ensemble sans renoncer au risque.",
-    "works": "ENSEMBLES\nMachine Gun\nNipples\nFuck de Boere\nDie Like a Dog\nSOLO ET DUOS\nSolo (197 solo)\nEnregistrements avec Han Bennink"
+    "description": "German saxophonist and clarinettist Peter Brötzmann was a leading figure in European free jazz. His uncompromising, saturated playing and extreme physical intensity helped shape an independent improvising scene. Machine Gun became a sonic and political manifesto. He later worked in settings ranging from trios to large ensembles without relinquishing risk and intensity.",
+    "works": "ENSEMBLES\nMachine Gun\nNipples\nFuck de Boere\nDie Like a Dog\nSOLO AND DUOS\nSolo (197 solo)\nRecordings with Han Bennink"
   },
   {
     "id": "buxtehude",
@@ -271,8 +271,8 @@
     "death": 1707,
     "era": "Baroque",
     "kind": "person",
-    "description": "Organiste à Lübeck, Buxtehude attire des musiciens de toute l'Europe, dont le jeune Bach. Ses préludes, fugues, chorals et cantates associent liberté improvisatoire, architecture contrapuntique et expressivité rhétorique. Ses Abendmusiken contribuent à l'histoire du concert public en Allemagne du Nord.",
-    "works": "ORGUE\nPréludes et fugues\nPassacaille en ré mineur\nToccatas et chorals\nMUSIQUE VOCALE\nMembra Jesu nostri\nCantates sacrées\nAbendmusiken\nMUSIQUE DE CHAMBRE\nSonates en trio"
+    "description": "As organist in Lübeck, Dieterich Buxtehude attracted musicians from across Europe, including the young Bach. His preludes, fugues, chorale works and cantatas combine improvisatory freedom, contrapuntal architecture and rhetorical expressiveness. His Abendmusiken helped shape the history of public concerts in northern Germany.",
+    "works": "ORGAN\nPreludes and fugues\nPassacaglia in D minor\nToccatas and chorales\nVOCAL MUSIC\nMembra Jesu nostri\nSacred cantatas\nAbendmusiken\nCHAMBER MUSIC\nTrio sonatas"
   },
   {
     "id": "byrd",
@@ -280,10 +280,10 @@
     "years": "vers 1540–1623",
     "birth": 1540,
     "death": 1623,
-    "era": "Renaissance tardive",
+    "era": "Late Renaissance",
     "kind": "person",
-    "description": "William Byrd est l'un des plus grands compositeurs anglais de la Renaissance. Malgré les tensions confessionnelles de l'Angleterre élisabéthaine, il compose pour les institutions anglicanes comme pour les communautés catholiques clandestines. Son œuvre embrasse la musique vocale sacrée et profane, le clavier et la musique de consort. Il associe une science contrapuntique exceptionnelle à une expressivité parfois sombre, particulièrement sensible dans ses motets latins et ses pièces pour clavier.",
-    "works": "MUSIQUE VOCALE\nMass for Four Voices\nMass for Five Voices\nGradualia\nCantiones sacrae\nMUSIQUE POUR CLAVIER\nMy Ladye Nevells Booke\nThe Fitzwilliam Virginal Book — pièces attribuées\nMUSIQUE DE CONSORT\nIn Nomine — pièces pour violes"
+    "description": "William Byrd was one of the greatest English composers of the Renaissance. Despite the confessional tensions of Elizabethan England, he wrote for both Anglican institutions and clandestine Catholic communities. His output spans sacred and secular vocal music, keyboard works and consort music. He combined exceptional contrapuntal learning with an often sombre expressiveness, especially evident in his Latin motets and keyboard pieces.",
+    "works": "VOCAL MUSIC\nMass for Four Voices\nMass for Five Voices\nGradualia\nCantiones sacrae\nKEYBOARD MUSIC\nMy Ladye Nevells Booke\nThe Fitzwilliam Virginal Book — attributed pieces\nCONSORT MUSIC\nIn Nomine — works for viols"
   },
   {
     "id": "francesca_caccini",
@@ -291,10 +291,10 @@
     "years": "1587–1641",
     "birth": 1587,
     "death": 1641,
-    "era": "Premier baroque",
+    "era": "Early Baroque",
     "kind": "person",
-    "description": "Francesca Caccini, dite la Cecchina, est compositrice, chanteuse et instrumentiste à la cour des Médicis à Florence. Fille de Giulio Caccini, elle devient l'une des musiciennes les plus remarquables de son temps et participe activement à l'invention du théâtre musical baroque. Son opéra La liberazione di Ruggiero dall'isola d'Alcina, créé en 1625, est le plus ancien opéra connu composé par une femme. Son activité témoigne de la place réelle, quoique souvent effacée, des femmes dans les institutions musicales de cour.",
-    "works": "OPÉRA\nLa liberazione di Ruggiero dall'isola d'Alcina (1625)\nMUSIQUE VOCALE\nIl primo libro delle musiche (1618)\nMadrigaux, arias et motets\nBALLET ET MUSIQUE DE COUR\nCompositions pour les spectacles des Médicis"
+    "description": "Francesca Caccini, known as la Cecchina, was a composer, singer and instrumentalist at the Medici court in Florence. The daughter of Giulio Caccini, she became one of the most remarkable musicians of her time and took an active part in the invention of Baroque music theatre. Her opera La liberazione di Ruggiero dall'isola d'Alcina, premiered in 1625, is the earliest known opera composed by a woman. Her career reveals the real, though often obscured, place of women in court musical institutions.",
+    "works": "OPERA\nLa liberazione di Ruggiero dall'isola d'Alcina (1625)\nVOCAL MUSIC\nIl primo libro delle musiche (1618)\nMadrigals, arias and motets\nBALLET AND COURT MUSIC\nCompositions for Medici court entertainments"
   },
   {
     "id": "caccini_giulio",
@@ -302,10 +302,10 @@
     "years": "1551–1618",
     "birth": 1551,
     "death": 1618,
-    "era": "Premier baroque",
+    "era": "Early Baroque",
     "kind": "person",
-    "description": "Chanteur, compositeur et théoricien lié à la Camerata florentine, Caccini participe à l'émergence de la monodie accompagnée et de l'opéra. Le recueil Le nuove musiche expose une nouvelle manière de traiter le texte chanté, fondée sur la basse continue, l'ornementation et la déclamation expressive. Son activité transforme les rapports entre parole, mélodie et accompagnement.",
-    "works": "MONODIES\nLe nuove musiche (1602)\nAmarilli, mia bella\nVedrò 'l mio sol\nTHÉÂTRE MUSICAL\nEuridice (1600, contribution à la création collective)"
+    "description": "Singer, composer and theorist associated with the Florentine Camerata, Giulio Caccini helped bring about the emergence of accompanied monody and opera. His collection Le nuove musiche set out a new approach to sung text, based on basso continuo, ornamentation and expressive declamation. His work transformed the relationship between words, melody and accompaniment.",
+    "works": "MONODIES\nLe nuove musiche (1602)\nAmarilli, mia bella\nVedrò 'l mio sol\nMUSIC THEATRE\nEuridice (1600, contribution to the collaborative première)"
   },
   {
     "id": "cage",
@@ -313,10 +313,10 @@
     "years": "1912–1992",
     "birth": 1912,
     "death": 1992,
-    "era": "Après-guerre",
+    "era": "Post-war",
     "kind": "person",
-    "description": "John Cage étudie notamment auprès d'[[schoenberg|Arnold Schönberg]], mais s'éloigne rapidement de la conception traditionnelle de la composition. À partir des années 1940, il explore les percussions, les instruments préparés, les opérations de hasard inspirées du Yi Jing et l'indétermination. Son célèbre 4′33″ déplace l'attention de l'objet musical vers l'écoute des sons présents dans une situation donnée. Proche des artistes de l'avant-garde new-yorkaise, il collabore avec des chorégraphes comme Merce Cunningham et influence profondément les arts visuels, la performance et les pratiques expérimentales. Son œuvre interroge moins la définition d'une musique que les conditions mêmes de l'écoute.",
-    "works": "PIANO PRÉPARÉ ET PERCUSSIONS\nBacchanale\nSonates et interludes\nAmores\nŒUVRES EXPÉRIMENTALES\n4′33″\nMusic of Changes\nWilliams Mix — œuvre sur bande\nVariations I\nORCHESTRE ET ENSEMBLES\nConcert for Piano and Orchestra\nAtlas Eclipticalis\nEuroperas 1 & 2\nŒUVRES TARDIVES\nNumber Pieces — série d'œuvres pour effectifs variés"
+    "description": "John Cage studied, among others, with [[schoenberg|Arnold Schoenberg]], but soon moved away from traditional ideas of composition. From the 1940s onwards, he explored percussion, prepared instruments, chance operations inspired by the I Ching and indeterminacy. His celebrated 4′33″ shifts attention away from the musical object towards listening to the sounds present in a given situation. Close to New York's avant-garde artists, he collaborated with choreographers such as Merce Cunningham and profoundly influenced visual art, performance and experimental practice. Rather than defining what music is, his work questions the very conditions of listening.",
+    "works": "PREPARED PIANO AND PERCUSSION\nBacchanale\nSonatas and Interludes\nAmores\nEXPERIMENTAL WORKS\n4′33″\nMusic of Changes\nWilliams Mix — tape work\nVariations I\nORCHESTRA AND ENSEMBLES\nConcert for Piano and Orchestra\nAtlas Eclipticalis\nEuroperas 1 & 2\nLATE WORKS\nNumber Pieces — series for various forces"
   },
   {
     "id": "caturla",
@@ -324,10 +324,10 @@
     "years": "1906–1940",
     "birth": 1906,
     "death": 1940,
-    "era": "Modernité / Cuba",
+    "era": "20th century / Cuba",
     "kind": "person",
-    "description": "Compositeur cubain, Caturla associe modernisme européen, rythmes afro-cubains et matériaux populaires. Violoniste et juriste, il mène une carrière brève, interrompue par son assassinat à trente-quatre ans. Sa musique de chambre et d'orchestre se distingue par son énergie rythmique et son intégration inventive des traditions de Cuba.",
-    "works": "ORCHESTRE\nLa rumba\nBembé\nObertura cubana\nMUSIQUE DE CHAMBRE\nComparsa\nMUSIQUE VOCALE\nMotivos de son"
+    "description": "Cuban composer Alejandro García Caturla combined European modernism, Afro-Cuban rhythms and popular materials. A violinist and lawyer, he pursued a brief career that was cut short when he was murdered at the age of 34. His chamber and orchestral music is distinguished by rhythmic vitality and an inventive integration of Cuban traditions.",
+    "works": "ORCHESTRA\nLa rumba\nBembé\nObertura cubana\nCHAMBER MUSIC\nComparsa\nVOCAL MUSIC\nMotivos de son"
   },
   {
     "id": "cavalli",
@@ -337,8 +337,8 @@
     "death": 1676,
     "era": "Baroque",
     "kind": "person",
-    "description": "Élève puis collaborateur de Monteverdi à Saint-Marc, Cavalli est l'un des principaux compositeurs de l'opéra vénitien du XVIIe siècle. Il participe à l'essor d'un théâtre lyrique destiné à un public payant, où intrigues, personnages et situations comiques prennent une place croissante. Son œuvre révèle une invention dramatique et mélodique remarquable.",
-    "works": "OPÉRAS\nLa Calisto\nGiasone\nErismena\nL'Ormindo\nStatira\nMUSIQUE SACRÉE\nVespro della Beata Vergine"
+    "description": "A pupil and later collaborator of Monteverdi at St Mark's, Francesco Cavalli was one of the leading composers of 17th-century Venetian opera. He helped develop lyric theatre for a paying public, in which plots, characters and comic situations took on an increasingly important role. His works reveal remarkable dramatic and melodic invention.",
+    "works": "OPERAS\nLa Calisto\nGiasone\nErismena\nL'Ormindo\nStatira\nSACRED MUSIC\nVespro della Beata Vergine"
   },
   {
     "id": "cesti",
@@ -348,8 +348,8 @@
     "death": 1669,
     "era": "Baroque",
     "kind": "person",
-    "description": "Compositeur et chanteur actif dans les cours italiennes et à Vienne, Cesti est une grande figure de l'opéra du milieu du XVIIe siècle. Ses ouvrages associent virtuosité vocale, sens de la scène et expressivité mélodique. Ses cantates témoignent de l'évolution de la monodie baroque.",
-    "works": "OPÉRAS\nL'Orontea\nIl pomo d'oro\nLa Dori\nArgia\nMUSIQUE VOCALE\nCantates de chambre\nArias et duos"
+    "description": "Composer and singer active at Italian courts and in Vienna, Antonio Cesti was a major figure in mid-17th-century opera. His works combine vocal virtuosity, theatrical flair and melodic expressiveness. His cantatas also document the evolution of Baroque monody.",
+    "works": "OPERAS\nL'Orontea\nIl pomo d'oro\nLa Dori\nArgia\nVOCAL MUSIC\nChamber cantatas\nArias and duets"
   },
   {
     "id": "chavez",
@@ -357,10 +357,10 @@
     "years": "1899–1978",
     "birth": 1899,
     "death": 1978,
-    "era": "XXe siècle / Mexique",
+    "era": "20th century / Mexico",
     "kind": "person",
-    "description": "Compositeur, chef, pédagogue et organisateur, Chávez joue un rôle central dans la vie musicale mexicaine. Il réfléchit aux rapports entre modernité et héritages précolombiens, et développe une écriture rythmique et orchestrale très personnelle. Il dirige le Conservatoire national et fonde l'Orchestre symphonique du Mexique.",
-    "works": "ORCHESTRE\nSinfonía india\nSinfonía de Antígona\nSinfonía romántica\nSinfonía proletaria\nCONCERTOS\nConcerto pour piano\nConcerto pour violon\nBALLET\nH.P. (Horsepower)"
+    "description": "Composer, conductor, teacher and organiser, Carlos Chávez played a central role in Mexican musical life. He explored the relationship between modernity and pre-Columbian heritage, developing a highly personal rhythmic and orchestral language. He directed the National Conservatory and founded the Mexican Symphony Orchestra.",
+    "works": "ORCHESTRA\nSinfonía india\nSinfonía de Antígona\nSinfonía romántica\nSinfonía proletaria\nCONCERTOS\nPiano Concerto\nViolin Concerto\nBALLET\nH.P. (Horsepower)"
   },
   {
     "id": "doncherry",
@@ -368,10 +368,10 @@
     "years": "1936–1995",
     "birth": 1936,
     "death": 1995,
-    "era": "Free jazz / Musiques du monde",
+    "era": "Free jazz / World music",
     "kind": "person",
-    "description": "Trompettiste américain, Cherry est un pionnier du free jazz et un explorateur des musiques du monde. Après sa collaboration avec Ornette Coleman, il développe une pratique où instruments, rythmes et traditions de plusieurs continents se rencontrent. Sa recherche de musique universelle repose sur des formes collectives et des circulations entre cultures.",
-    "works": "JAZZ ET IMPROVISATION\nComplete Communion\nSymphony for Improvisers\nWhere Is Brooklyn?\nMU — First Part\nMUSIQUE DU MONDE\nBrown Rice\nCodona"
+    "description": "American trumpeter Don Cherry was a pioneer of free jazz and an explorer of world music. After his collaboration with Ornette Coleman, he developed a practice in which instruments, rhythms and traditions from several continents could meet. His search for a universal music relied on collective forms and cultural exchange.",
+    "works": "JAZZ AND IMPROVISATION\nComplete Communion\nSymphony for Improvisers\nWhere Is Brooklyn?\nMU — First Part\nWORLD MUSIC\nBrown Rice\nCodona"
   },
   {
     "id": "cherubini",
@@ -379,10 +379,10 @@
     "years": "1760–1842",
     "birth": 1760,
     "death": 1842,
-    "era": "Classicisme / romantisme",
+    "era": "Classical period / Romanticism",
     "kind": "person",
-    "description": "Né à Florence, Luigi Cherubini étudie en Italie avant de s'installer à Paris en 1788. Il y devient une figure centrale de la vie musicale, traverse la Révolution et l'Empire, puis dirige le Conservatoire de Paris de 1822 à 1842. Son style associe la tradition contrapuntique italienne à une conception dramatique héritée de [[gluck|Gluck]] et de l'opéra français. Ses opéras, notamment Médée, sont admirés pour leur tension et leur écriture vocale exigeante. Il compose également une œuvre sacrée considérable, dont les messes et les requiems sont longtemps tenus en très haute estime.",
-    "works": "OPÉRAS\nMédée (Medea)\nLes deux journées ou Le porteur d'eau\nLodoïska\nFaniska\nAli-Baba\nMUSIQUE SACRÉE\nRequiem en ut mineur\nRequiem en ré mineur\nMesse solennelle en fa majeur\nMUSIQUE INSTRUMENTALE\nQuatuors à cordes nos 1 à 6"
+    "description": "Born in Florence, Luigi Cherubini studied in Italy before settling in Paris in 1788. He became a central figure in the city's musical life, lived through the Revolution and the Empire, and directed the Paris Conservatoire from 1822 to 1842. His style combines the Italian contrapuntal tradition with a dramatic approach shaped by [[gluck|Gluck]] and French opera. His operas, especially Médée, are admired for their tension and demanding vocal writing. He also composed a substantial body of sacred music, including masses and requiems that were long held in the highest esteem.",
+    "works": "OPERAS\nMédée (Medea)\nLes deux journées ou Le porteur d'eau\nLodoïska\nFaniska\nAli-Baba\nSACRED MUSIC\nRequiem in C minor\nRequiem in D minor\nSolemn Mass in F major\nINSTRUMENTAL MUSIC\nString Quartets Nos. 1–6"
   },
   {
     "id": "unsuk_chin",
@@ -390,10 +390,10 @@
     "years": "1961–",
     "birth": 1961,
     "death": null,
-    "era": "Contemporain",
+    "era": "Contemporary",
     "kind": "person",
-    "description": "Unsuk Chin est une compositrice sud-coréenne installée en Allemagne, dont l'œuvre conjugue virtuosité instrumentale, imagination timbrique et raffinement spectral. Élève de György Ligeti, elle développe un langage très personnel, marqué par la fluidité des textures, les jeux de perception et une énergie souvent jubilatoire. Ses opéras, concertos et œuvres orchestrales témoignent d'une maîtrise exceptionnelle de l'écriture contemporaine et d'un imaginaire sonore foisonnant.",
-    "works": "ORCHESTRE\nRocaná\nGraffiti\nLe Silence des sirènes\nMUSIQUE CONCERTANTE\nConcerto pour violon\nConcerto pour piano\nOPÉRA\nAlice in Wonderland\nMUSIQUE DE CHAMBRE\nFantaisie mécanique"
+    "description": "South Korean composer Unsuk Chin, based in Germany, creates music that combines instrumental virtuosity, timbral imagination and spectral refinement. A student of György Ligeti, she has developed a highly individual language marked by fluid textures, perceptual games and often exuberant energy. Her operas, concertos and orchestral works demonstrate exceptional command of contemporary writing and a richly inventive sonic imagination.",
+    "works": "ORCHESTRA\nRocaná\nGraffiti\nLe Silence des sirènes\nCONCERTANTE MUSIC\nViolin Concerto\nPiano Concerto\nOPERA\nAlice in Wonderland\nCHAMBER MUSIC\nFantaisie mécanique"
   },
   {
     "id": "chion",
@@ -401,10 +401,10 @@
     "years": "1947–",
     "birth": 1947,
     "death": null,
-    "era": "Musique concrète / Acousmatique",
+    "era": "Musique concrète / Acousmatic music",
     "kind": "person",
-    "description": "Compositeur de musique concrète et théoricien du son, Chion travaille au GRM et développe une œuvre nourrie de voix, récits, sons transformés et jeux perceptifs. Ses écrits sur l'audio-vision et l'écoute marquent les études cinématographiques. Sa pratique artistique reste étroitement liée à ses recherches théoriques.",
-    "works": "ACOUSMATIQUE\nRequiem\nLa Tentation de saint Antoine\nTu\nLa Vie en prose\nÉCRITS\nGuide des objets sonores\nL'Audio-vision"
+    "description": "Composer of musique concrète and theorist of sound, Michel Chion worked at the GRM and developed a body of music shaped by voices, narratives, transformed sounds and perceptual play. His writings on audio-vision and listening have had a lasting impact on film studies. His artistic practice remains closely connected to his theoretical research.",
+    "works": "ACOUSMATIC MUSIC\nRequiem\nLa Tentation de saint Antoine\nTu\nLa Vie en prose\nWRITINGS\nGuide des objets sonores\nL'Audio-vision"
   },
   {
     "id": "chopin",
@@ -412,10 +412,10 @@
     "years": "1810–1849",
     "birth": 1810,
     "death": 1849,
-    "era": "Romantisme",
+    "era": "Romanticism",
     "kind": "person",
-    "description": "Né à Żelazowa Wola près de Varsovie, Frédéric Chopin quitte la Pologne en 1830 et s'établit à Paris, où il devient une figure centrale de la vie musicale et des salons. Il compose presque exclusivement pour le piano, mais renouvelle profondément son langage : la virtuosité devient expression, la danse se transforme en forme poétique et l'harmonie s'aventure vers des couleurs nouvelles. Les mazurkas et polonaises entretiennent un lien complexe avec les rythmes et les souvenirs de son pays natal. Sa relation avec George Sand marque une longue période de création, notamment à Nohant. Sa musique a durablement redéfini la technique et la poésie pianistiques.",
-    "works": "FORMES BRÈVES\nNocturnes, notamment op. 9, op. 27 et op. 48\nMazurkas, notamment op. 17 et op. 24\nPolonaises, notamment op. 44 et op. 53\nValses, notamment la Valse en do dièse mineur, op. 64 n° 2\nÉTUDES ET PRÉLUDES\nÉtudes op. 10 et op. 25\n24 Préludes, op. 28\nGRANDES FORMES\nBallades nos 1 à 4\nSonate n° 2 en si bémol mineur, op. 35\nConcerto pour piano n° 1, op. 11"
+    "description": "Born in Żelazowa Wola near Warsaw, Frédéric Chopin left Poland in 1830 and settled in Paris, where he became a central figure in musical life and the salons. He composed almost exclusively for the piano, yet profoundly renewed its language: virtuosity became expression, dance forms turned into poetic structures, and harmony ventured into new colours. His mazurkas and polonaises maintain a complex relationship with the rhythms and memories of his homeland. His relationship with George Sand marked a long period of creativity, especially at Nohant. His music permanently reshaped the technique and poetry of piano writing.",
+    "works": "SHORT FORMS\nNocturnes, including Opp. 9, 27 and 48\nMazurkas, including Opp. 17 and 24\nPolonaises, including Opp. 44 and 53\nWaltzes, including Waltz in C-sharp minor, Op. 64 No. 2\nETUDES AND PRELUDES\nÉtudes, Opp. 10 and 25\n24 Preludes, Op. 28\nLARGE-SCALE WORKS\nBallades Nos. 1–4\nPiano Sonata No. 2 in B-flat minor, Op. 35\nPiano Concerto No. 1, Op. 11"
   },
   {
     "id": "shostakovich",
@@ -423,10 +423,10 @@
     "years": "1906–1975",
     "birth": 1906,
     "death": 1975,
-    "era": "XXe siècle",
+    "era": "20th century",
     "kind": "person",
-    "description": "Dmitri Chostakovitch compose dans un contexte politique où la création musicale soviétique est soumise à des injonctions idéologiques et à la censure. Son œuvre oscille entre satire, tragédie, lyrisme et violence, avec une ambiguïté expressive qui a nourri de nombreux débats. Ses quinze symphonies et ses quinze quatuors forment un vaste journal musical du siècle, tandis que ses opéras et concertos révèlent une inventivité orchestrale et instrumentale exceptionnelle.",
-    "works": "SYMPHONIES\nSymphonies nos 1 à 15\nMUSIQUE DE CHAMBRE\nQuatuors à cordes nos 1 à 15\nTrio avec piano no 2\nMUSIQUE CONCERTANTE\nConcertos pour piano, violon et violoncelle\nOPÉRAS\nLady Macbeth du district de Mtsensk\nLe Nez"
+    "description": "Dmitri Shostakovich composed in a political environment in which Soviet musical creation was subject to ideological demands and censorship. His music moves between satire, tragedy, lyricism and violence, with an expressive ambiguity that has fuelled extensive debate. His fifteen symphonies and fifteen string quartets form an immense musical diary of the century, while his operas and concertos reveal exceptional orchestral and instrumental imagination.",
+    "works": "SYMPHONIES\nSymphonies Nos. 1–15\nCHAMBER MUSIC\nString Quartets Nos. 1–15\nPiano Trio No. 2\nCONCERTANTE MUSIC\nConcertos for piano, violin and cello\nOPERAS\nLady Macbeth of the Mtsensk District\nThe Nose"
   },
   {
     "id": "ciconia",
@@ -434,10 +434,10 @@
     "years": "vers 1370–1412",
     "birth": 1370,
     "death": 1412,
-    "era": "Ars subtilior / Première Renaissance",
+    "era": "Ars subtilior / Early Renaissance",
     "kind": "person",
-    "description": "Né dans les anciens Pays-Bas et actif à Padoue, Ciconia incarne les échanges entre le Nord et l'Italie au tournant des XIVe et XVe siècles. Son œuvre mêle raffinements rythmiques de l'Ars subtilior, formes françaises et innovations italiennes. Ses motets savants et ses chansons annoncent certains traits de la polyphonie renaissante.",
-    "works": "MOTETS\nO felix templum jubila\nVenecie mundi splendor\nCHANSONS\nUna panthera\nLe ray au soleyl\nMUSIQUE SACRÉE\nGloria et Credo à plusieurs voix"
+    "description": "Born in the Low Countries and active in Padua, Johannes Ciconia embodied the exchanges between northern Europe and Italy at the turn of the 14th and 15th centuries. His music combines the rhythmic intricacies of the Ars subtilior, French forms and Italian innovations. His learned motets and songs anticipate features of Renaissance polyphony.",
+    "works": "MOTETS\nO felix templum jubila\nVenecie mundi splendor\nSONGS\nUna panthera\nLe ray au soleyl\nSACRED MUSIC\nGloria and Credo settings for several voices"
   },
   {
     "id": "cimarosa",
