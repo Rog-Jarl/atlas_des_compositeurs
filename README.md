@@ -1,29 +1,29 @@
-# Vies en résonance — Atlas des compositeurs
+# Lives in Resonance — Atlas of Composers
 
-Premier prototype d’un atlas chronologique des compositeurs et compositrices, du Moyen Âge à la création contemporaine.
+A chronological atlas of composers, from the Middle Ages to contemporary music.
 
-## Contenu
+## Features
 
-- Frise chronologique avec défilement horizontal et vertical.
-- Recherche par nom ou œuvre, filtre par époque.
-- Notices biographiques, œuvres repères et pistes de sources.
-- Comparateur de trajectoires.
-- Dates incertaines ou décès non renseignés signalés visuellement.
+- Timeline with horizontal and vertical scrolling.
+- Search by composer or work, with period filters.
+- Biographical entries, selected works and research leads.
+- Lifespan comparison tool.
+- Uncertain dates and unknown death dates are visually indicated.
 
-## Lancer en local
+## Run locally
 
-Depuis ce dossier, exécuter :
+From this directory, run:
 
 ```bash
 python3 -m http.server 8000
 ```
 
-Puis ouvrir http://localhost:8000. Le site utilise `fetch()` pour charger `composers.json`, il ne faut donc pas l’ouvrir directement en `file://`.
+Then open http://localhost:8000. The site uses `fetch()` to load `composers.json`, so it must be served over HTTP rather than opened directly through `file://`.
 
-## Déploiement GitHub Pages
+## Deploy with GitHub Pages
 
-Dans le dépôt, ouvrir **Settings → Pages**, choisir **Deploy from a branch**, puis la branche **main** et le dossier **/(root)**, et enregistrer. GitHub publiera alors le site statique depuis la racine du dépôt. Voir la [documentation GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select the **main** branch and the **/(root)** folder, then save. GitHub will publish the static site from the repository root. See the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
-## Données et méthode
+## Data and editorial approach
 
-Les premières notices constituent un corpus de départ, pas une édition critique achevée. Les dates médiévales sont parfois approximatives. Les sources indiquées sont des pistes de vérification qui devront être complétées par des références précises et, quand c’est possible, des liens directs. Le corpus devra être élargi aux traditions musicales du monde entier et éviter de confondre visibilité historique et importance artistique.
+The entries form a developing corpus, not a finished critical edition. Dates for medieval figures are sometimes approximate. Research leads should be supplemented with precise references and, where possible, direct links. The corpus will continue to expand across musical traditions worldwide, while avoiding the confusion of historical visibility with artistic significance.
