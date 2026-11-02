@@ -1,16 +1,5 @@
 [
   {
-    "id": "abel",
-    "name": "Carl Friedrich Abel",
-    "years": "1723–1787",
-    "birth": 1723,
-    "death": 1787,
-    "era": "Classicisme",
-    "kind": "person",
-    "description": "Carl Friedrich Abel, gambiste et compositeur allemand, mène l'essentiel de sa carrière à Londres. Il y fonde avec Johann Christian Bach une série de concerts publics qui contribue à la vie musicale de la capitale. Dernier grand virtuose de la viole de gambe, il compose aussi pour le clavier, l'orchestre et la musique de chambre. Son œuvre témoigne de la transition entre le langage baroque et le style galant.",
-    "works": "VIOLE DE GAMBE\n27 pièces pour viole seule — manuscrits de Drexel\nSonates pour viole et basse continue\nORCHESTRE\nSymphonies, op. 7 et op. 10\nConcertos pour flûte et violoncelle\nMUSIQUE DE CHAMBRE\nQuatuors et sonates"
-  },
-  {
     "id": "cpe_bach",
     "name": "Carl Philipp Emanuel Bach",
     "years": "1714–1788",
