@@ -2935,5 +2935,181 @@
     "kind": "Composer and pianist",
     "description": "A German pianist, composer and teacher, Schmitt became known for his pedagogical piano works, especially exercises designed to develop finger independence and technical fluency. He also composed chamber music, concertos and orchestral works.",
     "works": "Preparatory Exercises, Op. 16;  Exercises for the Piano; Piano Concerto in A minor; Piano Sonatas"
+  },
+  {
+    "id": "robert_schumann",
+    "name": "Robert Schumann",
+    "years": "1810–1856",
+    "birth": "1810-06-08",
+    "death": "1856-07-29",
+    "era": "Romantic",
+    "kind": "Composer and pianist",
+    "description": "A central figure of German Romanticism, Schumann brought literary imagination and psychological intensity to piano music, song and symphonic composition. He was also a major critic and founded the Neue Zeitschrift für Musik, championing both emerging and established composers.",
+    "works": "Carnaval, Op. 9; Kinderszenen, Op. 15; Dichterliebe, Op. 48; Symphony No. 3, 'Rhenish'; Piano Concerto in A minor"
+  },
+  {
+    "id": "alexander_scriabin",
+    "name": "Alexander Scriabin",
+    "years": "1872–1915",
+    "birth": "1872-01-06",
+    "death": "1915-04-27",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Russian composer and pianist whose early works grew from Chopin's influence into an increasingly radical harmonic language. Scriabin developed a personal mystical philosophy of art and pursued an ambitious synthesis of sound, colour and spiritual experience.",
+    "works": "Piano Sonata No. 5, Op. 53; Poem of Ecstasy, Op. 54; Prometheus: The Poem of Fire; Piano Sonatas Nos. 6–10"
+  },
+  {
+    "id": "christian_sinding",
+    "name": "Christian Sinding",
+    "years": "1856–1941",
+    "birth": "1856-01-11",
+    "death": "1941-12-03",
+    "era": "Late Romantic",
+    "kind": "Composer",
+    "description": "A Norwegian composer who studied in Leipzig and became known internationally for his lyrical Romantic style. Although his output includes symphonies, concertos and chamber music, he is still widely associated with the piano miniature Rustle of Spring.",
+    "works": "Rustle of Spring, Op. 32 No. 3; Piano Quintet in E minor, Op. 5; Symphony No. 1 in D minor; Violin Concerto No. 1 in A major"
+  },
+  {
+    "id": "arthur_somervell",
+    "name": "Arthur Somervell",
+    "years": "1863–1937",
+    "birth": "1863-06-05",
+    "death": "1937-05-02",
+    "era": "Late Romantic",
+    "kind": "Composer and teacher",
+    "description": "An English composer and influential music educator, Somervell studied at Cambridge and the Royal College of Music before teaching for many years. His output includes orchestral works, songs and vocal cycles, among them a notable setting of Tennyson's Maud.",
+    "works": "The Shropshire Lad; Maud; Symphony in D minor; Highland Concerto"
+  },
+  {
+    "id": "charles_villiers_stanford",
+    "name": "Charles Villiers Stanford",
+    "years": "1852–1924",
+    "birth": "1852-09-30",
+    "death": "1924-03-29",
+    "era": "Late Romantic",
+    "kind": "Composer, conductor and teacher",
+    "description": "An Irish composer who became one of the most influential teachers in British music, Stanford held posts at the Royal College of Music and Cambridge. His pupils included Vaughan Williams, Holst and John Ireland; his own output ranges from symphonies and concertos to church music and song.",
+    "works": "Irish Rhapsody No. 1; Symphony No. 3 in F minor, 'Irish'; Songs of the Sea; Stabat Mater"
+  },
+  {
+    "id": "zygmunt_stojowski",
+    "name": "Zygmunt Stojowski",
+    "years": "1870–1946",
+    "birth": "1870-05-04",
+    "death": "1946-11-05",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Polish composer and pianist, Stojowski studied with Paderewski and later settled in the United States, where he became a respected teacher and performer. His music combines Polish national elements with the craftsmanship of the French and German Romantic traditions.",
+    "works": "Piano Concerto in F-sharp minor, Op. 3; Fantaisie for Piano and Orchestra, Op.  fantasia; Symphony in D minor, Op. 21; Polish Dances"
+  },
+  {
+    "id": "richard_strauss",
+    "name": "Richard Strauss",
+    "years": "1864–1949",
+    "birth": "1864-06-11",
+    "death": "1949-09-08",
+    "era": "Late Romantic",
+    "kind": "Composer and conductor",
+    "description": "A German composer and conductor, Strauss extended the possibilities of the late-Romantic orchestra through dazzling tone poems and became one of the leading opera composers of the twentieth century. His long career moved from youthful symphonism to psychologically complex modernist opera and late, elegiac works.",
+    "works": "Also sprach Zarathustra; Ein Heldenleben; Salome; Elektra; Der Rosenkavalier; Four Last Songs"
+  },
+  {
+    "id": "pyotr_ilyich_tchaikovsky",
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "years": "1840–1893",
+    "birth": "1840-05-07",
+    "death": "1893-11-06",
+    "era": "Romantic",
+    "kind": "Composer",
+    "description": "One of the most widely loved Russian composers, Tchaikovsky combined expressive melody, dramatic intensity and brilliant orchestration. His ballets, symphonies, concertos and operas became cornerstones of the international repertoire, while his music often reveals a deeply personal emotional world.",
+    "works": "Symphony No. 6, 'Pathétique'; Piano Concerto No. 1; Violin Concerto; Swan Lake; The Nutcracker; Eugene Onegin"
+  },
+  {
+    "id": "thomas_tellefsen",
+    "name": "Thomas Tellefsen",
+    "years": "1823–1874",
+    "birth": "1823-11-26",
+    "death": "1874-10-06",
+    "era": "Romantic",
+    "kind": "Pianist and composer",
+    "description": "A Norwegian pianist and composer, Tellefsen moved to Paris and became a pupil and close associate of Chopin. He was an important interpreter of Chopin's music and composed piano concertos, sonatas and character pieces that reflect the Parisian Romantic tradition.",
+    "works": "Piano Concerto No. 1 in G minor; Piano Concerto No. 2 in F minor; Piano Sonata in B minor; Mazurkas and Nocturnes"
+  },
+  {
+    "id": "sigismond_thalberg",
+    "name": "Sigismond Thalberg",
+    "years": "1812–1871",
+    "birth": "1812-01-08",
+    "death": "1871-04-27",
+    "era": "Romantic",
+    "kind": "Pianist and composer",
+    "description": "An Austrian pianist and composer, Thalberg was one of the great virtuosos of the nineteenth century and a celebrated rival of Liszt. His piano writing became famous for its illusion of multiple voices and orchestral sonority, especially in his operatic fantasies.",
+    "works": "Grande Fantaisie sur des motifs de Moïse, Op. 33; L'art du chant appliqué au piano; Fantaisie sur La Donna del lago; Piano Concerto in F minor"
+  },
+  {
+    "id": "donald_francis_tovey",
+    "name": "Donald Francis Tovey",
+    "years": "1875–1940",
+    "birth": "1875-07-17",
+    "death": "1940-07-10",
+    "era": "20th Century",
+    "kind": "Composer, pianist and musicologist",
+    "description": "A British composer, pianist and eminent writer on music, Tovey is remembered especially for his analytical essays and programme notes, collected as Essays in Musical Analysis. He also composed symphonies, concertos, chamber music and operas, and founded the Reid Orchestra in Edinburgh.",
+    "works": "Symphony in D major; Piano Concerto in A major; Cello Concerto; Essays in Musical Analysis"
+  },
+  {
+    "id": "jose_vianna_da_motta",
+    "name": "José Vianna da Motta",
+    "years": "1868–1948",
+    "birth": "1868-04-22",
+    "death": "1948-06-30",
+    "era": "Late Romantic",
+    "kind": "Pianist, composer and teacher",
+    "description": "A Portuguese pianist, composer and teacher, Vianna da Motta studied with Liszt and Hans von Bülow and became one of the leading musical figures in Portugal. His compositions combine the German Romantic tradition with Portuguese historical and folk references.",
+    "works": "Symphony 'À Pátria'; Piano Concerto in A major; Cenas Portuguesas; Ballada for Piano"
+  },
+  {
+    "id": "jozef_wieniawski",
+    "name": "Józef Wieniawski",
+    "years": "1837–1912",
+    "birth": "1837-05-23",
+    "death": "1912-11-11",
+    "era": "Romantic",
+    "kind": "Pianist and composer",
+    "description": "A Polish pianist and composer, Józef was the younger brother of violinist Henryk Wieniawski. He enjoyed a distinguished career as a virtuoso and teacher in Europe, composing piano concertos, chamber music and technically demanding solo works.",
+    "works": "Piano Concerto in G minor, Op. 20; Piano Sonata in B-flat minor; Scherzo-Tarantelle; Polonaise in A major"
+  },
+  {
+    "id": "august_winding",
+    "name": "August Winding",
+    "years": "1835–1899",
+    "birth": "1835-03-24",
+    "death": "1899-06-16",
+    "era": "Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Danish pianist, composer and teacher, Winding studied in Leipzig and became a leading figure in Copenhagen's musical life. His works include piano concertos, chamber music and pedagogical pieces, and he helped shape Danish musical education in the later nineteenth century.",
+    "works": "Piano Concerto in A minor, Op. 16; Piano Trio in F major; Violin Sonata; Piano Studies"
+  },
+  {
+    "id": "haydn_wood",
+    "name": "Haydn Wood",
+    "years": "1882–1959",
+    "birth": "1882-03-25",
+    "death": "1959-03-11",
+    "era": "20th Century",
+    "kind": "Composer and violinist",
+    "description": "An English composer and violinist, Wood became widely popular for his light orchestral music and songs. His output ranges from concert works to character pieces and patriotic songs, with several melodies becoming familiar fixtures of British popular culture.",
+    "works": "Roses of Picardy; Mannin Veen; London Cameos; A May Day Suite"
+  },
+  {
+    "id": "wladyslaw_zelenski",
+    "name": "Władysław Żeleński",
+    "years": "1837–1921",
+    "birth": "1837-07-06",
+    "death": "1921-01-23",
+    "era": "Late Romantic",
+    "kind": "Composer and teacher",
+    "description": "A Polish composer, pianist and teacher, Żeleński was a major figure in the musical life of Kraków and helped establish its conservatory. His output includes operas, symphonies, chamber music and songs, often drawing on Polish literary and national subjects.",
+    "works": "Konrad Wallenrod (opera); Goplana (opera); Janek (opera); Piano Trio in E minor"
   }
 ]
