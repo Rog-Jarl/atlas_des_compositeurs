@@ -28,7 +28,7 @@ function render(){
  }
  content.innerHTML=html;
  content.querySelectorAll('.person-row').forEach(row=>{const open=()=>showDetails(row.dataset.id);row.addEventListener('click',open);row.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();open()}})});
- bottomInner.style.width=(labelPx+width)+'px';
+ bottomInner.style.width=Math.max(timeline.scrollWidth,timeline.clientWidth)+'px';
 }
 function showDetails(id){
  const p=byId[id];if(!p)return;selected=id;render();
@@ -38,11 +38,33 @@ function renderChips(){
  chips.innerHTML='';
  compared.forEach(id=>{const p=byId[id];if(!p)return;const el=document.createElement('span');el.className='chip';el.textContent=p.name+' · '+dateText(p)+' ';const b=document.createElement('button');b.type='button';b.textContent='×';b.setAttribute('aria-label','Retirer '+p.name);b.addEventListener('click',()=>{compared=compared.filter(x=>x!==id);renderChips()});el.append(b);chips.append(el)});
  const old=document.getElementById('compare-result');if(old)old.remove();
- if(compared.length){const res=document.createElement('div');res.id='compare-result';res.className='compare-result';res.textContent='Écart entre les naissances : '+(Math.max(...compared.map(id=>byId[id].birth))-Math.min(...compared.map(id=>byId[id].birth)))+' ans. Les lignes correspondantes sont visibles dans la frise en sélectionnant chaque nom.';chips.after(res)}
+ const oldPanel=document.getElementById('comparison-visual');if(oldPanel)oldPanel.remove();
+ const dated=compared.map(id=>byId[id]).filter(p=>Number.isFinite(p.birth));
+ if(dated.length){
+  const currentYear=new Date().getFullYear();
+  const rangeStart=Math.min(...dated.map(p=>p.birth));
+  const rangeEnd=Math.max(...dated.map(p=>Number.isFinite(p.death)&&p.death>=p.birth?p.death:currentYear));
+  const span=Math.max(1,rangeEnd-rangeStart+1);
+  const panel=document.createElement('div');panel.id='comparison-visual';panel.className='comparison-visual';
+  const axis=document.createElement('div');axis.className='comparison-axis';axis.innerHTML='<span>'+rangeStart+'</span><span>'+Math.round((rangeStart+rangeEnd)/2)+'</span><span>'+rangeEnd+'</span>';panel.append(axis);
+  dated.forEach(p=>{
+   const end=Number.isFinite(p.death)&&p.death>=p.birth?p.death:currentYear;
+   const row=document.createElement('div');row.className='comparison-row';
+   const name=document.createElement('div');name.className='comparison-person';name.textContent=p.name+' · '+dateText(p);
+   const track=document.createElement('div');track.className='comparison-track';
+   const bar=document.createElement('span');bar.className='comparison-life '+(Number.isFinite(p.death)?'':'is-open');
+   bar.style.left=((p.birth-rangeStart)/span*100)+'%';bar.style.width=(Math.max(0,end-p.birth+1)/span*100)+'%';
+   track.append(bar);row.append(name,track);panel.append(row);
+  });
+  chips.after(panel);
+ }
 }
 search.addEventListener('input',render);group.addEventListener('change',render);reset.addEventListener('click',()=>{search.value='';group.value='all';render()});
 compareSelect.addEventListener('change',()=>{const id=compareSelect.value;if(id&&!compared.includes(id))compared.push(id);compareSelect.value='';renderChips()});
-const sync=(source,target)=>{if(source._syncing)return;target._syncing=true;target.scrollLeft=source.scrollLeft;target._syncing=false};
-timeline.addEventListener('scroll',()=>sync(timeline,bottom));bottom.addEventListener('scroll',()=>sync(bottom,timeline));
-render();
+let syncing=false;
+function updateBottomWidth(){bottomInner.style.width=Math.max(timeline.scrollWidth,timeline.clientWidth)+'px';bottom.scrollLeft=timeline.scrollLeft}
+timeline.addEventListener('scroll',()=>{if(syncing)return;syncing=true;bottom.scrollLeft=timeline.scrollLeft;syncing=false},{passive:true});
+bottom.addEventListener('scroll',()=>{if(syncing)return;syncing=true;timeline.scrollLeft=bottom.scrollLeft;syncing=false},{passive:true});
+window.addEventListener('resize',updateBottomWidth);
+render();updateBottomWidth();
 })();
