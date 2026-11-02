@@ -3,7 +3,7 @@
 const $=id=>document.getElementById(id);
 const search=$('search'),group=$('group'),reset=$('reset'),details=$('details-content'),timeline=$('timeline'),content=$('timeline-content'),bottom=$('timeline-bottom-scroll'),bottomInner=$('timeline-bottom-scroll-inner'),compareSelect=$('compare-select'),compareClear=$('compare-clear'),count=$('count');
 let people=[];
-try{const r=await fetch('composers.json?v=1.3');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Impossible de charger les données des compositeurs. Vérifiez que composers.json est présent et ouvrez le site via un serveur web.</p>';count.textContent='Erreur de chargement';return}
+try{const r=await fetch('composers.json?v=1.4');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Impossible de charger les données des compositeurs. Vérifiez que composers.json est présent et ouvrez le site via un serveur web.</p>';count.textContent='Erreur de chargement';return}
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const byId=Object.fromEntries(people.map(p=>[p.id,p]));
 const surnameKey=name=>String(name||'').trim().split(/\s+/).filter(Boolean).at(-1)||String(name||'');
