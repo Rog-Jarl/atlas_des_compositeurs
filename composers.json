@@ -5,10 +5,10 @@
     "years": "1723–1787",
     "birth": 1723,
     "death": 1787,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Carl Friedrich Abel, gambiste et compositeur allemand, mène l'essentiel de sa carrière à Londres. Il y fonde avec Johann Christian Bach une série de concerts publics qui contribue à la vie musicale de la capitale. Dernier grand virtuose de la viole de gambe, il compose aussi pour le clavier, l'orchestre et la musique de chambre. Son œuvre témoigne de la transition entre le langage baroque et le style galant.",
-    "works": "VIOLE DE GAMBE\n27 pièces pour viole seule — manuscrits de Drexel\nSonates pour viole et basse continue\nORCHESTRE\nSymphonies, op. 7 et op. 10\nConcertos pour flûte et violoncelle\nMUSIQUE DE CHAMBRE\nQuatuors et sonates"
+    "description": "Carl Friedrich Abel, a German viol player and composer, spent most of his career in London. There, together with Johann Christian Bach, he established a series of public concerts that helped shape the city's musical life. One of the last great virtuosos of the viola da gamba, he also wrote for keyboard, orchestra and chamber ensembles. His music reflects the transition from the Baroque idiom to the galant style.",
+    "works": "VIOLA DA GAMBA\n27 pieces for solo viol — Drexel manuscripts\nSonatas for viol and basso continuo\nORCHESTRA\nSymphonies, Opp. 7 and 10\nConcertos for flute and cello\nCHAMBER MUSIC\nQuartets and sonatas"
   },
   {
     "id": "adams",
@@ -16,10 +16,10 @@
     "years": "1947–",
     "birth": 1947,
     "death": null,
-    "era": "Contemporain / Postminimalisme",
+    "era": "Contemporary / Postminimalism",
     "kind": "person",
-    "description": "John Adams reprend les processus répétitifs du minimalisme tout en les combinant à une écriture orchestrale ample et à une dramaturgie héritée de l'opéra. Ses œuvres abordent l'histoire politique américaine, des sujets intimes et mythologiques. Il contribue à renouveler l'opéra contemporain et la musique orchestrale américaine.",
-    "works": "OPÉRAS\nNixon in China\nThe Death of Klinghoffer\nDoctor Atomic\nORCHESTRE\nHarmonielehre\nShort Ride in a Fast Machine\nNaive and Sentimental Music\nCHAMBRE\nShaker Loops"
+    "description": "John Adams draws on the repetitive processes of minimalism while combining them with expansive orchestral writing and a dramatic sense of theatre inherited from opera. His works address American political history as well as intimate and mythological subjects. He has helped renew contemporary opera and American orchestral music.",
+    "works": "OPERAS\nNixon in China\nThe Death of Klinghoffer\nDoctor Atomic\nORCHESTRA\nHarmonielehre\nShort Ride in a Fast Machine\nNaive and Sentimental Music\nCHAMBER MUSIC\nShaker Loops"
   },
   {
     "id": "albeniz",
@@ -27,10 +27,10 @@
     "years": "1860–1909",
     "birth": 1860,
     "death": 1909,
-    "era": "Romantisme tardif",
+    "era": "Late Romanticism",
     "kind": "person",
-    "description": "Pianiste et compositeur catalan, Isaac Albéniz contribue à renouveler la musique espagnole en intégrant les rythmes, les modes et les couleurs de la tradition populaire à une écriture pianistique héritée de Liszt et du romantisme français. Son œuvre la plus célèbre, Iberia, transforme le piano en un espace orchestral d'une grande richesse. Il compose également des opéras et de nombreuses pièces de salon, mais son héritage repose surtout sur ses œuvres de maturité.",
-    "works": "PIANO\nIberia, quatre cahiers\nSuite española, op. 47\nCantos de España, op. 232\nNavarra\nORCHESTRE ET SCÈNE\nPepita Jiménez\nMerlin — opéra inachevé"
+    "description": "The Catalan pianist and composer Isaac Albéniz helped renew Spanish music by bringing the rhythms, modes and colours of folk traditions into a pianistic language shaped by Liszt and French Romanticism. His best-known work, Iberia, turns the piano into an instrument of remarkable orchestral richness. He also wrote operas and numerous salon pieces, but his legacy rests above all on his mature works.",
+    "works": "PIANO\nIberia, four books\nSuite española, Op. 47\nCantos de España, Op. 232\nNavarra\nORCHESTRA AND STAGE\nPepita Jiménez\nMerlin — unfinished opera"
   },
   {
     "id": "alwyn",
@@ -38,10 +38,10 @@
     "years": "1905–1985",
     "birth": 1905,
     "death": 1985,
-    "era": "XXe siècle / Royaume-Uni",
+    "era": "20th century / United Kingdom",
     "kind": "person",
-    "description": "Compositeur, flûtiste et pédagogue britannique, Alwyn compose symphonies, concertos, opéras et musiques de film. Son langage évolue du néoclassicisme vers une écriture plus libre et chromatique, marquée par une grande maîtrise orchestrale. Il est l'un des compositeurs de musique de film les plus prolifiques de son pays.",
-    "works": "ORCHESTRE\nCinq symphonies\nLyra Angelica\nConcerto grosso no 3\nOPÉRAS\nMiss Julie\nThe Magic Island\nCINÉMA\nOdd Man Out\nThe Fallen Idol"
+    "description": "British composer, flautist and teacher William Alwyn wrote symphonies, concertos, operas and film scores. His style evolved from neoclassicism towards a freer, more chromatic idiom, underpinned by formidable orchestral craftsmanship. He was one of the most prolific film composers in Britain.",
+    "works": "ORCHESTRA\nFive symphonies\nLyra Angelica\nConcerto grosso No. 3\nOPERAS\nMiss Julie\nThe Magic Island\nFILM MUSIC\nOdd Man Out\nThe Fallen Idol"
   },
   {
     "id": "andriessen",
@@ -49,10 +49,10 @@
     "years": "1939–2021",
     "birth": 1939,
     "death": 2021,
-    "era": "Contemporain / Postminimalisme",
+    "era": "Contemporary / Postminimalism",
     "kind": "person",
-    "description": "Louis Andriessen est une figure centrale de la musique néerlandaise contemporaine. Son œuvre rompt avec les traditions orchestrales romantiques et sérielles pour développer un langage énergique, répétitif, politiquement engagé et nourri de jazz, de Stravinsky et de musiques populaires. Il privilégie souvent des ensembles atypiques, amplifiés, où la pulsation et la couleur instrumentale deviennent des forces structurantes. Son influence sur les scènes européennes de création a été considérable.",
-    "works": "ENSEMBLES\nDe Staat\nHoketus\nWorkers Union\nM is for Man, Music, Mozart\nOPÉRAS ET THÉÂTRE MUSICAL\nDe Materie\nWriting to Vermeer\nLa Commedia\nMUSIQUE DE CHAMBRE\nHout"
+    "description": "Louis Andriessen was a central figure in contemporary Dutch music. Breaking with Romantic and serial orchestral traditions, he forged an energetic, repetitive and politically engaged language shaped by jazz, Stravinsky and popular music. He often favoured unusual amplified ensembles, in which pulse and instrumental colour became structural forces. His influence on European new-music scenes was considerable.",
+    "works": "ENSEMBLES\nDe Staat\nHoketus\nWorkers Union\nM is for Man, Music, Mozart\nOPERAS AND MUSIC THEATRE\nDe Materie\nWriting to Vermeer\nLa Commedia\nCHAMBER MUSIC\nHout"
   },
   {
     "id": "bacewicz",
@@ -60,10 +60,10 @@
     "years": "1909–1969",
     "birth": 1909,
     "death": 1969,
-    "era": "XXe siècle",
+    "era": "20th century",
     "kind": "person",
-    "description": "Grażyna Bacewicz est une compositrice et violoniste polonaise dont l'œuvre occupe une place majeure dans la musique du XXe siècle en Europe centrale. Formée à Varsovie et à Paris, elle développe un langage qui associe clarté néoclassique, énergie rythmique et recherches harmoniques de plus en plus audacieuses. Sa double carrière d'interprète et de compositrice nourrit une écriture instrumentale particulièrement idiomatique, notamment dans ses concertos et sa musique de chambre.",
-    "works": "ORCHESTRE\nSymphonies nos 3 à 7\nOuverture\nMUSIQUE CONCERTANTE\n7 concertos pour violon\nConcerto pour alto\nConcerto pour piano\nMUSIQUE DE CHAMBRE\n7 quatuors à cordes\nQuintette pour instruments à vent"
+    "description": "Grażyna Bacewicz was a Polish composer and violinist whose work occupies a major place in 20th-century Central European music. Trained in Warsaw and Paris, she developed a language combining neoclassical clarity, rhythmic drive and increasingly adventurous harmonic exploration. Her dual career as performer and composer gave her instrumental writing an especially idiomatic character, notably in her concertos and chamber music.",
+    "works": "ORCHESTRA\nSymphonies Nos. 3–7\nOverture\nCONCERTANTE MUSIC\nSeven violin concertos\nViola Concerto\nPiano Concerto\nCHAMBER MUSIC\nSeven string quartets\nWind Quintet"
   },
   {
     "id": "cpe_bach",
@@ -71,10 +71,10 @@
     "years": "1714–1788",
     "birth": 1714,
     "death": 1788,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Deuxième fils de Johann Sebastian Bach, Carl Philipp Emanuel Bach se forme auprès de [[bach|son père Johann Sebastian Bach]] avant de mener une carrière qui le conduit de Berlin, au service de Frédéric II, à Hambourg, où il succède à Telemann comme directeur de la musique. Il devient l'une des figures majeures du style sensible (Empfindsamer Stil), qui privilégie les contrastes affectifs, les inflexions imprévisibles et une éloquence presque improvisée. Son écriture pour clavier renouvelle profondément la sonate et exerce une influence sur Haydn, Mozart et les générations suivantes. Théoricien réputé, il publie un traité essentiel sur l'art de jouer des instruments à clavier. Son esthétique se situe à la charnière du baroque tardif et du classicisme.",
-    "works": "CLAVIER\nSonates prussiennes, Wq 48\nSonates wurtembergeoises, Wq 49\nRondo en la mineur, Wq 56/5\nFantaisie en do majeur, Wq 59/6\nMUSIQUE CONCERTANTE\nConcerto pour violoncelle en la mineur, Wq 170\nConcerto pour flûte en ré mineur, Wq 22\nSymphonies berlinoises, Wq 173–181\nMUSIQUE VOCALE\nMagnificat, Wq 215\nDie Auferstehung und Himmelfahrt Jesu, Wq 240"
+    "description": "The second son of Johann Sebastian Bach, Carl Philipp Emanuel Bach studied with [[bach|his father Johann Sebastian Bach]] before pursuing a career that took him from Berlin, where he served Frederick the Great, to Hamburg, where he succeeded Telemann as director of music. He became a leading exponent of the empfindsamer Stil, or sensitive style, with its emotional contrasts, unpredictable turns and almost improvisatory eloquence. His keyboard writing profoundly reshaped the sonata and influenced Haydn, Mozart and later generations. A respected theorist, he published an essential treatise on the art of keyboard playing. His aesthetic stands at the crossroads of the late Baroque and emerging Classical style.",
+    "works": "KEYBOARD\nPrussian Sonatas, Wq 48\nWürttemberg Sonatas, Wq 49\nRondo in A minor, Wq 56/5\nFantasia in C major, Wq 59/6\nCONCERTANTE MUSIC\nCello Concerto in A minor, Wq 170\nFlute Concerto in D minor, Wq 22\nBerlin Symphonies, Wq 173–181\nVOCAL MUSIC\nMagnificat, Wq 215\nDie Auferstehung und Himmelfahrt Jesu, Wq 240"
   },
   {
     "id": "jc_bach",
@@ -82,10 +82,10 @@
     "years": "1735–1782",
     "birth": 1735,
     "death": 1782,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Le plus jeune fils de [[bach|Johann Sebastian Bach]] reçoit d'abord une formation familiale avant de partir en Italie, où il étudie le style vocal et l'opéra. Converti au catholicisme, il devient organiste à la cathédrale de Milan, puis s'impose comme compositeur d'opéras. Installé à Londres à partir de 1762, il acquiert une réputation internationale. Son style élégant, mélodique et équilibré contribue à la diffusion du goût galant et du classicisme naissant. Il rencontre le jeune [[mozart|Mozart]] à Londres en 1764 et exerce sur lui une influence importante, notamment dans le domaine du concerto pour clavier.",
-    "works": "OPÉRAS\nOrione\nZanaida\nLucio Silla\nTemistocle\nLa clemenza di Scipione\nMUSIQUE INSTRUMENTALE\nConcertos pour clavier, op. 7 et op. 13\nSymphonies concertantes, op. 9\nQuintettes, op. 11\nMUSIQUE SACRÉE\nRequiem en do mineur"
+    "description": "The youngest son of [[bach|Johann Sebastian Bach]] first received his musical training within the family before travelling to Italy to study vocal music and opera. After converting to Catholicism, he became organist at Milan Cathedral and established himself as an opera composer. From 1762 he was based in London, where he gained an international reputation. His elegant, melodic and balanced style helped spread the galant taste and the emerging Classical idiom. He met the young [[mozart|Mozart]] in London in 1764 and had a significant influence on him, especially in the keyboard concerto.",
+    "works": "OPERAS\nOrione\nZanaida\nLucio Silla\nTemistocle\nLa clemenza di Scipione\nINSTRUMENTAL MUSIC\nKeyboard Concertos, Opp. 7 and 13\nSinfonia concertantes, Op. 9\nQuintets, Op. 11\nSACRED MUSIC\nRequiem in C minor"
   },
   {
     "id": "bach",
@@ -95,8 +95,8 @@
     "death": 1750,
     "era": "Baroque",
     "kind": "person",
-    "description": "Né dans une famille de musiciens de Thuringe, Johann Sebastian Bach exerce comme organiste, musicien de cour puis cantor de l'église Saint-Thomas de Leipzig à partir de 1723. Son activité est profondément liée aux institutions qui l'emploient : il compose cantates, passions et motets pour le calendrier liturgique, mais aussi œuvres instrumentales et musique de chambre. Il assimile les traditions allemandes, italiennes et françaises et les pousse vers une densité contrapuntique exceptionnelle. Son œuvre, longtemps connue surtout des spécialistes après sa mort, est redécouverte au XIXe siècle, notamment grâce à Mendelssohn. Elle devient ensuite un repère central pour la pensée musicale occidentale.",
-    "works": "CANTATES, PASSIONS ET MUSIQUE SACRÉE\nPassion selon saint Matthieu, BWV 244\nPassion selon saint Jean, BWV 245\nMesse en si mineur, BWV 232\nMagnificat, BWV 243\nCantate Wachet auf, ruft uns die Stimme, BWV 140\nINSTRUMENTAL ET CLAVIER\nLe Clavier bien tempéré, livres I et II\nVariations Goldberg, BWV 988\nL'Offrande musicale, BWV 1079\nL'Art de la fugue, BWV 1080\nSuites pour violoncelle seul, BWV 1007–1012\nConcertos brandebourgeois, BWV 1046–1051"
+    "description": "Born into a Thuringian family of musicians, Johann Sebastian Bach worked as an organist and court musician before becoming cantor of St Thomas's Church in Leipzig in 1723. His activity was closely tied to the institutions that employed him: he wrote cantatas, Passions and motets for the liturgical calendar, as well as instrumental and chamber works. He absorbed German, Italian and French traditions and transformed them through extraordinary contrapuntal density. Long known mainly to specialists after his death, his music was rediscovered in the 19th century, notably through Mendelssohn, and became a central reference point for Western musical thought.",
+    "works": "CANTATAS, PASSIONS AND SACRED MUSIC\nSt Matthew Passion, BWV 244\nSt John Passion, BWV 245\nMass in B minor, BWV 232\nMagnificat, BWV 243\nCantata Wachet auf, ruft uns die Stimme, BWV 140\nINSTRUMENTAL AND KEYBOARD MUSIC\nThe Well-Tempered Clavier, Books I and II\nGoldberg Variations, BWV 988\nThe Musical Offering, BWV 1079\nThe Art of Fugue, BWV 1080\nSuites for solo cello, BWV 1007–1012\nBrandenburg Concertos, BWV 1046–1051"
   },
   {
     "id": "bailey",
@@ -104,10 +104,10 @@
     "years": "1930–2005",
     "birth": 1930,
     "death": 2005,
-    "era": "Improvisation libre",
+    "era": "Free improvisation",
     "kind": "person",
-    "description": "Guitariste britannique, Bailey est une figure fondatrice de l'improvisation libre européenne. Il refuse cadres harmoniques et rythmiques préétablis pour développer une pratique fondée sur l'instant, l'écoute et l'exploration physique de l'instrument. Cofondateur du label Incus, il contribue à constituer une scène indépendante et internationale.",
-    "works": "GUITARE SOLO\nBallads\nAida\nIMPROVISATION COLLECTIVE\nCompany — séries d'improvisations\nThe Music Improvisation Company\nÉCRITS\nImprovisation: Its Nature and Practice in Music"
+    "description": "British guitarist Derek Bailey was a founding figure of European free improvisation. Rejecting predetermined harmonic and rhythmic frameworks, he developed a practice grounded in the instant, attentive listening and the physical exploration of his instrument. As co-founder of the Incus label, he helped build an independent international scene.",
+    "works": "SOLO GUITAR\nBallads\nAida\nCOLLECTIVE IMPROVISATION\nCompany — improvisation series\nThe Music Improvisation Company\nWRITINGS\nImprovisation: Its Nature and Practice in Music"
   },
   {
     "id": "bartok",
@@ -115,10 +115,10 @@
     "years": "1881–1945",
     "birth": 1881,
     "death": 1945,
-    "era": "Modernité",
+    "era": "Modernism",
     "kind": "person",
-    "description": "Béla Bartók est compositeur, pianiste et ethnomusicologue. Avec Zoltán Kodály, il collecte et étudie les musiques paysannes d'Europe centrale et orientale, dont il transforme les rythmes, les modes et les structures en un langage moderne profondément personnel. Son œuvre associe énergie rythmique, rigueur formelle, recherche timbrique et puissance expressive. Il compte parmi les compositeurs majeurs du XXe siècle, aussi bien pour ses quatuors que pour ses œuvres orchestrales et pianistiques.",
-    "works": "ORCHESTRE\nLe Mandarin merveilleux\nMusique pour cordes, percussion et célesta\nConcerto pour orchestre\nConcerto pour piano no 3\nMUSIQUE DE CHAMBRE\nSix quatuors à cordes\nSonate pour deux pianos et percussion\nPIANO\nMikrokosmos\nAllegro barbaro"
+    "description": "Béla Bartók was a composer, pianist and ethnomusicologist. Together with Zoltán Kodály, he collected and studied the folk music of Central and Eastern Europe, transforming its rhythms, modes and structures into a deeply personal modern language. His music combines rhythmic energy, formal rigour, timbral exploration and expressive power. He is one of the major composers of the 20th century, both for his quartets and for his orchestral and piano works.",
+    "works": "ORCHESTRA\nThe Miraculous Mandarin\nMusic for Strings, Percussion and Celesta\nConcerto for Orchestra\nPiano Concerto No. 3\nCHAMBER MUSIC\nSix string quartets\nSonata for Two Pianos and Percussion\nPIANO\nMikrokosmos\nAllegro barbaro"
   },
   {
     "id": "bayle",
@@ -126,10 +126,10 @@
     "years": "1932–",
     "birth": 1932,
     "death": null,
-    "era": "Musique acousmatique",
+    "era": "Acousmatic music",
     "kind": "person",
-    "description": "François Bayle est un compositeur majeur de la musique acousmatique et l'un des principaux théoriciens de l'écoute spatialisée. Né à Madagascar, il rejoint le Groupe de recherches musicales de Pierre Schaeffer et développe le concept d'acousmonium, orchestre de haut-parleurs destiné à interpréter les œuvres sur support. Sa musique explore les images sonores, les espaces imaginaires et les transformations de la perception. Il a profondément contribué à l'autonomie esthétique de la création électroacoustique.",
-    "works": "CYCLES ET ŒUVRES ACOUSMATIQUES\nL'Expérience acoustique\nErosphère\nTremblement de terre très doux\nLa Forme du temps est un cercle\nThéâtre d'ombres\nMUSIQUE SPATIALISÉE\nJeîta\nMusiques pour acousmonium"
+    "description": "François Bayle is a major composer of acousmatic music and one of the leading theorists of spatial listening. Born in Madagascar, he joined Pierre Schaeffer's Groupe de recherches musicales and developed the concept of the acousmonium, an orchestra of loudspeakers designed to perform works on fixed media. His music explores sonic images, imaginary spaces and transformations of perception. He made a profound contribution to the aesthetic autonomy of electroacoustic music.",
+    "works": "ACOUSMATIC CYCLES AND WORKS\nL'Expérience acoustique\nErosphère\nTremblement de terre très doux\nLa Forme du temps est un cercle\nThéâtre d'ombres\nSPATIAL MUSIC\nJeîta\nMusic for acousmonium"
   },
   {
     "id": "beethoven",
@@ -137,10 +137,10 @@
     "years": "1770–1827",
     "birth": 1770,
     "death": 1827,
-    "era": "Classicisme / romantisme",
+    "era": "Classical period / Romanticism",
     "kind": "person",
-    "description": "Formé à Bonn puis installé à Vienne, Ludwig van Beethoven s'impose d'abord comme pianiste et improvisateur avant de devenir l'un des compositeurs les plus influents de son temps. Son œuvre traverse le classicisme hérité de [[haydn|Haydn]] et [[mozart|Mozart]] et ouvre des voies nouvelles au romantisme. La surdité progressive, qui devient profonde au début du XIXe siècle, bouleverse sa vie sans interrompre son activité créatrice. Ses dernières œuvres — sonates, quatuors et Missa solemnis — explorent des formes parfois radicalement singulières. La Neuvième Symphonie, avec son finale choral, élargit les ambitions du genre symphonique.",
-    "works": "SYMPHONIES\nSymphonie n° 3 « Eroica »\nSymphonie n° 5\nSymphonie n° 6 « Pastorale »\nSymphonie n° 7\nSymphonie n° 9\nSONATES ET CONCERTOS\nSonate pour piano n° 14 « Clair de lune »\nSonate n° 23 « Appassionata »\nSonate n° 29 « Hammerklavier »\nConcerto pour violon\nMUSIQUE DE CHAMBRE ET SACRÉ\nQuatuors à cordes nos 12 à 16 (période tardive)\nMissa solemnis"
+    "description": "Educated in Bonn and later based in Vienna, Ludwig van Beethoven first made his name as a pianist and improviser before becoming one of the most influential composers of his age. His music moves beyond the Classical inheritance of [[haydn|Haydn]] and [[mozart|Mozart]] and opens new paths towards Romanticism. His progressive deafness, profound by the beginning of the 19th century, transformed his life without stopping his creative work. His late sonatas, quartets and Missa solemnis explore forms of striking originality. The Ninth Symphony, with its choral finale, expands the ambitions of the symphonic genre.",
+    "works": "SYMPHONIES\nSymphony No. 3 “Eroica”\nSymphony No. 5\nSymphony No. 6 “Pastoral”\nSymphony No. 7\nSymphony No. 9\nSONATAS AND CONCERTOS\nPiano Sonata No. 14 “Moonlight”\nPiano Sonata No. 23 “Appassionata”\nPiano Sonata No. 29 “Hammerklavier”\nViolin Concerto\nCHAMBER AND SACRED MUSIC\nLate String Quartets, Nos. 12–16\nMissa solemnis"
   },
   {
     "id": "bennink",
@@ -148,10 +148,10 @@
     "years": "1942–",
     "birth": 1942,
     "death": null,
-    "era": "Improvisation libre",
+    "era": "Free improvisation",
     "kind": "person",
-    "description": "Batteur et percussionniste néerlandais, Bennink associe virtuosité, humour, énergie physique et détournement des objets. Figure essentielle de la scène improvisée européenne, il collabore avec Misha Mengelberg, Brötzmann et Bailey. Mobilier et objets trouvés deviennent aussi des sources rythmiques et théâtrales.",
-    "works": "ENSEMBLES\nICP Orchestra\nBrötzmann / Bennink — duos\nA Bennink in the Hand\nCOLLABORATIONS\nEnregistrements avec Misha Mengelberg et Derek Bailey"
+    "description": "Dutch drummer and percussionist Han Bennink combines virtuosity, humour, physical energy and the subversion of everyday objects. A key figure in the European improvised-music scene, he collaborated with Misha Mengelberg, Brötzmann and Bailey. Furniture and found objects also become rhythmic and theatrical sound sources.",
+    "works": "ENSEMBLES\nICP Orchestra\nBrötzmann / Bennink — duos\nA Bennink in the Hand\nCOLLABORATIONS\nRecordings with Misha Mengelberg and Derek Bailey"
   },
   {
     "id": "berg",
@@ -159,10 +159,10 @@
     "years": "1885–1935",
     "birth": 1885,
     "death": 1935,
-    "era": "Seconde école de Vienne",
+    "era": "Second Viennese School",
     "kind": "person",
-    "description": "Alban Berg associe l'héritage romantique et la radicalité du langage atonal puis dodécaphonique. Élève de Schönberg, il conserve dans sa musique une expressivité lyrique et dramatique qui rend son œuvre particulièrement singulière au sein de la Seconde école de Vienne. Ses deux opéras, Wozzeck et Lulu, comptent parmi les grandes œuvres du théâtre musical du XXe siècle. Son Concerto à la mémoire d'un ange est devenu l'un des concertos les plus joués de la modernité.",
-    "works": "OPÉRAS\nWozzeck\nLulu\nORCHESTRE\nTrois pièces pour orchestre, op. 6\nConcerto pour violon « À la mémoire d'un ange »\nMUSIQUE DE CHAMBRE\nSuite lyrique\nQuatuor à cordes, op. 3"
+    "description": "Alban Berg brought together the Romantic inheritance and the radical language of atonality and later twelve-tone composition. A pupil of Schoenberg, he retained a lyrical and dramatic expressiveness that makes his music distinctive within the Second Viennese School. His two operas, Wozzeck and Lulu, are among the great works of 20th-century music theatre. His Violin Concerto, “To the Memory of an Angel”, has become one of the most frequently performed concertos of modernism.",
+    "works": "OPERAS\nWozzeck\nLulu\nORCHESTRA\nThree Pieces for Orchestra, Op. 6\nViolin Concerto “To the Memory of an Angel”\nCHAMBER MUSIC\nLyric Suite\nString Quartet, Op. 3"
   },
   {
     "id": "berio",
@@ -170,10 +170,10 @@
     "years": "1925–2003",
     "birth": 1925,
     "death": 2003,
-    "era": "Avant-garde / Électroacoustique",
+    "era": "Avant-garde / Electroacoustic",
     "kind": "person",
-    "description": "Berio est l'un des grands inventeurs de la musique d'après-guerre. Cofondateur du Studio di Fonologia de Milan, il explore l'électronique, le collage, la citation et la transformation de la voix. Ses Sequenze constituent un laboratoire de virtuosité et d'invention instrumentale, tandis que Sinfonia interroge la mémoire musicale et la pluralité des langages.",
-    "works": "VOIX ET ÉLECTRONIQUE\nThema (Omaggio a Joyce)\nVisage\nSinfonia\nINSTRUMENTAL\nSequenze I à XIV\nCoro\nRendering\nTHÉÂTRE\nOpera\nUn re in ascolto"
+    "description": "Luciano Berio was one of the great innovators of post-war music. Co-founder of the Studio di Fonologia in Milan, he explored electronics, collage, quotation and the transformation of the voice. His Sequenze form a laboratory of virtuosity and instrumental invention, while Sinfonia examines musical memory and the coexistence of multiple languages.",
+    "works": "VOICE AND ELECTRONICS\nThema (Omaggio a Joyce)\nVisage\nSinfonia\nINSTRUMENTAL MUSIC\nSequenze I–XIV\nCoro\nRendering\nMUSIC THEATRE\nOpera\nUn re in ascolto"
   },
   {
     "id": "biber",
@@ -183,8 +183,8 @@
     "death": 1704,
     "era": "Baroque",
     "kind": "person",
-    "description": "Violoniste et compositeur bohémien, Biber pousse très loin les possibilités techniques et expressives du violon baroque. Il explore les scordatures, les accords inhabituels et les effets d'archet. Les Sonates du Rosaire constituent un sommet de l'écriture pour violon seul, tandis que Battalia révèle un goût précoce pour les effets sonores et la représentation musicale.",
-    "works": "VIOLON\nSonates du Rosaire\nPassacaglia en sol mineur\nSonatae tam aris quam aulis servientes\nORCHESTRE\nBattalia à 10\nMUSIQUE SACRÉE\nMissa Bruxellensis"
+    "description": "Bohemian violinist and composer Heinrich Ignaz Franz von Biber pushed the technical and expressive possibilities of the Baroque violin to extraordinary lengths. He explored scordatura, unusual tunings and bowing effects. The Rosary Sonatas are a summit of solo violin writing, while Battalia reveals an early taste for sonic effects and musical representation.",
+    "works": "VIOLIN\nRosary Sonatas\nPassacaglia in G minor\nSonatae tam aris quam aulis servientes\nORCHESTRA\nBattalia à 10\nSACRED MUSIC\nMissa Bruxellensis"
   },
   {
     "id": "binchois",
@@ -194,8 +194,8 @@
     "death": 1460,
     "era": "Renaissance",
     "kind": "person",
-    "description": "Gilles de Bins, dit Binchois, est l'une des grandes figures de l'école bourguignonne. Chantre et compositeur au service de la cour de Bourgogne, il développe un art raffiné de la chanson courtoise, caractérisé par la clarté mélodique, l'élégance des lignes et une expressivité contenue. Son œuvre sacrée témoigne également de la maîtrise contrapuntique des musiciens de son temps. Avec Dufay, il contribue à façonner le goût musical des cours européennes du XVe siècle.",
-    "works": "CHANSONS\nDe plus en plus\nTriste plaisir et douloureuse joie\nAmours et souvenir de celle\nDueil angoisseux\nMOTETS ET MUSIQUE SACRÉE\nNove cantum melodie\nMissa de plus en plus — attribution discutée"
+    "description": "Gilles de Bins, known as Binchois, was one of the leading figures of the Burgundian School. A singer and composer in the service of the Burgundian court, he developed a refined art of courtly song, marked by melodic clarity, elegant lines and restrained expressiveness. His sacred music also demonstrates the contrapuntal mastery of musicians of his time. Alongside Dufay, he helped shape the musical taste of 15th-century European courts.",
+    "works": "SONGS\nDe plus en plus\nTriste plaisir et douloureuse joie\nAmours et souvenir de celle\nDueil angoisseux\nMOTETS AND SACRED MUSIC\nNove cantum melodie\nMissa de plus en plus — disputed attribution"
   },
   {
     "id": "hildegard",
@@ -203,10 +203,10 @@
     "years": "1098–1179",
     "birth": 1098,
     "death": 1179,
-    "era": "Moyen Âge",
+    "era": "Middle Ages",
     "kind": "person",
-    "description": "Hildegarde de Bingen est une figure exceptionnelle du XIIe siècle : abbesse bénédictine, autrice visionnaire, théologienne, naturaliste et compositrice. À la tête de communautés féminines du Rhin, elle développe une œuvre où poésie, pensée symbolique et musique forment un ensemble indissociable. Son corpus musical conservé comprend environ soixante-dix-sept chants liturgiques, dont elle écrit généralement les textes, ainsi que le drame moral Ordo Virtutum. Ses mélodies, souvent très étendues et richement ornées, dépassent les contours habituels du chant contemporain. Leur singularité tient aussi à la manière dont la ligne vocale épouse les images et les mouvements du texte.",
-    "works": "CHANTS ET CYCLES\nSymphonia armonie celestium revelationum — ensemble de chants liturgiques\nOrdo Virtutum — drame moral chanté\nO virtus Sapientiae — antienne\nO rubor sanguinis — séquence\nO vis aeternitatis — séquence\nAve generosa — séquence\nO ignis Spiritus Paracliti — séquence\nO virga ac diadema — antienne"
+    "description": "Hildegard of Bingen was an extraordinary figure of the 12th century: a Benedictine abbess, visionary author, theologian, naturalist and composer. Leading communities of women along the Rhine, she created a body of work in which poetry, symbolic thought and music form an indivisible whole. Her surviving musical corpus comprises around 77 liturgical chants, most with texts written by Hildegard herself, as well as the morality play Ordo Virtutum. Her melodies, often unusually wide-ranging and richly ornamented, extend beyond the customary contours of chant in her time. Their singularity also lies in the way the vocal line follows the imagery and movement of the text.",
+    "works": "CHANTS AND CYCLES\nSymphonia armonie celestium revelationum — collection of liturgical chants\nOrdo Virtutum — sung morality play\nO virtus Sapientiae — antiphon\nO rubor sanguinis — sequence\nO vis aeternitatis — sequence\nAve generosa — sequence\nO ignis Spiritus Paracliti — sequence\nO virga ac diadema — antiphon"
   },
   {
     "id": "boccherini",
@@ -214,10 +214,10 @@
     "years": "1743–1805",
     "birth": 1743,
     "death": 1805,
-    "era": "Classicisme",
+    "era": "Classical period",
     "kind": "person",
-    "description": "Né à Lucques dans une famille de musiciens, Luigi Boccherini est violoncelliste virtuose et compositeur. Après des séjours à Vienne et Paris, il s'établit en Espagne au service de l'infant don Luis, puis travaille pour plusieurs mécènes européens. Il contribue de façon majeure au développement de la musique de chambre, en particulier du quintette à cordes avec deux violoncelles, formation dont il explore les possibilités avec une grande inventivité. Son écriture instrumentale se distingue par l'élégance des lignes, la richesse du dialogue entre les voix et une place particulièrement expressive accordée au violoncelle.",
-    "works": "MUSIQUE DE CHAMBRE\nQuintettes à cordes, op. 11 et op. 13\nQuintette en mi majeur, op. 11 n° 5 — Menuet\nQuatuors à cordes, op. 2, op. 8 et op. 32\nSextuor à cordes, op. 23\nMUSIQUE ORCHESTRALE\nSymphonie en ré mineur, op. 12 n° 4 « La casa del diavolo »\nSymphonie en do majeur, op. 37 n° 1\nMUSIQUE VOCALE\nStabat Mater, G. 532"
+    "description": "Born in Lucca into a family of musicians, Luigi Boccherini was a virtuoso cellist and composer. After periods in Vienna and Paris, he settled in Spain in the service of the Infante Don Luis, and later worked for several European patrons. He made a major contribution to the development of chamber music, especially the string quintet with two cellos, a formation whose possibilities he explored with great inventiveness. His instrumental writing is distinguished by elegant lines, rich dialogue between voices and an especially expressive role for the cello.",
+    "works": "CHAMBER MUSIC\nString Quintets, Opp. 11 and 13\nQuintet in E major, Op. 11 No. 5 — Minuet\nString Quartets, Opp. 2, 8 and 32\nString Sextet, Op. 23\nORCHESTRAL MUSIC\nSymphony in D minor, Op. 12 No. 4 “La casa del diavolo”\nSymphony in C major, Op. 37 No. 1\nVOCAL MUSIC\nStabat Mater, G. 532"
   },
   {
     "id": "boismortier",
