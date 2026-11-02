@@ -2550,5 +2550,192 @@
     "kind": "Composer and teacher",
     "description": "A German composer and influential Leipzig teacher, Jadassohn studied with Liszt and later taught generations of musicians at the Leipzig Conservatory. His theoretical writings and systematic approach to composition were widely respected.",
     "works": "Symphony No. 1 in C major; Piano Trio No. 1 in F major; Serenade for Orchestra; Treatises on counterpoint and harmony"
+  },
+  {
+    "id": "friedrich_kalkbrenner",
+    "name": "Friedrich Kalkbrenner",
+    "years": "1785–1849",
+    "birth": "1785-11-07",
+    "death": "1849-06-10",
+    "era": "Early Romantic",
+    "kind": "Pianist, composer and pedagogue",
+    "description": "A German-born pianist and composer who made his career in Paris, Kalkbrenner was among the leading virtuosos of the early nineteenth century. He was associated with the Pleyel piano firm and developed a widely disseminated method of piano technique.",
+    "works": "Piano Concerto No. 1 in D minor, Op. 61; Piano Concerto No. 4 in A-flat major, Op. 127; Le Rêve, Grande Fantaisie; Piano Method, Op. 108"
+  },
+  {
+    "id": "friedrich_kiel",
+    "name": "Friedrich Kiel",
+    "years": "1821–1885",
+    "birth": "1821-10-08",
+    "death": "1885-09-13",
+    "era": "Romantic",
+    "kind": "Composer and teacher",
+    "description": "A German composer and influential teacher at the Berlin Hochschule für Musik, Kiel was admired for his contrapuntal mastery and refined chamber music. His output includes sacred works, concertos and a substantial body of chamber music.",
+    "works": "Requiem in F minor, Op. 20; Piano Quintet in A minor, Op. 75; Violin Concerto in D minor, Op.  Kiel; Missa solemnis"
+  },
+  {
+    "id": "erich_wolfgang_korngold",
+    "name": "Erich Wolfgang Korngold",
+    "years": "1897–1957",
+    "birth": "1897-05-29",
+    "death": "1957-11-29",
+    "era": "20th Century",
+    "kind": "Composer",
+    "description": "A Viennese child prodigy who became one of the great late-Romantic composers of opera and film music, Korngold achieved early acclaim before emigrating to the United States. His richly orchestrated Hollywood scores helped shape the sound of classical film music, while his concert works reveal the same opulent musical imagination.",
+    "works": "Die tote Stadt; Violin Concerto in D major, Op. 35; Symphony in F-sharp major, Op. 40; String Sextet in D major, Op. 10"
+  },
+  {
+    "id": "theodor_kullak",
+    "name": "Theodor Kullak",
+    "years": "1818–1882",
+    "birth": "1818-09-12",
+    "death": "1882-03-01",
+    "era": "Romantic",
+    "kind": "Pianist, composer and teacher",
+    "description": "A German pianist and composer, Kullak was a major figure in Berlin's musical education. He co-founded the Neue Akademie der Tonkunst and became renowned for his pedagogical works, especially The School of Octave Playing.",
+    "works": "The School of Octave Playing, Op. 48; Piano Concerto in C minor; Piano Sonata in C-sharp minor; Characteristic Piano Pieces"
+  },
+  {
+    "id": "franz_liszt",
+    "name": "Franz Liszt",
+    "years": "1811–1886",
+    "birth": "1811-10-22",
+    "death": "1886-07-31",
+    "era": "Romantic",
+    "kind": "Composer and pianist",
+    "description": "A revolutionary virtuoso and one of the most influential composers of the nineteenth century, Liszt transformed piano technique and recital culture. He pioneered the symphonic poem, championed new music across Europe and explored radical harmonic possibilities in his later works.",
+    "works": "Années de pèlerinage; Sonata in B minor; Transcendental Études; Hungarian Rhapsodies; Faust Symphony"
+  },
+  {
+    "id": "henry_charles_litolff",
+    "name": "Henry Charles Litolff",
+    "years": "1818–1891",
+    "birth": "1818-02-07",
+    "death": "1891-08-06",
+    "era": "Romantic",
+    "kind": "Pianist, composer and publisher",
+    "description": "An English-born pianist and composer of Alsatian and Scottish parentage, Litolff led an adventurous life as a virtuoso and theatrical musician on the Continent. He is best remembered for his brilliant Konzertstücke, which combine concerto form with symphonic development.",
+    "works": "Konzertstück No. 4 in D minor, Op. 102; Concerto symphonique No. 3 in E-flat major; Concerto symphonique No. 4 in D minor; Les Trois Mousquetaires (opera)"
+  },
+  {
+    "id": "sergei_liapounov",
+    "name": "Sergei Lyapunov",
+    "years": "1859–1924",
+    "birth": "1859-11-30",
+    "death": "1924-11-08",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Russian composer and pianist, Lyapunov continued the national-Romantic tradition of Balakirev while developing a distinctive virtuoso piano style. His cycle of twelve études was conceived as a counterpart to Liszt's Transcendental Études, drawing on folk material from across the Russian Empire.",
+    "works": "12 Études d'exécution transcendante, Op. 11; Piano Concerto No. 1 in E-flat minor; Rhapsody on Ukrainian Themes; Symphony No. 1 in B minor"
+  },
+  {
+    "id": "edward_macdowell",
+    "name": "Edward MacDowell",
+    "years": "1860–1908",
+    "birth": "1860-12-18",
+    "death": "1908-01-23",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "One of the first internationally recognised American composers, MacDowell studied in Paris and Germany before returning to the United States. His piano music blends European Romantic models with evocative literary and nature-inspired subjects.",
+    "works": "Piano Concertos Nos. 1 and 2; Woodland Sketches; Sea Pieces; Piano Sonata No. 4, 'Keltic'"
+  },
+  {
+    "id": "alexander_campbell_mackenzie",
+    "name": "Alexander Campbell Mackenzie",
+    "years": "1847–1935",
+    "birth": "1847-08-22",
+    "death": "1935-04-28",
+    "era": "Late Romantic",
+    "kind": "Composer and conductor",
+    "description": "A Scottish composer and conductor, Mackenzie studied in Germany and became a leading figure in the revival of British musical life. As principal of the Royal Academy of Music he influenced a generation of composers, while his own works range from orchestral music to opera and song.",
+    "works": "Scottish Concerto; The Cricket on the Hearth (opera); The Rose of Sharon (oratorio); Pibroch Suite"
+  },
+  {
+    "id": "joseph_marx",
+    "name": "Joseph Marx",
+    "years": "1882–1964",
+    "birth": "1882-05-11",
+    "death": "1964-09-03",
+    "era": "20th Century",
+    "kind": "Composer and music critic",
+    "description": "An Austrian composer, teacher and critic, Marx became known for richly lyrical orchestral and vocal music rooted in late Romantic tonality. He taught at the Vienna Academy and later served as its director, while also writing influential criticism and essays on music.",
+    "works": "Eine Herbstsymphonie; Romantic Piano Concerto; Verklärtes Jahr; गीत?"
+  },
+  {
+    "id": "jules_massenet",
+    "name": "Jules Massenet",
+    "years": "1842–1912",
+    "birth": "1842-05-12",
+    "death": "1912-08-13",
+    "era": "Late Romantic",
+    "kind": "Composer",
+    "description": "A central figure in French opera, Massenet was celebrated for his gift for melody, theatrical pacing and expressive orchestration. His operas dominated the stages of his time, and his influence extended through decades of teaching at the Paris Conservatoire.",
+    "works": "Manon; Werther; Thaïs; Don Quichotte; Cendrillon"
+  },
+  {
+    "id": "nikolai_medtner",
+    "name": "Nikolai Medtner",
+    "years": "1880–1951",
+    "birth": "1880-01-05",
+    "death": "1951-11-13",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Russian composer and pianist who spent his later years in exile, Medtner remained devoted to a deeply individual form of Romanticism. His music is distinguished by intricate counterpoint, concentrated lyricism and a remarkable body of piano sonatas, concertos and songs.",
+    "works": "Piano Sonata in E minor, Op. 25 No. 2; Forgotten Melodies, Op. 38 and 39; Piano Concerto No. 2 in C minor; Piano Quintet in C major"
+  },
+  {
+    "id": "henryk_melcer_szczawinski",
+    "name": "Henryk Melcer-Szczawiński",
+    "years": "1869–1928",
+    "birth": "1869-07-25",
+    "death": "1928-04-18",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Polish pianist, composer and conductor, Melcer-Szczawiński achieved international recognition through his performances and prize-winning piano concertos. He also worked as a teacher and musical administrator in Warsaw and Lwów.",
+    "works": "Piano Concerto No. 1 in E minor; Piano Concerto No. 2 in C minor; Piano Trio in G minor; Polish Songs"
+  },
+  {
+    "id": "felix_mendelssohn",
+    "name": "Felix Mendelssohn",
+    "years": "1809–1847",
+    "birth": "1809-02-03",
+    "death": "1847-11-04",
+    "era": "Romantic",
+    "kind": "Composer, pianist and conductor",
+    "description": "A prodigiously gifted German composer, pianist and conductor, Mendelssohn brought Classical clarity and formal balance into the Romantic age. He revived interest in Bach's music, founded the Leipzig Conservatory and produced a remarkably wide-ranging catalogue before his early death.",
+    "works": "A Midsummer Night's Dream; Violin Concerto in E minor; Songs Without Words; Octet in E-flat major; Elijah"
+  },
+  {
+    "id": "ignaz_moscheles",
+    "name": "Ignaz Moscheles",
+    "years": "1794–1870",
+    "birth": "1794-05-23",
+    "death": "1870-03-10",
+    "era": "Early Romantic",
+    "kind": "Pianist, composer and teacher",
+    "description": "A Bohemian-born pianist and composer, Moscheles was one of Europe's leading virtuosos before settling in London. A close associate of Beethoven and Mendelssohn, he became a respected teacher at the Leipzig Conservatory and helped connect generations of pianists.",
+    "works": "Piano Concerto No. 3 in G minor; Piano Concerto No. 6 in B-flat major; Hommage à Händel; Études, Op. 70"
+  },
+  {
+    "id": "moritz_moszkowski",
+    "name": "Moritz Moszkowski",
+    "years": "1854–1925",
+    "birth": "1854-08-23",
+    "death": "1925-03-04",
+    "era": "Late Romantic",
+    "kind": "Composer and pianist",
+    "description": "A Polish-German composer and virtuoso pianist, Moszkowski became famous for brilliant, accessible piano music that combines technical sparkle with melodic charm. He also wrote orchestral and chamber works and was an influential teacher in Paris.",
+    "works": "15 Études de virtuosité, Op. 72; Spanish Dances, Op. 12; Piano Concerto in E major, Op. 59; From Foreign Lands, Op. 23"
+  },
+  {
+    "id": "eduard_napravnik",
+    "name": "Eduard Nápravník",
+    "years": "1839–1916",
+    "birth": "1839-08-24",
+    "death": "1916-11-10",
+    "era": "Late Romantic",
+    "kind": "Composer and conductor",
+    "description": "A Czech-born composer and conductor who made his career in Russia, Nápravník served for decades at the Mariinsky Theatre in Saint Petersburg. He was a major force in Russian operatic life and also composed symphonies, concertos and chamber music.",
+    "works": "Dubrovsky (opera); The Nizhny Novgorodians (opera); Symphony No. 1 in D minor; Piano Concerto in A minor"
   }
 ]
