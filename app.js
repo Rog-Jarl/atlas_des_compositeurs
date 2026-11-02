@@ -38,7 +38,7 @@ function renderChips(){
  chips.innerHTML='';
  compared.forEach(id=>{const p=byId[id];if(!p)return;const el=document.createElement('span');el.className='chip';el.textContent=p.name+' · '+dateText(p)+' ';const b=document.createElement('button');b.type='button';b.textContent='×';b.setAttribute('aria-label','Retirer '+p.name);b.addEventListener('click',()=>{compared=compared.filter(x=>x!==id);renderChips()});el.append(b);chips.append(el)});
  const old=document.getElementById('compare-result');if(old)old.remove();
- if(compared.length){const res=document.createElement('div');res.id='compare-result';res.className='compare-result';res.textContent='Écart entre les naissances : '+Math.max(...compared.map(id=>byId[id].birth))-Math.min(...compared.map(id=>byId[id].birth))+' ans. Les lignes correspondantes sont visibles dans la frise en sélectionnant chaque nom.';chips.after(res)}
+ if(compared.length){const res=document.createElement('div');res.id='compare-result';res.className='compare-result';res.textContent='Écart entre les naissances : '+(Math.max(...compared.map(id=>byId[id].birth))-Math.min(...compared.map(id=>byId[id].birth)))+' ans. Les lignes correspondantes sont visibles dans la frise en sélectionnant chaque nom.';chips.after(res)}
 }
 search.addEventListener('input',render);group.addEventListener('change',render);reset.addEventListener('click',()=>{search.value='';group.value='all';render()});
 compareSelect.addEventListener('change',()=>{const id=compareSelect.value;if(id&&!compared.includes(id))compared.push(id);compareSelect.value='';renderChips()});
