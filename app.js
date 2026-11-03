@@ -80,8 +80,10 @@ function renderComparison(){
   const name=document.createElement('div');name.className='comparison-person';
   const remove=document.createElement('button');remove.type='button';remove.className='comparison-remove';remove.textContent='×';remove.title='Remove '+p.name+' from comparison';remove.setAttribute('aria-label','Remove '+p.name+' from comparison');
   remove.addEventListener('click',()=>{compared=compared.filter(id=>id!==p.id);renderComparison()});
-  const label=document.createElement('span');label.textContent=p.name+' · '+dateText(p);
-  name.append(remove,label);
+  const label=document.createElement('a');label.href='#';label.className='composer-link comparison-name-link';label.textContent=p.name;label.title='Open biography of '+p.name;
+  label.addEventListener('click',e=>{e.preventDefault();showDetails(p.id)});
+  const dates=document.createElement('span');dates.className='comparison-dates';dates.textContent='· '+dateText(p);
+  name.append(remove,label,dates);
   const track=document.createElement('div');track.className='comparison-track';
   const bar=document.createElement('span');bar.className='comparison-life '+(Number.isFinite(p.death)?'':'is-open');
   bar.style.left=((p.birth-rangeStart)/span*100)+'%';bar.style.width=(Math.max(0,lifeEnd-p.birth+1)/span*100)+'%';
