@@ -1,7 +1,7 @@
 (async()=>{
 'use strict';
 const $=id=>document.getElementById(id);
-const search=$('search'),group=$('group'),reset=$('reset'),details=$('details-content'),timeline=$('timeline'),content=$('timeline-content'),bottom=$('timeline-bottom-scroll'),bottomInner=$('timeline-bottom-scroll-inner'),compareSelect=$('compare-select'),compareClear=$('compare-clear'),count=$('count');
+const search=$('search'),group=$('group'),reset=$('reset'),details=$('details-content'),timeline=$('timeline'),content=$('timeline-content'),bottom=$('timeline-bottom-scroll'),bottomInner=$('timeline-bottom-scroll-inner'),compareSelect=$('compare-select'),compareOptions=$('compare-options'),compareClear=$('compare-clear'),count=$('count');
 let people=[];
 try{const r=await fetch('composers.json?v=3.4');if(!r.ok)throw Error('HTTP '+r.status);people=await r.json()}catch(e){content.innerHTML='<p class="error">Unable to load the composer data. Make sure composers.json is present and open the site through a web server.</p>';count.textContent='Loading error';return}
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -13,7 +13,7 @@ const end=Math.ceil((Math.max(...people.map(p=>p.death||new Date().getFullYear()
 const yearPx=16;
 let selected=null,compared=[];
 [...new Set(people.map(p=>p.era))].sort((a,b)=>a.localeCompare(b,'en')).forEach(e=>{const o=document.createElement('option');o.value=e;o.textContent=e;group.append(o)});
-people.slice().sort(alphabetical).forEach(p=>{const o=document.createElement('option');o.value=p.id;o.textContent=p.name;compareSelect.append(o)});
+people.slice().sort(alphabetical).forEach(p=>{const o=document.createElement('option');o.value=p.name;compareOptions.append(o)});
 function dateText(p){return p.years||'Uncertain dates'}
 function filtered(){const q=search.value.trim().toLocaleLowerCase('en');return people.filter(p=>(group.value==='all'||p.era===group.value)&&(!q||p.name.toLocaleLowerCase('en').includes(q)||p.works.toLocaleLowerCase('en').includes(q)))}
 function render(){
@@ -90,7 +90,7 @@ function renderComparison(){
  const section=document.getElementById('notice-compare');section.after(panel);
 }
 search.addEventListener('input',render);group.addEventListener('change',render);reset.addEventListener('click',()=>{search.value='';group.value='all';render()});
-compareSelect.addEventListener('change',()=>{const id=compareSelect.value;if(id&&!compared.includes(id))compared.push(id);compareSelect.value='';renderComparison()});
+function addComparedComposer(){const query=compareSelect.value.trim().toLocaleLowerCase('en');if(!query)return;const p=people.find(x=>x.name.toLocaleLowerCase('en')===query);if(p&&!compared.includes(p.id)){compared.push(p.id);renderComparison()}compareSelect.value=''}\ncompareSelect.addEventListener('change',addComparedComposer);\ncompareSelect.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addComparedComposer()}});
 compareClear.addEventListener('click',()=>{compared=[];renderComparison()});
 let syncing=false;
 function updateBottomWidth(){bottomInner.style.width=Math.max(timeline.scrollWidth,timeline.clientWidth)+'px';bottom.scrollLeft=timeline.scrollLeft}
