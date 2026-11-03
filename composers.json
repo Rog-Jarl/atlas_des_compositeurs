@@ -132,17 +132,6 @@
     "works": "SYMPHONIES\nSymphony No. 3 “Eroica”\nSymphony No. 5\nSymphony No. 6 “Pastoral”\nSymphony No. 7\nSymphony No. 9\nSONATAS AND CONCERTOS\nPiano Sonata No. 14 “Moonlight”\nPiano Sonata No. 23 “Appassionata”\nPiano Sonata No. 29 “Hammerklavier”\nViolin Concerto\nCHAMBER AND SACRED MUSIC\nLate String Quartets, Nos. 12–16\nMissa solemnis"
   },
   {
-    "id": "bennink",
-    "name": "Han Bennink",
-    "years": "1942–",
-    "birth": 1942,
-    "death": null,
-    "era": "Free improvisation",
-    "kind": "person",
-    "description": "Dutch drummer and percussionist Han Bennink combines virtuosity, humour, physical energy and the subversion of everyday objects. A key figure in the European improvised-music scene, he collaborated with Misha Mengelberg, Brötzmann and Bailey. Furniture and found objects also become rhythmic and theatrical sound sources.",
-    "works": "ENSEMBLES\nICP Orchestra\nBrötzmann / Bennink — duos\nA Bennink in the Hand\nCOLLABORATIONS\nRecordings with Misha Mengelberg and Derek Bailey"
-  },
-  {
     "id": "berg",
     "name": "Alban Berg",
     "years": "1885–1935",
@@ -341,17 +330,6 @@
     "works": "ORCHESTRA\nSinfonía india\nSinfonía de Antígona\nSinfonía romántica\nSinfonía proletaria\nCONCERTOS\nPiano Concerto\nViolin Concerto\nBALLET\nH.P. (Horsepower)"
   },
   {
-    "id": "doncherry",
-    "name": "Don Cherry",
-    "years": "1936–1995",
-    "birth": 1936,
-    "death": 1995,
-    "era": "Free jazz / World music",
-    "kind": "person",
-    "description": "American trumpeter Don Cherry was a pioneer of free jazz and an explorer of world music. After his collaboration with Ornette Coleman, he developed a practice in which instruments, rhythms and traditions from several continents could meet. His search for a universal music relied on collective forms and cultural exchange.",
-    "works": "JAZZ AND IMPROVISATION\nComplete Communion\nSymphony for Improvisers\nWhere Is Brooklyn?\nMU — First Part\nWORLD MUSIC\nBrown Rice\nCodona"
-  },
-  {
     "id": "cherubini",
     "name": "Luigi Cherubini",
     "years": "1760–1842",
@@ -438,17 +416,6 @@
     "kind": "person",
     "description": "Born in Rome, Muzio Clementi was sent to England at a young age, where he built a career as a pianist, composer, teacher and publisher. His virtuosity helped establish the piano as a central instrument of modern musical life. His sonatas explore the range, power and technical possibilities of the new instrument, and their inventiveness was admired by [[beethoven|Beethoven]]. His work as a publisher and piano maker contributed to the development of instrument building and the music market. Gradus ad Parnassum became a cornerstone of piano pedagogy.",
     "works": "PIANO\nPiano Sonatas, Opp. 2, 7, 13 and 40\nSonata in B-flat major, Op. 24 No. 2\nSonata in F-sharp minor, Op. 25 No. 5\nGradus ad Parnassum, Op. 44\nORCHESTRAL MUSIC\nSymphonies in G minor and D major\nPiano concertos"
-  },
-  {
-    "id": "alicecoltrane",
-    "name": "Alice Coltrane",
-    "years": "1937–2007",
-    "birth": 1937,
-    "death": 2007,
-    "era": "Spiritual jazz / Avant-garde",
-    "kind": "person",
-    "description": "Pianist, harpist and composer Alice Coltrane developed a distinctive body of work in which harp, piano, organ, strings and Indian instruments contribute to a meditative, visionary music. Her spiritual quest transformed the forms of jazz into spaces for contemplation and transcendence.",
-    "works": "ALBUMS AND CYCLES\nA Monastic Trio\nJourney in Satchidananda\nPtah, the El Daoud\nUniversal Consciousness\nWorld Galaxy\nTransfiguration"
   },
   {
     "id": "couperin",
@@ -592,17 +559,6 @@
     "kind": "person",
     "description": "Edward Elgar was one of the leading British composers at the turn of the 19th and 20th centuries. From a provincial background and largely self-taught, he established himself through orchestral music of great craftsmanship, marked by melodic nobility and contrapuntal sophistication. His Enigma Variations and concertos have become pillars of the repertoire.",
     "works": "ORCHESTRA\nEnigma Variations\nSymphony No. 1\nSymphony No. 2\nCockaigne\nCONCERTOS\nCello Concerto\nViolin Concerto\nORATORIO\nThe Dream of Gerontius"
-  },
-  {
-    "id": "ellington",
-    "name": "Duke Ellington",
-    "years": "1899–1974",
-    "birth": 1899,
-    "death": 1974,
-    "era": "Jazz / Composition",
-    "kind": "person",
-    "description": "Duke Ellington was one of the greatest composers and bandleaders of the 20th century. His writing drew on the distinctive sound and personality of his musicians, turning the big band into a compositional laboratory. He combined blues, classical forms, dance music and ambitious suites in an immense catalogue.",
-    "works": "SUITES\nBlack, Brown and Beige\nSuch Sweet Thunder\nThe Far East Suite\nThe Afro-Eurasian Eclipse\nCOMPOSITIONS\nMood Indigo\nSophisticated Lady\nIn a Sentimental Mood\nCaravan"
   },
   {
     "id": "eloy",
@@ -1177,28 +1133,6 @@
     "works": "OPERAS\nJoseph\nEuphrosine\nStratonice\nAriodant\nUthal\nSYMPHONIC MUSIC\nSymphonies Nos. 1–4\nCIVIC MUSIC\nChant du départ"
   },
   {
-    "id": "mengelberg",
-    "name": "Misha Mengelberg",
-    "years": "1935–2017",
-    "birth": 1935,
-    "death": 2017,
-    "era": "Improvisation / Composition",
-    "kind": "person",
-    "description": "Dutch pianist and composer Misha Mengelberg combined improvisation, composition, humour, quotation and the subversion of tradition. Close to Fluxus and co-founder of the Instant Composers Pool, he developed a music in which written materials remain unstable and the absurd becomes a formal principle.",
-    "works": "PIANO AND ENSEMBLES\nICP Orchestra — compositions and arrangements\nRolo 1 & 2\nWho's Bridge\nIMPROVISATION\nInstant Composers Pool\nDuos with Han Bennink"
-  },
-  {
-    "id": "mingus",
-    "name": "Charles Mingus",
-    "years": "1922–1979",
-    "birth": 1922,
-    "death": 1979,
-    "era": "Modern jazz / Composition",
-    "kind": "person",
-    "description": "American double bassist, pianist and composer Charles Mingus combined jazz, blues, gospel, classical music and collective improvisation. His compositions are flexible organisms in which musicians transform the form in real time. His political commitment and demanding temperament fuel a music shaped by African American memory, satire and great intensity.",
-    "works": "LARGE ENSEMBLES\nPithecanthropus Erectus\nThe Black Saint and the Sinner Lady\nMingus Ah Um\nLet My Children Hear Music\nFables of Faubus"
-  },
-  {
     "id": "mompou",
     "name": "Federico Mompou",
     "years": "1893–1987",
@@ -1331,17 +1265,6 @@
     "works": "ELECTRONIC MUSIC\nBye Bye Butterfly\nI of IV\nLISTENING AND IMPROVISATION\nDeep Listening\nSonic Meditations\nThe Roots of the Moment\nACCORDION\nThe Well and the Gentle"
   },
   {
-    "id": "oxley",
-    "name": "Tony Oxley",
-    "years": "1938–2023",
-    "birth": 1938,
-    "death": 2023,
-    "era": "Improvisation / Experimental percussion",
-    "kind": "person",
-    "description": "British percussionist Tony Oxley transformed the drum kit into an experimental sound system. He combined traditional percussion, metal objects, electronics and noisy textures. Co-founder of Incus and a partner of Derek Bailey, he played an essential role in shaping free improvisation.",
-    "works": "IMPROVISATION\nThe Baptised Traveller\nDuos with Derek Bailey\nRecordings with Cecil Taylor\nENSEMBLES\nJoseph Holbrooke\nELECTRONICS\nAmplified percussion systems"
-  },
-  {
     "id": "palestrina",
     "name": "Giovanni Pierluigi da Palestrina",
     "years": "vers 1525–1594",
@@ -1362,17 +1285,6 @@
     "kind": "person",
     "description": "Viennese pianist, singer, composer and teacher Maria Theresia von Paradis lost her sight in childhood but went on to pursue a remarkable international career. She performed in major European capitals and founded a school for young women in Vienna. Her output includes concertos, keyboard works, vocal music and stage works. Her story recalls the place of women musicians in the professional networks of the 18th century.",
     "works": "PIANO AND ORCHESTRA\nPiano Concerto in C major\nPiano Concerto in B-flat major\nCHAMBER MUSIC\nSicilienne in E-flat major — disputed attribution\nVOCAL AND STAGE MUSIC\nDer Schulkandidat\nRinaldo und Alcina"
-  },
-  {
-    "id": "parker",
-    "name": "Evan Parker",
-    "years": "1944–",
-    "birth": 1944,
-    "death": null,
-    "era": "Free improvisation",
-    "kind": "person",
-    "description": "British saxophonist Evan Parker is a central figure in the history of European free improvisation. He developed an extended technique based on circular breathing, multiphonics and rapid streams of notes. A member of pioneering groups such as the Spontaneous Music Ensemble, he has built a body of work exploring continuity, density and listening.",
-    "works": "SOLO SAXOPHONE\nMonoceros\nThe Topography of the Lungs\nENSEMBLES\nMusic Improvisation Company\nLondon Jazz Composers Orchestra\nDUOS\nRecordings with Keith Rowe and Barry Guy"
   },
   {
     "id": "parmegiani",
@@ -1441,17 +1353,6 @@
     "works": "MASSES\nMissa Pange lingua — paraphrase of a Gregorian hymn\nMissa La sol fa re mi\nMissa Hercules Dux Ferrariae — mass based on a soggetto cavato\nMissa L'homme armé super voces musicales\nMOTETS\nAve Maria… Virgo serena\nNymphes des bois — lament on the death of Ockeghem\nMiserere mei, Deus\nStabat Mater\nSONGS\nMille regretz\nEl grillo"
   },
   {
-    "id": "prevost",
-    "name": "Eddie Prévost",
-    "years": "1942–",
-    "birth": 1942,
-    "death": null,
-    "era": "Free improvisation",
-    "kind": "person",
-    "description": "British percussionist Eddie Prévost, a founding member of AMM, developed a practice centred on listening, interaction and the transformation of instrumental gestures. A theorist of free improvisation, he wrote about its social, political and aesthetic dimensions. His editorial and teaching work helped transmit a demanding philosophy of collective music-making.",
-    "works": "IMPROVISATION\nAMM — body of recordings\nFrom a Strange Place\nCombines + Laminates\nWRITINGS\nNo Sound Is Innocent\nThe First Concert"
-  },
-  {
     "id": "prokofiev",
     "name": "Sergueï Prokofiev",
     "years": "1891–1953",
@@ -1461,17 +1362,6 @@
     "kind": "person",
     "description": "Sergei Prokofiev developed an immediately recognisable language based on rhythmic energy, sharp contrasts of character, biting irony and abundant melodic invention. After his training in Russia, he spent time in Europe and the United States before returning to the Soviet Union. His output spans opera, ballet, symphony, concerto and chamber music. He could reconcile harmonic modernity with narrative effectiveness.",
     "works": "BALLET\nRomeo and Juliet\nCinderella\nThe Love for Three Oranges — opera\nOPERAS\nThe Fiery Angel\nWar and Peace\nORCHESTRA\nSymphonies Nos. 1–7\nPiano Concerto No. 3\nPeter and the Wolf"
-  },
-  {
-    "id": "sunra",
-    "name": "Sun Ra",
-    "years": "1914–1993",
-    "birth": 1914,
-    "death": 1993,
-    "era": "Avant-garde jazz / Afrofuturism",
-    "kind": "person",
-    "description": "Sun Ra, born Herman Poole Blount, was an African American composer, pianist and bandleader whose work constitutes an aesthetic universe of its own. At the head of the Arkestra, he combined big-band jazz, free jazz, electronics, spirituals and cosmic visions. His Afrofuturist mythology transformed the stage into a ritual and political space.",
-    "works": "ARKESTRA\nThe Heliocentric Worlds of Sun Ra\nAtlantis\nSpace Is the Place\nLanquidity\nBIG BAND\nJazz in Silhouette\nThe Magic City"
   },
   {
     "id": "radigue",
@@ -1859,17 +1749,6 @@
     "works": "GUITAR\nRecuerdos de la Alhambra\nCapricho árabe\nLágrima\nAdelita\nMaría\nTRANSCRIPTIONS\nWorks by Chopin, Beethoven and Schumann arranged for guitar"
   },
   {
-    "id": "taylor",
-    "name": "Cecil Taylor",
-    "years": "1929–2018",
-    "birth": 1929,
-    "death": 2018,
-    "era": "Avant-garde jazz / Improvisation",
-    "kind": "person",
-    "description": "American pianist and composer Cecil Taylor overturned the conventions of modern jazz. His percussive approach to the piano, dense note clusters and complex rhythmic structures opened a space for radical improvisation. He conceived his ensembles as collective organisms in which written and improvised materials interact.",
-    "works": "PIANO AND ENSEMBLES\nUnit Structures\nConquistador!\nSilent Tongues\nFor Olim\nSpring of Two Blue-J's\nCOLLECTIVE MUSIC\nThe Willisau Concert"
-  },
-  {
     "id": "tenney",
     "name": "James Tenney",
     "years": "1934–2006",
@@ -1947,17 +1826,6 @@
     "works": "ORCHESTRA AND ENSEMBLE\nAmériques\nArcana\nIonisation\nIntégrales\nDéserts\nELECTROACOUSTIC MUSIC\nPoème électronique\nÉtude pour espace"
   },
   {
-    "id": "vasconcelos",
-    "name": "Naná Vasconcelos",
-    "years": "1944–2016",
-    "birth": 1944,
-    "death": 2016,
-    "era": "Improvisation / World percussion",
-    "kind": "person",
-    "description": "Brazilian percussionist and berimbau player Naná Vasconcelos connected Afro-Brazilian traditions, jazz and free improvisation. He expanded the possibilities of the berimbau through extended techniques, voice and electronics. His international collaborations renewed the dialogue between rhythmic traditions and contemporary creation.",
-    "works": "COLLECTIVES\nCodona\nSaudades\nRain Dance\nPERCUSSION\nWorks for berimbau and percussion\nCOLLABORATIONS\nRecordings with Pat Metheny and Jan Garbarek"
-  },
-  {
     "id": "victoria",
     "name": "Tomás Luis de Victoria",
     "years": "vers 1548–1611",
@@ -2002,17 +1870,6 @@
     "works": "OPERAS AND MUSIC DRAMAS\nDer fliegende Holländer (The Flying Dutchman)\nTannhäuser\nLohengrin\nTristan und Isolde\nDie Meistersinger von Nürnberg\nDer Ring des Nibelungen: Das Rheingold, Die Walküre, Siegfried, Götterdämmerung\nParsifal"
   },
   {
-    "id": "walcott",
-    "name": "Collin Walcott",
-    "years": "1945–1984",
-    "birth": 1945,
-    "death": 1984,
-    "era": "Jazz / World music",
-    "kind": "person",
-    "description": "American percussionist and composer Collin Walcott was a pioneer in the dialogue between jazz and Indian traditions. He mastered the tabla and sitar and brought them into Western improvisational contexts. As a member of Codona with Don Cherry and Naná Vasconcelos, he helped invent an intercultural chamber music.",
-    "works": "CODONA\nCodona\nCodona 2\nCodona 3\nCOLLABORATIONS\nRecordings with Oregon\nWorks for tabla and sitar"
-  },
-  {
     "id": "weber",
     "name": "Carl Maria von Weber",
     "years": "1786–1826",
@@ -2044,17 +1901,6 @@
     "kind": "person",
     "description": "Franco-Flemish composer Adrian Willaert settled in Italy and directed the choir of St Mark's in Venice for more than thirty years. He played a decisive role in the development of the Venetian School, notably through his use of architectural space and the placement of distinct vocal groups. His influence as a teacher on several generations of Italian musicians was considerable.",
     "works": "MOTETS\nVerbum bonum et suave\nAve Maria, gratia plena\nSACRED MUSIC\nPsalms for multiple choirs\nMADRIGALS\nMusica nova (1559)\nMadrigals on texts by Petrarch"
-  },
-  {
-    "id": "marylou",
-    "name": "Mary Lou Williams",
-    "years": "1910–1981",
-    "birth": 1910,
-    "death": 1981,
-    "era": "Jazz / Composition",
-    "kind": "person",
-    "description": "American pianist, arranger and composer Mary Lou Williams moved through several generations of jazz. A major figure in swing, she wrote for the Kansas City orchestras before exploring bebop, modern jazz and spiritual forms. A teacher and mentor, she played a major role in transmitting jazz traditions.",
-    "works": "PIANO AND JAZZ\nZodiac Suite\nIn the Land of Oo-Bla-Dee\nSACRED MUSIC\nBlack Christ of the Andes\nMary Lou's Mass\nARRANGEMENTS\nCompositions for Andy Kirk and Benny Goodman"
   },
   {
     "id": "vaughan",
