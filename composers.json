@@ -6521,5 +6521,16 @@
     "kind": "person",
     "description": "Austrian composer and pianist whose music combines expressive intensity, detailed instrumental colour and a willingness to bring roughness and fragility into classical forms.",
     "works": "Red and Green; Symphony No. 2; The Living Mountain"
+  },
+  {
+    "id": "gerald_barry",
+    "name": "Gerald Barry",
+    "years": "1952–present",
+    "birth": 1952,
+    "death": null,
+    "era": "Contemporary",
+    "kind": "person",
+    "description": "Irish composer known for fiercely energetic, often absurdist music theatre, combining extreme contrasts, compressed forms and a deliberately unruly sense of musical drama.",
+    "works": "The Intelligence Park; The Importance of Being Earnest; Alice's Adventures Under Ground"
   }
 ]
