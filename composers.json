@@ -38,7 +38,7 @@
     "years": "1905–1985",
     "birth": 1905,
     "death": 1985,
-    "era": "20th century / United Kingdom",
+    "era": "20th century",
     "kind": "person",
     "description": "British composer, flautist and teacher William Alwyn wrote symphonies, concertos, operas and film scores. His style evolved from neoclassicism towards a freer, more chromatic idiom, underpinned by formidable orchestral craftsmanship. He was one of the most prolific film composers in Britain.",
     "works": "ORCHESTRA\nFive symphonies\nLyra Angelica\nConcerto grosso No. 3\nOPERAS\nMiss Julie\nThe Magic Island\nFILM MUSIC\nOdd Man Out\nThe Fallen Idol"
@@ -225,7 +225,7 @@
     "years": "1913–1976",
     "birth": 1913,
     "death": 1976,
-    "era": "20th century / United Kingdom",
+    "era": "20th century",
     "kind": "person",
     "description": "Benjamin Britten renewed music theatre through precise vocal writing, transparent orchestration and acute psychological insight into his characters. A committed pacifist, he explored violence, exclusion and moral responsibility. He founded the Aldeburgh Festival, which became a vital centre of British musical life.",
     "works": "OPERAS\nPeter Grimes\nThe Turn of the Screw\nBilly Budd\nDeath in Venice\nORCHESTRA AND VOICE\nWar Requiem\nLes Illuminations\nSerenade for Tenor, Horn and Strings"
@@ -291,7 +291,7 @@
     "years": "1906–1940",
     "birth": 1906,
     "death": 1940,
-    "era": "20th century / Cuba",
+    "era": "20th century",
     "kind": "person",
     "description": "Cuban composer Alejandro García Caturla combined European modernism, Afro-Cuban rhythms and popular materials. A violinist and lawyer, he pursued a brief career that was cut short when he was murdered at the age of 34. His chamber and orchestral music is distinguished by rhythmic vitality and an inventive integration of Cuban traditions.",
     "works": "ORCHESTRA\nLa rumba\nBembé\nObertura cubana\nCHAMBER MUSIC\nComparsa\nVOCAL MUSIC\nMotivos de son"
@@ -324,7 +324,7 @@
     "years": "1899–1978",
     "birth": 1899,
     "death": 1978,
-    "era": "20th century / Mexico",
+    "era": "20th century",
     "kind": "person",
     "description": "Composer, conductor, teacher and organiser, Carlos Chávez played a central role in Mexican musical life. He explored the relationship between modernity and pre-Columbian heritage, developing a highly personal rhythmic and orchestral language. He directed the National Conservatory and founded the Mexican Symphony Orchestra.",
     "works": "ORCHESTRA\nSinfonía india\nSinfonía de Antígona\nSinfonía romántica\nSinfonía proletaria\nCONCERTOS\nPiano Concerto\nViolin Concerto\nBALLET\nH.P. (Horsepower)"
@@ -632,7 +632,7 @@
     "years": "1901–1956",
     "birth": 1901,
     "death": 1956,
-    "era": "20th century / United Kingdom",
+    "era": "20th century",
     "kind": "person",
     "description": "Gerald Finzi developed a lyrical, melancholic musical language attentive to words and harmonic nuance. He wrote mainly vocal works, song cycles and orchestral pieces. His distinctive style draws on English poetry and a sensitivity to the fragility of time and memory.",
     "works": "VOICE\nDies natalis\nLet us garlands bring\nEarth and Air and Rain\nIn terra pax\nORCHESTRA\nEclogue\nIntroit\nClarinet Concerto"
@@ -665,7 +665,7 @@
     "years": "1896–1970",
     "birth": 1896,
     "death": 1970,
-    "era": "Modernism / Catalonia",
+    "era": "Modernism",
     "kind": "person",
     "description": "Catalan composer Roberto Gerhard, a pupil of Schoenberg, brought together musical nationalism, serialism and electronic avant-garde practice. Exiled to the United Kingdom after the Spanish Civil War, he developed a body of work in which Iberian traditions and modern techniques transformed one another. He was among the pioneers of British electronic music.",
     "works": "ORCHESTRA\nSymphonies Nos. 1–4\nConcerto for Orchestra\nELECTRONIC MUSIC\nAudiomobiles\nSTAGE MUSIC\nCaligula\nBALLET\nDon Quixote"
@@ -687,7 +687,7 @@
     "years": "1916–1983",
     "birth": 1916,
     "death": 1983,
-    "era": "20th century / Argentina",
+    "era": "20th century",
     "kind": "person",
     "description": "Alberto Ginastera was one of the major Argentine composers of the 20th century. His style evolved from a nationalism inspired by Argentine rhythms and landscapes towards a more abstract modernism shaped by serialism and timbral exploration. His music combines rhythmic drive, orchestral power and transformed references to the traditions of his country.",
     "works": "BALLET\nEstancia\nPanambí\nOPERAS\nDon Rodrigo\nBomarzo\nBeatrix Cenci\nORCHESTRA\nVariaciones concertantes\nPiano Concerto No. 1\nCHAMBER MUSIC\nString Quartets Nos. 1–3"
@@ -863,7 +863,7 @@
     "years": "1874–1934",
     "birth": 1874,
     "death": 1934,
-    "era": "20th century / United Kingdom",
+    "era": "20th century",
     "kind": "person",
     "description": "Gustav Holst combined the study of ancient traditions, an interest in music from beyond Europe and a highly individual orchestral style. His interest in astrology and Sanskrit texts inspired several scores. The Planets brought him lasting fame, but his catalogue also includes choral music, operas and works for wind band.",
     "works": "ORCHESTRA\nThe Planets\nEgdon Heath\nA Somerset Rhapsody\nVOICE\nChoral Hymns from the Rig Veda\nThe Hymn of Jesus\nOPERAS\nSavitri\nThe Perfect Fool"
@@ -907,7 +907,7 @@
     "years": "1936–2003",
     "birth": 1936,
     "death": 2003,
-    "era": "Contemporary / Japan",
+    "era": "Contemporary",
     "kind": "person",
     "description": "Maki Ishii brought traditional Japanese instruments into dialogue with Western ensembles. He was interested in percussion, gagaku and the interaction of instrumental traditions. His music is characterised by strong rhythmic energy, timbral contrasts and an exploration of playing techniques.",
     "works": "ORCHESTRA AND PERCUSSION\nMono-Prism\nThirteen Drums\nSō-Gū\nCHAMBER MUSIC\nWorks for shakuhachi and Western instruments"
@@ -918,7 +918,7 @@
     "years": "1874–1954",
     "birth": 1874,
     "death": 1954,
-    "era": "Modernism / United States",
+    "era": "Modernism",
     "kind": "person",
     "description": "Working outside musical institutions while pursuing a career in insurance, Charles Ives developed a language based on polytonality, quotation, overlapping fanfares and formal discontinuity. His music anticipated several avant-garde practices and transformed the sonic memories of American life into complex constructions.",
     "works": "ORCHESTRA\nThe Unanswered Question\nThree Places in New England\nCentral Park in the Dark\nSymphony No. 4\nPIANO\nConcord Sonata"
@@ -929,7 +929,7 @@
     "years": "1854–1928",
     "birth": 1854,
     "death": 1928,
-    "era": "Modernism / Czech lands",
+    "era": "Modernism",
     "kind": "person",
     "description": "Leoš Janáček developed a distinctive language from the inflections of speech, Moravian folk song and the rhythms of everyday language. His music theatre renewed 20th-century opera through its psychological intensity. His late works combine rhythmic energy, recurring motifs and incisive orchestration.",
     "works": "OPERAS\nJenůfa\nKáťa Kabanová\nThe Cunning Little Vixen\nThe Makropulos Affair\nFrom the House of the Dead\nORCHESTRA\nSinfonietta\nTaras Bulba\nCHAMBER MUSIC\nString Quartets Nos. 1 and 2"
@@ -995,7 +995,7 @@
     "years": "vers 1325–1397",
     "birth": 1325,
     "death": 1397,
-    "era": "Italian Trecento",
+    "era": "Trecento",
     "kind": "person",
     "description": "Florentine composer, organist and poet Francesco Landini was the most celebrated figure of the Italian Trecento. His two- and three-part ballate combine melodic suppleness, contrapuntal refinement and courtly poetry. His music is essential to understanding the flowering of Italian secular music before the Renaissance.",
     "works": "BALLATE\nEcco la primavera\nQuesta fanciulla, amor\nNon avrà ma' pietà\nDeh, dimmi tu"
@@ -1072,7 +1072,7 @@
     "years": "1907–1994",
     "birth": 1907,
     "death": 1994,
-    "era": "20th century / United Kingdom",
+    "era": "20th century",
     "kind": "person",
     "description": "Irish-born British composer Elizabeth Maconchy is recognised for her string quartets and incisive contrapuntal writing. She developed a modern, taut and highly personal language. Her cycle of thirteen quartets is one of the most important contributions to the genre in 20th-century British music.",
     "works": "CHAMBER MUSIC\nThirteen string quartets\nPiano Quintet\nORCHESTRA\nOboe Concertino\nSymphonies\nOPERA\nThe Sofa\nThe Departure"
@@ -1116,7 +1116,7 @@
     "years": "1890–1959",
     "birth": 1890,
     "death": 1959,
-    "era": "20th century / Czech lands",
+    "era": "20th century",
     "kind": "person",
     "description": "Bohuslav Martinů pursued an international career in Paris, the United States and Switzerland. His language combines neoclassicism, folk rhythms, Baroque counterpoint and melodic invention. His extensive catalogue spans symphonies, operas, concertos and chamber music, in a modern style that is mobile and luminous.",
     "works": "ORCHESTRA\nSix symphonies\nMemorial to Lidice\nCONCERTOS\nCello Concerto No. 1\nConcerto for Double String Orchestra, Piano and Timpani\nOPERAS\nJuliette\nThe Greek Passion\nCHAMBER MUSIC\nSeven string quartets"
@@ -1138,7 +1138,7 @@
     "years": "1893–1987",
     "birth": 1893,
     "death": 1987,
-    "era": "20th century / Catalonia",
+    "era": "20th century",
     "kind": "person",
     "description": "Catalan composer Federico Mompou developed a piano repertoire characterised by economy of means, the poetry of the instant and an attention to silence. He favoured miniatures, resonances and pared-down melodic lines. His language, influenced by French music and Catalan traditions, has an immediately recognisable individuality.",
     "works": "PIANO\nMúsica callada\nCançons i danses\nImpressions íntimes\nPaisajes\nVOICE\nCombat del somni\nCHAMBER MUSIC\nCharmes"
@@ -1160,7 +1160,7 @@
     "years": "1912–2002",
     "birth": 1912,
     "death": 2002,
-    "era": "20th century / Catalonia",
+    "era": "20th century",
     "kind": "person",
     "description": "Catalan composer Xavier Montsalvatge moved through neoclassicism, Caribbean influences and modernism. His music is marked by stylistic diversity and curiosity about music from beyond Europe, notably in the Cinco canciones negras. He wrote operas, orchestral and chamber music, and songs.",
     "works": "VOICE\nCinco canciones negras\nORCHESTRA\nDesintegración morfológica de la Chacona de Bach\nCHAMBER MUSIC\nWind Quintet\nOPERA\nEl gato con botas"
@@ -1336,7 +1336,7 @@
     "years": "1882–1948",
     "birth": 1882,
     "death": 1948,
-    "era": "20th century / Mexico",
+    "era": "20th century",
     "kind": "person",
     "description": "Mexican composer Manuel Ponce helped build a national repertoire while remaining open to European currents. A pianist and teacher, he wrote songs, piano works, orchestral music and an important body of guitar music, notably through his collaboration with Andrés Segovia. Estrellita became one of the best-known Mexican melodies abroad.",
     "works": "GUITAR\nConcierto del sur\nSonatina meridional\nVariations on Folia de España\nPIANO\nBalada mexicana\nVOCAL MUSIC\nEstrellita\nORCHESTRA\nChapultepec"
@@ -1413,7 +1413,7 @@
     "years": "1899–1940",
     "birth": 1899,
     "death": 1940,
-    "era": "20th century / Mexico",
+    "era": "20th century",
     "kind": "person",
     "description": "Mexican violinist and composer Silvestre Revueltas combined popular rhythms, fanfares, dissonance and overlapping layers in orchestral writing of remarkable vitality. His brief career ended when he was forty. His film scores and symphonic poems reveal a modernism deeply rooted in urban Mexican life.",
     "works": "ORCHESTRA\nSensemayá\nLa noche de los mayas\nJanitzio\nRedes\nHomenaje a Federico García Lorca\nCHAMBER MUSIC\nString Quartets Nos. 1–4"
@@ -1446,7 +1446,7 @@
     "years": "1900–1939",
     "birth": 1900,
     "death": 1939,
-    "era": "Modernism / Cuba",
+    "era": "Modernism",
     "kind": "person",
     "description": "Cuban composer and violinist Amadeo Roldán brought Afro-Cuban percussion and rhythms into the symphony orchestra, opening new possibilities for 20th-century composition. Associated with the Afrocubanista movement, his music transforms popular materials into modernist structures without reducing them to picturesque effects.",
     "works": "ORCHESTRA\nRítmicas V and VI\nLa rebambaramba\nMotivos de son\nCHAMBER MUSIC\nObertura sobre temas cubanos"
@@ -1622,7 +1622,7 @@
     "years": "1901–1953",
     "birth": 1901,
     "death": 1953,
-    "era": "Modernism / United States",
+    "era": "Modernism",
     "kind": "person",
     "description": "Ruth Crawford Seeger was a major American composer of the interwar years, associated with Chicago's ultramodernist movement and dissonant counterpoint. Her 1931 String Quartet is one of the most radical works in American music of its time. She later devoted herself to the collection and editing of folk songs.",
     "works": "CHAMBER MUSIC\nString Quartet (1931)\nPIANO\nPiano Study in Mixed Accents\nSONGS\nArrangements and collections of folk songs"
@@ -1655,7 +1655,7 @@
     "years": "1824–1884",
     "birth": 1824,
     "death": 1884,
-    "era": "Romanticism / Czech lands",
+    "era": "Romanticism",
     "kind": "person",
     "description": "Bedřich Smetana is regarded as one of the founders of Czech national music. His cycle Má vlast evokes the history, landscapes and legends of Bohemia. His operas helped establish music theatre in the Czech language, while his chamber music reveals an intimate and autobiographical dimension.",
     "works": "ORCHESTRA\nMá vlast — six symphonic poems\nRichard III\nOPERAS\nThe Bartered Bride\nDalibor\nLibuše\nCHAMBER MUSIC\nString Quartet No. 1 “From My Life”"
@@ -1798,7 +1798,7 @@
     "years": "1905–1998",
     "birth": 1905,
     "death": 1998,
-    "era": "20th century / United Kingdom",
+    "era": "20th century",
     "kind": "person",
     "description": "Michael Tippett combined humanist thought, contrapuntal freedom and rhythmic invention. Influenced by Purcell, the English madrigal and folk traditions, he developed a personal language. His operas, based on mythological or political subjects, examine violence, redemption and the contradictions of modern society.",
     "works": "OPERAS\nThe Midsummer Marriage\nKing Priam\nThe Knot Garden\nThe Ice Break\nORCHESTRA\nConcerto for Double String Orchestra\nFantasia Concertante on a Theme of Corelli\nA Child of Our Time"
@@ -1842,7 +1842,7 @@
     "years": "1887–1959",
     "birth": 1887,
     "death": 1959,
-    "era": "Modernism / Brazil",
+    "era": "Modernism",
     "kind": "person",
     "description": "Heitor Villa-Lobos was the best-known Brazilian composer of the 20th century. He drew on popular music, Indigenous traditions, urban practices and European techniques. His monumental output created a multifaceted national language. The Bachianas brasileiras and Chôros illustrate this synthesis of musical memory, modernity and orchestral invention.",
     "works": "CYCLES\nBachianas brasileiras Nos. 1–9\nChôros Nos. 1–14\nORCHESTRA\nUirapuru\nAmazonas\nGUITAR\nFive Preludes\nTwelve Études\nCHAMBER MUSIC\n17 string quartets"
@@ -1908,7 +1908,7 @@
     "years": "1872–1958",
     "birth": 1872,
     "death": 1958,
-    "era": "20th century / United Kingdom",
+    "era": "20th century",
     "kind": "person",
     "description": "Ralph Vaughan Williams was a central figure in the revival of British music. A collector of folk songs, editor of early music and composer, he transformed ancient modes and English choral traditions into a personal symphonic language. His work helped redefine a modern British musical identity.",
     "works": "ORCHESTRA\nFantasia on a Theme by Thomas Tallis\nThe Lark Ascending\nSymphonies Nos. 1–9\nVOICE\nA Sea Symphony\nDona nobis pacem\nFive Mystical Songs\nOPERA\nThe Pilgrim's Progress"
@@ -1941,7 +1941,7 @@
     "years": "1953–",
     "birth": 1953,
     "death": null,
-    "era": "Contemporary / China",
+    "era": "Contemporary",
     "kind": "person",
     "description": "Chinese-American composer Chen Yi combines Western contemporary techniques with Chinese musical traditions. Trained at the Central Conservatory in Beijing and later in the United States, she developed a rhythmically energetic language attentive to timbre and instrumental gesture. Her catalogue spans orchestral, chamber and solo repertoire.",
     "works": "ORCHESTRA\nSi Ji\nMomentum\nViolin Concerto\nCHAMBER MUSIC\nChinese Ancient Dances\nBa Ban\nVOICE\nThe West Lake"
@@ -1952,7 +1952,7 @@
     "years": "1688–1726",
     "birth": 1688,
     "death": 1726,
-    "era": "Baroque / South America",
+    "era": "Baroque",
     "kind": "person",
     "description": "Italian organist Domenico Zipoli became a Jesuit and settled in the South American missions. His keyboard works, published in Rome before his departure, circulated through the Jesuit reductions. He embodies an important episode in the cultural transfers between Baroque Europe and South American societies.",
     "works": "KEYBOARD\nSonate d'intavolatura per organo e cimbalo\nOrgan pieces\nSACRED MUSIC\nMasses and vespers preserved in the Jesuit mission archives\nHymns and motets"
@@ -1985,7 +1985,7 @@
     "years": "1872–1932",
     "birth": 1872,
     "death": 1932,
-    "era": "Late Romanticism / Norway",
+    "era": "Late Romanticism",
     "kind": "person",
     "description": "Norwegian composer, pianist and organist Eyvind Alnæs studied in Oslo and Leipzig, where he absorbed the late-Romantic orchestral and harmonic language of Central Europe. He became an important figure in Norwegian musical life as a conductor, teacher and advocate of choral music. His output includes symphonic works, songs and piano pieces, often combining broad lyricism with elements of Norwegian musical identity.",
     "works": "ORCHESTRA\nSymphony in C minor, Op. 7\nPiano Concerto in D major, Op. 27\nSONGS AND CHORAL MUSIC\nA number of songs on Norwegian texts\nChoral works\nPIANO\nLyric piano pieces"
@@ -2007,7 +2007,7 @@
     "years": "1861–1906",
     "birth": 1861,
     "death": 1906,
-    "era": "Late Romanticism / Russia",
+    "era": "Late Romanticism",
     "kind": "person",
     "description": "Russian composer, pianist and teacher Anton Arensky studied with Rimsky-Korsakov at the St Petersburg Conservatory and later taught at the Moscow Conservatory, where Rachmaninoff was among his pupils. His music belongs to the lyrical, refined strand of Russian Romanticism, combining elegant forms with a rich harmonic palette. He wrote operas, orchestral works, chamber music and piano pieces; his Piano Trio in D minor remains especially popular.",
     "works": "CHAMBER MUSIC\nPiano Trio No. 1 in D minor, Op. 32\nPiano Quintet in D major, Op. 51\nString Quartets\nORCHESTRA\nVariations on a Theme by Tchaikovsky, Op. 35a\nSymphony No. 2 in A major, Op. 22\nPIANO\nSix Pieces, Op. 53"
@@ -2018,7 +2018,7 @@
     "years": "1833–1858",
     "birth": 1833,
     "death": 1858,
-    "era": "Romanticism / United Kingdom",
+    "era": "Romanticism",
     "kind": "person",
     "description": "English composer and pianist Francis Edward Bache belonged to the musical circle around Birmingham and was an early advocate of the music of Schumann and Liszt in Britain. He studied in Leipzig and later in Paris, but illness cut short a promising career when he was only twenty-four. His surviving works include orchestral pieces, chamber music, songs and piano music, reflecting the cosmopolitan ambitions of a young British Romantic generation.",
     "works": "ORCHESTRA\nOverture to a Comedy\nSymphony in E minor\nCHAMBER MUSIC\nPiano Trio in G minor\nPIANO\nImpromptus and character pieces\nSONGS\nSongs and settings of English poetry"
@@ -2029,7 +2029,7 @@
     "years": "1837–1910",
     "birth": 1837,
     "death": 1910,
-    "era": "Romanticism / Russia",
+    "era": "Romanticism",
     "kind": "person",
     "description": "Mily Balakirev was the central organiser and ideological force behind the group later known as The Five, whose members sought to develop a distinctly Russian musical language. Largely self-taught, he combined a powerful musical imagination with an intense commitment to collecting and transforming folk materials. His influence as mentor to Rimsky-Korsakov, Mussorgsky and Borodin was immense, although his perfectionism and long periods of inactivity limited his own output.",
     "works": "ORCHESTRA\nSymphonic Poem Tamara\nSymphony No. 1 in C major\nOverture on Three Russian Themes\nPIANO\nIslamey: Oriental Fantasy\nSonata in B-flat minor\nCHAMBER AND VOCAL MUSIC\nOctet\nSongs and folk-song arrangements"
@@ -2040,7 +2040,7 @@
     "years": "1816–1875",
     "birth": 1816,
     "death": 1875,
-    "era": "Romanticism / United Kingdom",
+    "era": "Romanticism",
     "kind": "person",
     "description": "William Sterndale Bennett was an English pianist, composer and influential musical administrator. A gifted student at the Royal Academy of Music, he attracted Mendelssohn's admiration and travelled to Leipzig, where he became part of the city's musical circle. His compositions combine Classical clarity with Romantic lyricism, especially in his piano concertos. Later, as principal of the Royal Academy of Music and conductor of the Philharmonic Society, he helped shape British musical institutions.",
     "works": "PIANO AND ORCHESTRA\nPiano Concertos Nos. 1–6\nThe Naiads, Op. 15\nORCHESTRA\nOverture The Wood Nymph\nOverture Paradise and the Peri\nPIANO\nÉtudes caractéristiques, Op. 19"
@@ -2051,7 +2051,7 @@
     "years": "1863–1931",
     "birth": 1863,
     "death": 1931,
-    "era": "Late Romanticism / Russia",
+    "era": "Late Romanticism",
     "kind": "person",
     "description": "Russian pianist, conductor, composer and teacher Felix Blumenfeld was an important figure in the musical life of St Petersburg and Kyiv. He taught at the St Petersburg Conservatory and later directed the Kyiv Conservatory, where Vladimir Horowitz became one of his pupils. His compositions, particularly for piano, combine a refined late-Romantic idiom with Russian lyricism and a demanding virtuoso technique.",
     "works": "PIANO\nÉtude for the Left Hand, Op. 36 No. 1\nPiano Sonata in F minor, Op. 28\nFantasy for Piano, Op. 7\nORCHESTRA\nSymphony in C minor, Op. 39\nSONGS\nSongs and romances"
@@ -2073,7 +2073,7 @@
     "years": "1886–1948",
     "birth": 1886,
     "death": 1948,
-    "era": "20th century / Australia",
+    "era": "20th century",
     "kind": "person",
     "description": "Australian pianist and composer George Frederick Boyle was a prominent figure in the country's early 20th-century musical life. Born in New South Wales, he studied in Europe and the United States, becoming associated with the American pianist and composer Ernest Hutcheson. His music reflects a Romantic inheritance shaped by the virtuoso piano tradition, while his teaching and advocacy helped strengthen professional musical education in Australia.",
     "works": "PIANO\nPiano Sonata in E minor\nÉtudes and concert pieces\nORCHESTRA\nPiano Concerto\nSymphonic works\nCHAMBER MUSIC\nChamber works and songs"
@@ -2139,7 +2139,7 @@
     "years": "1877–1960",
     "birth": 1877,
     "death": 1960,
-    "era": "Late Romanticism / Hungary",
+    "era": "Late Romanticism",
     "kind": "person",
     "description": "Hungarian pianist, composer and conductor Ernő Dohnányi, also known as Ernst von Dohnányi, was a major musician of the first half of the 20th century. His career took him from Budapest to Berlin and, eventually, the United States. A formidable pianist and influential teacher, he maintained a late-Romantic language while writing with great formal assurance and contrapuntal skill. His work helped shape Hungarian musical life, even as Bartók and Kodály pursued different modern paths.",
     "works": "ORCHESTRA AND CONCERTOS\nSymphony No. 1 in D minor, Op. 9\nPiano Concerto No. 1 in E minor, Op. 5\nVariations on a Nursery Song, Op. 25\nCHAMBER MUSIC\nPiano Quintet No. 1 in C minor, Op. 1\nSerenade in C major, Op. 10\nPIANO\nRuralia hungarica, Op. 32a"
@@ -2150,7 +2150,7 @@
     "years": "1835–1913",
     "birth": 1835,
     "death": 1913,
-    "era": "Romanticism / Germany",
+    "era": "Romanticism",
     "kind": "person",
     "description": "German composer Felix Draeseke was associated with the New German School and admired Liszt and Wagner, yet developed a highly individual style grounded in contrapuntal discipline and Classical formal thinking. He taught for many years in Dresden and wrote symphonies, concertos, chamber music and operas. His monumental oratorio Christus, conceived as a trilogy, represents the ambition and scale of his mature work.",
     "works": "ORATORIO\nChristus — oratorio trilogy\nORCHESTRA\nSymphonies Nos. 1–4\nPiano Concerto in E-flat major, Op. 36\nOPERAS\nGudrun\nBertran de Born\nCHAMBER MUSIC\nString Quartets Nos. 1–3"
@@ -2216,7 +2216,7 @@
     "years": "1877–1957",
     "birth": 1877,
     "death": 1957,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer, organist and pianist",
     "description": "A Russian composer and organist, Goedicke taught at the Moscow Conservatory for decades and became especially known for his brass repertoire. His trumpet works remain standard pieces for students and performers.",
     "works": "Concert Étude for Trumpet; Trumpet Concerto in B-flat minor; Organ Symphony; Piano Concerto"
@@ -2304,7 +2304,7 @@
     "years": "1870–1960",
     "birth": 1870,
     "death": 1960,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and conductor",
     "description": "Born in Melbourne and trained in Leipzig, Hill became a major figure in the musical life of Australia and New Zealand. His extensive output includes symphonies, operas, chamber music and works drawing on Māori themes and materials.",
     "works": "String Quartet No. 1 in G minor; Symphony No. 1 in B-flat major; The Māori (opera); Descriptive Overture: The Sacred Mountain"
@@ -2315,7 +2315,7 @@
     "years": "1878–1958",
     "birth": 1878,
     "death": 1958,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and conductor",
     "description": "A British composer and conductor associated with the so-called 'Celtic Symphony', Holbrooke cultivated a highly dramatic late-Romantic style. His large output includes symphonic poems, operas, chamber music and works inspired by literary subjects.",
     "works": "The Birds of Rhiannon; The Song of Gwyn ap Nudd; The Children of Don; Apollo and the Seaman"
@@ -2337,7 +2337,7 @@
     "years": "1879–1962",
     "birth": 1879,
     "death": 1962,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and pianist",
     "description": "An English composer whose music often evokes landscape and psychological atmosphere, Ireland developed a personal idiom rooted in late Romantic harmony but open to modern influences. His piano works, songs and chamber music remain central to the British repertoire.",
     "works": "The Forgotten Rite; Piano Sonata in E minor; Sea Fever; A Downland Suite"
@@ -2381,7 +2381,7 @@
     "years": "1897–1957",
     "birth": 1897,
     "death": 1957,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer",
     "description": "A Viennese child prodigy who became one of the great late-Romantic composers of opera and film music, Korngold achieved early acclaim before emigrating to the United States. His richly orchestrated Hollywood scores helped shape the sound of classical film music, while his concert works reveal the same opulent musical imagination.",
     "works": "Die tote Stadt; Violin Concerto in D major, Op. 35; Symphony in F-sharp major, Op. 40; String Sextet in D major, Op. 10"
@@ -2458,7 +2458,7 @@
     "years": "1882–1964",
     "birth": 1882,
     "death": 1964,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and music critic",
     "description": "An Austrian composer, teacher and critic, Marx became known for richly lyrical orchestral and vocal music rooted in late Romantic tonality. He taught at the Vienna Academy and later served as its director, while also writing influential criticism and essays on music.",
     "works": "Eine Herbstsymphonie; Romantic Piano Concerto; Verklärtes Jahr; Herbstchor an Pan"
@@ -2601,7 +2601,7 @@
     "years": "1874–1952",
     "birth": 1874,
     "death": 1952,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and organist",
     "description": "A French composer and organist, Paul Pierné was a cousin of Gabriel Pierné and worked in the Parisian musical world as a performer and teacher. His catalogue includes orchestral, chamber, piano and organ music, much of it still little known.",
     "works": "Symphony in D minor; Organ Sonata; Concertstück for Violin and Orchestra; Chamber and piano works"
@@ -2722,7 +2722,7 @@
     "years": "1876–1939",
     "birth": 1876,
     "death": 1939,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Pianist, composer and conductor",
     "description": "An American pianist and composer, Schelling was a child prodigy who studied in Europe and later became conductor of the Baltimore Symphony Orchestra. His works include piano concertos, orchestral pieces and music for children, often combining virtuosity with vivid orchestral colour.",
     "works": "A Victory Ball; Impressions from an Artist's Life; Piano Concerto in C-sharp minor; Moods"
@@ -2854,7 +2854,7 @@
     "years": "1875–1940",
     "birth": 1875,
     "death": 1940,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer, pianist and musicologist",
     "description": "A British composer, pianist and eminent writer on music, Tovey is remembered especially for his analytical essays and programme notes, collected as Essays in Musical Analysis. He also composed symphonies, concertos, chamber music and operas, and founded the Reid Orchestra in Edinburgh.",
     "works": "Symphony in D major; Piano Concerto in A major; Cello Concerto; Essays in Musical Analysis"
@@ -2898,7 +2898,7 @@
     "years": "1882–1959",
     "birth": 1882,
     "death": 1959,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and violinist",
     "description": "An English composer and violinist, Wood became widely popular for his light orchestral music and songs. His output ranges from concert works to character pieces and patriotic songs, with several melodies becoming familiar fixtures of British popular culture.",
     "works": "Roses of Picardy; Mannin Veen; London Cameos; A May Day Suite"
@@ -3371,7 +3371,7 @@
     "years": "1892–1983",
     "birth": 1892,
     "death": 1983,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer",
     "description": "Germaine Tailleferre was the only woman in the original group of Les Six, the circle of French composers associated with a reaction against late-Romantic excess. Her elegant, lucid music spans orchestral works, concertos, chamber music, piano pieces, film scores and opera.",
     "works": "ORCHESTRAL MUSIC\nPiano Concerto No. 1\nConcertino for Harp and Orchestra\nBallets\nCHAMBER MUSIC\nString Quartets\nPIANO MUSIC\nJeux de plein air"
@@ -3382,7 +3382,7 @@
     "years": "1892–1974",
     "birth": 1892,
     "death": 1974,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer",
     "description": "Darius Milhaud was a French composer and a member of Les Six whose music drew on jazz, Brazilian rhythms, Provençal melodies and polytonality. Exceptionally prolific, he wrote across opera, ballet, symphony, chamber music and film, developing a direct and unmistakable musical language.",
     "works": "ORCHESTRAL MUSIC\nLa Création du monde\nLe Bœuf sur le toit\nSuite provençale\nOPERA\nChristophe Colomb\nLes Malheurs d'Orphée\nCHAMBER MUSIC\nString Quartets"
@@ -3393,7 +3393,7 @@
     "years": "1899–1963",
     "birth": 1899,
     "death": 1963,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and pianist",
     "description": "Francis Poulenc was a French composer and pianist, the most widely performed member of Les Six. His music moves between urbane wit and profound spiritual expression, especially in his sacred works and operas, while his songs and chamber music reveal a distinctive gift for melody and theatrical timing.",
     "works": "OPERA\nDialogues des Carmélites\nLa Voix humaine\nLes Mamelles de Tirésias\nSACRED MUSIC\nGloria\nStabat Mater\nPIANO AND CHAMBER MUSIC\nConcerto for Two Pianos"
@@ -3404,7 +3404,7 @@
     "years": "1905–1974",
     "birth": 1905,
     "death": 1974,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer",
     "description": "André Jolivet was a French composer who sought to restore ritual, magic and elemental force to music. A founding member of La Jeune France, he developed a highly individual language informed by non-European traditions, percussion and unusual instrumental combinations.",
     "works": "ORCHESTRAL MUSIC\nCinq danses rituelles\nMana\nSuite delphique\nCONCERTOS\nConcerto for Ondes Martenot\nTrumpet Concerto No. 2"
@@ -3415,7 +3415,7 @@
     "years": "1908–1992",
     "birth": 1908,
     "death": 1992,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer and organist",
     "description": "Olivier Messiaen was a French composer, organist and teacher whose music draws on Catholic theology, birdsong, Greek rhythms and non-Western modes. His richly coloured harmonic language and distinctive rhythmic systems profoundly influenced post-war composition, particularly through his teaching at the Paris Conservatoire.",
     "works": "ORCHESTRAL MUSIC\nTurangalîla-Symphonie\nÉclairs sur l'au-delà...\nCHAMBER MUSIC\nQuartet for the End of Time\nPIANO MUSIC\nVingt regards sur l'Enfant-Jésus\nORGAN MUSIC\nLa Nativité du Seigneur"
@@ -3426,7 +3426,7 @@
     "years": "1925–2016",
     "birth": 1925,
     "death": 2016,
-    "era": "20th Century / Contemporary",
+    "era": "20th century / Contemporary",
     "kind": "Composer and conductor",
     "description": "Pierre Boulez was a French composer, conductor and institutional founder who became one of the defining figures of post-war musical modernism. A leading advocate of serialism and later of electronic and computer-assisted composition, he founded IRCAM and the Ensemble Intercontemporain, while his conducting reshaped the performance of twentieth-century repertoire.",
     "works": "ORCHESTRAL AND ENSEMBLE MUSIC\nLe Marteau sans maître\nPli selon pli\nRituel in memoriam Bruno Maderna\nRépons\nNotations (orchestral versions)"
@@ -3437,7 +3437,7 @@
     "years": "1916–2013",
     "birth": 1916,
     "death": 2013,
-    "era": "20th Century",
+    "era": "20th century",
     "kind": "Composer",
     "description": "Henri Dutilleux was a French composer whose carefully refined output stands apart from the dominant schools of post-war modernism. His music combines intricate formal design, luminous orchestration and a subtle sense of continuity, earning a place among the major French composers of the twentieth century.",
     "works": "ORCHESTRAL MUSIC\nSymphony No. 1\nMétaboles\nTout un monde lointain...\nThe Shadows of Time\nCHAMBER MUSIC\nString Quartet Ainsi la nuit"
@@ -3448,7 +3448,7 @@
     "years": "1908–2012",
     "birth": 1908,
     "death": 2012,
-    "era": "20th Century / Contemporary",
+    "era": "20th century / Contemporary",
     "kind": "Composer",
     "description": "Elliott Carter was an American composer whose complex rhythmic structures and sharply differentiated instrumental characters made him a central figure in modern music. Across a career spanning more than seven decades, he continually renewed his style, producing major works for orchestra, chamber ensembles and solo instruments.",
     "works": "ORCHESTRAL MUSIC\nVariations for Orchestra\nSymphonia: sum fluxae pretium spei\nThree Occasions\nCHAMBER MUSIC\nString Quartets Nos. 1–5\nDouble Concerto"
@@ -4900,7 +4900,7 @@
     "years": "1901–1999",
     "birth": 1901,
     "death": 1999,
-    "era": "20th-century / Neoclassical",
+    "era": "20th century / Neoclassical",
     "kind": "person",
     "description": "Joaquín Rodrigo was a Spanish composer whose concertos helped establish the modern classical guitar as a major solo instrument with orchestra. Blind from early childhood, he developed a refined style drawing on Spanish historical and folk traditions without simply reproducing them. His music also includes songs, piano pieces and orchestral works.",
     "works": "GUITAR AND ORCHESTRA\nConcierto de Aranjuez\nFantasia para un gentilhombre\nConcierto Andaluz\nOTHER WORKS\nConcierto pastoral for flute\nConcierto heroico for piano"
@@ -5010,7 +5010,7 @@
     "years": "1917–1995",
     "birth": 1917,
     "death": 1995,
-    "era": "20th-century Modernism",
+    "era": "20th century / Modernism",
     "kind": "person",
     "description": "Isang Yun was a Korean-born composer who developed an influential career in Germany. His music combines contemporary European techniques with ideas drawn from Korean musical traditions, especially the shaping and ornamentation of sustained tones. His work also reflects the political history of Korea and his own experience of imprisonment and exile.",
     "works": "ORCHESTRA\nRéak\nFlute Concerto\nCHAMBER MUSIC\nGasa\nImages\nOPERA\nSim Tjong"
@@ -5043,7 +5043,7 @@
     "years": "1935–",
     "birth": 1935,
     "death": null,
-    "era": "20th-century",
+    "era": "20th century",
     "kind": "person",
     "description": "Chen Gang is a Chinese composer best known as co-composer, with He Zhanhao, of The Butterfly Lovers Violin Concerto. The work combines Western concerto form with melodic and dramatic elements associated with Chinese opera and folk music. Chen's career is closely connected with the development of modern orchestral music in China.",
     "works": "CONCERTO\nThe Butterfly Lovers Violin Concerto (with He Zhanhao)\nOther orchestral and violin works"
@@ -5065,7 +5065,7 @@
     "years": "1935–2020",
     "birth": 1935,
     "death": 2020,
-    "era": "20th-century / Contemporary",
+    "era": "20th century / Contemporary",
     "kind": "person",
     "description": "Akin Euba was a Nigerian composer, pianist and musicologist who developed an approach he called 'African pianism', adapting African rhythmic and melodic concepts to contemporary concert music. His work and scholarship helped expand the theoretical and practical dialogue between African traditions and global contemporary composition.",
     "works": "PIANO AND ENSEMBLE\nScenes from Traditional Life\nChamber works in the African pianism tradition\nOPERA\nChaka: An Opera in Two Chants"
@@ -5076,7 +5076,7 @@
     "years": "1905–1987",
     "birth": 1905,
     "death": 1987,
-    "era": "20th-century",
+    "era": "20th century",
     "kind": "person",
     "description": "Fela Sowande was a Nigerian composer, organist and scholar often regarded as a foundational figure in modern Nigerian art music. His compositions combine Western orchestral and organ traditions with Yoruba musical materials, creating a distinctive dialogue between African heritage and concert forms.",
     "works": "ORCHESTRA\nAfrican Suite\nSix Sketches for Full Orchestra\nORGAN\nKyrie\nJesu Olugbala\nVOCAL MUSIC\nChoral works drawing on Nigerian melodies"
@@ -5087,7 +5087,7 @@
     "years": "1922–2018",
     "birth": 1922,
     "death": 2018,
-    "era": "20th-century / Contemporary",
+    "era": "20th century / Contemporary",
     "kind": "person",
     "description": "George Walker was an American composer and pianist whose output spans orchestral, chamber, piano and vocal music. In 1996 he became the first African American composer to receive the Pulitzer Prize for Music, awarded for Lilacs. His music combines rigorous construction with expressive intensity and a distinctive harmonic language.",
     "works": "ORCHESTRA AND VOICE\nLilacs for voice and orchestra\nORCHESTRA\nAddress for Orchestra\nCHAMBER MUSIC\nString Quartet No. 1\nLyric for Strings"
@@ -5153,7 +5153,7 @@
     "years": "1910–1981",
     "birth": 1910,
     "death": 1981,
-    "era": "20th-century American",
+    "era": "20th century",
     "kind": "person",
     "description": "American composer known for lyrical orchestral, vocal, chamber and operatic music.",
     "works": "Adagio for Strings\nViolin Concerto\nVanessa\nAgnus Dei"
@@ -5186,7 +5186,7 @@
     "years": "1918–1990",
     "birth": 1918,
     "death": 1990,
-    "era": "20th-century American",
+    "era": "20th century",
     "kind": "person",
     "description": "American conductor and composer whose music crosses symphonic music, Broadway, opera and film.",
     "works": "West Side Story\nCandide\nSymphonies Nos. 1–3\nChichester Psalms"
@@ -5197,7 +5197,7 @@
     "years": "1880–1959",
     "birth": 1880,
     "death": 1959,
-    "era": "20th-century",
+    "era": "20th century",
     "kind": "person",
     "description": "Swiss-born Jewish-American composer whose music often reflects Jewish cultural and spiritual themes.",
     "works": "Schelomo\nIsrael Symphony\nString Quartet No. 1"
@@ -5318,7 +5318,7 @@
     "years": "1900–1990",
     "birth": 1900,
     "death": 1990,
-    "era": "20th-century American",
+    "era": "20th century",
     "kind": "person",
     "description": "American composer whose open textures and folk-inflected idiom helped shape a recognisable American concert style.",
     "works": "Appalachian Spring\nRodeo\nFanfare for the Common Man\nClarinet Concerto"
@@ -5329,7 +5329,7 @@
     "years": "1938–",
     "birth": 1938,
     "death": null,
-    "era": "Contemporary American",
+    "era": "Contemporary",
     "kind": "person",
     "description": "American composer of richly coloured orchestral, chamber and operatic works.",
     "works": "Symphony No. 1\nClarinet Concerto\nThe Ghosts of Versailles"
@@ -5340,7 +5340,7 @@
     "years": "1879–1932",
     "birth": 1879,
     "death": 1932,
-    "era": "French late Romantic / Modernism",
+    "era": "Late Romantic / Modernism",
     "kind": "person",
     "description": "French naval officer and composer whose music blends French colour with Breton influences.",
     "works": "Polyphème\nString Trio\nQuintet for harp, flute and strings"
@@ -5373,7 +5373,7 @@
     "years": "1872–1955",
     "birth": 1872,
     "death": 1955,
-    "era": "20th-century French",
+    "era": "20th century",
     "kind": "person",
     "description": "French violinist and composer whose rediscovered chamber works reveal a refined late-Romantic voice.",
     "works": "String quartets\nsonatas for violin and piano"
@@ -5406,7 +5406,7 @@
     "years": "1912–1997",
     "birth": 1912,
     "death": 1997,
-    "era": "20th-century French",
+    "era": "20th century",
     "kind": "person",
     "description": "French composer and pianist known for wit, clarity and neoclassical craftsmanship, especially in chamber music.",
     "works": "L'heure du berger\nWind Quintet\nConcertino for piano"
@@ -5428,7 +5428,7 @@
     "years": "1867–1949",
     "birth": 1867,
     "death": 1949,
-    "era": "French late Romantic",
+    "era": "Late Romantic",
     "kind": "person",
     "description": "French organist and composer whose individual style combines late-Romantic harmony and mystical expression.",
     "works": "Organ and sacred works"
@@ -5439,7 +5439,7 @@
     "years": "1829–1869",
     "birth": 1829,
     "death": 1869,
-    "era": "Romantic / American",
+    "era": "Romantic",
     "kind": "person",
     "description": "American virtuoso pianist-composer who fused European pianism with Caribbean, Creole and Latin American influences.",
     "works": "Bamboula\nThe Banjo\nSouvenir de Porto Rico\nA Night in the Tropics"
@@ -5483,7 +5483,7 @@
     "years": "1892–1955",
     "birth": 1892,
     "death": 1955,
-    "era": "20th-century Modernism",
+    "era": "20th century / Modernism",
     "kind": "person",
     "description": "Swiss-born composer associated with Les Six, with a distinctive architectural and contrapuntal style across symphonies, oratorios and film scores.",
     "works": "Pacific 231\nLe Roi David\nJeanne d'Arc au bûcher\nSymphonies Nos. 2–5"
