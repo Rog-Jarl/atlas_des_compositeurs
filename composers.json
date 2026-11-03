@@ -238,8 +238,8 @@
     "death": 1707,
     "era": "Baroque",
     "kind": "person",
-    "description": "As organist in Lübeck, Dieterich Buxtehude attracted musicians from across Europe, including the young Bach. His preludes, fugues, chorale works and cantatas combine improvisatory freedom, contrapuntal architecture and rhetorical expressiveness. His Abendmusiken helped shape the history of public concerts in northern Germany.",
-    "works": "ORGAN\nPreludes and fugues\nPassacaglia in D minor\nToccatas and chorales\nVOCAL MUSIC\nMembra Jesu nostri\nSacred cantatas\nAbendmusiken\nCHAMBER MUSIC\nTrio sonatas"
+    "description": "Dieterich Buxtehude was one of the most influential composers and organists of the generation before J. S. Bach. Of uncertain birthplace and nationality, he spent most of his career in Lübeck, where his position at St Mary’s Church and his celebrated Abendmusiken made the city an important musical centre. His works range from virtuosic, freely structured organ music to cantatas, chamber sonatas and large-scale sacred vocal compositions. Bach famously travelled to Lübeck to hear him.",
+    "works": "ORGAN MUSIC\nPraeludium in E major, BuxWV 141\nPraeludium in G minor, BuxWV 149\nPassacaglia in D minor, BuxWV 161\nChaconne in E minor, BuxWV 160\nCHORAL AND SACRED MUSIC\nMembra Jesu nostri, BuxWV 75\nJesu, meine Freude, BuxWV 60\nHerzlich lieb hab ich dich, o Herr, BuxWV 41\nKlag-Lied, BuxWV 76\nCHAMBER MUSIC\nSeven Trio Sonatas, Op. 1\nSeven Trio Sonatas, Op. 2"
   },
   {
     "id": "byrd",
@@ -414,8 +414,8 @@
     "death": 1832,
     "era": "Classical period / Romanticism",
     "kind": "person",
-    "description": "Born in Rome, Muzio Clementi was sent to England at a young age, where he built a career as a pianist, composer, teacher and publisher. His virtuosity helped establish the piano as a central instrument of modern musical life. His sonatas explore the range, power and technical possibilities of the new instrument, and their inventiveness was admired by [[beethoven|Beethoven]]. His work as a publisher and piano maker contributed to the development of instrument building and the music market. Gradus ad Parnassum became a cornerstone of piano pedagogy.",
-    "works": "PIANO\nPiano Sonatas, Opp. 2, 7, 13 and 40\nSonata in B-flat major, Op. 24 No. 2\nSonata in F-sharp minor, Op. 25 No. 5\nGradus ad Parnassum, Op. 44\nORCHESTRAL MUSIC\nSymphonies in G minor and D major\nPiano concertos"
+    "description": "Muzio Clementi was an Italian-born composer, pianist, teacher and publisher who spent much of his career in England. A child prodigy, he was taken to England as a boy and developed into one of the leading keyboard virtuosos of his generation. His sonatas and studies helped define the emerging Classical piano style, combining clarity of form with increasing technical demands. As a publisher and piano manufacturer, he also played a major role in the instrument’s development and repertoire.",
+    "works": "PIANO SONATAS AND STUDIES\nSonatas, Opp. 2, 7, 9, 13, 25, 34 and 40\nGradus ad Parnassum, Op. 44\nSix Progressive Sonatinas, Op. 36\nORCHESTRAL AND CHAMBER MUSIC\nSymphony in D major\nSymphony in C major\nPiano Concerto in C major\nCapriccio in D major\nThree Piano Trios, Op. 21"
   },
   {
     "id": "couperin",
@@ -491,8 +491,8 @@
     "death": 1626,
     "era": "Late Renaissance",
     "kind": "person",
-    "description": "John Dowland was the great English master of the lute and accompanied song. His career took him to several European courts. His ayres explore melancholy, absence and desire, while his lute pieces combine contrapuntal refinement with intimate expressiveness. Flow my tears became one of the most famous melodies of its age.",
-    "works": "AYRES\nFlow my tears\nCome again\nIn darkness let me dwell\nFine knacks for ladies\nLUTE\nLachrimae, or Seaven Teares\nThe King of Denmark's Galliard"
+    "description": "John Dowland was the leading English composer and lutenist of the late Renaissance. His career included service at the Danish court of Christian IV and travel throughout Europe, while his music circulated widely in printed collections. The lute songs combine finely shaped poetry with intimate melodic expression, often exploring melancholy and longing; his instrumental consort music displays equal contrapuntal sophistication. His reputation rests on a small but enduring body of songs and lute works.",
+    "works": "AYRES AND SONGS\nFirst Booke of Songes or Ayres (1597)\nSecond Booke of Songs or Ayres (1600)\nThird and Last Booke of Songs or Aires (1603)\nA Pilgrimes Solace (1612)\nFlow my tears\nCome again, sweet love doth now invite\nIn darkness let me dwell\nLUTE AND CONSORT MUSIC\nLachrimae, or Seaven Teares (1604)\nThe King of Denmark’s Galliard\nSemper Dowland, semper dolens"
   },
   {
     "id": "dufay",
@@ -2042,8 +2042,8 @@
     "death": 1952,
     "era": "Late Romanticism",
     "kind": "person",
-    "description": "Ukrainian-born composer and pianist Sergei Bortkiewicz cultivated a richly lyrical late-Romantic language at a time when modernist movements were transforming European music. Educated in St Petersburg and Leipzig, he spent much of his life moving between Berlin, Vienna and other European cities, experiencing exile and political upheaval. His output is centred on piano music, concertos and orchestral works, notable for their melodic warmth and virtuoso brilliance.",
-    "works": "PIANO\nÉtudes, Op. 15\nRussian Rhapsody, Op. 45\nPiano Sonata No. 1, Op. 9\nORCHESTRA AND CONCERTOS\nPiano Concertos Nos. 1–3\nSymphony No. 1, Op. 52\nOPERAS\nAkrobaten"
+    "description": "Sergei Bortkiewicz was a Ukrainian-born composer and pianist whose music remained devoted to a richly expressive late-Romantic language. Trained in St Petersburg and Leipzig, he spent much of his life moving between European cities, particularly Vienna and Berlin, after the upheavals of the Russian Revolution. His output is centred on lyrical and virtuosic piano music, but also includes concertos, orchestral works and songs.",
+    "works": "PIANO MUSIC\nÉtudes, Opp. 15 and 29\nFrom My Youth, Op. วัย\nORCHESTRAL AND CONCERTANTE MUSIC\nPiano Concerto No. 1 in B-flat major, Op. 16\nPiano Concerto No. 2 in C-sharp minor, Op. 28\nViolin Concerto in D major, Op. 22\nSymphony No. 1 in D major, Op. 52\nOPERA\nAkrobaten"
   },
   {
     "id": "george_frederick_boyle",
@@ -2361,8 +2361,8 @@
     "death": 1957,
     "era": "20th century",
     "kind": "Composer",
-    "description": "A Viennese child prodigy who became one of the great late-Romantic composers of opera and film music, Korngold achieved early acclaim before emigrating to the United States. His richly orchestrated Hollywood scores helped shape the sound of classical film music, while his concert works reveal the same opulent musical imagination.",
-    "works": "Die tote Stadt; Violin Concerto in D major, Op. 35; Symphony in F-sharp major, Op. 40; String Sextet in D major, Op. 10"
+    "description": "Born in Brno and raised in Vienna, Erich Wolfgang Korngold was hailed as a prodigy by Mahler and became a celebrated opera composer while still young. Forced to leave Europe after the Nazi annexation of Austria, he settled in Hollywood, where his richly orchestrated scores helped establish the symphonic language of classical film music. His later concert works retain the expansive lyricism and opulent colour of his operas.",
+    "works": "OPERA\nDie tote Stadt, Op. 12\nViolanta, Op. 8\nDas Wunder der Heliane, Op. 20\nCONCERTANTE AND ORCHESTRAL MUSIC\nViolin Concerto in D major, Op. 35\nSymphony in F-sharp major, Op. 40\nCello Concerto in C major, Op. 37\nCHAMBER MUSIC\nString Sextet in D major, Op. 10\nPiano Quintet in E major, Op. 15"
   },
   {
     "id": "theodor_kullak",
@@ -2504,8 +2504,8 @@
     "death": 1925,
     "era": "Late Romantic",
     "kind": "Composer and pianist",
-    "description": "A Polish-German composer and virtuoso pianist, Moszkowski became famous for brilliant, accessible piano music that combines technical sparkle with melodic charm. He also wrote orchestral and chamber works and was an influential teacher in Paris.",
-    "works": "15 Études de virtuosité, Op. 72; Spanish Dances, Op. 12; Piano Concerto in E major, Op. 59; From Foreign Lands, Op. 23"
+    "description": "Moritz Moszkowski was a German-Polish pianist and composer whose brilliant keyboard writing made him one of the most popular virtuosos of the late nineteenth century. He studied in Dresden and Berlin, taught at the Neue Akademie der Tonkunst and later settled in Paris. His music combines salon elegance, sparkling virtuosity and fluent Romantic lyricism, though his output also includes orchestral, chamber and vocal works.",
+    "works": "PIANO MUSIC\n15 Études de virtuosité, Op. 72\nSpanish Dances, Op. 12\nÉtincelles, Op. 36 No. 6\n10 Pièces mélodiques, Op. 10\nORCHESTRAL AND CHAMBER MUSIC\nPiano Concerto in E major, Op. 59\nViolin Concerto in C major, Op. 30\nSuite for Two Violins and Piano, Op. 71"
   },
   {
     "id": "eduard_napravnik",
@@ -2603,8 +2603,8 @@
     "death": 1916,
     "era": "Late Romantic",
     "kind": "Composer, pianist and organist",
-    "description": "A German composer and virtuoso organist, Reger developed a dense, highly chromatic style grounded in Bachian counterpoint. His enormous output spans organ music, orchestral works, chamber music, piano pieces and choral compositions.",
-    "works": "Variations and Fugue on a Theme by Mozart, Op. 132; Introduction, Passacaglia and Fugue in E minor, Op. 127; Clarinet Quintet in A major; Organ Chorales"
+    "description": "Max Reger was a German composer, pianist and organist whose prolific output fused the contrapuntal inheritance of Bach with the chromatic density of late Romanticism. A virtuoso organist and influential teacher, he wrote on a monumental scale for organ, while also producing orchestral variations, concertos, chamber music, piano works and large choral compositions. His music often pushes tonal harmony to its limits without abandoning its foundations.",
+    "works": "ORCHESTRAL MUSIC\nVariations and Fugue on a Theme by Mozart, Op. 132\nVariations and Fugue on a Theme by Beethoven, Op. 86\nAn die Hoffnung, Op. 124\nPiano Concerto in F minor, Op. 114\nViolin Concerto in A major, Op. 101\nORGAN MUSIC\nIntroduction, Passacaglia and Fugue in E minor, Op. 127\nFantasy and Fugue on B-A-C-H, Op. 46\nChorale Fantasies, Opp. 27, 30 and 52\nCHAMBER MUSIC\nClarinet Quintet in A major, Op. 146"
   },
   {
     "id": "carl_reinecke",
@@ -3241,8 +3241,8 @@
     "death": 1914,
     "era": "Late Romantic",
     "kind": "Composer",
-    "description": "Albéric Magnard was a French composer whose independent, uncompromising style combined rigorous construction with expansive lyricism. He destroyed or withheld some early works and was killed defending his home during the German invasion of 1914; his four symphonies and operas remain central to his legacy.",
-    "works": "ORCHESTRAL MUSIC\nSymphonies Nos. 1–4\nHymne à la justice\nHymne à Vénus\nOPERA\nGuercoeur\nBérénice"
+    "description": "Albéric Magnard was a French composer whose fiercely independent character and uncompromising artistic ideals set him apart from much of the Parisian musical establishment. A pupil of Vincent d’Indy at the Schola Cantorum, he developed a personal synthesis of contrapuntal discipline, harmonic richness and symphonic architecture. His small catalogue includes four symphonies, operas and chamber music. He was killed in 1914 while defending his home against invading German troops.",
+    "works": "SYMPHONIC MUSIC\nSymphony No. 1 in C minor, Op. 4\nSymphony No. 2 in E major, Op. 6\nSymphony No. 3 in B-flat minor, Op. 11\nSymphony No. 4 in C-sharp minor, Op. 21\nHymne à la justice, Op. 14\nHymne à Vénus, Op. 17\nOPERA AND CHAMBER MUSIC\nYolande, Op. 5\nGuercoeur, Op. 12\nQuintet for piano and winds, Op. 8\nString Quartet in E minor, Op. 16"
   },
   {
     "id": "melanie_bonis",
@@ -3274,8 +3274,8 @@
     "death": 1899,
     "era": "Late Romantic",
     "kind": "Composer",
-    "description": "Ernest Chausson was a French composer associated with the circle around César Franck and the Société Nationale de Musique. His carefully crafted works combine lyrical intensity, rich chromatic harmony and a distinctive sense of atmosphere; he died in a cycling accident at the age of forty-four.",
-    "works": "ORCHESTRAL MUSIC\nPoème for violin and orchestra\nSymphony in B-flat major\nViviane\nCHAMBER MUSIC\nConcert for violin, piano and string quartet\nString Quartet in C minor\nOPERA\nLe Roi Arthus"
+    "description": "Ernest Chausson was a French composer associated with the generation between Franck and Debussy. After studying law and briefly entering the legal profession, he devoted himself to music and became a pupil of Jules Massenet and César Franck. His work combines a rich, Franckian harmonic language with a growing sensitivity to colour and atmosphere. Though his catalogue is not large, it includes some of the most individual French chamber and orchestral works of the fin de siècle.",
+    "works": "ORCHESTRAL AND VOCAL MUSIC\nPoème de l’amour et de la mer, Op. 19\nPoème for violin and orchestra, Op. 25\nSymphony in B-flat major, Op. 20\nViviane, Op. 5\nConcert for violin, piano and string quartet, Op. 21\nCHAMBER MUSIC\nPiano Quartet in A major, Op. 30\nPiano Trio in G minor, Op. 3\nString Quartet in C minor, Op. 35\nLe colibri"
   },
   {
     "id": "vincent_dindy",
@@ -3384,8 +3384,8 @@
     "death": 1974,
     "era": "20th century",
     "kind": "Composer",
-    "description": "André Jolivet was a French composer who sought to restore ritual, magic and elemental force to music. A founding member of La Jeune France, he developed a highly individual language informed by non-European traditions, percussion and unusual instrumental combinations.",
-    "works": "ORCHESTRAL MUSIC\nCinq danses rituelles\nMana\nSuite delphique\nCONCERTOS\nConcerto for Ondes Martenot\nTrumpet Concerto No. 2"
+    "description": "André Jolivet sought a music of ritual power and elemental expression, drawing on ancient cultures, mythology and non-European musical traditions without simply imitating them. A pupil of Paul Le Flem and later influenced by Edgard Varèse, he co-founded La Jeune France in 1936 with Messiaen, Daniel-Lesur and Yves Baudrier as a reaction against what they saw as sterile abstraction. His output is notable for rhythmic force, unusual instrumental colours and concertos for a wide range of solo instruments.",
+    "works": "CONCERTOS\nConcerto for Ondes Martenot and Orchestra\nTrumpet Concerto No. 2\nPercussion Concerto\nBassoon Concerto\nCello Concerto No. 1\nFlute Concerto\nORCHESTRAL AND STAGE MUSIC\nMana, six pieces for piano\nCinq Incantations for solo flute\nSuite delphique\nLes trois complaintes du soldat"
   },
   {
     "id": "olivier_messiaen",
@@ -3868,8 +3868,8 @@
     "death": 1937,
     "era": "20th century",
     "kind": "Composer",
-    "description": "Polish composer whose style evolved from late Romanticism through impressionistic colour to a modern language shaped by Polish highland music.",
-    "works": "ORCHESTRAL MUSIC — Symphony No. 3 'The Song of the Night'; King Roger; Stabat Mater"
+    "description": "Karol Szymanowski was a leading figure in the renewal of Polish music. His early works draw on German late Romanticism, especially Strauss and Scriabin; his middle period turns towards French impressionism and an intensely sensual harmonic language, while his final works absorb the rhythms and modal colour of the Tatra highlanders. His output includes operas, ballets, symphonies, concertos, chamber music and songs.",
+    "works": "ORCHESTRAL AND STAGE WORKS\nSymphony No. 3, The Song of the Night, Op. 27\nSymphony No. 4, Symphonie concertante, Op. 60\nViolin Concertos Nos. 1 and 2\nKing Roger, Op. 46\nHarnasie, Op. 55\nCHORAL AND CHAMBER MUSIC\nStabat Mater, Op. 53\nMyths for violin and piano, Op. 30\nString Quartets Nos. 1 and 2"
   },
   {
     "id": "erwin_schulhoff",
@@ -3956,8 +3956,8 @@
     "death": 2006,
     "era": "20th century",
     "kind": "Composer",
-    "description": "Russian composer whose uncompromising, compressed music is marked by extreme dynamics, austere textures and a singular spiritual intensity.",
-    "works": "CHAMBER MUSIC — Piano Sonata No. 6; Composition No. 2 'Dies Irae'; Composition No. 3 'Benedictus'"
+    "description": "Galina Ustvolskaya studied with Dmitri Shostakovich at the Leningrad Conservatory, but developed a fiercely individual musical language that she regarded as wholly her own. Her concise, uncompromising works use extreme registers, massive repeated chords, unusual instrumental combinations and stark contrasts to create an intense, often ritualistic sound world. She rejected easy stylistic labels and left a relatively small but highly distinctive catalogue, much of it written after the 1970s.",
+    "works": "COMPOSITIONS\nComposition No. 1, Dona nobis pacem, for piccolo, tuba and piano\nComposition No. 2, Dies irae, for eight double basses, piano and wooden cube\nComposition No. 3, Benedictus, for four flutes, four bassoons and piano\nComposition No. 4, Prayer, for cello and piano\nComposition No. 5, Amen, for trumpet, tam-tam and piano\nPIANO MUSIC\nSix Piano Sonatas\nTwelve Preludes"
   },
   {
     "id": "alfred_schnittke",
@@ -4374,8 +4374,8 @@
     "death": 1931,
     "era": "20th century",
     "kind": "Composer",
-    "description": "Danish composer whose symphonies, concertos and operas combine muscular rhythmic invention with a distinctive, forward-looking tonal language.",
-    "works": "ORCHESTRAL MUSIC — Symphony No. 4 'The Inextinguishable'; Symphony No. 5; Flute Concerto"
+    "description": "Carl Nielsen grew up in a poor rural family on the island of Funen and first made his career as a violinist, including in the Royal Danish Orchestra. His six symphonies trace a distinctive path from energetic late-Romantic writing towards a boldly individual tonal language, shaped by rhythmic conflict and competing tonal centres. He also composed concertos, operas, chamber music and songs, becoming a central figure in Danish musical life.",
+    "works": "SYMPHONIES\nSymphony No. 1 in G minor, Op. 7\nSymphony No. 2, The Four Temperaments, Op. 16\nSymphony No. 3, Sinfonia espansiva, Op. 27\nSymphony No. 4, The Inextinguishable, Op. 29\nSymphony No. 5, Op. 50\nSymphony No. 6, Sinfonia semplice\nOPERA AND CONCERTOS\nMaskarade\nAladdin, incidental music\nViolin Concerto, Op. 33\nFlute Concerto\nClarinet Concerto, Op. 57\nCHAMBER MUSIC\nWind Quintet, Op. 43"
   },
   {
     "id": "jean_sibelius",
@@ -4429,8 +4429,8 @@
     "death": 1936,
     "era": "20th century",
     "kind": "Composer and orchestrator",
-    "description": "Italian composer and master orchestrator whose vivid orchestral triptychs transformed landscapes, history and ancient music into brilliant symphonic colour.",
-    "works": "ORCHESTRAL MUSIC — Fountains of Rome; Pines of Rome; Roman Festivals"
+    "description": "Born in Bologna, Ottorino Respighi trained as a violinist and studied composition before working in Russia and settling in Rome. He became one of Italy’s leading composers of the early twentieth century, admired for brilliant orchestration and imaginative evocations of landscape, history and early Italian music. Alongside the Roman trilogy, he wrote operas, chamber music, concertos and arrangements of Renaissance and Baroque works.",
+    "works": "ORCHESTRAL MUSIC\nFountains of Rome\nPines of Rome\nRoman Festivals\nThe Birds\nBotticelli Triptych\nAncient Airs and Dances, Suites I–III\nOPERA AND CONCERTOS\nLa fiamma\nConcerto gregoriano for violin and orchestra\nConcerto in modo misolidio for piano and orchestra"
   },
   {
     "id": "gian_francesco_malipiero",
@@ -5254,8 +5254,8 @@
     "death": 1925,
     "era": "Impressionism / Modernism",
     "kind": "person",
-    "description": "French composer and orchestrator closely associated with Debussy, with a distinctive harmonic and timbral imagination.",
-    "works": "Conte fantastique\nLe miroir de Jésus\nQuintet for piano and winds"
+    "description": "André Caplet was a French composer, conductor and exceptionally gifted orchestrator, closely associated with Claude Debussy, whose works he helped prepare for performance and whose music he championed. Caplet developed a refined personal style marked by luminous timbre, modal inflection and an affinity for poetic and spiritual subjects. His output includes orchestral, chamber and vocal music, with particular sensitivity to unusual instrumental combinations and the expressive possibilities of the voice.",
+    "works": "ORCHESTRAL AND VOCAL MUSIC\nLe Masque de la mort rouge, symphonic study after Poe\nConte fantastique, for harp and string quartet\nLe Miroir de Jésus, mystery for voices, strings and harp\nÉpiphanie, for cello and orchestra\nPâques citadines\nCHAMBER MUSIC\nQuintet for piano and winds\nSuite persane, for ten wind instruments\nRêverie, for flute and piano"
   },
   {
     "id": "cornelius_cardew",
@@ -5331,8 +5331,8 @@
     "death": 1996,
     "era": "Modernism",
     "kind": "person",
-    "description": "Russian composer associated with the unofficial Soviet avant-garde and a distinctive synthesis of serial technique and lyricism.",
-    "works": "The Sun of the Incas\nFlute Concerto\nSonata for alto saxophone and piano"
+    "description": "Edison Denisov was one of the most important Russian composers of the post-war generation and a leading member of the unofficial avant-garde in the Soviet Union. After studying mathematics and physics before turning to music, he developed a refined modernist language informed by serialism, spectral sensitivity, French music and an exacting sense of instrumental colour. His work ranges from chamber music and concertos to opera, orchestral compositions and electronic music. He also taught and championed contemporary music despite official resistance.",
+    "works": "ORCHESTRAL AND CONCERTANTE MUSIC\nThe Sun of the Incas for soprano and ensemble\nPiano Concerto\nViolin Concerto\nCello Concerto\nSymphony\nCHAMBER AND SOLO MUSIC\nSonata for Alto Saxophone and Piano\nTrio for Violin, Cello and Piano\nString Quartet No. 2\nFive Etudes for Alto Saxophone\nOPERA\nL’Écume des jours"
   },
   {
     "id": "hugues_dufourt",
