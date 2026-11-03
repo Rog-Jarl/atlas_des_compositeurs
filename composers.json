@@ -6356,5 +6356,115 @@
     "kind": "person",
     "description": "Irish composer known for fiercely energetic, often absurdist music theatre, combining extreme contrasts, compressed forms and a deliberately unruly sense of musical drama.",
     "works": "The Intelligence Park; The Importance of Being Earnest; Alice's Adventures Under Ground"
+  },
+  {
+    "id": "kodaly",
+    "name": "Zoltán Kodály",
+    "years": "1882–1967",
+    "birth": 1882,
+    "death": 1967,
+    "era": "20th century",
+    "kind": "Composer, ethnomusicologist and pedagogue",
+    "description": "Zoltán Kodály was a Hungarian composer, ethnomusicologist and influential music educator. Alongside Béla Bartók, he travelled through rural Hungary collecting and documenting folk songs, an undertaking that profoundly shaped his musical language. His compositions combine the modal turns and rhythms of Hungarian popular music with a disciplined command of counterpoint and large-scale form. He became especially important for his choral writing and for the educational approach later known as the Kodály Method.",
+    "works": "STAGE AND ORCHESTRAL MUSIC\nHáry János, opera and orchestral suite\nDances of Marosszék\nDances of Galánta\nVariations on a Hungarian Folksong, The Peacock\nConcerto for Orchestra\nSymphony in memoriam Toscanini\nCHORAL MUSIC\nPsalmus Hungaricus, Op. 13\nTe Deum of Buda Castle\nMissa brevis\nMátrai képek\nCHAMBER MUSIC\nSonata for Solo Cello, Op. 8\nDuo for Violin and Cello, Op. 7\nString Quartets Nos. 1 and 2"
+  },
+  {
+    "id": "myaskovsky",
+    "name": "Nikolai Myaskovsky",
+    "years": "1881–1950",
+    "birth": 1881,
+    "death": 1950,
+    "era": "20th century",
+    "kind": "Composer and pedagogue",
+    "description": "Nikolai Myaskovsky was a major Russian and Soviet symphonist, often called the conscience of the Moscow musical world. After an early military education, he studied composition in St Petersburg with Rimsky-Korsakov and Lyadov, later becoming a professor at the Moscow Conservatory. His twenty-seven symphonies form the centre of a large output that also includes concertos and chamber music. His language remained rooted in Russian late Romanticism while absorbing modern harmonic tensions and the changing pressures of Soviet cultural life.",
+    "works": "SYMPHONIES\nSymphony No. 6 in E-flat minor, Op. 23\nSymphony No. 10 in F minor, Op. 30\nSymphony No. 16 in F major, Op. 39\nSymphony No. 21 in F-sharp minor, Op. 51\nSymphony No. 22 in B minor, Op. 54\nSymphony No. 27 in C minor, Op. 85\nCONCERTOS AND CHAMBER MUSIC\nCello Concerto in C minor, Op. 66\n13 String Quartets\nPiano Sonatas, including No. 2 in F-sharp minor, Op. 13"
+  },
+  {
+    "id": "atterberg",
+    "name": "Kurt Atterberg",
+    "years": "1887–1974",
+    "birth": 1887,
+    "death": 1974,
+    "era": "20th century",
+    "kind": "Composer, conductor and engineer",
+    "description": "Kurt Atterberg was a Swedish composer, conductor and trained electrical engineer who became a prominent figure in his country’s musical life. His music belongs to a Nordic late-Romantic tradition, combining broad melodies, dramatic orchestration and a strong sense of landscape. He wrote nine symphonies as well as concertos, operas, ballets and chamber music. His Sixth Symphony won the 1928 Schubert centenary competition organised by Columbia Records.",
+    "works": "SYMPHONIES AND ORCHESTRAL MUSIC\nSymphony No. 3 in D major\nSymphony No. 6 in C major, Dollar Symphony\nSymphony No. 8 in E minor\nSymphony No. 9, Sinfonia visionaria\nAladdin Suite\nSwedish Rhapsody No. 1, Midsommarvaka\nCONCERTOS AND STAGE WORKS\nCello Concerto in C minor\nViolin Concerto in E minor\nPiano Concerto in B-flat minor\nAladdin, opera"
+  },
+  {
+    "id": "vasks",
+    "name": "Pēteris Vasks",
+    "years": "1946–",
+    "birth": 1946,
+    "death": null,
+    "era": "Contemporary",
+    "kind": "Composer and double bassist",
+    "description": "Pēteris Vasks is a Latvian composer whose music often sets lyrical, nature-inspired writing against violence, loss and historical trauma. Trained first as a double bassist, he played in orchestras before studying composition in Riga. His language draws on Latvian folk music, medieval and spiritual traditions, and a direct expressive rhetoric that moves between meditative stillness and powerful climaxes. His catalogue includes symphonies, concertos, string quartets and deeply personal works for strings.",
+    "works": "ORCHESTRAL AND CONCERTANTE MUSIC\nSymphonies Nos. 1–3\nViolin Concerto, Distant Light\nCello Concerto\nLauda\nVoices for string orchestra\nCHAMBER AND STRING MUSIC\nMusica dolorosa\nCantabile\nMusica appassionata\nSix String Quartets\nBass Trip"
+  },
+  {
+    "id": "reicha",
+    "name": "Antonín Reicha",
+    "years": "1770–1836",
+    "birth": 1770,
+    "death": 1836,
+    "era": "Classical period / Early Romantic",
+    "kind": "Composer and theorist",
+    "description": "Antonín Reicha, also known as Anton Rejcha, was a Bohemian-born composer and theorist who became a central figure in Parisian musical life. After formative years in Prague, Bonn and Vienna, where he encountered Beethoven, he settled in Paris and taught at the Conservatoire. His experimental approach to rhythm, form and counterpoint is reflected in his theoretical writings and inventive compositions. He is particularly remembered for expanding the wind quintet into a major chamber genre.",
+    "works": "WIND CHAMBER MUSIC\n24 Wind Quintets, Opp. 88 and 91\n24 Trios for Three Flutes, Op. 82\nVariations for Wind Quintet\nORCHESTRAL AND VOCAL MUSIC\nSymphonies in E-flat major and D major\nOverture in D major\nRequiem\nMissa pro defunctis\nTHEORETICAL WORKS\n36 Fugues for piano, Op. 36"
+  },
+  {
+    "id": "marcello_alessandro",
+    "name": "Alessandro Marcello",
+    "years": "1673–1747",
+    "birth": 1673,
+    "death": 1747,
+    "era": "Baroque",
+    "kind": "Composer, poet and nobleman",
+    "description": "Alessandro Marcello was a Venetian nobleman, poet and composer who pursued music alongside civic and intellectual interests. A member of the Arcadian Academy, he wrote instrumental concertos, sonatas and cantatas in the refined Venetian Baroque style. His reputation rests above all on the Oboe Concerto in D minor, whose expressive slow movement became widely known through J. S. Bach’s keyboard transcription. His brother Benedetto Marcello was also a composer.",
+    "works": "CONCERTOS\nOboe Concerto in D minor (transcribed by J. S. Bach as BWV 974)\nLa Cetra, collection of concertos\nCHAMBER AND VOCAL MUSIC\nSonatas for violin and continuo\nCantatas\nInstrumental sonatas"
+  },
+  {
+    "id": "tishchenko",
+    "name": "Boris Tishchenko",
+    "years": "1939–2010",
+    "birth": 1939,
+    "death": 2010,
+    "era": "20th century",
+    "kind": "Composer and pedagogue",
+    "description": "Boris Tishchenko was a Russian composer of the Leningrad school and a pupil, later a close artistic associate, of Dmitri Shostakovich. He taught at the Leningrad Conservatory and developed a large, stylistically varied output encompassing symphonies, concertos, operas, ballets and chamber music. His works often combine modernist intensity, powerful rhythmic drive and an expansive dramatic sense, while his multi-part symphonic cycle inspired by Dante is among his most ambitious late projects.",
+    "works": "SYMPHONIES AND ORCHESTRAL MUSIC\nSymphony No. 1, Op. 20\nSymphony No. 5, Op. 67\nSymphony No. 7, Op. 119\nSymphony No. 8\nDante Symphonies, cycle Beatrice\nThe Blockade Chronicle, Op. 92\nCONCERTOS AND CHAMBER MUSIC\nCello Concertos Nos. 1 and 2\nViolin Concertos Nos. 1 and 2\nSix String Quartets\nEleven Piano Sonatas\nSTAGE WORKS\nThe Stolen Sun, opera\nThe Twelve, ballet"
+  },
+  {
+    "id": "popov",
+    "name": "Gavriil Popov",
+    "years": "1904–1972",
+    "birth": 1904,
+    "death": 1972,
+    "era": "20th century",
+    "kind": "Composer",
+    "description": "Gavriil Popov was a Soviet composer whose early works placed him among the most adventurous voices of the post-revolutionary Leningrad avant-garde. A pupil of Maximilian Steinberg, he wrote music of striking rhythmic energy and modernist complexity, but his First Symphony was condemned after its 1935 premiere and his career was constrained by official attacks on formalism. He later adopted a more accessible idiom while retaining a distinctive orchestral imagination.",
+    "works": "ORCHESTRAL MUSIC\nSymphony No. 1 in F minor, Op. 7\nSymphony No. 2, Motherland\nSymphony No. 3, Heroic\nSymphony No. 4\nSymphonic Suite The Iron Foundry\nCHAMBER MUSIC\nSeptet for flute, trumpet, clarinet, bassoon, violin, cello and double bass\nPiano Sonata\nString Quartet"
+  },
+  {
+    "id": "mosolov",
+    "name": "Alexander Mosolov",
+    "years": "1900–1973",
+    "birth": 1900,
+    "death": 1973,
+    "era": "20th century / Modernism",
+    "kind": "Composer",
+    "description": "Alexander Mosolov was a Soviet composer whose early music became a striking expression of Russian constructivism and futurism. Trained at the Moscow Conservatory with Reinhold Glière and Nikolai Myaskovsky, he attracted international attention with the mechanical orchestral episode The Iron Foundry. Official condemnation, expulsion from the Composers’ Union and imprisonment interrupted his career; after his release he turned increasingly to folk materials from Central Asia and wrote in a more conservative idiom.",
+    "works": "ORCHESTRAL MUSIC\nThe Iron Foundry, Op. 19 (from the ballet Steel)\nTurkmenian Nights\nSymphony No. 5\nPiano Concerto No. 1\nCello Concertos Nos. 1 and 2\nCHAMBER AND PIANO MUSIC\nPiano Sonatas (some lost)\nFour String Quartets\nTurkmenian Suite"
+  },
+  {
+    "id": "tcherepnin",
+    "name": "Nikolai Tcherepnin",
+    "years": "1873–1945",
+    "birth": 1873,
+    "death": 1945,
+    "era": "Late Romantic / Early Modern",
+    "kind": "Composer and conductor",
+    "description": "Nikolai Tcherepnin was a Russian composer, conductor and teacher associated with the circle around Rimsky-Korsakov and the early Ballets Russes. He taught at the St Petersburg Conservatory and later worked in Paris after the Revolution. His music combines Russian orchestral colour with French refinement and a strong attraction to literary and fantastic subjects. His ballet scores, especially Le Pavillon d’Armide and Narcisse et Echo, were influential in the emergence of the modern Russian ballet repertory.",
+    "works": "BALLET AND STAGE MUSIC\nLe Pavillon d’Armide, Op. 29\nNarcisse et Echo, Op. 40\nLe Masque de la mort rouge\nL’Oiseau enchanté, Op. 55\nOPERA\nSvat\nVanka\nORCHESTRAL AND CONCERTANTE MUSIC\nPrélude à La Princesse lointaine, Op. 4\nFantaisie dramatique, Op. 17\nPiano Concerto in C-sharp minor, Op. 30"
   }
 ]
