@@ -91,7 +91,8 @@ function renderComparison(){
 }
 search.addEventListener('input',render);group.addEventListener('change',render);reset.addEventListener('click',()=>{search.value='';group.value='all';render()});
 function addComparedComposer(){const query=compareSelect.value.trim().toLocaleLowerCase('en');if(!query)return;const p=people.find(x=>x.name.toLocaleLowerCase('en')===query);if(p&&!compared.includes(p.id)){compared.push(p.id);renderComparison()}compareSelect.value=''}
-compareSelect.addEventListener('change',addComparedComposer);\ncompareSelect.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addComparedComposer()}});
+compareSelect.addEventListener('change',addComparedComposer);
+compareSelect.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addComparedComposer()}});
 compareClear.addEventListener('click',()=>{compared=[];renderComparison()});
 let syncing=false;
 function updateBottomWidth(){bottomInner.style.width=Math.max(timeline.scrollWidth,timeline.clientWidth)+'px';bottom.scrollLeft=timeline.scrollLeft}
