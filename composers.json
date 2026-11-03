@@ -693,17 +693,6 @@
     "works": "BALLET\nEstancia\nPanambí\nOPERAS\nDon Rodrigo\nBomarzo\nBeatrix Cenci\nORCHESTRA\nVariaciones concertantes\nPiano Concerto No. 1\nCHAMBER MUSIC\nString Quartets Nos. 1–3"
   },
   {
-    "id": "gismonti",
-    "name": "Egberto Gismonti",
-    "years": "1947–",
-    "birth": 1947,
-    "death": null,
-    "era": "Brazilian music / Contemporary",
-    "kind": "person",
-    "description": "Brazilian composer, pianist and guitarist Egberto Gismonti combines art music, popular traditions, improvisation and instrumental experimentation. He developed a personal technique for the ten- and twelve-string guitar. His pieces bring Brazilian rhythms into dialogue with modern harmony and free forms.",
-    "works": "PIANO AND GUITAR\nDança das cabeças\nFrevo\nPalhaço\nCircense\nCOLLABORATIONS\nRecordings with Naná Vasconcelos\nENSEMBLE MUSIC\nWorks for orchestra and ensemble"
-  },
-  {
     "id": "glass",
     "name": "Philip Glass",
     "years": "1937–",
@@ -933,17 +922,6 @@
     "kind": "person",
     "description": "Leoš Janáček developed a distinctive language from the inflections of speech, Moravian folk song and the rhythms of everyday language. His music theatre renewed 20th-century opera through its psychological intensity. His late works combine rhythmic energy, recurring motifs and incisive orchestration.",
     "works": "OPERAS\nJenůfa\nKáťa Kabanová\nThe Cunning Little Vixen\nThe Makropulos Affair\nFrom the House of the Dead\nORCHESTRA\nSinfonietta\nTaras Bulba\nCHAMBER MUSIC\nString Quartets Nos. 1 and 2"
-  },
-  {
-    "id": "jobim",
-    "name": "Antônio Carlos Jobim",
-    "years": "1927–1994",
-    "birth": 1927,
-    "death": 1994,
-    "era": "Brazilian music / Bossa nova",
-    "kind": "person",
-    "description": "Tom Jobim was a Brazilian composer, pianist and arranger, and a founding figure of bossa nova. His writing combines refined harmony, flowing melody and rhythms drawn from samba. He also composed for orchestra, developing a body of work in which nature, landscape and Brazilian poetry play an important role.",
-    "works": "SONGS\nChega de saudade\nDesafinado\nGarota de Ipanema\nÁguas de Março\nORCHESTRA\nSinfonia da Alvorada\nMatita Perê"
   },
   {
     "id": "aliakbar",
