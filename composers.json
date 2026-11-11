@@ -3252,8 +3252,8 @@
     "death": 1937,
     "era": "Late Romantic / Early Modern",
     "kind": "Composer",
-    "description": "Mélanie Bonis, who published under the name Mel Bonis, was a French composer who studied at the Paris Conservatoire alongside classmates including Debussy. Her output encompasses piano music, chamber works, songs and orchestral pieces, and has been rediscovered as a substantial contribution to French music around 1900.",
-    "works": "PIANO MUSIC\nFemmes de légende\nOphelia\nLes Gitanos\nCHAMBER MUSIC\nSuite en forme de valses\nSoir et matin\nORCHESTRAL MUSIC\nLe Songe de Cléopâtre"
+    "description": "Mélanie Bonis, who published under the name Mel Bonis, was a French composer who studied at the Paris Conservatoire alongside musicians of her generation before social expectations constrained her public career. She nevertheless produced a large and varied catalogue, including piano cycles, chamber music, orchestral works and sacred compositions. Her music blends refined French lyricism, rich harmony and imaginative colour, and has gained renewed attention through modern performances and editions.",
+    "works": "PIANO\nFemmes de légende\nSix Valses-caprices\nOphelia, Op. 165\nCHAMBER MUSIC\nFlute Sonata in C-sharp minor, Op. 64\nScènes de la forêt, Op. 123\nSuite en forme de valses, Op. 35\nORCHESTRA AND SACRED MUSIC\nSuite orientale, Op. 48\nMasses and motets"
   },
   {
     "id": "augusta_holmes",
@@ -6521,17 +6521,6 @@
     "kind": "person",
     "description": "Fanny Mendelssohn Hensel was a German composer and pianist whose substantial output was long overshadowed by the restrictions placed on women's public musical careers. Her works range from finely crafted piano miniatures and songs to ambitious chamber and orchestral pieces. Her Sunday musical gatherings in Berlin were an important cultural institution, and the rediscovery of her music has revealed a distinctive Romantic voice rather than a mere counterpart to her brother Felix.",
     "works": "PIANO\nDas Jahr (The Year), a cycle of twelve character pieces\nLieder für das Pianoforte, Op. 2\nCHAMBER MUSIC\nPiano Trio in D minor, Op. 11\nString Quartet in E-flat major\nORCHESTRA\nOverture in C major\nVOCAL\nSongs and duets\nCantata Lobgesang"
-  },
-  {
-    "id": "mel-bonis",
-    "name": "Mel Bonis",
-    "years": "1858–1937",
-    "birth": 1858,
-    "death": 1937,
-    "era": "Late Romantic / Early Modern",
-    "kind": "person",
-    "description": "Mel Bonis, born Mélanie Bonis, was a French composer who studied at the Paris Conservatoire alongside musicians of her generation before social expectations constrained her public career. She nevertheless produced a large and varied catalogue, including piano cycles, chamber music, orchestral works and sacred compositions. Her music blends refined French lyricism, rich harmony and imaginative colour, and has gained renewed attention through modern performances and editions.",
-    "works": "PIANO\nFemmes de légende\nSix Valses-caprices\nOphelia, Op. 165\nCHAMBER MUSIC\nFlute Sonata in C-sharp minor, Op. 64\nScènes de la forêt, Op. 123\nSuite en forme de valses, Op. 35\nORCHESTRA AND SACRED MUSIC\nSuite orientale, Op. 48\nMasses and motets"
   },
   {
     "id": "chaminade",
