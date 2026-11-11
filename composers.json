@@ -6466,5 +6466,93 @@
     "kind": "Composer and conductor",
     "description": "Nikolai Tcherepnin was a Russian composer, conductor and teacher associated with the circle around Rimsky-Korsakov and the early Ballets Russes. He taught at the St Petersburg Conservatory and later worked in Paris after the Revolution. His music combines Russian orchestral colour with French refinement and a strong attraction to literary and fantastic subjects. His ballet scores, especially Le Pavillon d’Armide and Narcisse et Echo, were influential in the emergence of the modern Russian ballet repertory.",
     "works": "BALLET AND STAGE MUSIC\nLe Pavillon d’Armide, Op. 29\nNarcisse et Echo, Op. 40\nLe Masque de la mort rouge\nL’Oiseau enchanté, Op. 55\nOPERA\nSvat\nVanka\nORCHESTRAL AND CONCERTANTE MUSIC\nPrélude à La Princesse lointaine, Op. 4\nFantaisie dramatique, Op. 17\nPiano Concerto in C-sharp minor, Op. 30"
+  },
+  {
+    "id": "vorisek",
+    "name": "Jan Václav Hugo Voříšek",
+    "years": "1791–1825",
+    "birth": 1791,
+    "death": 1825,
+    "era": "Early Romantic",
+    "kind": "person",
+    "description": "Jan Václav Hugo Voříšek was a Bohemian composer, pianist and organist who settled in Vienna, where he became a friend of Beethoven and Schubert. His concise, inventive piano music stands between Classical clarity and early Romantic lyricism. His six Impromptus, Op. 7, helped establish a genre later made famous by Schubert, while his single symphony reveals an individual melodic voice cut short by his early death from tuberculosis.",
+    "works": "ORCHESTRA\nSymphony in D major, Op. 24\nGrande Ouverture in C major, Op. 16\nPIANO\nSix Impromptus, Op. 7\nFantasie in C major, Op. 12\nVariations, Op. 19\nPiano Sonata in B-flat minor, Op. 20\nCHAMBER MUSIC\nViolin Sonata in G major, Op. 5\nSACRED MUSIC\nMissa solemnis in B-flat major, Op. 24"
+  },
+  {
+    "id": "wanhal",
+    "name": "Johann Baptist Wanhal",
+    "years": "1739–1813",
+    "birth": 1739,
+    "death": 1813,
+    "era": "Classical period",
+    "kind": "person",
+    "description": "Johann Baptist Wanhal, also spelled Vanhal, was a prolific Bohemian-born composer active in Vienna. Emerging from modest origins, he became an important contributor to the Classical symphony, string quartet and sacred repertory. His music circulated widely among professional musicians and amateurs alike, and he belonged to the generation that shaped the musical world of Haydn and Mozart.",
+    "works": "ORCHESTRA\nSymphonies, including works in D minor and A major\nConcertos for violin and other instruments\nCHAMBER MUSIC\nString quartets\nString trios and duos\nKEYBOARD\nSonatas and variations for piano\nSACRED MUSIC\nMasses\nRequiem in C minor"
+  },
+  {
+    "id": "kozeluch",
+    "name": "Leopold Koželuch",
+    "years": "1747–1818",
+    "birth": 1747,
+    "death": 1818,
+    "era": "Classical period",
+    "kind": "person",
+    "description": "Leopold Koželuch was a Bohemian composer, pianist and influential music publisher who built a successful career in Prague and Vienna. A contemporary and sometime rival of Mozart, he wrote in a polished, forward-looking Classical style, especially for the keyboard. His extensive catalogue includes symphonies, concertos, chamber works and music for the theatre, reflecting the expanding public market for instrumental music.",
+    "works": "PIANO\nPiano sonatas\nSonatinas and variations\nORCHESTRA\nSymphonies\nPiano concertos\nCHAMBER MUSIC\nPiano trios\nSonatas for piano and violin\nVOCAL AND STAGE\nCantatas\nBallet and theatrical music"
+  },
+  {
+    "id": "viotti",
+    "name": "Giovanni Battista Viotti",
+    "years": "1755–1824",
+    "birth": 1755,
+    "death": 1824,
+    "era": "Classical period",
+    "kind": "person",
+    "description": "Giovanni Battista Viotti was an Italian violin virtuoso and composer whose playing and concertos helped define the modern violin style. After success in Paris, he worked in London as a performer, impresario and opera manager. His concertos combine brilliant solo writing with symphonic weight and became an important model for later violinists and composers, including the tradition associated with the Paris Conservatoire.",
+    "works": "VIOLIN AND ORCHESTRA\nViolin Concertos Nos. 22 and 23\nViolin Concertos Nos. 1–29\nCHAMBER MUSIC\nString quartets\nDuos for two violins\nKEYBOARD AND VOCAL\nKeyboard sonatas\nSongs and vocal pieces"
+  },
+  {
+    "id": "fanny-mendelssohn",
+    "name": "Fanny Mendelssohn Hensel",
+    "years": "1805–1847",
+    "birth": 1805,
+    "death": 1847,
+    "era": "Romantic",
+    "kind": "person",
+    "description": "Fanny Mendelssohn Hensel was a German composer and pianist whose substantial output was long overshadowed by the restrictions placed on women's public musical careers. Her works range from finely crafted piano miniatures and songs to ambitious chamber and orchestral pieces. Her Sunday musical gatherings in Berlin were an important cultural institution, and the rediscovery of her music has revealed a distinctive Romantic voice rather than a mere counterpart to her brother Felix.",
+    "works": "PIANO\nDas Jahr (The Year), a cycle of twelve character pieces\nLieder für das Pianoforte, Op. 2\nCHAMBER MUSIC\nPiano Trio in D minor, Op. 11\nString Quartet in E-flat major\nORCHESTRA\nOverture in C major\nVOCAL\nSongs and duets\nCantata Lobgesang"
+  },
+  {
+    "id": "mel-bonis",
+    "name": "Mel Bonis",
+    "years": "1858–1937",
+    "birth": 1858,
+    "death": 1937,
+    "era": "Late Romantic / Early Modern",
+    "kind": "person",
+    "description": "Mel Bonis, born Mélanie Bonis, was a French composer who studied at the Paris Conservatoire alongside musicians of her generation before social expectations constrained her public career. She nevertheless produced a large and varied catalogue, including piano cycles, chamber music, orchestral works and sacred compositions. Her music blends refined French lyricism, rich harmony and imaginative colour, and has gained renewed attention through modern performances and editions.",
+    "works": "PIANO\nFemmes de légende\nSix Valses-caprices\nOphelia, Op. 165\nCHAMBER MUSIC\nFlute Sonata in C-sharp minor, Op. 64\nScènes de la forêt, Op. 123\nSuite en forme de valses, Op. 35\nORCHESTRA AND SACRED MUSIC\nSuite orientale, Op. 48\nMasses and motets"
+  },
+  {
+    "id": "chaminade",
+    "name": "Cécile Chaminade",
+    "years": "1857–1944",
+    "birth": 1857,
+    "death": 1944,
+    "era": "Romantic",
+    "kind": "person",
+    "description": "Cécile Chaminade was a French composer and pianist whose elegant, memorable music found an international audience during her lifetime. She toured extensively, particularly in Britain and the United States, at a time when women composers faced substantial barriers to recognition. Though now often associated with salon pieces and songs, her catalogue also includes orchestral and concertante works, among them a piano concertstück that displays her flair for virtuoso writing.",
+    "works": "ORCHESTRA\nConcertstück for piano and orchestra, Op. 40\nBallet Callirhoë, Op. 37\nPIANO\nSix Études de concert, Op. 35\nAutomne, Op. 35 No. 2\nScarf Dance, Op. 37 No. 3\nVOCAL\nL'Anneau d'argent\nSongs and mélodies"
+  },
+  {
+    "id": "kuhlau",
+    "name": "Friedrich Kuhlau",
+    "years": "1786–1832",
+    "birth": 1786,
+    "death": 1832,
+    "era": "Classical / Early Romantic",
+    "kind": "person",
+    "description": "Friedrich Kuhlau was a German-born Danish composer and pianist who became a central figure in Copenhagen's musical life. He wrote operas, incidental music, chamber works and a large body of piano music, but is especially remembered for his flute sonatas and duets, which remain staples of the instrument's repertory. His style combines Classical formal clarity with the expressive gestures of early Romanticism.",
+    "works": "FLUTE\nFlute Concerto in G major, Op. 69\nFlute sonatas and duets, Opp. 64 and 83\nCHAMBER MUSIC\nGrand Trio in G major, Op. 119\nSonatas for flute and piano\nPIANO\nSonatinas, Opp. 20, 55 and 88\nVariations and rondos\nOPERA AND STAGE\nLulu\nElverhøj (The Elf-Hill), incidental music"
   }
 ]
