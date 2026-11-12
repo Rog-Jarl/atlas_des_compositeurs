@@ -170,7 +170,7 @@
     "years": "vers 1400–1460",
     "birth": 1400,
     "death": 1460,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "Gilles de Bins, known as Binchois, was one of the leading figures of the Burgundian School. A singer and composer in the service of the Burgundian court, he developed a refined art of courtly song, marked by melodic clarity, elegant lines and restrained expressiveness. His sacred music also demonstrates the contrapuntal mastery of musicians of his time. Alongside Dufay, he helped shape the musical taste of 15th-century European courts.",
     "works": "SONGS\nDe plus en plus\nTriste plaisir et douloureuse joie\nAmours et souvenir de celle\nDueil angoisseux\nMOTETS AND SACRED MUSIC\nNove cantum melodie\nMissa de plus en plus — disputed attribution"
@@ -390,7 +390,7 @@
     "years": "vers 1370–1412",
     "birth": 1370,
     "death": 1412,
-    "era": "Ars subtilior / Early Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "Born in the Low Countries and active in Padua, Johannes Ciconia embodied the exchanges between northern Europe and Italy at the turn of the 14th and 15th centuries. His music combines the rhythmic intricacies of the Ars subtilior, French forms and Italian innovations. His learned motets and songs anticipate features of Renaissance polyphony.",
     "works": "MOTETS\nO felix templum jubila\nVenecie mundi splendor\nSONGS\nUna panthera\nLe ray au soleyl\nSACRED MUSIC\nGloria and Credo settings for several voices"
@@ -500,7 +500,7 @@
     "years": "vers 1397–1474",
     "birth": 1397,
     "death": 1474,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "Guillaume Dufay was one of the major composers of the 15th century and a central figure in the early musical Renaissance. His career took him between Cambrai, Italy and princely courts, within a European network of travelling musicians. He absorbed English, French and Italian traditions and helped renew the cyclic mass, the isorhythmic motet and the chanson. His language combines contrapuntal architecture, balanced proportions and a remarkable sense of melodic line.",
     "works": "MASSES\nMissa Se la face ay pale\nMissa L'homme armé\nMissa Ecce ancilla Domini\nMOTETS\nNuper rosarum flores\nAve regina caelorum\nCHansons\nAdieu m'amour\nSe la face ay pale"
@@ -529,14 +529,14 @@
   },
   {
     "id": "dunstable",
-    "name": "John Dunstable",
+    "name": "John Dunstaple",
     "years": "vers 1390–1453",
     "birth": 1390,
     "death": 1453,
-    "era": "Late Middle Ages / Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
-    "description": "English composer John Dunstable marked a turning point in the history of European polyphony. Few of his scores survive, but his influence on musicians on the continent was considerable, especially in Burgundian territories. His writing favours supple consonance, enriched by the use of thirds and sixths, helping shape the emerging sound world of the Renaissance. He embodies the musical exchanges between England and continental Europe in the early 15th century.",
-    "works": "MOTETS AND SACRED WORKS\nQuam pulchra es\nVeni sancte spiritus / Veni creator\nPreco preheminencie\nMass for three voices — attributed fragments"
+    "description": "John Dunstaple was an English composer whose music helped shape the sound of continental European composition in the fifteenth century. His smooth consonances and carefully controlled counterpoint were associated with the so-called contenance angloise, admired by later writers. English composer John Dunstable marked a turning point in the history of European polyphony. Few of his scores survive, but his influence on musicians on the continent was considerable, especially in Burgundian territories. His writing favours supple consonance, enriched by the use of thirds and sixths, helping shape the emerging sound world of the Renaissance. He embodies the musical exchanges between England and continental Europe in the early 15th century.",
+    "works": "MOTETS AND SACRED WORKS\nQuam pulchra es\nVeni sancte spiritus / Veni creator\nPreco preheminencie\nMass for three voices — attributed fragments\nADDITIONAL ATTRIBUTED WORKS\nVeni Sancte Spiritus\nIsorhythmic motets\nMass movements"
   },
   {
     "id": "dvorak",
@@ -1226,7 +1226,7 @@
     "years": "vers 1420–1497",
     "birth": 1420,
     "death": 1497,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "Johannes Ockeghem, active notably at the French court, was one of the great masters of Franco-Flemish polyphony. His music is distinguished by the depth of its bass lines, the continuity of its parts and a remarkably free contrapuntal style. He explored learned constructions, sometimes based on complex canons, without sacrificing the flow of the whole. His Missa prolationum remains a summit of Renaissance canonic art.",
     "works": "MASSES\nMissa prolationum\nMissa cuiusvis toni\nMissa L'homme armé\nMissa Mi-mi\nMOTETS\nIntemerata Dei mater\nAlma redemptoris mater\nSONGS\nFors seulement l'attente"
@@ -1321,14 +1321,14 @@
   },
   {
     "id": "josquin",
-    "name": "Josquin des Prés",
+    "name": "Josquin des Prez",
     "years": "vers 1450–1521",
     "birth": 1450,
     "death": 1521,
     "era": "Renaissance",
     "kind": "person",
-    "description": "Josquin des Prés moved through the major musical centres of the Renaissance: the courts and chapels of Italy, France and the Low Countries. The precise stages of his career and some episodes of his life remain debated, as does the attribution of several works published under his name after his death. His reputation was immense: music printing helped spread his masses, motets and chansons throughout Europe. His writing is distinguished by the balance between contrapuntal imitation, clarity of line and attention to the meaning of words. He could build vast architectures while giving each phrase an almost speech-like suppleness.",
-    "works": "MASSES\nMissa Pange lingua — paraphrase of a Gregorian hymn\nMissa La sol fa re mi\nMissa Hercules Dux Ferrariae — mass based on a soggetto cavato\nMissa L'homme armé super voces musicales\nMOTETS\nAve Maria… Virgo serena\nNymphes des bois — lament on the death of Ockeghem\nMiserere mei, Deus\nStabat Mater\nSONGS\nMille regretz\nEl grillo"
+    "description": "Josquin des Prés moved through the major musical centres of the Renaissance: the courts and chapels of Italy, France and the Low Countries. The precise stages of his career and some episodes of his life remain debated, as does the attribution of several works published under his name after his death. His reputation was immense: music printing helped spread his masses, motets and chansons throughout Europe. His writing is distinguished by the balance between contrapuntal imitation, clarity of line and attention to the meaning of words. He could build vast architectures while giving each phrase an almost speech-like suppleness. Josquin des Prez was one of the most influential composers of the Renaissance. His music combines lucid contrapuntal design with an unusually responsive treatment of words, and the spread of music printing helped make his works models across Europe.",
+    "works": "MASSES\nMissa Pange lingua — paraphrase of a Gregorian hymn\nMissa La sol fa re mi\nMissa Hercules Dux Ferrariae — mass based on a soggetto cavato\nMissa L'homme armé super voces musicales\nMOTETS\nAve Maria… Virgo serena\nNymphes des bois — lament on the death of Ockeghem\nMiserere mei, Deus\nStabat Mater\nSONGS\nMille regretz\nEl grillo\nADDITIONAL WORKS\nMissa L'homme armé sexti toni"
   },
   {
     "id": "prokofiev",
@@ -1765,7 +1765,7 @@
     "years": "vers 1435–1511",
     "birth": 1435,
     "death": 1511,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "Theorist, singer and composer in the service of the Aragonese court in Naples, Johannes Tinctoris is a crucial source for the history of 15th-century polyphony. His treatises describe the musical practices of his time in detail. His surviving works reveal the circulation of Franco-Flemish styles in Italy.",
     "works": "MASSES\nMissa L'homme armé\nMissa sine nomine\nMOTETS\nO virgo miserere\nSONGS\nLe souvenir de vous me tue\nWRITINGS\nLiber de arte contrapuncti"
@@ -2915,37 +2915,15 @@
     "works": "SACRED MUSIC\nRequiem in memoriam Josquin des Prez\nMissa O quam glorifica\nMotets and chansons"
   },
   {
-    "id": "john_dunstaple",
-    "name": "John Dunstaple",
-    "years": "c. 1390–1453",
-    "birth": 1390,
-    "death": 1453,
-    "era": "Early Renaissance",
-    "kind": "Composer",
-    "description": "John Dunstaple was an English composer whose music helped shape the sound of continental European composition in the fifteenth century. His smooth consonances and carefully controlled counterpoint were associated with the so-called contenance angloise, admired by later writers.",
-    "works": "SACRED MUSIC\nQuam pulchra es\nVeni Sancte Spiritus\nIsorhythmic motets\nMass movements"
-  },
-  {
     "id": "antoine_busnois",
     "name": "Antoine Busnois",
     "years": "c. 1430–1492",
     "birth": 1430,
     "death": 1492,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "Composer",
     "description": "Antoine Busnois was a leading Burgundian composer and poet associated with the court of Charles the Bold. His chansons circulated widely, while his sacred works display the rhythmic vitality and contrapuntal craft of the generation between Dufay and Josquin.",
     "works": "SECULAR MUSIC\nJe ne puis vivre ainsi\nFortuna desperata (attribution disputed)\nSACRED MUSIC\nMissa O crux lignum\nMotets"
-  },
-  {
-    "id": "josquin_des_prez",
-    "name": "Josquin des Prez",
-    "years": "c. 1450–1521",
-    "birth": 1450,
-    "death": 1521,
-    "era": "Renaissance",
-    "kind": "Composer",
-    "description": "Josquin des Prez was one of the most influential composers of the Renaissance. His music combines lucid contrapuntal design with an unusually responsive treatment of words, and the spread of music printing helped make his works models across Europe.",
-    "works": "MASS\nMissa Pange lingua\nMissa L'homme armé sexti toni\nMOTETS\nAve Maria... virgo serena\nNymphes des bois\nSECULAR MUSIC\nMille regretz"
   },
   {
     "id": "loyset_compere",
@@ -2953,7 +2931,7 @@
     "years": "c. 1445–1518",
     "birth": 1445,
     "death": 1518,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "Composer",
     "description": "Loyset Compère was a French composer active in Italy and France during the late fifteenth and early sixteenth centuries. A contemporary of Josquin, he contributed to the development of the motet-chanson and wrote graceful secular songs as well as inventive sacred music.",
     "works": "MOTETS\nOmnium bonorum plena\nQuis numerare queat\nCHANSons\nLe renvoy\nScaramella"
@@ -5813,7 +5791,7 @@
     "years": "1370–1445",
     "birth": 1370,
     "death": 1445,
-    "era": "Medieval / Early Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "English composer of the early Renaissance, associated with the development of the contenance angloise and the early repertory of polyphonic sacred music.",
     "works": "Mass movements; Sacred motets"
@@ -5824,7 +5802,7 @@
     "years": "1420–1475",
     "birth": 1420,
     "death": 1475,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "English composer whose surviving works, especially songs and Mass movements, circulated widely on the Continent and influenced the Burgundian repertory.",
     "works": "Ave Regina; Tout a par moy; Mass movements"
@@ -6088,7 +6066,7 @@
     "years": "1413–1471",
     "birth": 1413,
     "death": 1471,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "Bohemian scholar, theorist and cleric whose writings preserve important observations on music and musical instruments in the fifteenth century.",
     "works": "Tractatus de musica; writings on music and instruments"
@@ -6099,7 +6077,7 @@
     "years": "1416–1480",
     "birth": 1416,
     "death": 1480,
-    "era": "Renaissance",
+    "era": "Early Renaissance",
     "kind": "person",
     "description": "Italian organist and manuscript compiler, remembered chiefly for the Squarcialupi Codex, a major source for fourteenth-century Italian music.",
     "works": "Squarcialupi Codex (compiler and organist; no securely attributed compositions)"
