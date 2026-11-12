@@ -12,7 +12,8 @@ const start=Math.floor((Math.min(...people.map(p=>p.birth||1100))-10)/10)*10;
 const end=Math.ceil((Math.max(...people.map(p=>p.death||new Date().getFullYear()))+10)/10)*10;
 const yearPx=16;
 let selected=null,compared=[];
-[...new Set(people.map(p=>p.period).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'en')).forEach(e=>{const o=document.createElement('option');o.value=e;o.textContent=e;group.append(o)});\n[...new Set(people.flatMap(p=>p.styles||[]))].sort((a,b)=>a.localeCompare(b,'en')).forEach(s=>{const o=document.createElement('option');o.value=s;o.textContent=s;styleFilter.append(o)});
+[...new Set(people.map(p=>p.period).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'en')).forEach(e=>{const o=document.createElement('option');o.value=e;o.textContent=e;group.append(o)});
+[...new Set(people.flatMap(p=>p.styles||[]))].sort((a,b)=>a.localeCompare(b,'en')).forEach(s=>{const o=document.createElement('option');o.value=s;o.textContent=s;styleFilter.append(o)});
 people.slice().sort(alphabetical).forEach(p=>{const o=document.createElement('option');o.value=p.name;compareOptions.append(o)});
 function dateText(p){return p.years||'Uncertain dates'}
 function filtered(){const q=search.value.trim().toLocaleLowerCase('en');return people.filter(p=>(group.value==='all'||p.period===group.value)&&(styleFilter.value==='all'||(p.styles||[]).includes(styleFilter.value))&&(!q||p.name.toLocaleLowerCase('en').includes(q)||p.works.toLocaleLowerCase('en').includes(q)))}
