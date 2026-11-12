@@ -7877,5 +7877,35 @@
     "works": "FLUTE\nFlute Concerto in G major, Op. 69\nFlute sonatas and duets, Opp. 64 and 83\nCHAMBER MUSIC\nGrand Trio in G major, Op. 119\nSonatas for flute and piano\nPIANO\nSonatinas, Opp. 20, 55 and 88\nVariations and rondos\nOPERA AND STAGE\nLulu\nElverhøj (The Elf-Hill), incidental music",
     "period": "Classical",
     "styles": []
+  },
+  {
+    "id": "dmytro_bortniansky",
+    "name": "Dmytro Bortniansky",
+    "years": "1751–1825",
+    "birth": 1751,
+    "death": 1825,
+    "era": "Classical",
+    "kind": "Composer and conductor",
+    "description": "Ukrainian composer and conductor whose career unfolded between the musical cultures of Hlukhiv, Italy and the Russian imperial court. Trained by Baldassare Galuppi, he wrote Italian and French operas, instrumental music and a substantial body of Orthodox sacred music. His choral concertos brought Italianate formal and contrapuntal techniques into dialogue with Ukrainian and Eastern Slavic traditions, helping shape the sound of Orthodox church music in the nineteenth century.",
+    "works": "OPERA — Creonte; Quinto Fabio; Alcide; Le fils rival\nSACRED MUSIC — 35 concertos for four-part choir; concertos for double choir; liturgical hymns; settings of the Divine Liturgy\nINSTRUMENTAL — Concerto-Symphony in B-flat major; piano sonatas; Piano Quintet with harp",
+    "period": "Classical",
+    "styles": []
+  },
+  {
+    "id": "chinary_ung",
+    "name": "Chinary Ung",
+    "years": "1942–",
+    "birth": 1942,
+    "death": null,
+    "era": "Contemporary",
+    "kind": "Composer and educator",
+    "description": "Cambodian-American composer whose music creates a distinctive dialogue between Southeast Asian musical traditions and contemporary concert practice. After studying clarinet and composition in New York, he developed a highly individual language shaped by flexible musical time, finely nuanced instrumental colour, vocalised instrumental gestures and the cultural memory of Cambodia. His orchestral work Inner Voices received the 1989 Grawemeyer Award, and his long-running Spiral cycle explores recurring musical ideas across widely varied ensembles.",
+    "works": "ORCHESTRA — Inner Voices; Anicca; Water Rings; Rising Light\nCHAMBER MUSIC — Mahori; Spiral I; Spiral III (String Quartet No. 1); Oracle; Seven Apsara Dances\nSOLO AND VOCAL — Grand Alap (A Window in the Sky); Radiant Samadhi; Khse Buon",
+    "period": "Contemporary",
+    "styles": [
+      "Avant-garde",
+      "Experimental",
+      "Timbral research"
+    ]
   }
 ]
